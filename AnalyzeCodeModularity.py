@@ -1,3 +1,6 @@
+def analyze_repositories():
+    pass
+
 
 def walk_through_repositories():
     pass
