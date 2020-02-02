@@ -4,9 +4,11 @@ import settings
 import math
 import logging
 from antlr4 import *
-from JavaLexer import JavaLexer
-from JavaParser import JavaParser
-from PatternListener import PatternListener
+from antlr4_package.JavaLexer import *
+from antlr4_package.JavaParser import *
+from antlr4_package.JavaParserVisitor import *
+from antlr4_package.JavaParserListener import *
+from JavaCodeVisitor import JavaCodeParser
 from RepositoryData import Repository
 
 csv_delimiter = ','
@@ -100,9 +102,9 @@ def parse_for_methods(repo_path):
         parser = JavaParser(stream)
         tree = parser.compilationUnit()
 
-        # _using PatternListener to walk only through class and method Declarations
-        walker = ParseTreeWalker()
-        walker.walk(PatternListener(), tree)
+        # _using JavaCodeParser to walk only through class and method Declarations
+        result = JavaCodeParser().visit(tree)
+        print(result)
 
     except Exception as e:
         print("Unexpected error:  " + repo_path + "   " + str(e))
@@ -163,7 +165,7 @@ def walk_repositories(repos_path, repo_name_list, repo_done_name_list):
                                          repo_name, total_file_cnt, total_java_files, listener_pattern_cnt, visitor_pattern_cnt, enter_method_cnt, exit_method_cnt, enter_exit_method_cnt, visit_method_cnt)
 
             total_file_cnt, total_java_files = mine_repositories(
-                repos_path, repo_name.split('/')[1])
+                repos_path, repo_name)
 
             listener_pattern_cnt, visitor_pattern_cnt = get_pattern_list_data()
             enter_method_cnt, exit_method_cnt, enter_exit_method_cnt, visit_method_cnt = get_method_list_data()
@@ -179,7 +181,7 @@ def walk_repositories(repos_path, repo_name_list, repo_done_name_list):
             repository_data.visit_method_cnt = visit_method_cnt
 
             # _write repository object data to csv file
-            write_to_csv(repository_data, header=False)
+            #write_to_csv(repository_data, header=False)
 
             logging.info(
                 f'Done processing repository -- {repo_name} with repo id - {repo_index}')
@@ -191,11 +193,13 @@ def process_repositories(repo_path):
     Arguments:
         repo_path {[str]} -- [holds absolute path of the folder which contains all repositories]
     """
-    header_flag, repo_done_name_list = check_for_new_iteration()
-    if header_flag:
-        write_to_csv(None, header=True)
-    repo_name_list = get_all_repo_names()
+    #header_flag, repo_done_name_list = check_for_new_iteration()
+    #if header_flag:
+    #    write_to_csv(None, header=True)
+    #repo_name_list = get_all_repo_names()
 
+    repo_done_name_list = []
+    repo_name_list = ['repo_1']
     # _walk through all the repositories
     walk_repositories(repo_path, repo_name_list, repo_done_name_list)
 

@@ -1,0 +1,4 @@
+.vscode
+__pycache__
+antlr4_package/__pycache__
+analysing_repos_java_modularity.log
