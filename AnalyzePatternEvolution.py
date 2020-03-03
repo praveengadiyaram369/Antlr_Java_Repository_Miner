@@ -17,7 +17,7 @@ csv_delimiter = ','
 def configure_log_settings():
     """[this method is primarily used to configure all log relating settings - default log level is INFO]
     """
-    logging.basicConfig(level=logging.INFO, filename='analysing_repos_java_modularity.log',
+    logging.basicConfig(level=logging.INFO, filename='analysing_repos_pattern_evolution.log',
                         filemode='w', format='%(name)s - %(levelname)s - %(message)s')
 
 
@@ -242,10 +242,10 @@ if __name__ == "__main__":
     """[main method is the starting point of the whole processing all the repositories]
     """
     configure_log_settings()
-    logging.info(f'Starting Analysing Java Repositories for Code Modularity...')
+    logging.info(f'Starting Analysing Java Repositories for evolution of antlr4 patterns...')
 
     # _start porcessing the repositories
     process_repositories(
         sys.argv[1])
 
-    logging.info(f'Finished Analysing Java Repositories for Code Modularity...')
+    logging.info(f'Finished Analysing Java Repositories for evolution of antlr4 patterns...')
