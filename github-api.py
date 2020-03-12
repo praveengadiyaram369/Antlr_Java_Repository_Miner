@@ -1,8 +1,31 @@
 import sys
+import os
 from git import Repo
 
 
-def print_commit(commit, repo_path):
+def get_blob_recursively(hash_code, file_path_name, repo):
+
+    if '/' in file_path_name:
+        sub_dir = file_path_name.split('/', 1)
+        changes = repo.git.execute(
+            ['git', 'cat-file' , '-p', hash_code])
+        for line in changes.split('\n'):
+            split = line.split()
+            if split[3] == sub_dir[0]:
+                sub_tree_hash = split[2]
+                return get_blob_recursively(sub_tree_hash, sub_dir[1], repo)
+    else:
+        changes = repo.git.execute(
+            ['git', 'cat-file' , '-p', hash_code])
+        for line in changes.split('\n'):
+            split = line.split()
+            if split[3] == file_path_name:
+                final_hash = split[2]
+                return repo.git.execute(
+                        ['git', 'cat-file' , '-p', final_hash])
+
+
+def print_commit(commit, repo):
 
     try:
         print('----')
@@ -10,28 +33,22 @@ def print_commit(commit, repo_path):
         print(commit.stats.files)
         changed_files = commit.stats.files
 
-        # for tree in commit.tree.trees:
-        #     for blob in commit.blobs:
-        #         print(blob)
-        #     print(blob.name)
-
         for file_path_name in changed_files.keys():
-            changes = repo.git.execute(
-                        ['git', 'cat-file','233ca8063361cfe16a53abf3bbb0e47b0b4b38a7', file_path_name, repo_path])
-            print(changes)
+            print(get_blob_recursively(
+                str(commit.tree.hexsha), file_path_name, repo))
 
-        
-        #print(commit.tree.blobs[0].data_stream.read())
+        # print(commit.tree.blobs[0].data_stream.read())
         print("\"{}\" by {} ({})".format(commit.summary,
-                                        commit.author.name,
-                                        commit.author.email))
+                                         commit.author.name,
+                                         commit.author.email))
         print(str(commit.authored_datetime))
         print(str("count: {} and size: {}".format(commit.count(),
-                                                commit.size)))
+                                                  commit.size)))
     except ValueError as ve:
         print("Value error:  " + repo_path + "   " + str(ve))
     except Exception as e:
         print("Unexpected error:  " + repo_path + "   " + str(e))
+
 
 def print_repository(repo):
     print('Repo description: {}'.format(repo.description))
@@ -40,19 +57,29 @@ def print_repository(repo):
         print('Remote named "{}" with URL "{}"'.format(remote, remote.url))
     print('Last commit for repo is {}.'.format(str(repo.head.commit.hexsha)))
 
+
 if __name__ == "__main__":
     repo_path = sys.argv[1]
-    # Repo object used to programmatically interact with Git repositories
-    repo = Repo(repo_path)
-    # check that the repository loaded correctly
-    if not repo.bare:
-        print('Repo at {} successfully loaded.'.format(repo_path))
-        print_repository(repo)
-    
-        # create list of commits then print some of them to stdout
-        commits = list(repo.iter_commits('master'))
-        for commit in commits:
-            print_commit(commit, repo_path)
-            pass
-    else:
-        print('Could not load repository at {} :('.format(repo_path))
+    commit_sum = 0
+    for repo_dir in os.scandir(repo_path):
+        repo_path = repo_dir.path
+
+        # Repo object used to programmatically interact with Git repositories
+        repo = Repo(repo_path)
+        # check that the repository loaded correctly
+        if not repo.bare:
+            # print('Repo at {} successfully loaded.'.format(repo_path))
+            # print_repository(repo)
+
+            # create list of commits then print some of them to stdout
+            commits = list(repo.iter_commits(repo.active_branch))
+            commit_sum += len(commits)
+            print(commit_sum)
+            #print(repo_path.split('/')[-1]+','+ str(len(commits)))
+
+
+            # for commit in commits:
+            #     print_commit(commit, repo)
+            #     pass
+        else:
+            print('Could not load repository at {} :('.format(repo_path))
