@@ -37,7 +37,6 @@ def print_commit(commit, repo):
             print(get_blob_recursively(
                 str(commit.tree.hexsha), file_path_name, repo))
 
-        # print(commit.tree.blobs[0].data_stream.read())
         print("\"{}\" by {} ({})".format(commit.summary,
                                          commit.author.name,
                                          commit.author.email))
@@ -60,26 +59,17 @@ def print_repository(repo):
 
 if __name__ == "__main__":
     repo_path = sys.argv[1]
-    commit_sum = 0
-    for repo_dir in os.scandir(repo_path):
+    for repo_index, repo_dir in enumerate(os.scandir(repo_path)):
         repo_path = repo_dir.path
-
-        # Repo object used to programmatically interact with Git repositories
+        repo_name = repo_path.split('/')[-1]
         repo = Repo(repo_path)
-        # check that the repository loaded correctly
+        
         if not repo.bare:
-            # print('Repo at {} successfully loaded.'.format(repo_path))
-            # print_repository(repo)
-
-            # create list of commits then print some of them to stdout
             commits = list(repo.iter_commits(repo.active_branch))
-            commit_sum += len(commits)
-            print(commit_sum)
-            #print(repo_path.split('/')[-1]+','+ str(len(commits)))
+            print(f'{repo_index+1}. {repo_name} -- {len(commits)}')
 
-
-            # for commit in commits:
-            #     print_commit(commit, repo)
-            #     pass
+            for commit in commits:
+                print_commit(commit, repo)
+                pass
         else:
             print('Could not load repository at {} :('.format(repo_path))
