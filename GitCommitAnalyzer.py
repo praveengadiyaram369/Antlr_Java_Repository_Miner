@@ -12,12 +12,13 @@ from PatternListener import PatternListener
 from RepositoryData import Repository
 
 from antlr4 import *
+import antlr4
 from git import Repo
 
 
 def get_complexity(file_content):
     try:
-        istream = FileStream(file_content, encoding='utf-8')
+        istream = antlr4.InputStream(file_content)
         lexer = JavaLexer(istream)
         stream = CommonTokenStream(lexer)
         parser = JavaParser(stream)
@@ -68,8 +69,6 @@ def analyze_commit(commit, repo):
 
                 file_content = get_blob_recursively(
                     str(commit.tree.hexsha), file_path_name, repo)
-                file_content = file_content.encode('unicode_escape').decode('utf-8')
-                print(file_content)
                 get_complexity(file_content)
 
                 is_antlr_file = settings.is_antlr_file
