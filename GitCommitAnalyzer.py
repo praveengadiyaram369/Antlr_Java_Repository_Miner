@@ -146,7 +146,7 @@ def get_antlr_classes(commit_data):
     return antlr_file_list
 
 
-def auto_analyze_commits(commit_dict, antlr_file_list, commits):
+def auto_analyze_commits(commit_dict, antlr_file_list, commits, total_commits_len):
 
     commit_step = 0
     commit_data_list = []
@@ -168,7 +168,7 @@ def auto_analyze_commits(commit_dict, antlr_file_list, commits):
         next_commit_index = lower_bound + math.floor(
             (abs(lower_bound - upper_bound))/2)
 
-        if next_commit_index == lower_bound or next_commit_index == upper_bound:
+        if next_commit_index == lower_bound or next_commit_index == upper_bound or next_commit_index >= total_commits_len:
             return commit_data_list
 
         next_commit_data = analyze_commit(
@@ -195,28 +195,28 @@ if __name__ == "__main__":
         repo_name = repo_path.split('/')[-1]
         repo_data = Repository(repo_id, repo_name)
 
-        print(repo_data.__dict__)
 
         if not repo.bare:
             commits = list(repo.iter_commits(repo.active_branch))
             print(f'{repo_id}. {repo_name} -- {len(commits)}')
 
             commits.reverse()
-            total_commits = len(commits)
+            total_commits_len = len(commits)
             project_commit_data = get_complexity_project(repositories_path)
             antlr_file_list = get_antlr_classes(project_commit_data)
 
             commit_1_data = analyze_commit(commits[0], antlr_file_list, repo)
             commit_dict = {'0': get_commit_complexity(commit_1_data), str(
-                total_commits - 1): get_commit_complexity(project_commit_data)}
+                total_commits_len - 1): get_commit_complexity(project_commit_data)}
 
             repo_data.add_to_commit_history(commit_1_data)
 
             commit_data_list = auto_analyze_commits(
-                commit_dict, antlr_file_list, commits)
+                commit_dict, antlr_file_list, commits, total_commits_len - 1)
 
-            for commit_data in commit_data_list:
-                repo_data.add_to_commit_history(commit_data)
+            if commit_data_list is not None:
+                for commit_data in commit_data_list:
+                    repo_data.add_to_commit_history(commit_data)
 
             repo_data.add_to_commit_history(project_commit_data)
 
