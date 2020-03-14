@@ -149,24 +149,26 @@ def get_antlr_classes(commit_data):
 def auto_analyze_commits(commit_dict, antlr_file_list, commits):
 
     commit_step = 0
-    previous_commit_index = 0
     commit_data_list = []
 
     while commit_step <= 8:
-        commit_index_list = [value for value in commit_dict.keys()].sort()
+        commit_index_list = sorted([key for key, value in commit_dict.items()])
         max_complexity_diff = 0
         max_complexity_index = 0
 
         for commit_index, commit_index_value in enumerate(commit_index_list[1:]):
-            if commit_dict[commit_index_value] - commit_dict[commit_index_list[commit_index - 1]] > max_complexity_diff:
+            if commit_dict[commit_index_value] - commit_dict[commit_index_list[commit_index]] > max_complexity_diff:
                 max_complexity_diff = commit_dict[commit_index_value] - \
-                    commit_dict[commit_index_list[commit_index - 1]]
-                max_complexity_index = commit_index
+                    commit_dict[commit_index_list[commit_index]]
+                max_complexity_index = commit_index + 1
 
-        next_commit_index = math.floor(
-            (commit_index_list[max_complexity_index]-commit_index_list[max_complexity_index-1])/2)
+        lower_bound = int(commit_index_list[max_complexity_index - 1])
+        upper_bound = int(commit_index_list[max_complexity_index])
 
-        if next_commit_index == previous_commit_index:
+        next_commit_index = lower_bound + math.floor(
+            (abs(lower_bound - upper_bound))/2)
+
+        if next_commit_index == lower_bound or next_commit_index == upper_bound:
             return commit_data_list
 
         next_commit_data = analyze_commit(
@@ -176,7 +178,6 @@ def auto_analyze_commits(commit_dict, antlr_file_list, commits):
         commit_dict[str(next_commit_index)] = get_commit_complexity(
             next_commit_data)
 
-        previous_commit_index = next_commit_index
         commit_step += 1
 
 
@@ -192,11 +193,13 @@ if __name__ == "__main__":
         repo_name = repo_path.split('/')[-1]
         repo_data = Repository(repo_id, repo_name)
 
+        print(repo_data.__dict__)
+
         if not repo.bare:
             commits = list(repo.iter_commits(repo.active_branch))
             print(f'{repo_id}. {repo_name} -- {len(commits)}')
 
-            commits = list(commits.reverse)
+            commits.reverse()
             total_commits = len(commits)
             project_commit_data = get_complexity_project(repositories_path)
             antlr_file_list = get_antlr_classes(project_commit_data)
@@ -215,7 +218,7 @@ if __name__ == "__main__":
 
             repo_data.add_to_commit_history(project_commit_data)
 
-            with open(repo_name + '_data.json', 'w', encoding='utf-8') as f:
+            with open('Repository_Commit_Data/'+repo_name + '_data.json', 'w', encoding='utf-8') as f:
                 json.dump(repo_data.__dict__, f, ensure_ascii=False, indent=4)
 
         else:
