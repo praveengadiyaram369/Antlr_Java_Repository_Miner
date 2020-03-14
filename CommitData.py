@@ -1,5 +1,8 @@
+import json
+
+
 class Commit:
-    
+
     def __init__(self, sha_id, timestamp):
 
         self._sha_id = sha_id
@@ -11,9 +14,15 @@ class Commit:
 
     def get_sha_id(self):
         return self._sha_id
-    
+
     def get_timestamp(self):
         return self._timestamp
 
     def get_changed_files_list(self):
         return self._changed_files_list
+
+    def toJson(self):
+        return json.dumps(self, default=lambda o: o.__dict__, indent=4)
+
+    def __repr__(self):
+        return self.toJson()

@@ -183,6 +183,8 @@ def auto_analyze_commits(commit_dict, antlr_file_list, commits):
 
 if __name__ == "__main__":
 
+# /home/praveen/anaconda3/bin/python /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_3/finalproject/GitCommitAnalyzer.py /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_3/project/repositories/ 
+
     repositories_path = sys.argv[1]
     for repo_index, repo_dir in enumerate(os.scandir(repositories_path)):
 
@@ -219,7 +221,7 @@ if __name__ == "__main__":
             repo_data.add_to_commit_history(project_commit_data)
 
             with open('Repository_Commit_Data/'+repo_name + '_data.json', 'w', encoding='utf-8') as f:
-                json.dump(repo_data.__dict__, f, ensure_ascii=False, indent=4)
+                f.write(repo_data.toJson())
 
         else:
             print('Could not load repository at {} :('.format(repo_path))

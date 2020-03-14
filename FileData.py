@@ -1,3 +1,6 @@
+import json
+
+
 class File:
 
     def __init__(self, file_name, is_antlr_file, enter_cnt, exit_cnt, visit_cnt):
@@ -22,3 +25,9 @@ class File:
 
     def get_visit_cnt(self):
         return self._visit_cnt
+
+    def toJson(self):
+        return json.dumps(self, default=lambda o: o.__dict__, indent=4)
+
+    def __repr__(self):
+        return self.toJson()
