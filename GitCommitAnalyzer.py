@@ -1,6 +1,7 @@
 import sys
 import os
 import json
+import math
 
 import settings
 from CommitData import Commit
@@ -16,7 +17,23 @@ import antlr4
 from git import Repo
 
 
-def get_complexity(file_content):
+def get_complexity_with_file(file_path):
+    try:
+        istream = FileStream(file_path, encoding='utf-8')
+        lexer = JavaLexer(istream)
+        stream = CommonTokenStream(lexer)
+        parser = JavaParser(stream)
+        tree = parser.compilationUnit()
+
+        # _using PatternListener to walk only through class and method Declarations
+        walker = ParseTreeWalker()
+        walker.walk(PatternListener(), tree)
+
+    except Exception as e:
+        print("Unexpected error:  " + file_path + "   " + str(e))
+
+
+def get_complexity_with_content(file_content):
     try:
         istream = antlr4.InputStream(file_content)
         lexer = JavaLexer(istream)
@@ -54,7 +71,7 @@ def get_blob_recursively(hash_code, file_path_name, repo):
                     ['git', 'cat-file', '-p', final_hash])
 
 
-def analyze_commit(commit, repo):
+def analyze_commit(commit, antlr_file_list, repo):
 
     try:
         commit_data = Commit(str(commit.hexsha), str(commit.authored_datetime))
@@ -62,14 +79,14 @@ def analyze_commit(commit, repo):
 
         for file_path_name in changed_files.keys():
 
-            if file_path_name.endswith('.java'):
+            if file_path_name.endswith('.java') and file_path_name in antlr_file_list:
 
                 enter_cnt = exit_cnt = visit_cnt = 0
                 settings.init()
 
                 file_content = get_blob_recursively(
                     str(commit.tree.hexsha), file_path_name, repo)
-                get_complexity(file_content)
+                get_complexity_with_content(file_content)
 
                 is_antlr_file = settings.is_antlr_file
                 enter_cnt = settings.enter_cnt
@@ -86,17 +103,87 @@ def analyze_commit(commit, repo):
         print("Unexpected error:  " + repo_path + "   " + str(e))
 
 
-def print_repository(repo):
-    print('Repo description: {}'.format(repo.description))
-    print('Repo active branch is {}'.format(repo.active_branch))
-    for remote in repo.remotes:
-        print('Remote named "{}" with URL "{}"'.format(remote, remote.url))
-    print('Last commit for repo is {}.'.format(str(repo.head.commit.hexsha)))
+def get_complexity_project(repo_path):
+
+    commit_data = Commit(str('Final'), str('00000000'))
+    for subdir, dirs, files in os.walk(os.path.join(repo_path, repo_name)):
+        for file in files:
+            if file.endswith('.java') and 'BaseListener' not in file and 'BaseVisitor' not in file:
+
+                enter_cnt = exit_cnt = visit_cnt = 0
+                settings.init()
+
+                get_complexity_with_file(os.path.join(subdir, file))
+
+                is_antlr_file = settings.is_antlr_file
+                if is_antlr_file is True:
+                    enter_cnt = settings.enter_cnt
+                    exit_cnt = settings.exit_cnt
+                    visit_cnt = settings.visit_cnt
+
+                    commit_data.add_changed_files(
+                        File(os.path.join(subdir, file).replace(repo_path + repo_name + '/', ''), is_antlr_file, enter_cnt, exit_cnt, visit_cnt))
+
+    return commit_data
+
+
+def get_commit_complexity(commit_data):
+    commit_complexity = 0
+    for file_data in commit_data.get_changed_files_list():
+        if file_data.get_is_antlr_file() is True:
+            commit_complexity += (file_data.get_enter_cnt() +
+                                  file_data.get_exit_cnt() + file_data.get_visit_cnt())
+
+    return commit_complexity
+
+
+def get_antlr_classes(commit_data):
+    antlr_file_list = []
+    for file_data in commit_data.get_changed_files_list():
+        if file_data.get_is_antlr_file() is True:
+            antlr_file_list.append(file_data.get_file_name())
+
+    return antlr_file_list
+
+
+def auto_analyze_commits(commit_dict, antlr_file_list, commits):
+
+    commit_step = 0
+    previous_commit_index = 0
+    commit_data_list = []
+
+    while commit_step <= 8:
+        commit_index_list = [value for value in commit_dict.keys()].sort()
+        max_complexity_diff = 0
+        max_complexity_index = 0
+
+        for commit_index, commit_index_value in enumerate(commit_index_list[1:]):
+            if commit_dict[commit_index_value] - commit_dict[commit_index_list[commit_index - 1]] > max_complexity_diff:
+                max_complexity_diff = commit_dict[commit_index_value] - \
+                    commit_dict[commit_index_list[commit_index - 1]]
+                max_complexity_index = commit_index
+
+        next_commit_index = math.floor(
+            (commit_index_list[max_complexity_index]-commit_index_list[max_complexity_index-1])/2)
+
+        if next_commit_index == previous_commit_index:
+            return commit_data_list
+
+        next_commit_data = analyze_commit(
+            commits[next_commit_index], antlr_file_list, repo)
+        commit_data_list.append(next_commit_data)
+
+        commit_dict[str(next_commit_index)] = get_commit_complexity(
+            next_commit_data)
+
+        previous_commit_index = next_commit_index
+        commit_step += 1
 
 
 if __name__ == "__main__":
 
-    for repo_index, repo_dir in enumerate(os.scandir(sys.argv[1])):
+    repositories_path = sys.argv[1]
+    for repo_index, repo_dir in enumerate(os.scandir(repositories_path)):
 
         repo_path = repo_dir.path
         repo = Repo(repo_path)
@@ -109,8 +196,24 @@ if __name__ == "__main__":
             commits = list(repo.iter_commits(repo.active_branch))
             print(f'{repo_id}. {repo_name} -- {len(commits)}')
 
-            for commit in commits:
-                repo_data.add_to_commit_history(analyze_commit(commit, repo))
+            commits = list(commits.reverse)
+            total_commits = len(commits)
+            project_commit_data = get_complexity_project(repositories_path)
+            antlr_file_list = get_antlr_classes(project_commit_data)
+
+            commit_1_data = analyze_commit(commits[0], antlr_file_list, repo)
+            commit_dict = {'0': get_commit_complexity(commit_1_data), str(
+                total_commits - 1): get_commit_complexity(project_commit_data)}
+
+            repo_data.add_to_commit_history(commit_1_data)
+
+            commit_data_list = auto_analyze_commits(
+                commit_dict, antlr_file_list, commits)
+
+            for commit_data in commit_data_list:
+                repo_data.add_to_commit_history(commit_data)
+
+            repo_data.add_to_commit_history(project_commit_data)
 
             with open(repo_name + '_data.json', 'w', encoding='utf-8') as f:
                 json.dump(repo_data.__dict__, f, ensure_ascii=False, indent=4)

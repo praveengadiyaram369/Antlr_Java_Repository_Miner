@@ -8,3 +8,17 @@ class File:
         self._exit_cnt = exit_cnt
         self._visit_cnt = visit_cnt
 
+    def get_file_name(self):
+        return self._file_name
+
+    def get_is_antlr_file(self):
+        return self._is_antlr_file
+
+    def get_enter_cnt(self):
+        return self._enter_cnt
+
+    def get_exit_cnt(self):
+        return self._exit_cnt
+
+    def get_visit_cnt(self):
+        return self._visit_cnt
