@@ -10,6 +10,11 @@ class Commit:
         self._commit_index = commit_index
         self._changed_files_list = []
 
+    @classmethod
+    def from_json_file(cls, json_data):
+        cls_dict = json.loads(json_data)
+        return cls(cls_dict['_sha_id'], cls_dict['_timestamp'], cls_dict['_commit_index'])
+
     def add_changed_files(self, changed_file):
         self._changed_files_list.append(changed_file)
 

@@ -4,13 +4,13 @@ import json
 import math
 
 import settings
+from RepositoryData import Repository
 from CommitData import Commit
 from FileData import File
 from antlr4_package.JavaLexer import *
 from antlr4_package.JavaParser import *
 from antlr4_package.JavaParserListener import *
 from PatternListener import PatternListener
-from RepositoryData import Repository
 
 from antlr4 import *
 import antlr4
@@ -74,7 +74,8 @@ def get_blob_recursively(hash_code, file_path_name, repo):
 def analyze_commit(commit, antlr_file_list, repo, commit_index):
 
     try:
-        commit_data = Commit(str(commit.hexsha), str(commit.authored_datetime), commit_index)
+        commit_data = Commit(str(commit.hexsha), str(
+            commit.authored_datetime), commit_index)
         changed_files = commit.stats.files
 
         for file_path_name in changed_files.keys():
@@ -103,7 +104,7 @@ def analyze_commit(commit, antlr_file_list, repo, commit_index):
         print("Unexpected error:  " + repo_path + "   " + str(e))
 
 
-def get_complexity_project(commit_sha_id, commit_timestamp,repo_path):
+def get_complexity_project(commit_sha_id, commit_timestamp, repo_path):
 
     commit_data = Commit(commit_sha_id, commit_timestamp, len(commits))
     for subdir, dirs, files in os.walk(os.path.join(repo_path, repo_name)):
@@ -183,7 +184,7 @@ def auto_analyze_commits(commit_dict, antlr_file_list, commits):
 
 if __name__ == "__main__":
 
-# /home/praveen/anaconda3/bin/python /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_3/finalproject/GitCommitAnalyzer.py /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_3/project/repositories/ 
+    # /home/praveen/anaconda3/bin/python /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_3/finalproject/GitCommitAnalyzer.py /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_3/project/repositories/
 
     repositories_path = sys.argv[1]
     for repo_index, repo_dir in enumerate(os.scandir(repositories_path)):
@@ -195,17 +196,18 @@ if __name__ == "__main__":
         repo_name = repo_path.split('/')[-1]
         repo_data = Repository(repo_id, repo_name)
 
-
         if not repo.bare:
             commits = list(repo.iter_commits(repo.active_branch))
             print(f'{repo_id}. {repo_name} -- {len(commits)}')
 
             commits.reverse()
             total_commits_len = len(commits)
-            project_commit_data = get_complexity_project(str(repo.head.commit.hexsha), str(repo.head.commit.authored_datetime),repositories_path)
+            project_commit_data = get_complexity_project(str(repo.head.commit.hexsha), str(
+                repo.head.commit.authored_datetime), repositories_path)
             antlr_file_list = get_antlr_classes(project_commit_data)
 
-            commit_1_data = analyze_commit(commits[0], antlr_file_list, repo, commit_index = 1)
+            commit_1_data = analyze_commit(
+                commits[0], antlr_file_list, repo, commit_index=1)
             commit_dict = {'0': get_commit_complexity(commit_1_data), str(
                 total_commits_len - 1): get_commit_complexity(project_commit_data)}
 
