@@ -1,0 +1,411 @@
+[
+    {
+        "_repo_id": 8,
+        "_repo_name": "Algogo",
+        "_commit_history": [
+            {
+                "_sha_id": "87c097001bb0bac6f99be3b40ac2b3624c56937b",
+                "_timestamp": "2018-06-29 15:51:07+02:00",
+                "_changed_files_list": [
+                    {
+                        "_file_name": "core/src/main/java/xyz/algogo/core/AlgorithmParserVisitor.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 0,
+                        "_exit_cnt": 0,
+                        "_visit_cnt": 33
+                    }
+                ]
+            },
+            {
+                "_sha_id": "Final",
+                "_timestamp": "00000000",
+                "_changed_files_list": [
+                    {
+                        "_file_name": "core/src/main/java/xyz/algogo/core/AlgorithmParserVisitor.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 0,
+                        "_exit_cnt": 0,
+                        "_visit_cnt": 34
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_repo_id": 1,
+        "_repo_name": "JSONata4Java",
+        "_commit_history": [
+            {
+                "_sha_id": "06e76c1ef9d16ff06aaf4a0994fda290af6e8a9a",
+                "_timestamp": "2019-02-09 14:28:49-05:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "049ca7604258d59cf95ae6ba6b1e555f086fa370",
+                "_timestamp": "2019-04-18 15:30:04+00:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "2dff791b7d75dc341efe42f439cfc69f81c697d0",
+                "_timestamp": "2019-07-18 11:43:45-04:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "8ae3e6ce1028172516e2a3f261a1f7806f356775",
+                "_timestamp": "2019-08-06 17:03:11-04:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "6bee2a57dda3a83cc9a739bd3d51194f511305de",
+                "_timestamp": "2019-08-26 13:22:03-04:00",
+                "_changed_files_list": [
+                    {
+                        "_file_name": "src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 0,
+                        "_exit_cnt": 0,
+                        "_visit_cnt": 36
+                    }
+                ]
+            },
+            {
+                "_sha_id": "78b1a290b063cfde6dca2ebac9c901ef8d34767a",
+                "_timestamp": "2019-08-13 10:44:03-04:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "Final",
+                "_timestamp": "00000000",
+                "_changed_files_list": [
+                    {
+                        "_file_name": "src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 0,
+                        "_exit_cnt": 0,
+                        "_visit_cnt": 37
+                    },
+                    {
+                        "_file_name": "src/main/java/com/api/jsonata4java/expressions/path/PathExpressionVisitor.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 0,
+                        "_exit_cnt": 0,
+                        "_visit_cnt": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_repo_id": 6,
+        "_repo_name": "aliyun-odps-console",
+        "_commit_history": [
+            {
+                "_sha_id": "28dc41559e7c0a4013b2b5e5b8c77294e5509e47",
+                "_timestamp": "2015-12-07 15:38:06+08:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "Final",
+                "_timestamp": "00000000",
+                "_changed_files_list": []
+            }
+        ]
+    },
+    {
+        "_repo_id": 4,
+        "_repo_name": "ameba",
+        "_commit_history": [
+            {
+                "_sha_id": "ee60d7a4d501db6dde951e65e9924351bcc720ea",
+                "_timestamp": "2014-01-25 21:18:59+08:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "Final",
+                "_timestamp": "00000000",
+                "_changed_files_list": [
+                    {
+                        "_file_name": "src/main/java/ameba/db/dsl/QueryExprListener.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 1,
+                        "_exit_cnt": 6,
+                        "_visit_cnt": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_repo_id": 5,
+        "_repo_name": "Alchitry-Labs",
+        "_commit_history": [
+            {
+                "_sha_id": "680a7dc5928118233a6a53fbb7c309371414deac",
+                "_timestamp": "2018-08-04 15:49:04-06:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "0e283d9da2a8f88915c551d94841a4ff1781de8b",
+                "_timestamp": "2019-03-30 09:26:23-06:00",
+                "_changed_files_list": [
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/constraints/AlchitryConstraintsExtractor.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 1,
+                        "_exit_cnt": 2,
+                        "_visit_cnt": 0
+                    }
+                ]
+            },
+            {
+                "_sha_id": "0bb9e21cc2cbdffdb17e002dfe75f9d9636b74b9",
+                "_timestamp": "2019-06-25 12:50:40-06:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "531febc16addea148c44449ee9fcad43d57cbea6",
+                "_timestamp": "2019-07-17 11:39:12-06:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "227ce1cc745259f3d65b59221c2bd3be51aa865f",
+                "_timestamp": "2019-08-18 13:09:57-06:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "688b2de50090d5722f0399918014246417c2b897",
+                "_timestamp": "2019-09-19 12:13:23-06:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "56bfa98838de1d0dc4e121ae02e6b7ca0812eada",
+                "_timestamp": "2019-09-19 14:16:29-06:00",
+                "_changed_files_list": [
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BitWidthChecker.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 2,
+                        "_exit_cnt": 36,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstExprParser.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 1,
+                        "_exit_cnt": 23,
+                        "_visit_cnt": 0
+                    }
+                ]
+            },
+            {
+                "_sha_id": "e2857e93931f0b452aa16a701763749e72d6a526",
+                "_timestamp": "2019-09-19 14:24:48-06:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "Final",
+                "_timestamp": "00000000",
+                "_changed_files_list": [
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/styles/LucidNewLineIndenter.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 0,
+                        "_exit_cnt": 5,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/styles/VerilogIndentProvider.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 0,
+                        "_exit_cnt": 13,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BitWidthChecker.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 2,
+                        "_exit_cnt": 36,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidGlobalExtractor.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 1,
+                        "_exit_cnt": 3,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstParser.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 1,
+                        "_exit_cnt": 1,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ParamsParser.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 0,
+                        "_exit_cnt": 1,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidModuleRenamer.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 0,
+                        "_exit_cnt": 1,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidDebugModifier.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 0,
+                        "_exit_cnt": 3,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BoundsParser.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 1,
+                        "_exit_cnt": 3,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstExprParser.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 1,
+                        "_exit_cnt": 23,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidExtractor.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 9,
+                        "_exit_cnt": 22,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidModuleExtractor.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 1,
+                        "_exit_cnt": 6,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/toVerilog/LucidToVerilog.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 9,
+                        "_exit_cnt": 65,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogLucidModuleFixer.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 0,
+                        "_exit_cnt": 2,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogModuleListener.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 4,
+                        "_exit_cnt": 8,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogConstExprParser.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 0,
+                        "_exit_cnt": 1,
+                        "_visit_cnt": 0
+                    },
+                    {
+                        "_file_name": "src/com/alchitry/labs/parsers/tools/constraints/AlchitryConstraintsExtractor.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 1,
+                        "_exit_cnt": 2,
+                        "_visit_cnt": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_repo_id": 2,
+        "_repo_name": "alliance",
+        "_commit_history": [
+            {
+                "_sha_id": "c49974b8b417739f0e147da1655bf05cb7e79545",
+                "_timestamp": "2016-02-29 10:33:53-07:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "Final",
+                "_timestamp": "00000000",
+                "_changed_files_list": []
+            }
+        ]
+    },
+    {
+        "_repo_id": 3,
+        "_repo_name": "AisLib",
+        "_commit_history": [
+            {
+                "_sha_id": "899c151d037630fee71294a003ca9ef7614fc2ba",
+                "_timestamp": "2012-11-01 13:41:58+01:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "Final",
+                "_timestamp": "00000000",
+                "_changed_files_list": [
+                    {
+                        "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketFiltersExpressionFilterParser.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 0,
+                        "_exit_cnt": 0,
+                        "_visit_cnt": 72
+                    },
+                    {
+                        "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketSourceFiltersParser.java",
+                        "_is_antlr_file": true,
+                        "_enter_cnt": 0,
+                        "_exit_cnt": 0,
+                        "_visit_cnt": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_repo_id": 7,
+        "_repo_name": "alchemy",
+        "_commit_history": [
+            {
+                "_sha_id": "682138473de98f34b8d51b07a35715be0bcc73f5",
+                "_timestamp": "2014-03-26 10:02:29-07:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "Final",
+                "_timestamp": "00000000",
+                "_changed_files_list": []
+            }
+        ]
+    },
+    {
+        "_repo_id": 9,
+        "_repo_name": "abnffuzzer",
+        "_commit_history": [
+            {
+                "_sha_id": "20724c75f753a54b78d0040fed37397fb6a7855e",
+                "_timestamp": "2016-02-21 18:58:30-08:00",
+                "_changed_files_list": []
+            },
+            {
+                "_sha_id": "Final",
+                "_timestamp": "00000000",
+                "_changed_files_list": []
+            }
+        ]
+    }
+]

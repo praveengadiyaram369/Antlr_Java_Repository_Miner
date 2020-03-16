@@ -3,10 +3,11 @@ import json
 
 class Commit:
 
-    def __init__(self, sha_id, timestamp):
+    def __init__(self, sha_id, timestamp, commit_index):
 
         self._sha_id = sha_id
         self._timestamp = timestamp
+        self._commit_index = commit_index
         self._changed_files_list = []
 
     def add_changed_files(self, changed_file):
@@ -17,6 +18,9 @@ class Commit:
 
     def get_timestamp(self):
         return self._timestamp
+
+    def get_commit_index(self):
+        return self._commit_index
 
     def get_changed_files_list(self):
         return self._changed_files_list
