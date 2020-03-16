@@ -11,6 +11,11 @@ class File:
         self._exit_cnt = exit_cnt
         self._visit_cnt = visit_cnt
 
+    @classmethod
+    def from_json_file(cls, json_data):
+        cls_dict = json.loads(json_data)
+        return cls(cls_dict['_file_name'], cls_dict['_is_antlr_file'], cls_dict['_enter_cnt'], cls_dict['_exit_cnt'], cls_dict['_visit_cnt'])
+
     def get_file_name(self):
         return self._file_name
 
