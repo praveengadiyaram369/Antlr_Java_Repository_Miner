@@ -202,6 +202,7 @@ if __name__ == "__main__":
 
             commits.reverse()
             total_commits_len = len(commits)
+            repo_data.update_total_commits(total_commits_len)
             project_commit_data = get_complexity_project(str(repo.head.commit.hexsha), str(
                 repo.head.commit.authored_datetime), repositories_path)
             antlr_file_list = get_antlr_classes(project_commit_data)

@@ -2,10 +2,12 @@
     {
         "_repo_id": 8,
         "_repo_name": "Algogo",
+        "_total_commits": 135,
         "_commit_history": [
             {
                 "_sha_id": "87c097001bb0bac6f99be3b40ac2b3624c56937b",
                 "_timestamp": "2018-06-29 15:51:07+02:00",
+                "_commit_index": 1,
                 "_changed_files_list": [
                     {
                         "_file_name": "core/src/main/java/xyz/algogo/core/AlgorithmParserVisitor.java",
@@ -17,8 +19,9 @@
                 ]
             },
             {
-                "_sha_id": "Final",
-                "_timestamp": "00000000",
+                "_sha_id": "4c3faea70c939c4546c32c0ab4977d30d0a88f8b",
+                "_timestamp": "2019-11-23 02:03:31+01:00",
+                "_commit_index": 135,
                 "_changed_files_list": [
                     {
                         "_file_name": "core/src/main/java/xyz/algogo/core/AlgorithmParserVisitor.java",
@@ -34,30 +37,36 @@
     {
         "_repo_id": 1,
         "_repo_name": "JSONata4Java",
+        "_total_commits": 35,
         "_commit_history": [
             {
                 "_sha_id": "06e76c1ef9d16ff06aaf4a0994fda290af6e8a9a",
                 "_timestamp": "2019-02-09 14:28:49-05:00",
+                "_commit_index": 1,
                 "_changed_files_list": []
             },
             {
                 "_sha_id": "049ca7604258d59cf95ae6ba6b1e555f086fa370",
                 "_timestamp": "2019-04-18 15:30:04+00:00",
+                "_commit_index": 17,
                 "_changed_files_list": []
             },
             {
                 "_sha_id": "2dff791b7d75dc341efe42f439cfc69f81c697d0",
                 "_timestamp": "2019-07-18 11:43:45-04:00",
+                "_commit_index": 25,
                 "_changed_files_list": []
             },
             {
                 "_sha_id": "8ae3e6ce1028172516e2a3f261a1f7806f356775",
                 "_timestamp": "2019-08-06 17:03:11-04:00",
+                "_commit_index": 29,
                 "_changed_files_list": []
             },
             {
                 "_sha_id": "6bee2a57dda3a83cc9a739bd3d51194f511305de",
                 "_timestamp": "2019-08-26 13:22:03-04:00",
+                "_commit_index": 31,
                 "_changed_files_list": [
                     {
                         "_file_name": "src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
@@ -71,11 +80,13 @@
             {
                 "_sha_id": "78b1a290b063cfde6dca2ebac9c901ef8d34767a",
                 "_timestamp": "2019-08-13 10:44:03-04:00",
+                "_commit_index": 30,
                 "_changed_files_list": []
             },
             {
-                "_sha_id": "Final",
-                "_timestamp": "00000000",
+                "_sha_id": "97a3a2916757aa167c73b76a7f9ae6fd20dfc6d4",
+                "_timestamp": "2019-12-20 14:27:26-05:00",
+                "_commit_index": 35,
                 "_changed_files_list": [
                     {
                         "_file_name": "src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
@@ -98,15 +109,18 @@
     {
         "_repo_id": 6,
         "_repo_name": "aliyun-odps-console",
+        "_total_commits": 14,
         "_commit_history": [
             {
                 "_sha_id": "28dc41559e7c0a4013b2b5e5b8c77294e5509e47",
                 "_timestamp": "2015-12-07 15:38:06+08:00",
+                "_commit_index": 1,
                 "_changed_files_list": []
             },
             {
-                "_sha_id": "Final",
-                "_timestamp": "00000000",
+                "_sha_id": "6530d0f8fde32b2683e931e5a03bdc06f6f3b935",
+                "_timestamp": "2019-10-15 12:50:13+08:00",
+                "_commit_index": 14,
                 "_changed_files_list": []
             }
         ]
@@ -114,15 +128,18 @@
     {
         "_repo_id": 4,
         "_repo_name": "ameba",
+        "_total_commits": 965,
         "_commit_history": [
             {
                 "_sha_id": "ee60d7a4d501db6dde951e65e9924351bcc720ea",
                 "_timestamp": "2014-01-25 21:18:59+08:00",
+                "_commit_index": 1,
                 "_changed_files_list": []
             },
             {
-                "_sha_id": "Final",
-                "_timestamp": "00000000",
+                "_sha_id": "9d4956e935898e41331b2745e400ef869cd265e0",
+                "_timestamp": "2018-07-14 18:27:21+08:00",
+                "_commit_index": 965,
                 "_changed_files_list": [
                     {
                         "_file_name": "src/main/java/ameba/db/dsl/QueryExprListener.java",
@@ -138,15 +155,18 @@
     {
         "_repo_id": 5,
         "_repo_name": "Alchitry-Labs",
+        "_total_commits": 86,
         "_commit_history": [
             {
                 "_sha_id": "680a7dc5928118233a6a53fbb7c309371414deac",
                 "_timestamp": "2018-08-04 15:49:04-06:00",
+                "_commit_index": 1,
                 "_changed_files_list": []
             },
             {
                 "_sha_id": "0e283d9da2a8f88915c551d94841a4ff1781de8b",
                 "_timestamp": "2019-03-30 09:26:23-06:00",
+                "_commit_index": 42,
                 "_changed_files_list": [
                     {
                         "_file_name": "src/com/alchitry/labs/parsers/tools/constraints/AlchitryConstraintsExtractor.java",
@@ -160,26 +180,31 @@
             {
                 "_sha_id": "0bb9e21cc2cbdffdb17e002dfe75f9d9636b74b9",
                 "_timestamp": "2019-06-25 12:50:40-06:00",
+                "_commit_index": 63,
                 "_changed_files_list": []
             },
             {
                 "_sha_id": "531febc16addea148c44449ee9fcad43d57cbea6",
                 "_timestamp": "2019-07-17 11:39:12-06:00",
+                "_commit_index": 74,
                 "_changed_files_list": []
             },
             {
                 "_sha_id": "227ce1cc745259f3d65b59221c2bd3be51aa865f",
                 "_timestamp": "2019-08-18 13:09:57-06:00",
+                "_commit_index": 79,
                 "_changed_files_list": []
             },
             {
                 "_sha_id": "688b2de50090d5722f0399918014246417c2b897",
                 "_timestamp": "2019-09-19 12:13:23-06:00",
+                "_commit_index": 82,
                 "_changed_files_list": []
             },
             {
                 "_sha_id": "56bfa98838de1d0dc4e121ae02e6b7ca0812eada",
                 "_timestamp": "2019-09-19 14:16:29-06:00",
+                "_commit_index": 83,
                 "_changed_files_list": [
                     {
                         "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BitWidthChecker.java",
@@ -200,11 +225,13 @@
             {
                 "_sha_id": "e2857e93931f0b452aa16a701763749e72d6a526",
                 "_timestamp": "2019-09-19 14:24:48-06:00",
+                "_commit_index": 84,
                 "_changed_files_list": []
             },
             {
-                "_sha_id": "Final",
-                "_timestamp": "00000000",
+                "_sha_id": "c6253270b4357cd549da8a743640ac450f32f287",
+                "_timestamp": "2019-09-24 16:39:49-06:00",
+                "_commit_index": 86,
                 "_changed_files_list": [
                     {
                         "_file_name": "src/com/alchitry/labs/parsers/styles/LucidNewLineIndenter.java",
@@ -332,15 +359,18 @@
     {
         "_repo_id": 2,
         "_repo_name": "alliance",
+        "_total_commits": 588,
         "_commit_history": [
             {
                 "_sha_id": "c49974b8b417739f0e147da1655bf05cb7e79545",
                 "_timestamp": "2016-02-29 10:33:53-07:00",
+                "_commit_index": 1,
                 "_changed_files_list": []
             },
             {
-                "_sha_id": "Final",
-                "_timestamp": "00000000",
+                "_sha_id": "bbf41ac9238b828e6986faaeecced233548ff27d",
+                "_timestamp": "2019-12-11 09:18:22-07:00",
+                "_commit_index": 588,
                 "_changed_files_list": []
             }
         ]
@@ -348,15 +378,18 @@
     {
         "_repo_id": 3,
         "_repo_name": "AisLib",
+        "_total_commits": 706,
         "_commit_history": [
             {
                 "_sha_id": "899c151d037630fee71294a003ca9ef7614fc2ba",
                 "_timestamp": "2012-11-01 13:41:58+01:00",
+                "_commit_index": 1,
                 "_changed_files_list": []
             },
             {
-                "_sha_id": "Final",
-                "_timestamp": "00000000",
+                "_sha_id": "5b57d85b8ba987d2309959ec1fd5ab7f207bd506",
+                "_timestamp": "2019-11-05 12:57:52+01:00",
+                "_commit_index": 706,
                 "_changed_files_list": [
                     {
                         "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketFiltersExpressionFilterParser.java",
@@ -379,15 +412,18 @@
     {
         "_repo_id": 7,
         "_repo_name": "alchemy",
+        "_total_commits": 156,
         "_commit_history": [
             {
                 "_sha_id": "682138473de98f34b8d51b07a35715be0bcc73f5",
                 "_timestamp": "2014-03-26 10:02:29-07:00",
+                "_commit_index": 1,
                 "_changed_files_list": []
             },
             {
-                "_sha_id": "Final",
-                "_timestamp": "00000000",
+                "_sha_id": "23bbd610a38bc4b30db0fe35eeab85e36ccaa763",
+                "_timestamp": "2019-05-21 09:39:43-04:00",
+                "_commit_index": 156,
                 "_changed_files_list": []
             }
         ]
@@ -395,15 +431,18 @@
     {
         "_repo_id": 9,
         "_repo_name": "abnffuzzer",
+        "_total_commits": 91,
         "_commit_history": [
             {
                 "_sha_id": "20724c75f753a54b78d0040fed37397fb6a7855e",
                 "_timestamp": "2016-02-21 18:58:30-08:00",
+                "_commit_index": 1,
                 "_changed_files_list": []
             },
             {
-                "_sha_id": "Final",
-                "_timestamp": "00000000",
+                "_sha_id": "6926cf968e2840d92b48d12a76bff3ecd8902812",
+                "_timestamp": "2019-12-22 00:49:38-08:00",
+                "_commit_index": 91,
                 "_changed_files_list": []
             }
         ]
