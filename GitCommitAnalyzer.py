@@ -2,6 +2,7 @@ import sys
 import os
 import json
 import math
+import logging
 
 import settings
 from RepositoryData import Repository
@@ -15,6 +16,42 @@ from PatternListener import PatternListener
 from antlr4 import *
 import antlr4
 from git import Repo
+
+
+def configure_log_settings():
+    """[this method is primarily used to configure all log relating settings - default log level is INFO]
+    """
+    logging.basicConfig(level=logging.INFO, filename='analysing_repos_pattern_evolution.log',
+                        filemode='w', format='%(name)s - %(levelname)s - %(message)s')
+
+
+def check_for_new_iteration():
+    """[this method validates whether the current itertion is a new mining process
+       or a continuation of an existing mining process]
+    Returns:
+        [boolean, list] -- [True - new mining process/False- old
+                            , holds the list of repository names which are already processed ]
+    """
+    repo_done_name_list = []
+    with open('repo_names_done.txt', 'r') as f:
+        for line in f:
+            repo_done_name_list.append(line.strip())
+
+    return repo_done_name_list
+
+
+def get_all_repo_names():
+    """[this method fetches all the repository names]
+
+    Returns:
+        [list] -- [holds the list of all repository names]
+    """
+    repo_name_list = []
+    with open('repository_mining_data.csv', 'r') as f:
+        for line in f:
+            repo_name_list.append(line.strip().split(',')[0])
+    repo_name_list.pop(0)
+    return repo_name_list
 
 
 def get_complexity_with_file(file_path):
@@ -46,7 +83,7 @@ def get_complexity_with_content(file_content):
         walker.walk(PatternListener(), tree)
 
     except Exception as e:
-        print("Unexpected error:  " + repo_path + "   " + str(e))
+        print("Unexpected error:  " + str(e))
 
 
 def get_blob_recursively(hash_code, file_path_name, repo):
@@ -99,14 +136,14 @@ def analyze_commit(commit, antlr_file_list, repo, commit_index):
 
         return commit_data
     except ValueError as ve:
-        print("Value error:  " + repo_path + "   " + str(ve))
+        print("Value error:   "    + str(ve))
     except Exception as e:
-        print("Unexpected error:  " + repo_path + "   " + str(e))
+        print("Unexpected error:  "    + str(e))
 
 
-def get_complexity_project(commit_sha_id, commit_timestamp, repo_path):
+def get_complexity_project(commit_sha_id, commit_timestamp, repo_path, repo_name, final_commit_id):
 
-    commit_data = Commit(commit_sha_id, commit_timestamp, len(commits))
+    commit_data = Commit(commit_sha_id, commit_timestamp, final_commit_id)
     for subdir, dirs, files in os.walk(os.path.join(repo_path, repo_name)):
         for file in files:
             if file.endswith('.java') and 'BaseListener' not in file and 'BaseVisitor' not in file:
@@ -147,7 +184,7 @@ def get_antlr_classes(commit_data):
     return antlr_file_list
 
 
-def auto_analyze_commits(commit_dict, antlr_file_list, commits):
+def auto_analyze_commits(commit_dict, repo,  antlr_file_list, commits):
 
     commit_step = 0
     commit_data_list = []
@@ -182,49 +219,86 @@ def auto_analyze_commits(commit_dict, antlr_file_list, commits):
         commit_step += 1
 
 
+def walk_repositories(repositories_path, repo_name_list, repo_done_name_list):
+    """[this method walk repositories iterates over all the existing repositories and processes them accordingly]
+    Arguments:
+        repos_path {[str]} -- [holds absolute path of the folder which contains all repositories]
+        repo_name_list {[list]} -- [list of all repository names]
+        repo_done_name_list {[type]} -- [list of all repository names which are already processed]
+    """
+    for repo_index, repo_name in enumerate(repo_name_list):
+
+        # _process the repository only if its not processed earlier
+        if repo_name not in repo_done_name_list:
+
+            logging.info(
+                f'Start processing repository -- {repo_name} with repo id - {repo_index+1}')
+
+            repo_path = repositories_path + repo_name.split('/')[1]
+            repo = Repo(repo_path)
+
+            repo_id = repo_index+1
+            repo_name = repo_path.split('/')[-1]
+            repo_data = Repository(repo_id, repo_name)
+
+            if not repo.bare:
+                commits = list(repo.iter_commits(repo.active_branch))
+                print(f'{repo_id}. {repo_name} -- {len(commits)}')
+
+                commits.reverse()
+                total_commits_len = len(commits)
+                repo_data.update_total_commits(total_commits_len)
+                project_commit_data = get_complexity_project(str(repo.head.commit.hexsha), str(
+                    repo.head.commit.authored_datetime), repositories_path, repo_name, total_commits_len)
+                antlr_file_list = get_antlr_classes(project_commit_data)
+
+                commit_1_data = analyze_commit(
+                    commits[0], antlr_file_list, repo, commit_index=1)
+                commit_dict = {'0': get_commit_complexity(commit_1_data), str(
+                    total_commits_len - 1): get_commit_complexity(project_commit_data)}
+
+                repo_data.add_to_commit_history(commit_1_data)
+
+                commit_data_list = auto_analyze_commits(
+                    commit_dict, repo, antlr_file_list, commits)
+
+                if commit_data_list is not None:
+                    for commit_data in commit_data_list:
+                        repo_data.add_to_commit_history(commit_data)
+
+                repo_data.add_to_commit_history(project_commit_data)
+
+                with open('Repository_Commit_Data/'+repo_name + '_data.json', 'w', encoding='utf-8') as f:
+                    f.write(repo_data.toJson())
+
+                with open('repo_names_done.txt', 'a') as the_file:
+                    the_file.write(repo_name + '\n')
+
+            else:
+                print('Could not load repository at {} :('.format(repo_path))
+
+
+def process_repositories(repositories_path):
+
+    repo_done_name_list = check_for_new_iteration()
+    repo_name_list = get_all_repo_names()
+
+    # _walk through all the repositories
+    walk_repositories(repositories_path, repo_name_list, repo_done_name_list)
+
+
 if __name__ == "__main__":
 
     # /home/praveen/anaconda3/bin/python /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_3/finalproject/GitCommitAnalyzer.py /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_3/project/repositories/
 
-    repositories_path = sys.argv[1]
-    for repo_index, repo_dir in enumerate(os.scandir(repositories_path)):
+    configure_log_settings()
 
-        repo_path = repo_dir.path
-        repo = Repo(repo_path)
+    logging.info(
+        f'Starting Analysing Java Repositories for evolution of antlr4 patterns...')
 
-        repo_id = repo_index+1
-        repo_name = repo_path.split('/')[-1]
-        repo_data = Repository(repo_id, repo_name)
+    # _start porcessing the repositories
+    process_repositories(
+        sys.argv[1])
 
-        if not repo.bare:
-            commits = list(repo.iter_commits(repo.active_branch))
-            print(f'{repo_id}. {repo_name} -- {len(commits)}')
-
-            commits.reverse()
-            total_commits_len = len(commits)
-            repo_data.update_total_commits(total_commits_len)
-            project_commit_data = get_complexity_project(str(repo.head.commit.hexsha), str(
-                repo.head.commit.authored_datetime), repositories_path)
-            antlr_file_list = get_antlr_classes(project_commit_data)
-
-            commit_1_data = analyze_commit(
-                commits[0], antlr_file_list, repo, commit_index=1)
-            commit_dict = {'0': get_commit_complexity(commit_1_data), str(
-                total_commits_len - 1): get_commit_complexity(project_commit_data)}
-
-            repo_data.add_to_commit_history(commit_1_data)
-
-            commit_data_list = auto_analyze_commits(
-                commit_dict, antlr_file_list, commits)
-
-            if commit_data_list is not None:
-                for commit_data in commit_data_list:
-                    repo_data.add_to_commit_history(commit_data)
-
-            repo_data.add_to_commit_history(project_commit_data)
-
-            with open('Repository_Commit_Data/'+repo_name + '_data.json', 'w', encoding='utf-8') as f:
-                f.write(repo_data.toJson())
-
-        else:
-            print('Could not load repository at {} :('.format(repo_path))
+    logging.info(
+        f'Finished Analysing Java Repositories for evolution of antlr4 patterns...')
