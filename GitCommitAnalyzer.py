@@ -254,7 +254,7 @@ def walk_repositories(repositories_path, repo_name_list, repo_done_name_list, ou
     for repo_index, repo_name in enumerate(repo_name_list):
 
         # _process the repository only if its not processed earlier
-        if repo_name not in repo_done_name_list:
+        if repo_name.split('/')[1] not in repo_done_name_list:
 
             repo_path = repositories_path + repo_name.split('/')[1]
             repo = Repo(repo_path)
@@ -268,7 +268,7 @@ def walk_repositories(repositories_path, repo_name_list, repo_done_name_list, ou
                 f'Started processing repository -- {repo_name} with repo id - {repo_id}')
             
             repo_data = Repository(repo_id, repo_name)
-            repo_name = repo_path.split('/')[-1]
+            repo_name = repo_name.split('/')[1]
 
             if not repo.bare:
                 commits = list(repo.iter_commits(repo.active_branch))

@@ -3,6 +3,7 @@ __pycache__
 antlr4_package/__pycache__
 bgughwoighwi
 Repository_Commit_Data/*_data.json
+Data_Config_Info/*
 .ipynb_checkpoints/*
 Untitled.ipynb
 .~lock.repository_mining_data.csv#
