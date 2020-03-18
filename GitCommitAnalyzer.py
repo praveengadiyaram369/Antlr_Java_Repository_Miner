@@ -256,9 +256,6 @@ def walk_repositories(repositories_path, repo_name_list, repo_done_name_list, ou
         # _process the repository only if its not processed earlier
         if repo_name not in repo_done_name_list:
 
-            logging.info(
-                f'Start processing repository -- {repo_name} with repo id - {repo_index+1}')
-
             repo_path = repositories_path + repo_name.split('/')[1]
             repo = Repo(repo_path)
 
@@ -267,12 +264,15 @@ def walk_repositories(repositories_path, repo_name_list, repo_done_name_list, ou
             else:
                 repo_id = repo_index + 1
 
-            repo_name = repo_path.split('/')[-1]
+            logging.info(
+                f'Started processing repository -- {repo_name} with repo id - {repo_id}')
+            
             repo_data = Repository(repo_id, repo_name)
+            repo_name = repo_path.split('/')[-1]
 
             if not repo.bare:
                 commits = list(repo.iter_commits(repo.active_branch))
-                print(f'{repo_id}. {repo_name} -- {len(commits)}')
+                #print(f'{repo_id}. {repo_name} -- {len(commits)}')
 
                 commits.reverse()
                 total_commits_len = len(commits)
@@ -301,7 +301,7 @@ def walk_repositories(repositories_path, repo_name_list, repo_done_name_list, ou
 
                 repo_data.add_to_commit_history(project_commit_data)
 
-                with open('Repository_Commit_Data/'+repo_name + '_data.json', 'w', encoding='utf-8') as f:
+                with open('Repository_Commit_Data/'+repo_name+ '_' + str(repo_id) + '_data.json', 'w', encoding='utf-8') as f:
                     f.write(repo_data.toJson())
 
                 with open('Data_Config_Info/' + output_repo_data, 'a') as the_file:
