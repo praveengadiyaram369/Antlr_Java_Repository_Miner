@@ -1,8 +1,9 @@
 .vscode
 __pycache__
 antlr4_package/__pycache__
-analysing_repos_java_modularity.log
+analysing_repos_pattern_evolution.log
 bgughwoighwi
 Repository_Commit_Data/*_data.json
 .ipynb_checkpoints/*
 Untitled.ipynb
+.~lock.repository_mining_data.csv#
