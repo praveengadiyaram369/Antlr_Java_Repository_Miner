@@ -7,11 +7,14 @@ def init():
     global target_method_list
     target_method_list = ['enter', 'exit', 'visit']
 
+    # _holds a boolean value to determine whether file is antlr or not
     global is_antlr_file
     is_antlr_file = False
 
+    # _these three variables hold the information of the counts of enter, exit and visit methods in an antlr file
     global enter_cnt
     global exit_cnt
     global visit_cnt
 
+    # _intializing the variables with count zero
     enter_cnt = exit_cnt = visit_cnt = 0

@@ -2,9 +2,22 @@ import json
 
 
 class File:
+    """[File class encapsultes the details of file including the complexity]
+    """
 
     def __init__(self, file_name, is_antlr_file, enter_cnt, exit_cnt, visit_cnt):
+        """[summary]
 
+        Arguments:
+            file_name {[string]} -- [relative path of the file]
+            is_antlr_file {bool} -- [True for an antlr file, otherwise False]
+            enter_cnt {[int]} -- [holds the count of enter methods in an antlr file]
+            exit_cnt {[int]} -- [holds the count of exit methods in an antlr file]
+            visit_cnt {[int]} -- [holds the count of visit methods in an antlr file]
+
+        Returns:
+            [object] -- [file_object]
+        """
         self._file_name = file_name
         self._is_antlr_file = is_antlr_file
         self._enter_cnt = enter_cnt
