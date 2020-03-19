@@ -1,0 +1,67 @@
+{
+    "_repo_id": 295,
+    "_repo_name": "michel-kraemer/citeproc-java",
+    "_total_commits": 473,
+    "_commit_history": [
+        {
+            "_sha_id": "323bec6a421c8fac6cd4ca99b7fb483d4e98be58",
+            "_timestamp": "2013-09-06 19:52:31+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "bf4ee59c0c430b2e635a8db0b493ce21e2c7e206",
+            "_timestamp": "2014-04-20 11:43:56+02:00",
+            "_commit_index": 230,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "70a9857dd49f85ab8d30b0a45a57aa5e5c5e5462",
+            "_timestamp": "2013-10-03 16:33:54+02:00",
+            "_commit_index": 63,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "038ce6e4007a9162b10114d63fb07401c40904ba",
+            "_timestamp": "2016-11-20 11:18:59+01:00",
+            "_commit_index": 283,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "402f238b1132bd1729d1e37468e44d8457107e31",
+            "_timestamp": "2019-12-15 15:38:17+01:00",
+            "_commit_index": 391,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "cf65159b50b3a8a8ebe60da5f6364a70e678bac8",
+            "_timestamp": "2016-10-15 10:37:45+02:00",
+            "_commit_index": 250,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "450bc7f47211c5ce4c3d566587fc242a51b4e38e",
+            "_timestamp": "2019-11-07 19:36:19+01:00",
+            "_commit_index": 373,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "14d0d61238985212173e676959d7fb0df82228b7",
+            "_timestamp": "2013-09-18 21:21:53+02:00",
+            "_commit_index": 39,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "70491086def84f19addb2442749b52161b891037",
+            "_timestamp": "2013-11-09 08:42:46+01:00",
+            "_commit_index": 111,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "3d30b1a0e3e7ab1bb3ea02bd859b42e886478629",
+            "_timestamp": "2020-01-01 23:41:54+01:00",
+            "_commit_index": 473,
+            "_changed_files_list": []
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "_repo_id": 287,
+    "_repo_name": "logic-ng/LogicNG",
+    "_total_commits": 452,
+    "_commit_history": [
+        {
+            "_sha_id": "5327cd3ec011cd879d41d26bc3bc4aed99e5e8e6",
+            "_timestamp": "2015-10-29 10:04:40+01:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "85607bf4a8b8243619834a319fec2588f47e6ed8",
+            "_timestamp": "2017-08-22 16:29:15+02:00",
+            "_commit_index": 227,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "c6f58580af7287a0ece60308ce9777097c2559f3",
+            "_timestamp": "2017-07-07 09:23:14+02:00",
+            "_commit_index": 205,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "83bebb480b76a123c827c75ce9d58670c8ba40df",
+            "_timestamp": "2017-06-09 14:24:00+02:00",
+            "_commit_index": 187,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "eb95a822c7c7c3e60d3fcb50cbc11b50f39fc2f3",
+            "_timestamp": "2016-04-28 23:20:04+02:00",
+            "_commit_index": 87,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "51988ce0830d6822972b663b9dba9e2916e4727e",
+            "_timestamp": "2016-01-24 12:25:16+01:00",
+            "_commit_index": 60,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f429e889cdd6367e8232de2e010d83cc0bed7d0c",
+            "_timestamp": "2019-03-11 17:43:38+01:00",
+            "_commit_index": 394,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "e21ff673c6034f8d8c3b386a2f8f711f81f8eb46",
+            "_timestamp": "2017-04-20 16:52:25+02:00",
+            "_commit_index": 183,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4212e5c7d144b94601c7e42a320fa3287732b7c2",
+            "_timestamp": "2016-05-18 20:37:50+02:00",
+            "_commit_index": 96,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7d852d05b0d4412a4d060c38f7388f9db1d3b171",
+            "_timestamp": "2019-09-16 22:23:35+02:00",
+            "_commit_index": 452,
+            "_changed_files_list": []
+        }
+    ]
+}

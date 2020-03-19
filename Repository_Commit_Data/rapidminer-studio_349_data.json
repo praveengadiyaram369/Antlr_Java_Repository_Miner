@@ -1,0 +1,112 @@
+{
+    "_repo_id": 349,
+    "_repo_name": "rapidminer/rapidminer-studio",
+    "_total_commits": 47,
+    "_commit_history": [
+        {
+            "_sha_id": "4382f0ed5124c7ec3cd13dcc087f198b4bfe84b3",
+            "_timestamp": "2015-08-26 13:44:41+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/rapidminer/tools/expression/internal/antlr/EvaluatorCreationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "src/main/java/com/rapidminer/tools/expression/internal/antlr/FunctionListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "90f360762527ff6f505ed99f64812200f86d638e",
+            "_timestamp": "2018-02-07 09:52:59+01:00",
+            "_commit_index": 39,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/rapidminer/tools/expression/internal/antlr/EvaluatorCreationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "src/main/java/com/rapidminer/tools/expression/internal/antlr/FunctionListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "c39a1372f91698da57770d17839fee01370563fa",
+            "_timestamp": "2015-09-11 14:28:52+02:00",
+            "_commit_index": 6,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5d7d832e4300eea438b2b352956e9f54d5d7208b",
+            "_timestamp": "2019-09-26 14:27:32+02:00",
+            "_commit_index": 45,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8b5bcc34d18f82116d91c0cd392cd7a540dbdbf2",
+            "_timestamp": "2016-04-27 10:04:22+02:00",
+            "_commit_index": 15,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "92680e2eed13394b6d20ef0bdf4420dc2090731d",
+            "_timestamp": "2016-02-09 13:35:12+01:00",
+            "_commit_index": 13,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "864275d39612f718e169c48efbac89813805f5c3",
+            "_timestamp": "2017-12-05 09:00:17+01:00",
+            "_commit_index": 38,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b7ecc12b4bb3940b9434e4259525b2f15608c716",
+            "_timestamp": "2016-12-14 09:49:04+01:00",
+            "_commit_index": 28,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0e6dafdbdb679bb74e472dd9974fd5c1fff6cbe6",
+            "_timestamp": "2017-06-29 15:36:09+02:00",
+            "_commit_index": 35,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "92d3c49dfb0194c650b84d8d49dc64372ec83f3d",
+            "_timestamp": "2019-11-07 09:41:50+01:00",
+            "_commit_index": 47,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/rapidminer/tools/expression/internal/antlr/FunctionListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/rapidminer/tools/expression/internal/antlr/EvaluatorCreationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                }
+            ]
+        }
+    ]
+}

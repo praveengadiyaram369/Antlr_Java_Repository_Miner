@@ -1,0 +1,67 @@
+{
+    "_repo_id": 296,
+    "_repo_name": "mike-lischke/vscode-antlr4",
+    "_total_commits": 161,
+    "_commit_history": [
+        {
+            "_sha_id": "e19666b919e606ae1d4080ce21b68f1dd6310eb1",
+            "_timestamp": "2016-09-07 16:11:25+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7be4e1bddc021ffa1d094bdcf3c8a92aeb776054",
+            "_timestamp": "2018-03-11 19:57:10+01:00",
+            "_commit_index": 66,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f18baad401b239630aea1cc1f89ebb48dea90682",
+            "_timestamp": "2016-09-18 12:52:07+02:00",
+            "_commit_index": 7,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "1c10eba5e0ce549db7817d92a97861a08bff9ffb",
+            "_timestamp": "2018-12-19 12:19:25+01:00",
+            "_commit_index": 99,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "3f883cbfad4f89775b3193d97ebed268747c1725",
+            "_timestamp": "2019-01-20 16:06:11+01:00",
+            "_commit_index": 118,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d6228e4235065bc93d386ae3854984f50c5ef99f",
+            "_timestamp": "2017-01-03 11:26:04+01:00",
+            "_commit_index": 19,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "3a1d8795199af176d5df61113aa06d575f290553",
+            "_timestamp": "2018-03-24 10:06:43+01:00",
+            "_commit_index": 68,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "caa7c7104b286020f2adae8219165ec80ffa0029",
+            "_timestamp": "2018-03-24 15:12:50+01:00",
+            "_commit_index": 70,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8b95ce3d8ca9d2b1dedfc02dec064b70c77578a0",
+            "_timestamp": "2017-07-02 14:50:22+02:00",
+            "_commit_index": 34,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "3a807ca64c2130b09e2789bb9525c81c070d555c",
+            "_timestamp": "2019-12-20 16:57:44+01:00",
+            "_commit_index": 161,
+            "_changed_files_list": []
+        }
+    ]
+}

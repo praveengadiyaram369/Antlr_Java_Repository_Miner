@@ -1,0 +1,173 @@
+{
+    "_repo_id": 203,
+    "_repo_name": "eclipse/winery",
+    "_total_commits": 1774,
+    "_commit_history": [
+        {
+            "_sha_id": "0d620d926fba7707fd53f577f77f075a5543d946",
+            "_timestamp": "2014-03-27 19:43:58+01:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "811d55ded58c7eecbdd48122045812eecb89f298",
+            "_timestamp": "2017-09-27 11:24:15+02:00",
+            "_commit_index": 886,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "811d55ded58c7eecbdd48122045812eecb89f298",
+            "_timestamp": "2017-09-27 11:24:15+02:00",
+            "_commit_index": 886,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "811d55ded58c7eecbdd48122045812eecb89f298",
+            "_timestamp": "2017-09-27 11:24:15+02:00",
+            "_commit_index": 886,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "811d55ded58c7eecbdd48122045812eecb89f298",
+            "_timestamp": "2017-09-27 11:24:15+02:00",
+            "_commit_index": 886,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "811d55ded58c7eecbdd48122045812eecb89f298",
+            "_timestamp": "2017-09-27 11:24:15+02:00",
+            "_commit_index": 886,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "811d55ded58c7eecbdd48122045812eecb89f298",
+            "_timestamp": "2017-09-27 11:24:15+02:00",
+            "_commit_index": 886,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "811d55ded58c7eecbdd48122045812eecb89f298",
+            "_timestamp": "2017-09-27 11:24:15+02:00",
+            "_commit_index": 886,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "811d55ded58c7eecbdd48122045812eecb89f298",
+            "_timestamp": "2017-09-27 11:24:15+02:00",
+            "_commit_index": 886,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "37d9a9a74010299d1a87b4dc974a1f8b586fd2b5",
+            "_timestamp": "2019-12-18 15:13:41+01:00",
+            "_commit_index": 1774,
+            "_changed_files_list": [
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/ExprVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/ArgsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/ArgVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/StmtVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/CaseConditionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/CallArgsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/CompstmtVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/AssignAttributeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/CollectionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/PrimaryStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/CodeInStringVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/WhenArgsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/CookbookVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/CommandVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "org.eclipse.winery.crawler/src/main/java/org/eclipse/winery/crawler/chefcookbooks/chefdslparser/BooleanExprVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                }
+            ]
+        }
+    ]
+}

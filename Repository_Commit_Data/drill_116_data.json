@@ -1,0 +1,75 @@
+{
+    "_repo_id": 116,
+    "_repo_name": "apache/drill",
+    "_total_commits": 3734,
+    "_commit_history": [
+        {
+            "_sha_id": "9229caa45a32dc06625f2443b6a5d84ab0a4df10",
+            "_timestamp": "2012-09-03 13:21:32-07:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "66a30f12bfa033200e5ac9ca5c05c1c5a31c720b",
+            "_timestamp": "2015-07-17 14:53:13-07:00",
+            "_commit_index": 1866,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "fd58e2944b4d03538ed981359940ef486279b626",
+            "_timestamp": "2017-10-24 19:10:37-07:00",
+            "_commit_index": 2799,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "44e63bd0deda72af726f51e0ff78fc2b636c64eb",
+            "_timestamp": "2018-04-23 11:38:39+03:00",
+            "_commit_index": 3266,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5aa38a51d90998234b4ca46434ce225df72addc5",
+            "_timestamp": "2019-03-10 13:57:03+02:00",
+            "_commit_index": 3499,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f3d6b69a6e7a86f51e74f84c99c84aab58ed663a",
+            "_timestamp": "2019-06-27 20:49:20+03:00",
+            "_commit_index": 3616,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a13608b8d1f8110d7bd944c10259b2252dfbf18b",
+            "_timestamp": "2019-10-10 15:43:33+03:00",
+            "_commit_index": 3674,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a456da51a57cbc05155327c761c771da9f5dfa6d",
+            "_timestamp": "2019-11-22 17:28:24-08:00",
+            "_commit_index": 3703,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0acc6526e021509f817cc4b00ae1923b8583c29b",
+            "_timestamp": "2019-12-06 23:26:19+02:00",
+            "_commit_index": 3718,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "44f408ce38bff52f4922cd6cf2387bd07d888e3e",
+            "_timestamp": "2019-12-21 16:14:55+02:00",
+            "_commit_index": 3734,
+            "_changed_files_list": [
+                {
+                    "_file_name": "exec/vector/src/main/java/org/apache/drill/exec/record/metadata/schema/parser/SchemaVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 28
+                }
+            ]
+        }
+    ]
+}

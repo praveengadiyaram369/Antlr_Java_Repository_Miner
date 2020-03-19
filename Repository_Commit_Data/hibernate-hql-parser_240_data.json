@@ -1,0 +1,75 @@
+{
+    "_repo_id": 240,
+    "_repo_name": "hibernate/hibernate-hql-parser",
+    "_total_commits": 190,
+    "_commit_history": [
+        {
+            "_sha_id": "7fa0f6703b08ea3669713b9808f9658aed69c48c",
+            "_timestamp": "2012-05-02 13:28:51+01:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d034309a09d5c472195bc3bb57eeb1e40691d613",
+            "_timestamp": "2013-08-13 19:29:29+01:00",
+            "_commit_index": 94,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d034309a09d5c472195bc3bb57eeb1e40691d613",
+            "_timestamp": "2013-08-13 19:29:29+01:00",
+            "_commit_index": 94,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d034309a09d5c472195bc3bb57eeb1e40691d613",
+            "_timestamp": "2013-08-13 19:29:29+01:00",
+            "_commit_index": 94,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d034309a09d5c472195bc3bb57eeb1e40691d613",
+            "_timestamp": "2013-08-13 19:29:29+01:00",
+            "_commit_index": 94,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d034309a09d5c472195bc3bb57eeb1e40691d613",
+            "_timestamp": "2013-08-13 19:29:29+01:00",
+            "_commit_index": 94,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d034309a09d5c472195bc3bb57eeb1e40691d613",
+            "_timestamp": "2013-08-13 19:29:29+01:00",
+            "_commit_index": 94,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d034309a09d5c472195bc3bb57eeb1e40691d613",
+            "_timestamp": "2013-08-13 19:29:29+01:00",
+            "_commit_index": 94,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d034309a09d5c472195bc3bb57eeb1e40691d613",
+            "_timestamp": "2013-08-13 19:29:29+01:00",
+            "_commit_index": 94,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6387abe9b3ffbd117feaa530af9b293a3bf242c1",
+            "_timestamp": "2018-08-08 16:27:03+02:00",
+            "_commit_index": 190,
+            "_changed_files_list": [
+                {
+                    "_file_name": "testing/src/main/java/org/hibernate/hql/testing/internal/parser/GrammarTestDescriptorBuildingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

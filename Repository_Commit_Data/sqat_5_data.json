@@ -1,0 +1,131 @@
+{
+    "_repo_id": 5,
+    "_repo_name": "Andyccs/sqat",
+    "_total_commits": 181,
+    "_commit_history": [
+        {
+            "_sha_id": "fcf0d29846363dfc8c62aa11eafed88c140b1798",
+            "_timestamp": "2015-09-06 11:45:34+08:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
+            "_timestamp": "2015-10-25 16:24:36+08:00",
+            "_commit_index": 90,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
+            "_timestamp": "2015-10-25 16:24:36+08:00",
+            "_commit_index": 90,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
+            "_timestamp": "2015-10-25 16:24:36+08:00",
+            "_commit_index": 90,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
+            "_timestamp": "2015-10-25 16:24:36+08:00",
+            "_commit_index": 90,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
+            "_timestamp": "2015-10-25 16:24:36+08:00",
+            "_commit_index": 90,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
+            "_timestamp": "2015-10-25 16:24:36+08:00",
+            "_commit_index": 90,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
+            "_timestamp": "2015-10-25 16:24:36+08:00",
+            "_commit_index": 90,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
+            "_timestamp": "2015-10-25 16:24:36+08:00",
+            "_commit_index": 90,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "dddeb49ad73050044ec3a5c3f8659c38a51b84c5",
+            "_timestamp": "2016-05-10 15:19:36+08:00",
+            "_commit_index": 181,
+            "_changed_files_list": [
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfMethodsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfAttributesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/DepthOfConditionNestingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfLinesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/AverageLengthOfIdentifierListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/AllListeners.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/MethodNameFormatListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/WildCardImportStatementListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

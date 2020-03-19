@@ -1,0 +1,117 @@
+{
+    "_repo_id": 308,
+    "_repo_name": "nielsbasjes/yauaa",
+    "_total_commits": 1650,
+    "_commit_history": [
+        {
+            "_sha_id": "9a86531c34ff784abe85866d5ea632cb6cf500de",
+            "_timestamp": "2016-07-04 16:51:05+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
+            "_timestamp": "2017-12-06 11:58:08+01:00",
+            "_commit_index": 824,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
+            "_timestamp": "2017-12-06 11:58:08+01:00",
+            "_commit_index": 824,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
+            "_timestamp": "2017-12-06 11:58:08+01:00",
+            "_commit_index": 824,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
+            "_timestamp": "2017-12-06 11:58:08+01:00",
+            "_commit_index": 824,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
+            "_timestamp": "2017-12-06 11:58:08+01:00",
+            "_commit_index": 824,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
+            "_timestamp": "2017-12-06 11:58:08+01:00",
+            "_commit_index": 824,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
+            "_timestamp": "2017-12-06 11:58:08+01:00",
+            "_commit_index": 824,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
+            "_timestamp": "2017-12-06 11:58:08+01:00",
+            "_commit_index": 824,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "216f5ea423412d3a6ab9b2aceeace41500895b4a",
+            "_timestamp": "2020-01-06 14:10:47+01:00",
+            "_commit_index": 1650,
+            "_changed_files_list": [
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/UserAgent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/NumberRangeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/MatcherAction.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 12
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/WordRangeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/treewalker/steps/WalkList.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 34
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/treewalker/steps/walk/stepdown/UserAgentGetChildrenVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 13
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/parse/UserAgentTreeFlattener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 32,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

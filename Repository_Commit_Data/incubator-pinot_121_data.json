@@ -1,0 +1,75 @@
+{
+    "_repo_id": 121,
+    "_repo_name": "apache/incubator-pinot",
+    "_total_commits": 6597,
+    "_commit_history": [
+        {
+            "_sha_id": "7c309bcab781615c83ab7a02a61f5f181feaf51c",
+            "_timestamp": "2014-10-31 10:25:02-07:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4d1312d279ae5ab5880743cfa446c81e36657d7c",
+            "_timestamp": "2017-02-15 00:19:57-08:00",
+            "_commit_index": 3298,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "bfa3213bfceb55cf34248018cf57abe12fb819e8",
+            "_timestamp": "2018-06-07 18:19:55-07:00",
+            "_commit_index": 4947,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "1f2c2d7ce6f814c7e549bb4875af4a0a5289c083",
+            "_timestamp": "2019-02-26 21:42:19-08:00",
+            "_commit_index": 5771,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "079b86d897afb76a4328cb5a057282676b6a2213",
+            "_timestamp": "2019-07-12 11:09:49-07:00",
+            "_commit_index": 6183,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f58ba2db8cd794992659a83003aa9f9e58e71c56",
+            "_timestamp": "2019-10-11 17:53:03-07:00",
+            "_commit_index": 6389,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "85c7f5a2df96ca4a0b17be6e5c80b26cbe2fdb5c",
+            "_timestamp": "2019-11-18 13:54:21-08:00",
+            "_commit_index": 6492,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "c93c5235d1a6e69ff65b545e319948d92c1186eb",
+            "_timestamp": "2019-12-04 11:35:08-08:00",
+            "_commit_index": 6544,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "06c7e7d02a2ac569a3a31b7f2165702cb1764305",
+            "_timestamp": "2019-12-17 11:22:38-08:00",
+            "_commit_index": 6570,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "9edad92cd19e3e9cd4089a62524405b6e9c9b19a",
+            "_timestamp": "2020-01-04 13:57:04-08:00",
+            "_commit_index": 6597,
+            "_changed_files_list": [
+                {
+                    "_file_name": "pinot-common/src/main/java/org/apache/pinot/pql/parsers/Pql2AstListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 30,
+                    "_exit_cnt": 30,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

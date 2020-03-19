@@ -1,0 +1,82 @@
+{
+    "_repo_id": 383,
+    "_repo_name": "stanford-futuredata/macrobase",
+    "_total_commits": 431,
+    "_commit_history": [
+        {
+            "_sha_id": "d02b3ebc2e08155f978d1fff24140c3d553513fd",
+            "_timestamp": "2015-11-16 13:17:18-05:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a0658a121a894fb05b613b846684d2fc361b226d",
+            "_timestamp": "2016-02-21 21:35:10-05:00",
+            "_commit_index": 215,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d1415ebe1a59120e1ddc61c195ae01d3f30149cb",
+            "_timestamp": "2016-11-03 21:26:59-07:00",
+            "_commit_index": 322,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5ddeface0d909072762189207f632f6d4747aaed",
+            "_timestamp": "2017-12-08 19:20:32-08:00",
+            "_commit_index": 376,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "75d455a4b7b555471ee1ad8c10274ae638cda65c",
+            "_timestamp": "2018-03-19 09:53:20-07:00",
+            "_commit_index": 403,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4f410637f462654280917fefee5deb33c3fa29b5",
+            "_timestamp": "2018-11-29 06:38:27-08:00",
+            "_commit_index": 416,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4322483d0748205884a1f303ca86c84c665b914d",
+            "_timestamp": "2018-04-17 15:14:42-07:00",
+            "_commit_index": 423,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "74d757d5496a066e14024197968d797bb97b5919",
+            "_timestamp": "2018-05-29 15:31:01-07:00",
+            "_commit_index": 426,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0d89c2a9fe510d4b12ca872d5260a68929d18d86",
+            "_timestamp": "2018-05-31 03:47:35-07:00",
+            "_commit_index": 428,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "19d70ea8e0fd2dcf745412f5f7a9297b5badb7bd",
+            "_timestamp": "2019-12-09 11:03:47-08:00",
+            "_commit_index": 431,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sql/src/main/java/edu/stanford/futuredata/macrobase/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "sql/src/main/java/edu/stanford/futuredata/macrobase/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 55
+                }
+            ]
+        }
+    ]
+}

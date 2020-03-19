@@ -1,0 +1,82 @@
+{
+    "_repo_id": 34,
+    "_repo_name": "GluuFederation/oxTrust",
+    "_total_commits": 3881,
+    "_commit_history": [
+        {
+            "_sha_id": "c40118924353820c1c7765c1c98eb386451c2ea3",
+            "_timestamp": "2014-03-28 20:57:33+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "1304c7512a5b72c888f99401c14b904427701fb2",
+            "_timestamp": "2017-10-28 11:24:40-05:00",
+            "_commit_index": 1940,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "557dde5d2d6f83873a3c3bfb7366a157153f0c65",
+            "_timestamp": "2018-12-11 12:34:48+01:00",
+            "_commit_index": 2910,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "70cb4a24c19d52c8c7ad08bddc20e3c80c7b33a1",
+            "_timestamp": "2019-05-21 11:10:41+03:00",
+            "_commit_index": 3395,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "892974c7e3efa69dd681c6f4cb3a9a62dffdefd6",
+            "_timestamp": "2019-08-08 18:49:45+01:00",
+            "_commit_index": 3637,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "3cd34482f683e311ebd209c0689e1ed9915caa62",
+            "_timestamp": "2019-09-20 08:49:54-05:00",
+            "_commit_index": 3758,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "506512286b1e0e78e24c5dcb6afb61c9b8abab2e",
+            "_timestamp": "2019-10-16 12:36:14+01:00",
+            "_commit_index": 3819,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f44d9cd4cb87c6c659856896d8e8b38681f12482",
+            "_timestamp": "2019-12-02 21:48:11+03:00",
+            "_commit_index": 3849,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "1d6c7005dfde6d987a071639b9dce58bb3ba7c99",
+            "_timestamp": "2019-12-10 15:03:23+01:00",
+            "_commit_index": 3864,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "e701898005263c3477f63603bba54a9083bc7918",
+            "_timestamp": "2019-12-20 12:06:05+01:00",
+            "_commit_index": 3881,
+            "_changed_files_list": [
+                {
+                    "_file_name": "server/src/main/java/org/gluu/oxtrust/service/antlr/scimFilter/FilterListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "server/src/main/java/org/gluu/oxtrust/service/antlr/scimFilter/MatchFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
+        }
+    ]
+}

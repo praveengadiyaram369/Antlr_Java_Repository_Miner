@@ -1,0 +1,107 @@
+{
+    "_repo_id": 302,
+    "_repo_name": "mzur/pretty-formula",
+    "_total_commits": 35,
+    "_commit_history": [
+        {
+            "_sha_id": "44745d880c5c2ae566af7e40a379060969838bf3",
+            "_timestamp": "2014-10-14 11:12:48+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5ff4179cbf30aabb95d019c6348b35dc321eed1a",
+            "_timestamp": "2014-10-28 16:56:53+01:00",
+            "_commit_index": 17,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "fcbaff7968dd5c9545f21ec20836f321e26bb9f3",
+            "_timestamp": "2014-12-04 10:23:04+01:00",
+            "_commit_index": 25,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/de/uni_bielefeld/cebitec/mzurowie/pretty_formula/main/VanesaFormulaParseRules.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
+        },
+        {
+            "_sha_id": "ea46326c7bf23021446df9eee2abad0717b4e5cb",
+            "_timestamp": "2014-11-17 11:52:17+01:00",
+            "_commit_index": 21,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/de/uni_bielefeld/cebitec/mzurowie/pretty_formula/main/VanesaFormulaParseRules.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
+        },
+        {
+            "_sha_id": "bd2b7105c9ee8ff8c46df682778bd38c9a04fee0",
+            "_timestamp": "2014-11-10 12:59:00+01:00",
+            "_commit_index": 19,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/de/uni_bielefeld/cebitec/mzurowie/pretty_formula/main/VanesaFormulaParseRules.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
+        },
+        {
+            "_sha_id": "8223244fad18efff5d7c389bf36969c4339b4515",
+            "_timestamp": "2014-11-10 12:44:34+01:00",
+            "_commit_index": 18,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5c1d5d62d7876e346750ee6781d5ef99098f8a61",
+            "_timestamp": "2014-11-10 17:17:20+01:00",
+            "_commit_index": 20,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "424d916891538daabbcb7e98ef57592924ea3c9f",
+            "_timestamp": "2014-10-24 20:13:04+02:00",
+            "_commit_index": 7,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "397d1c0b58e7fdac55ab47346aeb677144ee964c",
+            "_timestamp": "2014-12-04 10:40:29+01:00",
+            "_commit_index": 26,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/de/uni_bielefeld/cebitec/mzurowie/pretty_formula/main/VanesaFormulaParseRules.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
+        },
+        {
+            "_sha_id": "66962779120f0cceed65b983b5554b611e932d1f",
+            "_timestamp": "2014-12-04 17:59:36+01:00",
+            "_commit_index": 35,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/de/uni_bielefeld/cebitec/mzurowie/pretty_formula/main/VanesaFormulaParseRules.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
+        }
+    ]
+}

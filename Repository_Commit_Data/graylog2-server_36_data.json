@@ -1,0 +1,82 @@
+{
+    "_repo_id": 36,
+    "_repo_name": "Graylog2/graylog2-server",
+    "_total_commits": 15975,
+    "_commit_history": [
+        {
+            "_sha_id": "a94595708f220747318c0dc26e11d40c2d26d795",
+            "_timestamp": "2010-05-17 23:28:14+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
+            "_timestamp": "2015-05-11 09:35:15+02:00",
+            "_commit_index": 7987,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
+            "_timestamp": "2015-05-11 09:35:15+02:00",
+            "_commit_index": 7987,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
+            "_timestamp": "2015-05-11 09:35:15+02:00",
+            "_commit_index": 7987,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
+            "_timestamp": "2015-05-11 09:35:15+02:00",
+            "_commit_index": 7987,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
+            "_timestamp": "2015-05-11 09:35:15+02:00",
+            "_commit_index": 7987,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
+            "_timestamp": "2015-05-11 09:35:15+02:00",
+            "_commit_index": 7987,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
+            "_timestamp": "2015-05-11 09:35:15+02:00",
+            "_commit_index": 7987,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
+            "_timestamp": "2015-05-11 09:35:15+02:00",
+            "_commit_index": 7987,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "370c8b6a36f39f3723c6432810bf1d14a56b1eef",
+            "_timestamp": "2019-12-20 15:06:42+01:00",
+            "_commit_index": 15975,
+            "_changed_files_list": [
+                {
+                    "_file_name": "graylog2-server/src/main/java/org/graylog/plugins/pipelineprocessor/codegen/CodeGenerator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 24,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "graylog2-server/src/main/java/org/graylog/plugins/pipelineprocessor/parser/PipelineRuleParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 45,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

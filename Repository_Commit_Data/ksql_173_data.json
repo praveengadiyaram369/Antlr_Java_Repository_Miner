@@ -1,0 +1,83 @@
+{
+    "_repo_id": 173,
+    "_repo_name": "confluentinc/ksql",
+    "_total_commits": 5680,
+    "_commit_history": [
+        {
+            "_sha_id": "0eadb4d1921d50a4a0e373551ef6d6b987ad6e1b",
+            "_timestamp": "2017-08-16 14:14:19-07:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a49db2fdfc0b7b8f556c0dafbaff77bb91005216",
+            "_timestamp": "2019-01-22 14:54:42-08:00",
+            "_commit_index": 2839,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "55470db425e19aa46548a12ff06326ca3e540aec",
+            "_timestamp": "2019-05-22 13:15:57+01:00",
+            "_commit_index": 4259,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "17d977e32b0cc758e85e6144a095d10007809c94",
+            "_timestamp": "2019-08-28 14:47:08-07:00",
+            "_commit_index": 4969,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4542dc2697159b57aa3b1b341d3bd45fd90ee475",
+            "_timestamp": "2019-11-04 18:26:00-08:00",
+            "_commit_index": 5324,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "ad183ecf3f64e7edd74895488b7919b4bab7ad1a",
+            "_timestamp": "2019-11-21 10:21:58-08:00",
+            "_commit_index": 5501,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0f31f8e911a69e32b5f2efb0eefd1985ca8d777e",
+            "_timestamp": "2019-12-05 18:03:30-08:00",
+            "_commit_index": 5590,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 78
+                }
+            ]
+        },
+        {
+            "_sha_id": "10c3794760b63d8380e8f5de2e5f2adb811aa51b",
+            "_timestamp": "2019-12-02 19:19:21+02:00",
+            "_commit_index": 5545,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "acaeb42235af5d81b5088da7d74cc7372fccc722",
+            "_timestamp": "2019-12-04 09:59:29-08:00",
+            "_commit_index": 5567,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "444fef0d853c347a768c08aff8ce911c9aee4d50",
+            "_timestamp": "2020-01-06 16:09:35+00:00",
+            "_commit_index": 5680,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 78
+                }
+            ]
+        }
+    ]
+}

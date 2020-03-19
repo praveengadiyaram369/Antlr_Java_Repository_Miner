@@ -1,0 +1,75 @@
+{
+    "_repo_id": 352,
+    "_repo_name": "renekrie/querqy",
+    "_total_commits": 642,
+    "_commit_history": [
+        {
+            "_sha_id": "85c7348a5d164fb3aaf4d636dd05f9e34c953767",
+            "_timestamp": "2014-05-09 18:26:53+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f75f359a96d39eb25656612a6dba8920e213ff8e",
+            "_timestamp": "2016-09-05 18:30:09+02:00",
+            "_commit_index": 320,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8ccc3f5c688e5ebcc30c2c8c4141fb44b1b988e0",
+            "_timestamp": "2018-09-10 16:28:42+02:00",
+            "_commit_index": 480,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "430f060a87baa5ac12428c836f8c6e431b72d653",
+            "_timestamp": "2019-05-26 20:30:23+02:00",
+            "_commit_index": 560,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "62c89cfb2f131527a034eb9c23f118653dfa3342",
+            "_timestamp": "2019-08-05 18:29:25+01:00",
+            "_commit_index": 600,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4fbeaf390b11d35bc1bf98347791ade78972c0f7",
+            "_timestamp": "2019-11-12 14:39:23+01:00",
+            "_commit_index": 620,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a145b4a1717df32748747488573f84cd24155b05",
+            "_timestamp": "2019-11-18 22:37:25+01:00",
+            "_commit_index": 630,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "063ed8dd176ee628f566a895bbefbf0d3360a87b",
+            "_timestamp": "2019-12-07 22:38:07+01:00",
+            "_commit_index": 635,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d125567ef0cdf4ffbccb8c2572cd8e0749ee5cab",
+            "_timestamp": "2019-12-07 23:02:31+01:00",
+            "_commit_index": 638,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "001fb07bd6bde2c1ca55cb1d27395ba45e205464",
+            "_timestamp": "2019-12-30 16:05:30+01:00",
+            "_commit_index": 642,
+            "_changed_files_list": [
+                {
+                    "_file_name": "querqy-antlr/src/main/java/querqy/antlr/QueryTransformerVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
+        }
+    ]
+}

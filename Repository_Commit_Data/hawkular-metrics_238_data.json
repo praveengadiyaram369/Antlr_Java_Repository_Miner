@@ -1,0 +1,75 @@
+{
+    "_repo_id": 238,
+    "_repo_name": "hawkular/hawkular-metrics",
+    "_total_commits": 3237,
+    "_commit_history": [
+        {
+            "_sha_id": "d725243544e1d692610cf56b7fe0ffdaff3487f8",
+            "_timestamp": "2014-03-13 03:07:30-07:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5511bc40abf69ae104adb68c8fe41dcf68a84e29",
+            "_timestamp": "2015-07-22 19:06:45+02:00",
+            "_commit_index": 1618,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b77d0b7ec898d5b1c0e395cf4a4e393b2c76bd1f",
+            "_timestamp": "2016-05-24 12:55:01-05:00",
+            "_commit_index": 2427,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "cb155603427b2a467425d7fce3a7e91a1c001c90",
+            "_timestamp": "2016-11-29 22:46:42-06:00",
+            "_commit_index": 2831,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4dbd5a3314583d91956a5bb3544cb78d520bdf8c",
+            "_timestamp": "2017-04-25 11:22:52-04:00",
+            "_commit_index": 3033,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "83dfe8b4706b2307037a7101ff1539ab88438683",
+            "_timestamp": "2017-08-10 15:14:58-04:00",
+            "_commit_index": 3134,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "487ba0d64f5e539faea4bd5ff8bc3fbec79da79b",
+            "_timestamp": "2018-02-12 14:32:52-05:00",
+            "_commit_index": 3185,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "58976360c23a1cf02170408839195128d2bb1e16",
+            "_timestamp": "2018-03-31 19:48:03+03:00",
+            "_commit_index": 3210,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4cdd6be407faa0b7a467de0b9ae7f4c7682c24d2",
+            "_timestamp": "2018-05-04 13:33:13-04:00",
+            "_commit_index": 3223,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "269e4f97e620ec45ec6813b676c3694e4ca25945",
+            "_timestamp": "2019-07-02 20:10:03-05:00",
+            "_commit_index": 3237,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/metrics-core-service/src/main/java/org/hawkular/metrics/core/service/tags/ExpressionTagQueryParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

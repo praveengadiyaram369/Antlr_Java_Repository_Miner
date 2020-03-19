@@ -1,0 +1,82 @@
+{
+    "_repo_id": 122,
+    "_repo_name": "apache/incubator-tajo",
+    "_total_commits": 1192,
+    "_commit_history": [
+        {
+            "_sha_id": "4776834185a653f5d1f5454de76017de9b2e9b32",
+            "_timestamp": "2011-12-09 20:39:47+09:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
+            "_timestamp": "2012-09-26 13:36:16+09:00",
+            "_commit_index": 595,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
+            "_timestamp": "2012-09-26 13:36:16+09:00",
+            "_commit_index": 595,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
+            "_timestamp": "2012-09-26 13:36:16+09:00",
+            "_commit_index": 595,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
+            "_timestamp": "2012-09-26 13:36:16+09:00",
+            "_commit_index": 595,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
+            "_timestamp": "2012-09-26 13:36:16+09:00",
+            "_commit_index": 595,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
+            "_timestamp": "2012-09-26 13:36:16+09:00",
+            "_commit_index": 595,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
+            "_timestamp": "2012-09-26 13:36:16+09:00",
+            "_commit_index": 595,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
+            "_timestamp": "2012-09-26 13:36:16+09:00",
+            "_commit_index": 595,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7283c586af5d0df675373b25d19c5eabb527e303",
+            "_timestamp": "2014-03-20 18:49:22+09:00",
+            "_commit_index": 1192,
+            "_changed_files_list": [
+                {
+                    "_file_name": "tajo-core/tajo-core-backend/src/main/java/org/apache/tajo/engine/parser/SQLAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 65
+                },
+                {
+                    "_file_name": "tajo-core/tajo-core-backend/src/main/java/org/apache/tajo/engine/parser/HiveQLAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 49
+                }
+            ]
+        }
+    ]
+}

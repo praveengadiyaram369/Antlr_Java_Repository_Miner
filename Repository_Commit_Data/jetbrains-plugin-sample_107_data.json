@@ -1,0 +1,67 @@
+{
+    "_repo_id": 107,
+    "_repo_name": "antlr/jetbrains-plugin-sample",
+    "_total_commits": 32,
+    "_commit_history": [
+        {
+            "_sha_id": "b4336c666b27a9cafd79d633f7b5b3684ded3a7d",
+            "_timestamp": "2015-12-15 12:44:15-08:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f77e677f82ea3c08e768fb99b2343d9d9cd0e8d3",
+            "_timestamp": "2015-12-15 17:36:58-08:00",
+            "_commit_index": 8,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "1ac37cde8625bafc4e439a7e3de530701c6c1c82",
+            "_timestamp": "2017-10-21 10:00:21-07:00",
+            "_commit_index": 27,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "214ffcb05d4f705908daa1faee08bfe74a753972",
+            "_timestamp": "2015-12-19 11:33:15-08:00",
+            "_commit_index": 11,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "232913771134e78c63c641ae40db167975a30d50",
+            "_timestamp": "2015-12-23 14:30:30-08:00",
+            "_commit_index": 17,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f004d0e5de42edb729d07471ef93bb12bbb553d1",
+            "_timestamp": "2015-12-15 17:37:45-08:00",
+            "_commit_index": 10,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7c400e02f89477dbe179123a2d43f839b4df05d7",
+            "_timestamp": "2015-12-24 12:49:43-08:00",
+            "_commit_index": 25,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a80c6ef0a71b3c0bc485fe0b525ec65759d2907e",
+            "_timestamp": "2015-12-23 13:03:01-08:00",
+            "_commit_index": 15,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8a4876420d63f25f097a321b991c616857e82202",
+            "_timestamp": "2015-12-15 13:11:28-08:00",
+            "_commit_index": 3,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0b8d515b5d38e4240d79d69a5e00c7ead0bf301a",
+            "_timestamp": "2019-02-14 21:52:59+01:00",
+            "_commit_index": 32,
+            "_changed_files_list": []
+        }
+    ]
+}

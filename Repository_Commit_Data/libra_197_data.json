@@ -1,0 +1,75 @@
+{
+    "_repo_id": 197,
+    "_repo_name": "dungba88/libra",
+    "_total_commits": 338,
+    "_commit_history": [
+        {
+            "_sha_id": "52cebfa064a9f0cb6a2ad1164530e4872397fa6c",
+            "_timestamp": "2017-11-11 04:24:29+08:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "3884f2e163a6c2256716c1920b3c1990eccfb4f8",
+            "_timestamp": "2017-11-25 12:51:41+08:00",
+            "_commit_index": 168,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5147bd1331fc5e86541f727dca520a4b6ec62a05",
+            "_timestamp": "2018-10-17 18:20:24+08:00",
+            "_commit_index": 252,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8fa8eec689357cbb0639dac4ff0b429689ca8b53",
+            "_timestamp": "2019-07-10 12:45:08+07:00",
+            "_commit_index": 294,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "79131143412bb3a7a39b4b90c09dde44cfb1a249",
+            "_timestamp": "2019-07-15 20:12:30+07:00",
+            "_commit_index": 315,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a2f50c4f9d66a7c7cd86e8359db993f50971b9fe",
+            "_timestamp": "2019-07-20 00:23:13+07:00",
+            "_commit_index": 326,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "bd8358212f9ba846206552289b166794dd1e9047",
+            "_timestamp": "2019-07-24 13:28:15+07:00",
+            "_commit_index": 331,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "648f2893c0410c969ced6ca0627cb330ad39ef23",
+            "_timestamp": "2019-08-01 14:13:46+07:00",
+            "_commit_index": 334,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5fdb40346c5335b85cc13595b4d2cd842412596a",
+            "_timestamp": "2019-08-15 14:57:23+07:00",
+            "_commit_index": 335,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "3f52f8618b057a5ce1e6e53ffbb2cc6cc3c9e486",
+            "_timestamp": "2019-12-27 22:14:27+09:00",
+            "_commit_index": 338,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/joo/libra/sql/SqlVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                }
+            ]
+        }
+    ]
+}

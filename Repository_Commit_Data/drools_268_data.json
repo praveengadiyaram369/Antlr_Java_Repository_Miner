@@ -1,0 +1,75 @@
+{
+    "_repo_id": 268,
+    "_repo_name": "kiegroup/drools",
+    "_total_commits": 12375,
+    "_commit_history": [
+        {
+            "_sha_id": "201b34d26e015f8edf29514635e6e69ec95016c7",
+            "_timestamp": "2005-12-05 22:42:19+00:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
+            "_timestamp": "2011-03-07 15:14:32-05:00",
+            "_commit_index": 6187,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
+            "_timestamp": "2011-03-07 15:14:32-05:00",
+            "_commit_index": 6187,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
+            "_timestamp": "2011-03-07 15:14:32-05:00",
+            "_commit_index": 6187,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
+            "_timestamp": "2011-03-07 15:14:32-05:00",
+            "_commit_index": 6187,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
+            "_timestamp": "2011-03-07 15:14:32-05:00",
+            "_commit_index": 6187,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
+            "_timestamp": "2011-03-07 15:14:32-05:00",
+            "_commit_index": 6187,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
+            "_timestamp": "2011-03-07 15:14:32-05:00",
+            "_commit_index": 6187,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
+            "_timestamp": "2011-03-07 15:14:32-05:00",
+            "_commit_index": 6187,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "734e83196b1ec8c40b2cc8c24872e130f5e09c82",
+            "_timestamp": "2020-01-06 15:49:41+02:00",
+            "_commit_index": 12375,
+            "_changed_files_list": [
+                {
+                    "_file_name": "kie-dmn/kie-dmn-feel/src/main/java/org/kie/dmn/feel/parser/feel11/ASTBuilderVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 57
+                }
+            ]
+        }
+    ]
+}

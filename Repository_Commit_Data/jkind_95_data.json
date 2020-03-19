@@ -1,0 +1,89 @@
+{
+    "_repo_id": 95,
+    "_repo_name": "agacek/jkind",
+    "_total_commits": 740,
+    "_commit_history": [
+        {
+            "_sha_id": "035a11f58d9be62aebd4915c6437c76ad1652745",
+            "_timestamp": "2012-10-24 11:01:22-05:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5525cdccc7661c84030676072a8d06ce956404c1",
+            "_timestamp": "2014-04-05 20:26:51-05:00",
+            "_commit_index": 369,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6715944faa2b4220c4fafb44e70bf886dac247fe",
+            "_timestamp": "2015-02-11 13:45:56-06:00",
+            "_commit_index": 554,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "bc3eb1911db2c8f62acc0fe32db45f47fb7d1bce",
+            "_timestamp": "2016-03-25 15:17:08-05:00",
+            "_commit_index": 646,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b0b87334d35fd0a55a6d6d8b2b93e28b0baf9075",
+            "_timestamp": "2017-11-27 09:30:38-06:00",
+            "_commit_index": 692,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "fbe6d2d85325e1a82df466bea27d3f0edaafa0ce",
+            "_timestamp": "2018-01-12 11:24:10-06:00",
+            "_commit_index": 715,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "aee5e738c463d015326f1329deaa5712ce7d95b4",
+            "_timestamp": "2018-08-31 20:02:18-05:00",
+            "_commit_index": 727,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "67b6c7a720f1c69072b0a73dd1d090732ab548b7",
+            "_timestamp": "2019-05-09 21:35:58-05:00",
+            "_commit_index": 733,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "3b8ee2cebc0f339cef7fad5086de77eafa0a2d9d",
+            "_timestamp": "2019-05-10 22:28:59-05:00",
+            "_commit_index": 736,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "cc5f0ba0c0ae0cb4b5849dc9196509b418a7ce26",
+            "_timestamp": "2019-09-19 06:46:16-07:00",
+            "_commit_index": 740,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jkind-common/src/jkind/lustre/parsing/LustreToAstVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 28
+                },
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices2/ModelExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices/ResultExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

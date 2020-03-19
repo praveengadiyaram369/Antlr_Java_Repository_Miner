@@ -1,0 +1,139 @@
+{
+    "_repo_id": 177,
+    "_repo_name": "crossmob/CrossMobile",
+    "_total_commits": 230,
+    "_commit_history": [
+        {
+            "_sha_id": "7545f92a21afdec9e021d53a8b2195e6cc9be69c",
+            "_timestamp": "2019-05-01 23:33:57+03:00",
+            "_commit_index": 1,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cmbuild/cmbuild-maven-plugin/src/main/java/org/crossmobile/build/tools/StringsToPropertiesConverter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cmbuild/cmbuild-plugins/src/main/java/org/crossmobile/plugin/parser/BlockListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cmbuild/cmbuild-plugins/src/main/java/org/crossmobile/plugin/parser/FunctionListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cmbuild/cmbuild-plugins/src/main/java/org/crossmobile/plugin/parser/PropertyListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cmbuild/cmbuild-plugins/src/main/java/org/crossmobile/plugin/parser/SelectorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "c069633a7a9276c3400e9a2ba3ec2000e6255f24",
+            "_timestamp": "2019-07-22 03:39:58+03:00",
+            "_commit_index": 93,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a1f6f1c248b7ad854e853a93b08cdedf3a2e4319",
+            "_timestamp": "2019-07-23 20:01:09+03:00",
+            "_commit_index": 96,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "18923b400a7cae7dc2f9d93e6a6d280f3cd20abe",
+            "_timestamp": "2019-09-05 18:33:29+03:00",
+            "_commit_index": 159,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "012be7225f38aa3affce03038281440acc7af12c",
+            "_timestamp": "2019-06-01 14:58:28+03:00",
+            "_commit_index": 16,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "ec779a71958f6246789f00f08ad3280b954fb906",
+            "_timestamp": "2019-06-07 10:33:32+03:00",
+            "_commit_index": 30,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "086e2d96d2c6133e39b98caf1b8349ea32650a54",
+            "_timestamp": "2019-08-27 01:37:29+03:00",
+            "_commit_index": 138,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b50cbe29d9b283b8ade815d99578700107740456",
+            "_timestamp": "2019-06-26 17:03:26+03:00",
+            "_commit_index": 58,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "3ecf5c6f534896d635fc2a07c9d27a4daad1b9c8",
+            "_timestamp": "2019-08-22 14:03:10+03:00",
+            "_commit_index": 133,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "dcbbf2a3b7dac4c8ba157722e56ba6c8e270071b",
+            "_timestamp": "2019-12-04 19:25:35+02:00",
+            "_commit_index": 230,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cmbuild/cmbuild-plugins/src/main/java/org/crossmobile/plugin/parser/FunctionListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cmbuild/cmbuild-plugins/src/main/java/org/crossmobile/plugin/parser/PropertyListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cmbuild/cmbuild-plugins/src/main/java/org/crossmobile/plugin/parser/BlockListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cmbuild/cmbuild-plugins/src/main/java/org/crossmobile/plugin/parser/SelectorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cmbuild/cmbuild-maven-plugin/src/main/java/org/crossmobile/build/tools/StringsToPropertiesConverter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

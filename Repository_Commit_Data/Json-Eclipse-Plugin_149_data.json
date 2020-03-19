@@ -1,0 +1,117 @@
+{
+    "_repo_id": 149,
+    "_repo_name": "boothen/Json-Eclipse-Plugin",
+    "_total_commits": 248,
+    "_commit_history": [
+        {
+            "_sha_id": "cc9e08cc0a028d985ca589ecf5882c320b2b00ec",
+            "_timestamp": "2012-03-25 21:08:33+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8b8ce3ddf76db9e7a979acd7792b35dc05764dad",
+            "_timestamp": "2016-03-02 21:13:20+01:00",
+            "_commit_index": 123,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b19f13cc47feed3ef2af8dcd8f4f241a9fd69398",
+            "_timestamp": "2016-04-16 12:51:08+02:00",
+            "_commit_index": 185,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "84e4c66c393c1241f0b0c699f7e2f0caf8dc6e25",
+            "_timestamp": "2018-02-25 16:44:27+01:00",
+            "_commit_index": 216,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a0883abeea4bf6cdaead0873a4ba3b088cf82d76",
+            "_timestamp": "2018-03-10 15:58:04+01:00",
+            "_commit_index": 231,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f68434ec589f9df40327df5874f04118d94a3b1f",
+            "_timestamp": "2018-10-07 19:26:27+02:00",
+            "_commit_index": 239,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b576d6e85c513cea740d2f44c0393bad7a6536b1",
+            "_timestamp": "2018-10-21 19:41:47+02:00",
+            "_commit_index": 243,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5d179b3a660c48dbf2a7aba3fe3fbf39d8df0d46",
+            "_timestamp": "2019-12-27 21:44:06+01:00",
+            "_commit_index": 245,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "ffdbd748823f34d8c585962347109b7407f0a30c",
+            "_timestamp": "2019-12-28 18:43:45+01:00",
+            "_commit_index": 246,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6adf6ecc8fd9c5974e882fc0db596a7edacb593e",
+            "_timestamp": "2019-12-29 11:40:24+01:00",
+            "_commit_index": 248,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jsonedit-folding/src/main/java/com/boothen/jsonedit/folding/FoldingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "jsonedit-outline/src/main/java/com/boothen/jsonedit/outline/JsonContextTreeFilter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "jsonedit-outline/src/main/java/com/boothen/jsonedit/outline/JsonContextLabelVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "jsonedit-outline/src/main/java/com/boothen/jsonedit/outline/JsonContextImageVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "jsonedit-model/src/main/java/com/boothen/jsonedit/problems/StringProblemFinder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "jsonedit-model/src/main/java/com/boothen/jsonedit/problems/DuplicateKeyFinder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "jsonedit-model/src/main/java/com/boothen/jsonedit/model/JsonContextTokenFinder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
+        }
+    ]
+}

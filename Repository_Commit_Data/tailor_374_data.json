@@ -1,0 +1,201 @@
+{
+    "_repo_id": 374,
+    "_repo_name": "sleekbyte/tailor",
+    "_total_commits": 1295,
+    "_commit_history": [
+        {
+            "_sha_id": "07e6ee84f952c184110dfa267d8271d52a811b28",
+            "_timestamp": "2015-05-24 22:11:10-04:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
+            "_timestamp": "2015-08-28 12:47:04+05:18",
+            "_commit_index": 647,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
+            "_timestamp": "2015-08-28 12:47:04+05:18",
+            "_commit_index": 647,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
+            "_timestamp": "2015-08-28 12:47:04+05:18",
+            "_commit_index": 647,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
+            "_timestamp": "2015-08-28 12:47:04+05:18",
+            "_commit_index": 647,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
+            "_timestamp": "2015-08-28 12:47:04+05:18",
+            "_commit_index": 647,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
+            "_timestamp": "2015-08-28 12:47:04+05:18",
+            "_commit_index": 647,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
+            "_timestamp": "2015-08-28 12:47:04+05:18",
+            "_commit_index": 647,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
+            "_timestamp": "2015-08-28 12:47:04+05:18",
+            "_commit_index": 647,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8d450aa364b01a32ebf4d1e8fe15406a4e7f6c27",
+            "_timestamp": "2017-12-06 11:47:41-08:00",
+            "_commit_index": 1295,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/RedundantParenthesesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/ConstantNamingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/DeclarationListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/ForceTypeCastListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 22,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/SemicolonTerminatedListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/UpperCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/BlankLineListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/LowerCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/KPrefixListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/MultipleImportListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/TrailingClosureListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/lengths/LengthListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/whitespace/ParenthesisWhitespaceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/whitespace/ColonWhitespaceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/whitespace/ArrowWhitespaceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/whitespace/CommaWhitespaceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 20,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/whitespace/AngleBracketWhitespaceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/whitespace/OperatorWhitespaceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

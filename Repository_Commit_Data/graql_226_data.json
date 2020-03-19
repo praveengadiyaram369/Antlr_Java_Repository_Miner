@@ -1,0 +1,83 @@
+{
+    "_repo_id": 226,
+    "_repo_name": "graknlabs/graql",
+    "_total_commits": 342,
+    "_commit_history": [
+        {
+            "_sha_id": "0f077a469dc5d413a3940d309df956dca34853f2",
+            "_timestamp": "2019-02-16 23:02:45+00:00",
+            "_commit_index": 1,
+            "_changed_files_list": [
+                {
+                    "_file_name": "java/parser/Parser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 47
+                }
+            ]
+        },
+        {
+            "_sha_id": "7e37dcef8a024f5d17a38294a8fdf3f8df1650b2",
+            "_timestamp": "2019-03-27 11:08:37+00:00",
+            "_commit_index": 122,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a2633f68e035d01fa1da08b0f9de49777babdd45",
+            "_timestamp": "2019-04-19 13:25:11+01:00",
+            "_commit_index": 162,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "417c695e9d6fc15c18d920d583c70542b181e8fb",
+            "_timestamp": "2019-03-12 16:41:55+00:00",
+            "_commit_index": 74,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "184274ed0d317427e9daf90969e78bb59150b0bb",
+            "_timestamp": "2019-03-29 11:39:52+00:00",
+            "_commit_index": 138,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f272562c3e97c58706dfcbd9eecf5a225d80ac89",
+            "_timestamp": "2019-07-02 11:28:15+00:00",
+            "_commit_index": 230,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "130080ea3b1ea9eb6f6e1a6b813d6166f0bbaa02",
+            "_timestamp": "2019-07-01 11:45:06+00:00",
+            "_commit_index": 229,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "fe555f53430ab36b5e42c485641047e817a401f9",
+            "_timestamp": "2019-11-11 13:17:30+03:00",
+            "_commit_index": 331,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "bc54b17704251252f27003d618abe6e6ae3f1d44",
+            "_timestamp": "2019-06-25 15:57:33+00:00",
+            "_commit_index": 223,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "06cf6b7eb4c2c5c4fc424bed38951cc5c595d2f9",
+            "_timestamp": "2019-12-15 20:51:07+00:00",
+            "_commit_index": 342,
+            "_changed_files_list": [
+                {
+                    "_file_name": "java/parser/Parser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 45
+                }
+            ]
+        }
+    ]
+}

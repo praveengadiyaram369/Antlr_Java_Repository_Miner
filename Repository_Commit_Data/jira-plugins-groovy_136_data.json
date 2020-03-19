@@ -1,0 +1,82 @@
+{
+    "_repo_id": 136,
+    "_repo_name": "atlascommunity/jira-plugins-groovy",
+    "_total_commits": 855,
+    "_commit_history": [
+        {
+            "_sha_id": "c3294c44da76cf9eafca7b103615d645cc578909",
+            "_timestamp": "2017-12-27 18:20:23+03:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "eaa9aa28200c6f661e4c4e74c3e6ab93188c0ae6",
+            "_timestamp": "2018-07-30 17:26:17+03:00",
+            "_commit_index": 427,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "87ba0c754db1a8f54949e4776453fef9013b938f",
+            "_timestamp": "2018-10-03 19:14:56+03:00",
+            "_commit_index": 640,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "dea2be6bbb90486dfe2728b2ad5cc2b756b5ebb9",
+            "_timestamp": "2019-02-14 17:36:59+03:00",
+            "_commit_index": 747,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "05cae95bf454c0ed9d75f0ce76fc08506cb30585",
+            "_timestamp": "2019-08-07 10:42:31+03:00",
+            "_commit_index": 800,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "45074c65d92fd51f3e9e92407d609b24c005fb56",
+            "_timestamp": "2019-11-29 19:06:19+03:00",
+            "_commit_index": 827,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "c7b8b870d30bc165374797450847e84d4782ce11",
+            "_timestamp": "2019-12-20 14:50:16+03:00",
+            "_commit_index": 840,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "9e3a4562216ebb837e750d3b3fc7c070bb91b5fd",
+            "_timestamp": "2019-12-26 13:33:36+03:00",
+            "_commit_index": 847,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a6f86f0bac3d92f75ce90d7ad24383d4601bd2be",
+            "_timestamp": "2019-12-26 17:33:20+03:00",
+            "_commit_index": 850,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6dc7d9b385a21906433a80dc2b67d0d9a8bd1760",
+            "_timestamp": "2019-12-27 17:27:08+03:00",
+            "_commit_index": 855,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/ru/mail/jira/plugins/groovy/impl/jql/function/builtin/DateCompareFunction.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/ru/mail/jira/plugins/groovy/impl/jql/function/builtin/query/QueryUtil.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

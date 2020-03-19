@@ -1,0 +1,83 @@
+{
+    "_repo_id": 167,
+    "_repo_name": "clouditor/clouditor",
+    "_total_commits": 88,
+    "_commit_history": [
+        {
+            "_sha_id": "f5989340a22b230262b2d40cd947d48b69c7f073",
+            "_timestamp": "2019-05-27 18:16:21+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": [
+                {
+                    "_file_name": "clouditor-engine-core/src/main/java/io/clouditor/assurance/ccl/CCLDeserializer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                }
+            ]
+        },
+        {
+            "_sha_id": "b3b7155a4b851bc69addb5ed94ee9d89b87f2c5d",
+            "_timestamp": "2019-06-07 20:48:34+02:00",
+            "_commit_index": 43,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "919382015efd58b9c24d6d6dd46bbe364e6ecc08",
+            "_timestamp": "2019-07-05 14:05:30+02:00",
+            "_commit_index": 65,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "353397f4969077c96ad665e15d23a391fa5a0334",
+            "_timestamp": "2019-10-22 17:25:15+02:00",
+            "_commit_index": 76,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "61df360894371cbdf969bc53e9641e4be572551e",
+            "_timestamp": "2019-10-29 13:47:04+01:00",
+            "_commit_index": 81,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "9b59244da3bd9b4383770b02194388365364ae3f",
+            "_timestamp": "2019-10-29 15:27:51+01:00",
+            "_commit_index": 84,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a8075fe5a36941adfe27398a109c3ff249f2c8c9",
+            "_timestamp": "2019-10-29 20:07:52+01:00",
+            "_commit_index": 85,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7442875d80efb76f28d7c36e9ec9aa46a7eaa49f",
+            "_timestamp": "2019-11-20 11:00:14+01:00",
+            "_commit_index": 86,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "67712bc10ec62e9fc8b310af1caccf84ef536e82",
+            "_timestamp": "2019-05-30 19:20:16+02:00",
+            "_commit_index": 24,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "015ba53737461bf2946a918c48d17fa306c982ce",
+            "_timestamp": "2019-11-22 15:53:02+01:00",
+            "_commit_index": 88,
+            "_changed_files_list": [
+                {
+                    "_file_name": "clouditor-engine-core/src/main/java/io/clouditor/assurance/ccl/CCLDeserializer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
+        }
+    ]
+}

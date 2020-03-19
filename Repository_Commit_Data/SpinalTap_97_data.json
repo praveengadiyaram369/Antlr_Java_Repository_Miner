@@ -1,0 +1,75 @@
+{
+    "_repo_id": 97,
+    "_repo_name": "airbnb/SpinalTap",
+    "_total_commits": 108,
+    "_commit_history": [
+        {
+            "_sha_id": "4a01b19ac7c6943618a71838b89949016dbc97cb",
+            "_timestamp": "2018-02-20 11:42:30-08:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
+            "_timestamp": "2018-07-27 14:28:44-07:00",
+            "_commit_index": 53,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
+            "_timestamp": "2018-07-27 14:28:44-07:00",
+            "_commit_index": 53,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
+            "_timestamp": "2018-07-27 14:28:44-07:00",
+            "_commit_index": 53,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
+            "_timestamp": "2018-07-27 14:28:44-07:00",
+            "_commit_index": 53,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
+            "_timestamp": "2018-07-27 14:28:44-07:00",
+            "_commit_index": 53,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
+            "_timestamp": "2018-07-27 14:28:44-07:00",
+            "_commit_index": 53,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
+            "_timestamp": "2018-07-27 14:28:44-07:00",
+            "_commit_index": 53,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
+            "_timestamp": "2018-07-27 14:28:44-07:00",
+            "_commit_index": 53,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "9f372539652bb10a2358bf8eb6bdea1da2e42a61",
+            "_timestamp": "2019-06-10 15:33:18-07:00",
+            "_commit_index": 108,
+            "_changed_files_list": [
+                {
+                    "_file_name": "spinaltap-mysql/src/main/java/com/airbnb/spinaltap/mysql/schema/MysqlSchemaDatabase.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

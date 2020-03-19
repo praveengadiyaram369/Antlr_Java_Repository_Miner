@@ -1,0 +1,67 @@
+{
+    "_repo_id": 388,
+    "_repo_name": "subchen/jetbrick-template-1x",
+    "_total_commits": 286,
+    "_commit_history": [
+        {
+            "_sha_id": "6548965cdb6eb1ef49c8f56c4d6cbd397b2a8956",
+            "_timestamp": "2013-10-28 07:56:29-07:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6df040439e5d418d824d7289a08871b0cff88cb0",
+            "_timestamp": "2014-02-23 21:00:04+08:00",
+            "_commit_index": 202,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d2d058da93d634873c2369680192ac82f62f62e8",
+            "_timestamp": "2013-11-13 23:43:25+08:00",
+            "_commit_index": 57,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d4fe1627b4d206db44cf2d6b05add572fb57193f",
+            "_timestamp": "2015-04-02 18:11:16+08:00",
+            "_commit_index": 283,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "e9c35135cbd23660d8f4774df30224fb94b004ea",
+            "_timestamp": "2014-09-06 10:18:32+00:00",
+            "_commit_index": 276,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "bf077b0699e3652c0f1bc8880983abdbfbd1c74e",
+            "_timestamp": "2014-05-10 21:42:36+08:00",
+            "_commit_index": 231,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "592525866c0d33b3c8436ca04df4474315353366",
+            "_timestamp": "2014-05-10 19:10:28+08:00",
+            "_commit_index": 227,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "848d8ca0630f384bebfdfc27cb21af656555ed59",
+            "_timestamp": "2013-12-15 23:46:33+08:00",
+            "_commit_index": 159,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7b785db31e1156cfec153dafab43dad751803026",
+            "_timestamp": "2013-11-02 20:45:15+08:00",
+            "_commit_index": 21,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "fee655c8ecbe7ed5e896445ee95bd6391156cc89",
+            "_timestamp": "2015-04-02 18:11:46+08:00",
+            "_commit_index": 286,
+            "_changed_files_list": []
+        }
+    ]
+}

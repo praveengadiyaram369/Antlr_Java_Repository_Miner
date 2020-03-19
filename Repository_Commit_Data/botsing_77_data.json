@@ -1,0 +1,75 @@
+{
+    "_repo_id": 77,
+    "_repo_name": "STAMP-project/botsing",
+    "_total_commits": 741,
+    "_commit_history": [
+        {
+            "_sha_id": "ba8abee4b53a32fd29aff87acbabb558d4f93d2b",
+            "_timestamp": "2018-09-06 09:53:30+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "22a4b2b9d615ccfc7f5c22e994b396871c1836ee",
+            "_timestamp": "2019-03-08 18:09:42+01:00",
+            "_commit_index": 370,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6f5016d5f12fd695063e419ddbeac296d7efb46f",
+            "_timestamp": "2019-05-27 13:27:55+02:00",
+            "_commit_index": 555,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "e4c3787d47394cbefb7d4946b6912d107abdd6c0",
+            "_timestamp": "2019-07-09 15:28:05+02:00",
+            "_commit_index": 647,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "03d5304f236b814f8d843fa2d166df12abb6be46",
+            "_timestamp": "2019-10-23 15:06:58+02:00",
+            "_commit_index": 693,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8b8da59488f2e0f22dabc77377a065a20d746810",
+            "_timestamp": "2019-10-25 17:19:47+02:00",
+            "_commit_index": 716,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "48179e743947dcf3c0fd25daa5f3e4b96b4a5b8e",
+            "_timestamp": "2019-10-29 18:09:22+01:00",
+            "_commit_index": 728,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a985b48cc625802ec29bd17216ca021eb80f336b",
+            "_timestamp": "2019-11-06 18:36:45+01:00",
+            "_commit_index": 734,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "fb4795c4234f4915e5466d7b535f5e3c3a6f7b21",
+            "_timestamp": "2019-11-15 16:38:43+01:00",
+            "_commit_index": 737,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "658e3401ed5c9c15316157bdcb62e3ff5061b0c9",
+            "_timestamp": "2019-12-13 11:34:43+01:00",
+            "_commit_index": 741,
+            "_changed_files_list": [
+                {
+                    "_file_name": "botsing-parsers/src/main/java/eu/stamp/botsing/parsers/StackTracesCollectorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

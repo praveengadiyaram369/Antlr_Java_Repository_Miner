@@ -1,0 +1,75 @@
+{
+    "_repo_id": 102,
+    "_repo_name": "alpha-asp/Alpha",
+    "_total_commits": 1154,
+    "_commit_history": [
+        {
+            "_sha_id": "20769501e510e22d682ba54be08375b080762a34",
+            "_timestamp": "2016-06-21 11:23:53+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
+            "_timestamp": "2017-11-15 03:39:55+02:00",
+            "_commit_index": 576,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
+            "_timestamp": "2017-11-15 03:39:55+02:00",
+            "_commit_index": 576,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
+            "_timestamp": "2017-11-15 03:39:55+02:00",
+            "_commit_index": 576,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
+            "_timestamp": "2017-11-15 03:39:55+02:00",
+            "_commit_index": 576,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
+            "_timestamp": "2017-11-15 03:39:55+02:00",
+            "_commit_index": 576,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
+            "_timestamp": "2017-11-15 03:39:55+02:00",
+            "_commit_index": 576,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
+            "_timestamp": "2017-11-15 03:39:55+02:00",
+            "_commit_index": 576,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
+            "_timestamp": "2017-11-15 03:39:55+02:00",
+            "_commit_index": 576,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b7d809f101448c0d56e7a5ee52fd5ded436537b0",
+            "_timestamp": "2019-12-19 13:30:29+01:00",
+            "_commit_index": 1154,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/at/ac/tuwien/kr/alpha/grounder/parser/ParseTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 45
+                }
+            ]
+        }
+    ]
+}

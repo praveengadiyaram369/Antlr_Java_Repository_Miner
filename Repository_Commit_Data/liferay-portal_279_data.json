@@ -1,0 +1,96 @@
+{
+    "_repo_id": 279,
+    "_repo_name": "liferay/liferay-portal",
+    "_total_commits": 362384,
+    "_commit_history": [
+        {
+            "_sha_id": "75eed344d9557fd9b02984ff7f05b34a789c6ee9",
+            "_timestamp": "2006-04-03 01:29:15+00:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "48ec31c660df67921bbb8d148bae715c097b2441",
+            "_timestamp": "2016-06-08 10:32:01-07:00",
+            "_commit_index": 181191,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d10dfc0884a53f68922e9ee5b5237943e606daa8",
+            "_timestamp": "2018-06-18 14:43:51+02:00",
+            "_commit_index": 271787,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "658ee7b0ffbdeb942243c170019cf4bb4b268f68",
+            "_timestamp": "2019-05-09 11:49:30-07:00",
+            "_commit_index": 317085,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7756dddf96e62cc396c1160f4ab72c12ec7fdb63",
+            "_timestamp": "2017-06-05 10:17:57-07:00",
+            "_commit_index": 339734,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "3f0b7f9a80de26ff0d31bb3439fa7a7917e4eb8e",
+            "_timestamp": "2019-05-09 16:24:52-03:00",
+            "_commit_index": 351058,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "c6470704fd3105a09bc6eefe72c26523f113a997",
+            "_timestamp": "2019-10-25 17:14:01+02:00",
+            "_commit_index": 356720,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f7e651a7f0bb83fb6755d8786b1099337e6b92eb",
+            "_timestamp": "2019-12-05 11:41:00+01:00",
+            "_commit_index": 359551,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b751bc2bcc0c3e4309d5e5f4e918f17cad9fe354",
+            "_timestamp": "2019-12-19 20:17:25+08:00",
+            "_commit_index": 360967,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "3b64a805ea2934fe1baa811619485895917ccdc6",
+            "_timestamp": "2020-01-03 17:14:15-08:00",
+            "_commit_index": 362384,
+            "_changed_files_list": [
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-form-values-query/src/main/java/com/liferay/dynamic/data/mapping/form/values/query/internal/DDMFormValuesQueryListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-expression/src/main/java/com/liferay/dynamic/data/mapping/expression/internal/DDMExpressionListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-expression/src/main/java/com/liferay/dynamic/data/mapping/expression/internal/DDMExpressionEvaluatorVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 28
+                },
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-expression/src/main/java/com/liferay/dynamic/data/mapping/expression/internal/DDMExpressionModelVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                }
+            ]
+        }
+    ]
+}

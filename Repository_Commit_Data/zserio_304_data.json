@@ -1,0 +1,97 @@
+{
+    "_repo_id": 304,
+    "_repo_name": "ndsev/zserio",
+    "_total_commits": 684,
+    "_commit_history": [
+        {
+            "_sha_id": "18ecdeaf5e2fb2789a516f8c8bcd52485c0cb501",
+            "_timestamp": "2018-07-19 12:50:43+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "94e56becab370cc437a9b9c265d9f96986978e05",
+            "_timestamp": "2019-05-07 09:32:09+02:00",
+            "_commit_index": 341,
+            "_changed_files_list": [
+                {
+                    "_file_name": "compiler/core/src/zserio/ast/ZserioAstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 68
+                }
+            ]
+        },
+        {
+            "_sha_id": "fa4224f4809c52ed646138f248d52fb185eec362",
+            "_timestamp": "2018-11-14 10:46:23+01:00",
+            "_commit_index": 170,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5ca4a042a8c88b96a6537a0fb9f362a137f5c4e4",
+            "_timestamp": "2019-01-28 11:02:12+01:00",
+            "_commit_index": 255,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d2d083e93d07c567c30e7d0663b0f86c8f60fe7d",
+            "_timestamp": "2019-04-08 08:39:02+02:00",
+            "_commit_index": 298,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "04b734175cc4f91249d3f6cecd09aa4bdf8566d4",
+            "_timestamp": "2019-04-23 16:55:11+02:00",
+            "_commit_index": 319,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "e7320e00f14cd6490a2c0b57626408451f6c4641",
+            "_timestamp": "2019-04-30 13:22:17+02:00",
+            "_commit_index": 330,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "2d6121fc2046674ff97421d94e4ad70704a2dfdb",
+            "_timestamp": "2019-05-06 10:28:28+02:00",
+            "_commit_index": 335,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5b559911bec40af69745525d20f562e9276f8cd5",
+            "_timestamp": "2019-05-06 14:37:36+02:00",
+            "_commit_index": 338,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f89401eb25a778ae5d52c5484675579e281a80b7",
+            "_timestamp": "2019-12-20 09:26:49+01:00",
+            "_commit_index": 684,
+            "_changed_files_list": [
+                {
+                    "_file_name": "compiler/core/src/zserio/ast/DocCommentAstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "compiler/core/src/zserio/ast/ZserioAstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 73
+                },
+                {
+                    "_file_name": "compiler/core/src/zserio/ast/ZserioParseTreeChecker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                }
+            ]
+        }
+    ]
+}

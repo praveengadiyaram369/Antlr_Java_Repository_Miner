@@ -1,0 +1,75 @@
+{
+    "_repo_id": 376,
+    "_repo_name": "smaccm/smaccm",
+    "_total_commits": 2400,
+    "_commit_history": [
+        {
+            "_sha_id": "366885bbc8e320b401460a2b34b5aa87493ef147",
+            "_timestamp": "2013-08-13 07:59:47-07:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8e685957e95b7f3bf55faac8aa9bcbae277f1b1e",
+            "_timestamp": "2015-10-15 11:59:48-04:00",
+            "_commit_index": 1199,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b435aa04c387c7d07e93d49f80fd615ed46971ce",
+            "_timestamp": "2016-12-19 16:02:46-06:00",
+            "_commit_index": 1799,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7e2c815a7b9b52c0e795fdbc4fe8faefe66978a9",
+            "_timestamp": "2017-10-05 13:19:23-05:00",
+            "_commit_index": 2099,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7a35340a96b83317aa53b7a351a4abf783f32e60",
+            "_timestamp": "2018-04-04 05:57:29-05:00",
+            "_commit_index": 2249,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "24c5a8703912510156e42d34b820a4673bdfd637",
+            "_timestamp": "2018-06-15 06:49:10-05:00",
+            "_commit_index": 2324,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8ff8d1e7d6b8487f34d4e73cae3ecb7176d98fcd",
+            "_timestamp": "2018-08-08 12:43:16-05:00",
+            "_commit_index": 2361,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8dc98b75257e81ffaf0d9e2e3530cfe9bf95e87c",
+            "_timestamp": "2018-10-02 08:11:17-05:00",
+            "_commit_index": 2380,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "27898bc44221235ee68edd99c90f5c39cddf1905",
+            "_timestamp": "2018-10-18 07:37:10-05:00",
+            "_commit_index": 2389,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7393c423b5aca1a272a88cbb89b5dcfd08a5a47c",
+            "_timestamp": "2019-02-21 16:28:42-06:00",
+            "_commit_index": 2400,
+            "_changed_files_list": [
+                {
+                    "_file_name": "fm-workbench/trusted-build/edu.umn.cs.crisys.tb/src/edu/umn/cs/crisys/tb/parse/AadlModelParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

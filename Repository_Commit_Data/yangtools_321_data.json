@@ -1,0 +1,75 @@
+{
+    "_repo_id": 321,
+    "_repo_name": "opendaylight/yangtools",
+    "_total_commits": 5267,
+    "_commit_history": [
+        {
+            "_sha_id": "89e2df63cf08147c49a0f20163d1e826e084de8b",
+            "_timestamp": "2013-07-18 22:42:35+00:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "e96755914bc2e3fedc00f2fcf5492e3f8d244fee",
+            "_timestamp": "2015-06-08 14:39:02+02:00",
+            "_commit_index": 2633,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "ae14ac018999945d45c1f7568b32bb725808a254",
+            "_timestamp": "2017-09-05 16:31:14+02:00",
+            "_commit_index": 3949,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8d82d529b65bbf9e88916491bb266cb8e4d35505",
+            "_timestamp": "2018-11-23 04:48:19+01:00",
+            "_commit_index": 4607,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "eb00413c4e04279d7173758cc07fda5453dc967c",
+            "_timestamp": "2019-06-03 21:37:43+02:00",
+            "_commit_index": 4936,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "1d928b982c01ab383c77ac62fc0982e32b603474",
+            "_timestamp": "2019-09-20 19:54:04+02:00",
+            "_commit_index": 5101,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a6970454178571cfbecf4deb17fd058ad674f989",
+            "_timestamp": "2019-10-31 16:54:23+01:00",
+            "_commit_index": 5183,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "2e7e6dc6ee82447a286e4df18415de4bff6c2b4e",
+            "_timestamp": "2019-12-24 22:55:41+01:00",
+            "_commit_index": 5224,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "c005231c76c371a4b144993aa90a63d90587925b",
+            "_timestamp": "2019-12-29 13:28:39+01:00",
+            "_commit_index": 5245,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "2521e6a88f8d9f8926fdf7e74c036db81a9e0872",
+            "_timestamp": "2020-01-04 13:00:47+01:00",
+            "_commit_index": 5267,
+            "_changed_files_list": [
+                {
+                    "_file_name": "yang/yang-parser-rfc7950/src/main/java/org/opendaylight/yangtools/yang/parser/rfc7950/stmt/if_feature/IfFeaturePredicateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
+        }
+    ]
+}

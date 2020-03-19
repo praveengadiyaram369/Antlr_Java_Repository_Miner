@@ -1,0 +1,180 @@
+{
+    "_repo_id": 187,
+    "_repo_name": "debezium/debezium",
+    "_total_commits": 2399,
+    "_commit_history": [
+        {
+            "_sha_id": "0a99ed67cd8f74d6f451b0a2d3809e23127e4698",
+            "_timestamp": "2015-11-17 14:58:34-06:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "3061c1dc0b1cb656528dbef3946cf0e55c5261d9",
+            "_timestamp": "2018-07-25 11:48:20+02:00",
+            "_commit_index": 1199,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "9b52ac86e8994415a2775aa66d5a227015742f5a",
+            "_timestamp": "2019-05-02 16:06:53+08:00",
+            "_commit_index": 1798,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5c94bcf802b637ba108cc014844f1c6b9e00615f",
+            "_timestamp": "2019-09-23 11:30:45+03:00",
+            "_commit_index": 2098,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "c1790767108441f3b7c6e36f019fd531e5842748",
+            "_timestamp": "2019-11-05 14:23:17+01:00",
+            "_commit_index": 2248,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "9586be7d4e341502910572329d758ba2673d5afc",
+            "_timestamp": "2019-10-15 10:30:10-04:00",
+            "_commit_index": 2323,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "debcb95fa2f32766f410d85d3aac0bae86c13603",
+            "_timestamp": "2019-12-16 21:10:22-05:00",
+            "_commit_index": 2360,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d78c5b7eedb13ccb1e1dae8449d3dd4415326e26",
+            "_timestamp": "2019-11-27 15:29:36+01:00",
+            "_commit_index": 2379,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4f646a860d2a2be662d516072b2749fa96ac53bd",
+            "_timestamp": "2019-12-20 12:56:39-05:00",
+            "_commit_index": 2388,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "cf640c3c99cee8c293ab70f57cd01833e2a0d3a9",
+            "_timestamp": "2020-01-06 12:38:04+01:00",
+            "_commit_index": 2399,
+            "_changed_files_list": [
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/DropDatabaseParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/CreateUniqueIndexParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/ViewSelectedColumnsParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/UseStatementParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/MySqlAntlrDdlParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/DropTableParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/CreateViewParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/SetStatementParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/DropViewParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/AlterTableParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/ColumnDefinitionParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/RenameTableParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/AlterViewParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/CreateTableParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/CreateAndAlterDatabaseParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/antlr/listener/TruncateTableParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "_repo_id": 373,
+    "_repo_name": "skalogs/SkaETL",
+    "_total_commits": 474,
+    "_commit_history": [
+        {
+            "_sha_id": "8367bce0d16e93ee49aa9551b02f86336f771960",
+            "_timestamp": "2018-05-11 11:58:23+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "77d9fe3bb304728164daefcc4d434e8abfd0398d",
+            "_timestamp": "2018-06-04 18:00:05+02:00",
+            "_commit_index": 236,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "78fad859c2f61e75561e13e5a8f30c3aba89dda4",
+            "_timestamp": "2018-08-09 11:32:21+02:00",
+            "_commit_index": 354,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "90696085ad8485ab7958d493de10a5d8ce8f34ec",
+            "_timestamp": "2018-08-21 12:11:37+02:00",
+            "_commit_index": 413,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "ae99353db176d157459fa677b543c51967531339",
+            "_timestamp": "2018-08-28 12:13:27+02:00",
+            "_commit_index": 443,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "ce0698e7f8f83dac60d3c0d91f5faa16f2ac41bf",
+            "_timestamp": "2018-08-30 16:36:45+02:00",
+            "_commit_index": 458,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "341768528b59af792751bf46f2ec23fd992f1578",
+            "_timestamp": "2018-08-31 17:09:04+02:00",
+            "_commit_index": 465,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "c17a9e6d502ea9f53bf538e07211e3d9a175876b",
+            "_timestamp": "2018-12-19 20:45:16+03:00",
+            "_commit_index": 469,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "9033cdddcadb34b5181979bb55c4b88b747a0ed6",
+            "_timestamp": "2018-12-20 09:48:38+03:00",
+            "_commit_index": 471,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "38514a830a50c8597859f19b1e992c738bca2e67",
+            "_timestamp": "2018-12-20 09:20:30+01:00",
+            "_commit_index": 474,
+            "_changed_files_list": [
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/metrics/RuleMetricVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 29
+                },
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/filters/RuleFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                }
+            ]
+        }
+    ]
+}

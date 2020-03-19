@@ -1,0 +1,201 @@
+{
+    "_repo_id": 407,
+    "_repo_name": "tunnelvisionlabs/antlrworks2",
+    "_total_commits": 1013,
+    "_commit_history": [
+        {
+            "_sha_id": "04e7292698c779536299561856de998ec5b8fecb",
+            "_timestamp": "2011-09-24 18:37:04+00:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
+            "_timestamp": "2012-08-08 22:31:23-05:00",
+            "_commit_index": 506,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
+            "_timestamp": "2012-08-08 22:31:23-05:00",
+            "_commit_index": 506,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
+            "_timestamp": "2012-08-08 22:31:23-05:00",
+            "_commit_index": 506,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
+            "_timestamp": "2012-08-08 22:31:23-05:00",
+            "_commit_index": 506,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
+            "_timestamp": "2012-08-08 22:31:23-05:00",
+            "_commit_index": 506,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
+            "_timestamp": "2012-08-08 22:31:23-05:00",
+            "_commit_index": 506,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
+            "_timestamp": "2012-08-08 22:31:23-05:00",
+            "_commit_index": 506,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
+            "_timestamp": "2012-08-08 22:31:23-05:00",
+            "_commit_index": 506,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "1e357ffbbac18cc0ca656e3c80e1e1e68f6e889d",
+            "_timestamp": "2017-07-18 21:47:06-05:00",
+            "_commit_index": 1013,
+            "_changed_files_list": [
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/syndiag/SyntaxDiagramTopComponent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/LiteralLexerRuleValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/SuppressTokenTypeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/LiteralLexerRuleVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/formatting/GrammarIndentTask.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 23
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/refactoring/IncrementRuleVersionAction.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/highlighter/SemanticHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/analysis/FactorLabelForSetHintParserTask.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/analysis/ImplicitTokenDefinitionHintParserTask.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/analysis/MissingRuleDefinitionHintParserTask.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/analysis/GroupSetElementsHintParserTask.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/GrammarParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/ActionExpressionAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/LabelAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/highlighter/SemanticHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/TemplateParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

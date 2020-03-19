@@ -1,0 +1,75 @@
+{
+    "_repo_id": 44,
+    "_repo_name": "Intel-bigdata/SSM",
+    "_total_commits": 1347,
+    "_commit_history": [
+        {
+            "_sha_id": "8b55409bf9b851fb738917098d1245ef28d655aa",
+            "_timestamp": "2017-06-01 13:07:02+08:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
+            "_timestamp": "2017-08-17 17:15:33+08:00",
+            "_commit_index": 673,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
+            "_timestamp": "2017-08-17 17:15:33+08:00",
+            "_commit_index": 673,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
+            "_timestamp": "2017-08-17 17:15:33+08:00",
+            "_commit_index": 673,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
+            "_timestamp": "2017-08-17 17:15:33+08:00",
+            "_commit_index": 673,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
+            "_timestamp": "2017-08-17 17:15:33+08:00",
+            "_commit_index": 673,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
+            "_timestamp": "2017-08-17 17:15:33+08:00",
+            "_commit_index": 673,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
+            "_timestamp": "2017-08-17 17:15:33+08:00",
+            "_commit_index": 673,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
+            "_timestamp": "2017-08-17 17:15:33+08:00",
+            "_commit_index": 673,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "918718249183f3fa9b5603359994a8baf68fabff",
+            "_timestamp": "2019-12-05 15:42:27+08:00",
+            "_commit_index": 1347,
+            "_changed_files_list": [
+                {
+                    "_file_name": "smart-rule/src/main/java/org/smartdata/rule/parser/SmartRuleVisitTranslator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 48
+                }
+            ]
+        }
+    ]
+}

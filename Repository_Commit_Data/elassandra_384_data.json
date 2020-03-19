@@ -1,0 +1,75 @@
+{
+    "_repo_id": 384,
+    "_repo_name": "strapdata/elassandra",
+    "_total_commits": 30072,
+    "_commit_history": [
+        {
+            "_sha_id": "ec72ca8b7a115f9b2eea3c76c518062b99a1d015",
+            "_timestamp": "2010-02-08 15:22:27+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "e2cbec185b2ac8ef3c1af41c304365395601c2bb",
+            "_timestamp": "2015-08-07 14:27:24+02:00",
+            "_commit_index": 15035,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5b94c4a25b8a6322de573d5d9923d5838db748ec",
+            "_timestamp": "2016-06-03 15:41:40-04:00",
+            "_commit_index": 22553,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "365d33efe392592f5cd645789a183b444ee70ee0",
+            "_timestamp": "2017-02-02 16:39:56-08:00",
+            "_commit_index": 26312,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "02e9ad6d6fde8c72b0772fb8346b306d43af493c",
+            "_timestamp": "2017-07-13 08:33:56+02:00",
+            "_commit_index": 28191,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4f7f9deb1c0ec4cb468119e6355286ab86786cc4",
+            "_timestamp": "2017-11-23 15:04:38+01:00",
+            "_commit_index": 29131,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4ff328c9c075bdcaf0c4b4060d13993b8301a044",
+            "_timestamp": "2018-01-30 10:02:26+01:00",
+            "_commit_index": 29601,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "051050de50d8de64de7ddba1ebe9f036136980c6",
+            "_timestamp": "2018-10-09 15:57:48+02:00",
+            "_commit_index": 29836,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "54b2816832d9e9033fc538da450f2b117ad2db3e",
+            "_timestamp": "2019-04-18 11:54:28+02:00",
+            "_commit_index": 29953,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d8316814bd185cd3643630c2a24c70714664dd5d",
+            "_timestamp": "2019-12-28 20:13:09+01:00",
+            "_commit_index": 30072,
+            "_changed_files_list": [
+                {
+                    "_file_name": "modules/lang-painless/src/main/java/org/elasticsearch/painless/antlr/Walker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 77
+                }
+            ]
+        }
+    ]
+}

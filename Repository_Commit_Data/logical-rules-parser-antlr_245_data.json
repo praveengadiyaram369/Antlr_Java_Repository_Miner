@@ -1,0 +1,41 @@
+{
+    "_repo_id": 245,
+    "_repo_name": "ivanyu/logical-rules-parser-antlr",
+    "_total_commits": 4,
+    "_commit_history": [
+        {
+            "_sha_id": "1816095830086207ab4d309edfe45529c47ee597",
+            "_timestamp": "2014-09-13 22:04:36+04:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "cc0a77f724a37b4245ded3b90393736190fe6d1f",
+            "_timestamp": "2014-09-13 22:06:45+04:00",
+            "_commit_index": 1,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/me/ivanyu/compiler/TreeBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 16,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "575158cb44bf86afc4c678d0cad4a422ce6445d1",
+            "_timestamp": "2014-09-14 01:13:17+04:00",
+            "_commit_index": 4,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/me/ivanyu/compiler/TreeBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 16,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

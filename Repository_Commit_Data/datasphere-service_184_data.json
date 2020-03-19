@@ -1,0 +1,82 @@
+{
+    "_repo_id": 184,
+    "_repo_name": "datasphere-oss/datasphere-service",
+    "_total_commits": 399,
+    "_commit_history": [
+        {
+            "_sha_id": "d0833be87ea5f13fdcb8558dc98f269e4c866326",
+            "_timestamp": "2019-08-23 09:45:34+08:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "e189850122584357e2bf878c18b40e1bd5cfa57a",
+            "_timestamp": "2019-09-21 17:06:27+08:00",
+            "_commit_index": 199,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "501e111b7976c103e5174abedc467a37b9d22e65",
+            "_timestamp": "2019-10-16 14:54:09+08:00",
+            "_commit_index": 298,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "591afbeaa112fdfcfa1ab6aad1d8f6f855124c3a",
+            "_timestamp": "2019-10-16 18:23:00+08:00",
+            "_commit_index": 348,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "02d5daec4c0125f528eca88a8c87a90fad202a89",
+            "_timestamp": "2019-10-16 21:19:13+08:00",
+            "_commit_index": 373,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "c7aafc2944b0ecdddf074e60274ceeab16cac433",
+            "_timestamp": "2019-10-16 21:53:41+08:00",
+            "_commit_index": 385,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6f646baa69fcf7e96c08639fe8d39ee6b4709758",
+            "_timestamp": "2019-10-16 21:56:17+08:00",
+            "_commit_index": 391,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "42937d3c654ae7d00fd867a7a36e671cc6265474",
+            "_timestamp": "2019-10-16 22:36:51+08:00",
+            "_commit_index": 394,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f70e528780c605855b3b47532740ab8cdeffce78",
+            "_timestamp": "2019-10-16 22:37:48+08:00",
+            "_commit_index": 396,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "ee5333f9e139909b615ca092758bb06989a4ca7f",
+            "_timestamp": "2019-12-07 13:12:24+08:00",
+            "_commit_index": 399,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/datasphere/server/prep/parser/preparation/PrepRuleVisitorParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 53
+                },
+                {
+                    "_file_name": "src/main/java/com/datasphere/server/prep/parser/preparation/RuleVisitorParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                }
+            ]
+        }
+    ]
+}

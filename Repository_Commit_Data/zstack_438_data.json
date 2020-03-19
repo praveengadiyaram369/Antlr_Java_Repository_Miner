@@ -1,0 +1,222 @@
+{
+    "_repo_id": 438,
+    "_repo_name": "zstackio/zstack",
+    "_total_commits": 8683,
+    "_commit_history": [
+        {
+            "_sha_id": "9c250b087953e0aa6096266317cef81fe2a67ce1",
+            "_timestamp": "2015-04-04 14:29:29-07:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8d914bf654197e8bec3cb11ecd658f760bd2e8bc",
+            "_timestamp": "2017-11-30 04:17:02-05:00",
+            "_commit_index": 4341,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "37aa5ad10d86ef60dea30033861d94243b7adfe2",
+            "_timestamp": "2018-10-24 21:32:37+08:00",
+            "_commit_index": 6511,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b86436f55092b4567426a8c4573e35544dc465d5",
+            "_timestamp": "2019-05-18 10:28:10+08:00",
+            "_commit_index": 7596,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6256a90262532b44119991723cc7d9b07302e47c",
+            "_timestamp": "2019-08-29 15:41:34+08:00",
+            "_commit_index": 8139,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "c1495c90bed45c74449027ab1a592af1841de7aa",
+            "_timestamp": "2019-10-25 17:23:55+08:00",
+            "_commit_index": 8410,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "12837231c5af1f49d6850b1a1ec18cb6a4d3d696",
+            "_timestamp": "2019-12-05 20:35:45+08:00",
+            "_commit_index": 8546,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8cf5f080d69c1c7db9c63631dda73be311865f8e",
+            "_timestamp": "2019-12-26 10:48:55+08:00",
+            "_commit_index": 8614,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "86a817f82e7a6be984b2ab9a43a3f67fd239db1c",
+            "_timestamp": "2019-12-30 13:38:25+08:00",
+            "_commit_index": 8648,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "eb41103d870ec9328962cd0023c935ab4a7f2f76",
+            "_timestamp": "2020-01-07 10:29:20+08:00",
+            "_commit_index": 8683,
+            "_changed_files_list": [
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/ExprVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/RestrictExprVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/SumVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/OrderByVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/FilterByExprVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/QueryTargetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/ReturnWithVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/ReturnWithExprVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/QueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/ValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/QueryTargetWithFunctionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/RestrictByVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/OffsetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/NamedAsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/ConditionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/GroupByVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/FilterByVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/LimitVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/CountVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/SubQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/FunctionVistor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "search/src/main/java/org/zstack/zql/ast/parser/visitors/SubQueryTargetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        }
+    ]
+}

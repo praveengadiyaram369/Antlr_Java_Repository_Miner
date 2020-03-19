@@ -1,0 +1,89 @@
+{
+    "_repo_id": 175,
+    "_repo_name": "crate/crate",
+    "_total_commits": 10290,
+    "_commit_history": [
+        {
+            "_sha_id": "c1d8b17df58dc35bbcbd1e65c65feec2cce42dcd",
+            "_timestamp": "2013-04-10 11:18:35+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
+            "_timestamp": "2016-01-15 11:11:53+01:00",
+            "_commit_index": 5144,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
+            "_timestamp": "2016-01-15 11:11:53+01:00",
+            "_commit_index": 5144,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
+            "_timestamp": "2016-01-15 11:11:53+01:00",
+            "_commit_index": 5144,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
+            "_timestamp": "2016-01-15 11:11:53+01:00",
+            "_commit_index": 5144,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
+            "_timestamp": "2016-01-15 11:11:53+01:00",
+            "_commit_index": 5144,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
+            "_timestamp": "2016-01-15 11:11:53+01:00",
+            "_commit_index": 5144,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
+            "_timestamp": "2016-01-15 11:11:53+01:00",
+            "_commit_index": 5144,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
+            "_timestamp": "2016-01-15 11:11:53+01:00",
+            "_commit_index": 5144,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "38bf0c03083dd74bf0bad7beba4a784ff056acfe",
+            "_timestamp": "2020-01-06 12:46:13+01:00",
+            "_commit_index": 10290,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sql-parser/src/main/java/io/crate/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "sql-parser/src/main/java/io/crate/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 171
+                },
+                {
+                    "_file_name": "pgwire/src/main/java/io/crate/protocols/postgres/parser/PgArrayASTVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
+        }
+    ]
+}

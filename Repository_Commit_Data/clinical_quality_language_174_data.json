@@ -1,0 +1,167 @@
+{
+    "_repo_id": 174,
+    "_repo_name": "cqframework/clinical_quality_language",
+    "_total_commits": 1804,
+    "_commit_history": [
+        {
+            "_sha_id": "d0be852321702aed534d8ae58e63a8675c8a82f3",
+            "_timestamp": "2014-05-30 17:32:25-06:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "1de9cff0acb44a6bca46db8f049a20cbcad391c9",
+            "_timestamp": "2016-11-04 10:21:37-06:00",
+            "_commit_index": 901,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Src/java/cql-to-elm/src/main/java/org/cqframework/cql/cql2elm/Cql2ElmVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 103
+                }
+            ]
+        },
+        {
+            "_sha_id": "1de9cff0acb44a6bca46db8f049a20cbcad391c9",
+            "_timestamp": "2016-11-04 10:21:37-06:00",
+            "_commit_index": 901,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Src/java/cql-to-elm/src/main/java/org/cqframework/cql/cql2elm/Cql2ElmVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 103
+                }
+            ]
+        },
+        {
+            "_sha_id": "1de9cff0acb44a6bca46db8f049a20cbcad391c9",
+            "_timestamp": "2016-11-04 10:21:37-06:00",
+            "_commit_index": 901,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Src/java/cql-to-elm/src/main/java/org/cqframework/cql/cql2elm/Cql2ElmVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 103
+                }
+            ]
+        },
+        {
+            "_sha_id": "1de9cff0acb44a6bca46db8f049a20cbcad391c9",
+            "_timestamp": "2016-11-04 10:21:37-06:00",
+            "_commit_index": 901,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Src/java/cql-to-elm/src/main/java/org/cqframework/cql/cql2elm/Cql2ElmVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 103
+                }
+            ]
+        },
+        {
+            "_sha_id": "1de9cff0acb44a6bca46db8f049a20cbcad391c9",
+            "_timestamp": "2016-11-04 10:21:37-06:00",
+            "_commit_index": 901,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Src/java/cql-to-elm/src/main/java/org/cqframework/cql/cql2elm/Cql2ElmVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 103
+                }
+            ]
+        },
+        {
+            "_sha_id": "1de9cff0acb44a6bca46db8f049a20cbcad391c9",
+            "_timestamp": "2016-11-04 10:21:37-06:00",
+            "_commit_index": 901,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Src/java/cql-to-elm/src/main/java/org/cqframework/cql/cql2elm/Cql2ElmVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 103
+                }
+            ]
+        },
+        {
+            "_sha_id": "1de9cff0acb44a6bca46db8f049a20cbcad391c9",
+            "_timestamp": "2016-11-04 10:21:37-06:00",
+            "_commit_index": 901,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Src/java/cql-to-elm/src/main/java/org/cqframework/cql/cql2elm/Cql2ElmVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 103
+                }
+            ]
+        },
+        {
+            "_sha_id": "1de9cff0acb44a6bca46db8f049a20cbcad391c9",
+            "_timestamp": "2016-11-04 10:21:37-06:00",
+            "_commit_index": 901,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Src/java/cql-to-elm/src/main/java/org/cqframework/cql/cql2elm/Cql2ElmVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 103
+                }
+            ]
+        },
+        {
+            "_sha_id": "4989e66a4e1702043dcd72af273859cab8792c0b",
+            "_timestamp": "2019-10-29 08:17:15-06:00",
+            "_commit_index": 1804,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Src/java-quickstart/src/main/java/org/cqframework/cql/quickstart/QuickstartCqlVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "Src/java/tools/cql-formatter/src/main/java/org/cqframework/cql/tools/formatter/CqlFormatterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 150
+                },
+                {
+                    "_file_name": "Src/java/cql-to-elm/src/main/java/org/cqframework/cql/cql2elm/Cql2ElmVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 114
+                },
+                {
+                    "_file_name": "Src/java/cql-to-elm/src/main/java/org/cqframework/cql/cql2elm/preprocessor/CqlPreprocessorVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 14
+                },
+                {
+                    "_file_name": "Src/java/elm/src/main/java/org/cqframework/cql/elm/visiting/ElmBaseClinicalVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 15
+                }
+            ]
+        }
+    ]
+}

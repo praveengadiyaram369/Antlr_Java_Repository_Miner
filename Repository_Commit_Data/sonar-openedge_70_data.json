@@ -1,0 +1,132 @@
+{
+    "_repo_id": 70,
+    "_repo_name": "Riverside-Software/sonar-openedge",
+    "_total_commits": 544,
+    "_commit_history": [
+        {
+            "_sha_id": "5a95744700c0a495348ef62a46358021303eb51d",
+            "_timestamp": "2016-01-20 14:50:07+01:00",
+            "_commit_index": 1,
+            "_changed_files_list": [
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileReleaseDescriptor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 24
+                },
+                {
+                    "_file_name": "profiler-parser/src/main/java/eu/rssw/antlr/profiler/ProfilerSessionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
+        },
+        {
+            "_sha_id": "9f4bd4487491512b849d266d2ff81f830cd5ea5f",
+            "_timestamp": "2018-03-21 09:13:32+01:00",
+            "_commit_index": 271,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "9707b06352d84cda0683c35338a87d86c6a737a9",
+            "_timestamp": "2019-01-09 17:45:46+01:00",
+            "_commit_index": 407,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b32facbe2ddc2df03a90e98b97c3b6b31417e13e",
+            "_timestamp": "2019-06-18 11:23:59+02:00",
+            "_commit_index": 475,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "1db5d6ad269996f55a7e552765514b8746b41f76",
+            "_timestamp": "2019-10-02 14:58:44+02:00",
+            "_commit_index": 509,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "199ee028a6f7aea8a855ef500f2bbe2b465f8f88",
+            "_timestamp": "2019-10-28 15:14:52+01:00",
+            "_commit_index": 526,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "97997ed5a5acb9a902b889eb05d75672201cd683",
+            "_timestamp": "2019-10-31 15:26:37+01:00",
+            "_commit_index": 534,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "1d7172f691624705811fcc0fbba702ecc9b83c47",
+            "_timestamp": "2019-11-07 08:51:09+01:00",
+            "_commit_index": 538,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d9c6eaae59fd1b780229200ba61aa4825625759f",
+            "_timestamp": "2019-11-08 09:21:04+01:00",
+            "_commit_index": 540,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "cb3bfdaa90428e76d1a1dd8cfa9b814d1da7c576",
+            "_timestamp": "2019-11-12 16:06:48+01:00",
+            "_commit_index": 544,
+            "_changed_files_list": [
+                {
+                    "_file_name": "profiler-parser/src/main/java/eu/rssw/antlr/profiler/ProfilerSessionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "proparse/src/main/java/org/prorefactor/proparse/antlr4/PreproEval.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 39
+                },
+                {
+                    "_file_name": "proparse/src/main/java/org/prorefactor/proparse/antlr4/JPNodeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 487
+                },
+                {
+                    "_file_name": "proparse/src/main/java/org/prorefactor/proparse/antlr4/TreeParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 197,
+                    "_exit_cnt": 76,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileReleaseDescriptor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "_repo_id": 358,
+    "_repo_name": "runelite/runelite",
+    "_total_commits": 8494,
+    "_commit_history": [
+        {
+            "_sha_id": "41681f94a54e0d42399aa633cb70a0e69b0cf7d7",
+            "_timestamp": "2014-11-30 20:35:37-05:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "2c1006635ec8620562b18446f31a05f748d19e5d",
+            "_timestamp": "2018-06-18 21:56:12+02:00",
+            "_commit_index": 4246,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8606165345d09180f90976061dfda217f862d92b",
+            "_timestamp": "2019-01-13 14:29:02+10:18",
+            "_commit_index": 6369,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0c2a253718839dd68076a25402d55b06db90b5e3",
+            "_timestamp": "2019-06-05 20:59:53-04:00",
+            "_commit_index": 7431,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d6157aba782542f0e4662bcfd5737828f33b7666",
+            "_timestamp": "2019-08-27 12:38:03+02:00",
+            "_commit_index": 7962,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "294a0ab8349b15acd123e0dfd4bb3fa7ffec9d0a",
+            "_timestamp": "2019-10-31 05:46:47-06:00",
+            "_commit_index": 8227,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6dc9d9dc8876b49d0c34438e85169715e301c5e8",
+            "_timestamp": "2019-11-26 13:48:16+01:00",
+            "_commit_index": 8360,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "7f03a2f23e169f0878cd04126c0ff11ac7ccb10c",
+            "_timestamp": "2019-12-16 21:06:50-05:00",
+            "_commit_index": 8426,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "cb0d401ecf57ab322d2b9864776b917551ec7de0",
+            "_timestamp": "2019-12-24 09:15:14+00:00",
+            "_commit_index": 8459,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "dba07c247588a86b912f1437d43e3614be7bcee1",
+            "_timestamp": "2020-01-05 14:03:28-05:00",
+            "_commit_index": 8494,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cache/src/main/java/net/runelite/cache/script/assembler/LabelVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cache/src/main/java/net/runelite/cache/script/assembler/ScriptWriter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

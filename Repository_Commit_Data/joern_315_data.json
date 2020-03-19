@@ -1,0 +1,82 @@
+{
+    "_repo_id": 315,
+    "_repo_name": "octopus-platform/joern",
+    "_total_commits": 1470,
+    "_commit_history": [
+        {
+            "_sha_id": "016da411d56e926d13ad4fb0ac11711582bc72a1",
+            "_timestamp": "2013-03-04 16:57:04+01:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
+            "_timestamp": "2015-10-14 14:18:13+02:00",
+            "_commit_index": 734,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
+            "_timestamp": "2015-10-14 14:18:13+02:00",
+            "_commit_index": 734,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
+            "_timestamp": "2015-10-14 14:18:13+02:00",
+            "_commit_index": 734,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
+            "_timestamp": "2015-10-14 14:18:13+02:00",
+            "_commit_index": 734,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
+            "_timestamp": "2015-10-14 14:18:13+02:00",
+            "_commit_index": 734,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
+            "_timestamp": "2015-10-14 14:18:13+02:00",
+            "_commit_index": 734,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
+            "_timestamp": "2015-10-14 14:18:13+02:00",
+            "_commit_index": 734,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
+            "_timestamp": "2015-10-14 14:18:13+02:00",
+            "_commit_index": 734,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "fd9d01cea4b891c174c37d92a0bc8c3d003bc696",
+            "_timestamp": "2019-04-03 15:56:59+02:00",
+            "_commit_index": 1470,
+            "_changed_files_list": [
+                {
+                    "_file_name": "projects/extensions/joern-fuzzyc/src/main/java/parsing/Functions/CFunctionParseTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 60,
+                    "_exit_cnt": 42,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "projects/extensions/joern-fuzzyc/src/main/java/parsing/Modules/CModuleParserTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        }
+    ]
+}

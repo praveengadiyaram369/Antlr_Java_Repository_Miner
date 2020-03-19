@@ -1,0 +1,89 @@
+{
+    "_repo_id": 338,
+    "_repo_name": "prestodb/presto",
+    "_total_commits": 16688,
+    "_commit_history": [
+        {
+            "_sha_id": "d0eb103a660125a53660a7ba2c95e9b8a4d8feb6",
+            "_timestamp": "2012-08-08 12:58:34-07:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
+            "_timestamp": "2016-08-17 10:29:58-04:00",
+            "_commit_index": 8343,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
+            "_timestamp": "2016-08-17 10:29:58-04:00",
+            "_commit_index": 8343,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
+            "_timestamp": "2016-08-17 10:29:58-04:00",
+            "_commit_index": 8343,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
+            "_timestamp": "2016-08-17 10:29:58-04:00",
+            "_commit_index": 8343,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
+            "_timestamp": "2016-08-17 10:29:58-04:00",
+            "_commit_index": 8343,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
+            "_timestamp": "2016-08-17 10:29:58-04:00",
+            "_commit_index": 8343,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
+            "_timestamp": "2016-08-17 10:29:58-04:00",
+            "_commit_index": 8343,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
+            "_timestamp": "2016-08-17 10:29:58-04:00",
+            "_commit_index": 8343,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "072f6456ba788379218b2ce3c28b30da616ad91c",
+            "_timestamp": "2019-12-17 17:00:29-05:00",
+            "_commit_index": 16688,
+            "_changed_files_list": [
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/type/TypeCalculation.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 150
+                }
+            ]
+        }
+    ]
+}
