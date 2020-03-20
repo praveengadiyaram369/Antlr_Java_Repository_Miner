@@ -13,49 +13,89 @@
             "_sha_id": "fb00393e5d600ecb90a1937f273938281d0352c7",
             "_timestamp": "2017-05-26 17:03:42+08:00",
             "_commit_index": 49,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/com/mercy/compiler/FrontEnd/ASTBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 41,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "4af2fcfebdc2ea8ebbe84888990e24441aa58703",
+            "_timestamp": "2017-05-07 04:44:08+08:00",
+            "_commit_index": 24,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/com/mercy/compiler/FrontEnd/ASTBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 41,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "c03b743f34dc10c860858dfd7c85372fe28845f7",
+            "_timestamp": "2017-04-01 20:28:46+08:00",
+            "_commit_index": 12,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/com/mercy/compiler/FrontEnd/ASTBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 41,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "4f347acd3e8cf2500ad1b181ee999659edfa0b6b",
+            "_timestamp": "2017-03-29 20:43:38+08:00",
+            "_commit_index": 6,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "5a9165d5f715925bc0453678ca196f9bfd2357f7",
-            "_timestamp": "2017-05-30 01:11:53+08:00",
-            "_commit_index": 74,
+            "_sha_id": "5b4a27a4fcd920786d3543208c497caa9239fea1",
+            "_timestamp": "2017-03-30 13:06:28+08:00",
+            "_commit_index": 9,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "5e238c3c65410d62c056f94d935ba21105ec5163",
-            "_timestamp": "2017-05-31 20:54:43+08:00",
-            "_commit_index": 86,
+            "_sha_id": "65988147f03b6e3325d9c1c791e2c387766644e1",
+            "_timestamp": "2017-03-30 13:09:50+08:00",
+            "_commit_index": 10,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "7076b1cb153cecf18ed1ac5539df02feda70efaf",
-            "_timestamp": "2017-06-22 11:12:03+08:00",
-            "_commit_index": 92,
-            "_changed_files_list": []
+            "_sha_id": "e00bb3c13eb489e990c80a500f05dde9331a4209",
+            "_timestamp": "2017-04-01 19:57:12+08:00",
+            "_commit_index": 11,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/com/mercy/compiler/FrontEnd/ASTBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 41,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "d8fa1303af4a9886305f18fbf4f937ca0b3fae33",
-            "_timestamp": "2017-06-22 11:32:42+08:00",
-            "_commit_index": 95,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "33401e2c81be4e44776e5ffb06f66303758a5768",
-            "_timestamp": "2017-06-22 13:59:16+08:00",
-            "_commit_index": 97,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "a714e3457c8e55782716da3318bd29758fd67ee8",
-            "_timestamp": "2018-05-26 23:28:43+08:00",
-            "_commit_index": 98,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "170b659dbae43681b4159755361f48f36240ed13",
-            "_timestamp": "2017-05-29 05:48:41+08:00",
-            "_commit_index": 71,
-            "_changed_files_list": []
+            "_sha_id": "579918a0c0365938fac2201e436c101408475e9b",
+            "_timestamp": "2017-05-29 03:30:21+08:00",
+            "_commit_index": 69,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/com/mercy/compiler/FrontEnd/ASTBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 41,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "f04d8876b6f7bafca42823ac21848d654bdef272",

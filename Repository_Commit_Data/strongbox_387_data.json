@@ -19,43 +19,260 @@
             "_sha_id": "332a2311e4b4e9c8784bb51693cdd2c79b5ed17b",
             "_timestamp": "2019-01-16 13:20:05-05:00",
             "_commit_index": 4152,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "strongbox-storage/strongbox-storage-layout-providers/strongbox-storage-nuget-layout-provider/src/main/java/org/carlspring/strongbox/nuget/filter/NugetODataQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "strongbox-storage/strongbox-storage-layout-providers/strongbox-storage-nuget-layout-provider/src/main/java/org/carlspring/strongbox/nuget/filter/NugetODataFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
             "_sha_id": "2963293f8b21d2f54fd06f5306919752aa01ea6a",
             "_timestamp": "2019-05-23 15:21:32+07:00",
             "_commit_index": 4844,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "strongbox-storage/strongbox-storage-layout-providers/strongbox-storage-nuget-layout-provider/src/main/java/org/carlspring/strongbox/nuget/filter/NugetODataQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "strongbox-storage/strongbox-storage-layout-providers/strongbox-storage-nuget-layout-provider/src/main/java/org/carlspring/strongbox/nuget/filter/NugetODataFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
             "_sha_id": "5d2d91e07d1f2339902954544fb3e623f3b3307c",
             "_timestamp": "2019-08-30 18:03:32+01:00",
             "_commit_index": 5190,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "strongbox-storage/strongbox-storage-layout-providers/strongbox-storage-nuget-layout-provider/src/main/java/org/carlspring/strongbox/nuget/filter/NugetODataQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "strongbox-storage/strongbox-storage-layout-providers/strongbox-storage-nuget-layout-provider/src/main/java/org/carlspring/strongbox/nuget/filter/NugetODataFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlPaginatorVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
-            "_sha_id": "9f1095e5d602859994fe75a94f5acf0ad69bc7b7",
-            "_timestamp": "2019-10-03 20:29:20+02:00",
-            "_commit_index": 5363,
-            "_changed_files_list": []
+            "_sha_id": "d44c1a926c2f0c07fbfe23dc4c8b40d9b7ea8571",
+            "_timestamp": "2019-07-05 12:12:08+02:00",
+            "_commit_index": 5017,
+            "_changed_files_list": [
+                {
+                    "_file_name": "strongbox-storage/strongbox-storage-layout-providers/strongbox-storage-nuget-layout-provider/src/main/java/org/carlspring/strongbox/nuget/filter/NugetODataQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "strongbox-storage/strongbox-storage-layout-providers/strongbox-storage-nuget-layout-provider/src/main/java/org/carlspring/strongbox/nuget/filter/NugetODataFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlPaginatorVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
-            "_sha_id": "41713b968e267803a3dd61b5562a2ebf5dcdafab",
-            "_timestamp": "2019-11-07 10:06:23+03:00",
-            "_commit_index": 5450,
-            "_changed_files_list": []
+            "_sha_id": "4f063850af98ba6e0906371f34d481f80e3f263e",
+            "_timestamp": "2019-04-13 11:26:00-04:00",
+            "_commit_index": 4930,
+            "_changed_files_list": [
+                {
+                    "_file_name": "strongbox-storage/strongbox-storage-layout-providers/strongbox-storage-nuget-layout-provider/src/main/java/org/carlspring/strongbox/nuget/filter/NugetODataQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "strongbox-storage/strongbox-storage-layout-providers/strongbox-storage-nuget-layout-provider/src/main/java/org/carlspring/strongbox/nuget/filter/NugetODataFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlPaginatorVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
-            "_sha_id": "a416b57e461ebbd9b184f630451a4c312e23694a",
-            "_timestamp": "2019-12-04 15:08:57-06:00",
-            "_commit_index": 5493,
-            "_changed_files_list": []
+            "_sha_id": "92b6f2815080c4d8ebccbff15c9e58e1c27588a9",
+            "_timestamp": "2019-06-08 16:12:43+03:00",
+            "_commit_index": 4887,
+            "_changed_files_list": [
+                {
+                    "_file_name": "strongbox-storage/strongbox-storage-layout-providers/strongbox-storage-nuget-layout-provider/src/main/java/org/carlspring/strongbox/nuget/filter/NugetODataQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "strongbox-storage/strongbox-storage-layout-providers/strongbox-storage-nuget-layout-provider/src/main/java/org/carlspring/strongbox/nuget/filter/NugetODataFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
-            "_sha_id": "094db6073a128a1992da2461466041f03e290c7d",
-            "_timestamp": "2019-12-06 23:23:08+08:00",
-            "_commit_index": 5515,
-            "_changed_files_list": []
+            "_sha_id": "05a99fb526caf18b415023f45798881c7e4733c2",
+            "_timestamp": "2019-06-06 10:41:44+07:00",
+            "_commit_index": 4908,
+            "_changed_files_list": [
+                {
+                    "_file_name": "strongbox-storage/strongbox-storage-layout-providers/strongbox-storage-nuget-layout-provider/src/main/java/org/carlspring/strongbox/nuget/filter/NugetODataQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "strongbox-storage/strongbox-storage-layout-providers/strongbox-storage-nuget-layout-provider/src/main/java/org/carlspring/strongbox/nuget/filter/NugetODataFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "strongbox-aql/src/main/java/org/carlspring/strongbox/aql/grammar/AqlPaginatorVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
             "_sha_id": "da96fd765294337472d215c058e1ff4d693b6435",

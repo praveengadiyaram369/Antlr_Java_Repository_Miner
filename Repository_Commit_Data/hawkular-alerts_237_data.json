@@ -16,45 +16,53 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "99085ca72dcb54ffbbb852d5f2e981ec73490640",
-            "_timestamp": "2015-12-01 10:54:45+01:00",
-            "_commit_index": 603,
+            "_sha_id": "fd4219a2af0494b98fb68cafbf4b1b693173e154",
+            "_timestamp": "2016-10-05 14:42:44-05:00",
+            "_commit_index": 904,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "99085ca72dcb54ffbbb852d5f2e981ec73490640",
-            "_timestamp": "2015-12-01 10:54:45+01:00",
-            "_commit_index": 603,
+            "_sha_id": "02a2fdd390730ffd14f594bf4337c2e2c394afdf",
+            "_timestamp": "2017-05-26 18:12:01+02:00",
+            "_commit_index": 1055,
+            "_changed_files_list": [
+                {
+                    "_file_name": "engine/src/main/java/org/hawkular/alerts/engine/tags/ExpressionTagQueryParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "f661a0c069733f2ccfc78ca5d2a945f6d0523277",
+            "_timestamp": "2016-12-16 17:08:39-05:00",
+            "_commit_index": 979,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "99085ca72dcb54ffbbb852d5f2e981ec73490640",
-            "_timestamp": "2015-12-01 10:54:45+01:00",
-            "_commit_index": 603,
+            "_sha_id": "1d0eda10e006525916aec68480fd829c3905b8a2",
+            "_timestamp": "2017-03-24 18:50:16+01:00",
+            "_commit_index": 1017,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "99085ca72dcb54ffbbb852d5f2e981ec73490640",
-            "_timestamp": "2015-12-01 10:54:45+01:00",
-            "_commit_index": 603,
+            "_sha_id": "f876e94843503eece46fc2235ede707d262d59f9",
+            "_timestamp": "2017-04-17 19:03:52-03:00",
+            "_commit_index": 1036,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "99085ca72dcb54ffbbb852d5f2e981ec73490640",
-            "_timestamp": "2015-12-01 10:54:45+01:00",
-            "_commit_index": 603,
+            "_sha_id": "d2e73c68a10a2bb4f5c8797d5b5ae5b0524c3479",
+            "_timestamp": "2017-05-03 10:07:49+02:00",
+            "_commit_index": 1045,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "99085ca72dcb54ffbbb852d5f2e981ec73490640",
-            "_timestamp": "2015-12-01 10:54:45+01:00",
-            "_commit_index": 603,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "99085ca72dcb54ffbbb852d5f2e981ec73490640",
-            "_timestamp": "2015-12-01 10:54:45+01:00",
-            "_commit_index": 603,
+            "_sha_id": "2c16ff286e25886ccf6901287f716f92e91dc55b",
+            "_timestamp": "2017-05-12 14:30:31+02:00",
+            "_commit_index": 1050,
             "_changed_files_list": []
         },
         {

@@ -13,48 +13,78 @@
             "_sha_id": "254425ce1e3a4a7b70f509b95abdbfd79c0f0860",
             "_timestamp": "2017-04-18 16:11:29+02:00",
             "_commit_index": 137,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/io/proleap/vb6/asg/visitor/impl/AbstractVbParserVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/io/proleap/vb6/asg/visitor/impl/VbModuleNameAnalyzerVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "f3898acaed07683198bd062b9aa544d97d2930cb",
+            "_timestamp": "2016-10-15 14:28:02+02:00",
+            "_commit_index": 68,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b398660fb73323b87a16944532ee63053862ffef",
-            "_timestamp": "2017-08-17 15:11:03+02:00",
-            "_commit_index": 206,
+            "_sha_id": "40ac072aaf9d2d5902331bc54e8b1ac3d518d988",
+            "_timestamp": "2016-11-29 22:06:58+01:00",
+            "_commit_index": 102,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "5e09e4810c38953b74459d0a251317fda41a2619",
-            "_timestamp": "2017-12-17 01:10:50+01:00",
-            "_commit_index": 240,
+            "_sha_id": "ef012a5ac8443ed49b28c1ac3267968d9066fd23",
+            "_timestamp": "2016-12-06 11:16:45+01:00",
+            "_commit_index": 119,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/io/proleap/vb6/asg/visitor/impl/AbstractVbParserVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/io/proleap/vb6/asg/visitor/impl/VbModuleNameAnalyzerVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "cc7ed0799efb54a9c53c8c056f0d9c7f60a68c5b",
+            "_timestamp": "2016-12-02 18:49:40+01:00",
+            "_commit_index": 110,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "3e82df3bd51c6c24090912ee8b0283cc29673cb7",
-            "_timestamp": "2018-07-24 20:37:54+02:00",
-            "_commit_index": 257,
+            "_sha_id": "ac78ec32712b2045a9f56d2e2b464039c4f2eb2c",
+            "_timestamp": "2016-12-03 13:20:01+01:00",
+            "_commit_index": 114,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b0cdf260c604e6f60db84b57b07b38a120966738",
-            "_timestamp": "2019-01-07 11:25:58+01:00",
-            "_commit_index": 266,
+            "_sha_id": "c76545f9631ca246c3726f35df01c9c82cae60bd",
+            "_timestamp": "2016-12-04 19:46:39+01:00",
+            "_commit_index": 116,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "ff289387cb6edb776f9b33acf270f49896324dbc",
-            "_timestamp": "2019-01-20 12:51:29+01:00",
-            "_commit_index": 270,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4e2cadcd625b3a4710871e5b5a7894f1c1844777",
-            "_timestamp": "2019-08-08 19:39:03+02:00",
-            "_commit_index": 272,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c85be9a4cd9a9aa107fc49208049b50292a0bac5",
-            "_timestamp": "2019-08-31 13:03:32+02:00",
-            "_commit_index": 273,
+            "_sha_id": "a0ac52ffc9ecc55a51fc9774a5fe3ce4b8c19b16",
+            "_timestamp": "2016-12-05 10:58:22+01:00",
+            "_commit_index": 117,
             "_changed_files_list": []
         },
         {

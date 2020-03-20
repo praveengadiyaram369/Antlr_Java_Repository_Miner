@@ -13,18 +13,6 @@
             "_sha_id": "ee323101a40fd0647a4d266139ee6885be12fec5",
             "_timestamp": "2019-03-08 14:51:45+08:00",
             "_commit_index": 180,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "19905e02bef259e154ffb4601b513ac813222244",
-            "_timestamp": "2019-09-10 13:37:32+08:00",
-            "_commit_index": 270,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "406b53d3840de487c2b4565bfc990212b46552af",
-            "_timestamp": "2019-11-30 05:50:44+08:00",
-            "_commit_index": 315,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/depends/extractor/pom/PomListener.java",
@@ -32,37 +20,95 @@
                     "_enter_cnt": 1,
                     "_exit_cnt": 1,
                     "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/depends/extractor/kotlin/KotlinListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/depends/extractor/java/JavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 19,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "a3c2b61023b98080fe98c63e2af86332e49e771f",
-            "_timestamp": "2019-12-21 23:09:44+08:00",
-            "_commit_index": 337,
+            "_sha_id": "4560f13757957f7c4bac96aa9f1cca611dba9203",
+            "_timestamp": "2018-12-30 10:46:50+08:00",
+            "_commit_index": 90,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b48185e08400c5b39608b6118fdb7744d99cf8ee",
-            "_timestamp": "2020-01-02 23:52:10+08:00",
-            "_commit_index": 348,
+            "_sha_id": "a21aa80c33cdfe8b7ae2830fa5510dadae0710d2",
+            "_timestamp": "2019-02-14 00:07:32+08:00",
+            "_commit_index": 135,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/depends/extractor/java/JavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 19,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "e855248f80e571f45613c984790cfe7d9938e9a1",
+            "_timestamp": "2019-02-09 11:34:32+08:00",
+            "_commit_index": 112,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "03cc80253f0f34d6829653116d6f6c05204021ea",
-            "_timestamp": "2020-01-03 19:54:34+08:00",
-            "_commit_index": 354,
-            "_changed_files_list": []
+            "_sha_id": "b87e3b0630996c7695f020a0808422c495e7d006",
+            "_timestamp": "2019-02-11 11:02:42+08:00",
+            "_commit_index": 123,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/depends/extractor/java/JavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 19,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "52a70558ce0b44e21e51fe9d9c602c47f7a2d7fd",
-            "_timestamp": "2020-01-04 09:51:29+08:00",
-            "_commit_index": 357,
-            "_changed_files_list": []
+            "_sha_id": "9c9690c06347324221b0a726098d00d255fe4d51",
+            "_timestamp": "2019-02-10 16:17:43+08:00",
+            "_commit_index": 117,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/depends/extractor/java/JavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 19,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "36ce0aa6a67d5d41772caf5bf076c107dc7ea9ba",
-            "_timestamp": "2020-01-04 11:19:52+08:00",
-            "_commit_index": 358,
+            "_sha_id": "688be131883243dadff572e351c0bc4a04e2ab88",
+            "_timestamp": "2019-02-09 20:11:44+08:00",
+            "_commit_index": 114,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/depends/extractor/java/JavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 19,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "ad2f5e13758c3d60cbfa1535e176b6fd6e179f4c",
+            "_timestamp": "2019-02-09 11:41:43+08:00",
+            "_commit_index": 113,
             "_changed_files_list": []
         },
         {

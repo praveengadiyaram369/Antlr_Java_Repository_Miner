@@ -13,49 +13,81 @@
             "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
             "_timestamp": "2017-11-15 03:39:55+02:00",
             "_commit_index": 576,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/at/ac/tuwien/kr/alpha/grounder/parser/ParseTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 33
+                }
+            ]
+        },
+        {
+            "_sha_id": "421a93cd5700149f2a5c4eb049bcc60e343212f2",
+            "_timestamp": "2017-01-19 00:07:15+01:00",
+            "_commit_index": 288,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
-            "_timestamp": "2017-11-15 03:39:55+02:00",
-            "_commit_index": 576,
+            "_sha_id": "b633f81e0d9b50d8a16035396767f3dc7d344bd0",
+            "_timestamp": "2017-05-31 16:48:18+02:00",
+            "_commit_index": 432,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
-            "_timestamp": "2017-11-15 03:39:55+02:00",
-            "_commit_index": 576,
+            "_sha_id": "933aed687b41caeb143f58381958bfa04bde2bf6",
+            "_timestamp": "2017-10-15 21:47:10+02:00",
+            "_commit_index": 504,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/at/ac/tuwien/kr/alpha/grounder/parser/ParseTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 28
+                }
+            ]
+        },
+        {
+            "_sha_id": "a0ccaf1874c090ec53f3b3e5da5f4d60ef2d45c7",
+            "_timestamp": "2017-09-11 13:46:34+03:00",
+            "_commit_index": 468,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
-            "_timestamp": "2017-11-15 03:39:55+02:00",
-            "_commit_index": 576,
+            "_sha_id": "7a0e6727d8f4a6124388d7e30138359cdcf8605b",
+            "_timestamp": "2017-10-12 22:23:48+03:00",
+            "_commit_index": 486,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/at/ac/tuwien/kr/alpha/grounder/parser/ParseTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 23
+                }
+            ]
+        },
+        {
+            "_sha_id": "13e184d5cba1071aec0a08463625124ccf30e9c1",
+            "_timestamp": "2017-10-04 22:25:37+02:00",
+            "_commit_index": 477,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
-            "_timestamp": "2017-11-15 03:39:55+02:00",
-            "_commit_index": 576,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
-            "_timestamp": "2017-11-15 03:39:55+02:00",
-            "_commit_index": 576,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
-            "_timestamp": "2017-11-15 03:39:55+02:00",
-            "_commit_index": 576,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4a618d194c81a68b83e5de12f4f98ae247268365",
-            "_timestamp": "2017-11-15 03:39:55+02:00",
-            "_commit_index": 576,
-            "_changed_files_list": []
+            "_sha_id": "2d85f482578f91c85a7245d1241d79ee57c1bb89",
+            "_timestamp": "2017-10-12 03:16:23+03:00",
+            "_commit_index": 481,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/at/ac/tuwien/kr/alpha/grounder/parser/ParseTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 23
+                }
+            ]
         },
         {
             "_sha_id": "b7d809f101448c0d56e7a5ee52fd5ded436537b0",

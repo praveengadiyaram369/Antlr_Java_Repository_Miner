@@ -13,48 +13,104 @@
             "_sha_id": "25f162fa84bfb285b8f3cdc5d7ab284e328b93cf",
             "_timestamp": "2019-06-05 11:07:26+02:00",
             "_commit_index": 845,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/sparksoniq/jsoniq/compiler/JsoniqExpressionTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 44
+                }
+            ]
         },
         {
-            "_sha_id": "25f162fa84bfb285b8f3cdc5d7ab284e328b93cf",
-            "_timestamp": "2019-06-05 11:07:26+02:00",
-            "_commit_index": 845,
-            "_changed_files_list": []
+            "_sha_id": "f9701793c7777cc44e5cf7ca58364d6e368d8820",
+            "_timestamp": "2018-12-12 14:04:40+01:00",
+            "_commit_index": 422,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/sparksoniq/jsoniq/compiler/JsoniqExpressionTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 44
+                }
+            ]
         },
         {
-            "_sha_id": "25f162fa84bfb285b8f3cdc5d7ab284e328b93cf",
-            "_timestamp": "2019-06-05 11:07:26+02:00",
-            "_commit_index": 845,
-            "_changed_files_list": []
+            "_sha_id": "3417bb0a11a877edbdec8962b685c8657fd7bbc9",
+            "_timestamp": "2018-09-09 16:08:43+02:00",
+            "_commit_index": 211,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/sparksoniq/jsoniq/compiler/JsoniqExpressionTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 43
+                }
+            ]
         },
         {
-            "_sha_id": "25f162fa84bfb285b8f3cdc5d7ab284e328b93cf",
-            "_timestamp": "2019-06-05 11:07:26+02:00",
-            "_commit_index": 845,
-            "_changed_files_list": []
+            "_sha_id": "e9d82b8d81f2620ac8b6720051b986a74171e793",
+            "_timestamp": "2018-06-13 14:52:57+02:00",
+            "_commit_index": 105,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/sparksoniq/jsoniq/compiler/JsoniqExpressionTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 43
+                }
+            ]
         },
         {
-            "_sha_id": "25f162fa84bfb285b8f3cdc5d7ab284e328b93cf",
-            "_timestamp": "2019-06-05 11:07:26+02:00",
-            "_commit_index": 845,
-            "_changed_files_list": []
+            "_sha_id": "f2cbdcb7985738525bcf7b430d9f965da838df8f",
+            "_timestamp": "2018-01-11 17:00:31+01:00",
+            "_commit_index": 52,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/sparksoniq/jsoniq/compiler/JsoniqExpressionTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 43
+                }
+            ]
         },
         {
-            "_sha_id": "25f162fa84bfb285b8f3cdc5d7ab284e328b93cf",
-            "_timestamp": "2019-06-05 11:07:26+02:00",
-            "_commit_index": 845,
-            "_changed_files_list": []
+            "_sha_id": "d36ac347899708f3bee36e2b06664e6cf4ef84f0",
+            "_timestamp": "2017-09-29 14:19:00+03:00",
+            "_commit_index": 26,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/sparksoniq/jsoniq/compiler/JsoniqExpressionTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 43
+                }
+            ]
         },
         {
-            "_sha_id": "25f162fa84bfb285b8f3cdc5d7ab284e328b93cf",
-            "_timestamp": "2019-06-05 11:07:26+02:00",
-            "_commit_index": 845,
-            "_changed_files_list": []
+            "_sha_id": "407df4b32e9aa301caa54ebdd6bff337dffb5c43",
+            "_timestamp": "2017-09-22 12:01:02+02:00",
+            "_commit_index": 13,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/sparksoniq/jsoniq/compiler/JsoniqExpressionTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 41
+                }
+            ]
         },
         {
-            "_sha_id": "25f162fa84bfb285b8f3cdc5d7ab284e328b93cf",
-            "_timestamp": "2019-06-05 11:07:26+02:00",
-            "_commit_index": 845,
+            "_sha_id": "b6e36cce0956bfdeb032eb8d91e5d58d55da9d53",
+            "_timestamp": "2017-09-19 14:28:33+02:00",
+            "_commit_index": 6,
             "_changed_files_list": []
         },
         {

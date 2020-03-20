@@ -25,37 +25,99 @@
             "_sha_id": "6768021bf2870e23ddc073fc51771664aba93c23",
             "_timestamp": "2019-05-28 13:02:34+02:00",
             "_commit_index": 5418,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "dhis-2/dhis-services/dhis-service-core/src/main/java/org/hisp/dhis/program/ProgramElementsAndAttributesCollecter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "dhis-2/dhis-support/dhis-support-expression-parser/src/main/java/org/hisp/dhis/parser/expression/CommonExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
         },
         {
-            "_sha_id": "8fa9b88fe95c0e16be981bd37c26e673257801d0",
-            "_timestamp": "2019-08-12 16:16:44+02:00",
-            "_commit_index": 5805,
-            "_changed_files_list": []
+            "_sha_id": "84f059101c065e1a7bb46c9a8e64193b675afb3f",
+            "_timestamp": "2019-04-01 16:42:04+02:00",
+            "_commit_index": 5031,
+            "_changed_files_list": [
+                {
+                    "_file_name": "dhis-2/dhis-services/dhis-service-core/src/main/java/org/hisp/dhis/program/ProgramElementsAndAttributesCollecter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "9977e231d722ccb8118352296377fd7ab48049f1",
-            "_timestamp": "2019-10-23 17:15:00+02:00",
-            "_commit_index": 5998,
-            "_changed_files_list": []
+            "_sha_id": "d32968364260f9c976fcfcff1564cdce24884862",
+            "_timestamp": "2019-05-01 09:30:36-04:00",
+            "_commit_index": 5224,
+            "_changed_files_list": [
+                {
+                    "_file_name": "dhis-2/dhis-services/dhis-service-core/src/main/java/org/hisp/dhis/program/ProgramElementsAndAttributesCollecter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "dhis-2/dhis-support/dhis-support-expression-parser/src/main/java/org/hisp/dhis/parser/expression/CommonExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
         },
         {
-            "_sha_id": "ab4710e83989710b9cfe8bacfd3e6479a4217244",
-            "_timestamp": "2019-11-25 14:33:20+01:00",
-            "_commit_index": 6095,
-            "_changed_files_list": []
+            "_sha_id": "19ad849fe55550ce00ebf4c077eba1cc5acb0835",
+            "_timestamp": "2019-04-24 11:57:17+02:00",
+            "_commit_index": 5127,
+            "_changed_files_list": [
+                {
+                    "_file_name": "dhis-2/dhis-services/dhis-service-core/src/main/java/org/hisp/dhis/program/ProgramElementsAndAttributesCollecter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "7929d292cae201eb49e833bd1c4558fd0b9e9d38",
-            "_timestamp": "2019-12-05 09:32:24+01:00",
-            "_commit_index": 6143,
-            "_changed_files_list": []
+            "_sha_id": "55c0e36e0df9f6d08e55b85a149a04ff9687e960",
+            "_timestamp": "2019-04-26 15:02:54+02:00",
+            "_commit_index": 5175,
+            "_changed_files_list": [
+                {
+                    "_file_name": "dhis-2/dhis-services/dhis-service-core/src/main/java/org/hisp/dhis/program/ProgramElementsAndAttributesCollecter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "dc18ccb49ddd052015a8669c9768f56add197403",
-            "_timestamp": "2019-12-19 14:35:15+01:00",
-            "_commit_index": 6167,
-            "_changed_files_list": []
+            "_sha_id": "4eb4710164a5ee9d4d3787fb1ccf363a0308f9db",
+            "_timestamp": "2019-04-29 11:02:37+02:00",
+            "_commit_index": 5199,
+            "_changed_files_list": [
+                {
+                    "_file_name": "dhis-2/dhis-services/dhis-service-core/src/main/java/org/hisp/dhis/program/ProgramElementsAndAttributesCollecter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "4cc3610f6805059d16ff799b6e4b57b55e923e73",

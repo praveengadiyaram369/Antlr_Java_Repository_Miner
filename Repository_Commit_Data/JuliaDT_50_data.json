@@ -13,49 +13,113 @@
             "_sha_id": "b48c6e22de82821a5d7d46fd74ac0a044b12933a",
             "_timestamp": "2016-03-03 10:08:50+00:00",
             "_commit_index": 65,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugins/com.juliacomputing.jldt.eclipse.parser/src/main/java/com/juliacomputing/jldt/eclipse/internal/parser/JuliaModuleFactory.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 35
+                }
+            ]
         },
         {
-            "_sha_id": "b48c6e22de82821a5d7d46fd74ac0a044b12933a",
-            "_timestamp": "2016-03-03 10:08:50+00:00",
-            "_commit_index": 65,
-            "_changed_files_list": []
+            "_sha_id": "5baac6dddca65d16ca54b3edb7ae3f6de7d375a1",
+            "_timestamp": "2016-02-07 17:57:14+00:00",
+            "_commit_index": 32,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugins/com.juliacomputing.jldt.eclipse.parser/src/main/java/com/juliacomputing/jldt/eclipse/internal/parser/JuliaModuleFactory.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 36
+                }
+            ]
         },
         {
-            "_sha_id": "b48c6e22de82821a5d7d46fd74ac0a044b12933a",
-            "_timestamp": "2016-03-03 10:08:50+00:00",
-            "_commit_index": 65,
-            "_changed_files_list": []
+            "_sha_id": "42b5873580a0e5dab53780555e4e9409e6f90aa4",
+            "_timestamp": "2016-01-02 16:05:01+00:00",
+            "_commit_index": 16,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugins/com.juliacomputing.jldt.eclipse.parser/src/main/java/com/juliacomputing/jldt/eclipse/internal/parser/JuliaModuleFactory.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 36
+                }
+            ]
         },
         {
-            "_sha_id": "b48c6e22de82821a5d7d46fd74ac0a044b12933a",
-            "_timestamp": "2016-03-03 10:08:50+00:00",
-            "_commit_index": 65,
-            "_changed_files_list": []
+            "_sha_id": "edf12f410ecad587ce047a17cb3621d6b1a3ced3",
+            "_timestamp": "2015-12-30 11:46:25+00:00",
+            "_commit_index": 8,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugins/com.juliacomputing.jldt.eclipse.parser/src/main/java/com/juliacomputing/jldt/eclipse/internal/parser/JuliaModuleFactory.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
         },
         {
-            "_sha_id": "b48c6e22de82821a5d7d46fd74ac0a044b12933a",
-            "_timestamp": "2016-03-03 10:08:50+00:00",
-            "_commit_index": 65,
-            "_changed_files_list": []
+            "_sha_id": "75b674ff2f93e848f55500ea9118e1422be4c943",
+            "_timestamp": "2016-01-01 16:24:49+00:00",
+            "_commit_index": 12,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugins/com.juliacomputing.jldt.eclipse.parser/src/main/java/com/juliacomputing/jldt/eclipse/internal/parser/JuliaModuleFactory.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 37
+                }
+            ]
         },
         {
-            "_sha_id": "b48c6e22de82821a5d7d46fd74ac0a044b12933a",
-            "_timestamp": "2016-03-03 10:08:50+00:00",
-            "_commit_index": 65,
-            "_changed_files_list": []
+            "_sha_id": "f7c1e55a76dfbe7a807976f4acaaf7ead490d2cf",
+            "_timestamp": "2015-12-31 14:55:21+00:00",
+            "_commit_index": 10,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugins/com.juliacomputing.jldt.eclipse.parser/src/main/java/com/juliacomputing/jldt/eclipse/internal/parser/JuliaModuleFactory.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 36
+                }
+            ]
         },
         {
-            "_sha_id": "b48c6e22de82821a5d7d46fd74ac0a044b12933a",
-            "_timestamp": "2016-03-03 10:08:50+00:00",
-            "_commit_index": 65,
-            "_changed_files_list": []
+            "_sha_id": "89b56b6d482d4c418510126d3d47bdf101e8ebc0",
+            "_timestamp": "2015-12-31 04:40:32+00:00",
+            "_commit_index": 9,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugins/com.juliacomputing.jldt.eclipse.parser/src/main/java/com/juliacomputing/jldt/eclipse/internal/parser/JuliaModuleFactory.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 19
+                }
+            ]
         },
         {
-            "_sha_id": "b48c6e22de82821a5d7d46fd74ac0a044b12933a",
-            "_timestamp": "2016-03-03 10:08:50+00:00",
-            "_commit_index": 65,
-            "_changed_files_list": []
+            "_sha_id": "b2f09542849147b992e3da6b2dc37eb30236b5dc",
+            "_timestamp": "2016-03-22 15:27:59+00:00",
+            "_commit_index": 93,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugins/com.juliacomputing.jldt.eclipse.parser/src/main/java/com/juliacomputing/jldt/eclipse/internal/parser/JuliaModuleFactory.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 35
+                }
+            ]
         },
         {
             "_sha_id": "54440603c48c357a1440eee3cedb0a434962b1c2",

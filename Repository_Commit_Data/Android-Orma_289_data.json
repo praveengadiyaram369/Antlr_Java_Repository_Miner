@@ -13,49 +13,79 @@
             "_sha_id": "17465b7c030ed4fdb947976c3fe1da3580a0afb5",
             "_timestamp": "2016-03-04 22:18:25-08:00",
             "_commit_index": 774,
+            "_changed_files_list": [
+                {
+                    "_file_name": "migration/src/main/java/com/github/gfx/android/orma/migration/sqliteparser/SQLiteCreateTableStatementCollector.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "migration/src/main/java/com/github/gfx/android/orma/migration/sqliteparser/SQLiteCreateIndexStatementCollector.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "307212c00ab74da4f5f6a2b69e945cf90d7849da",
+            "_timestamp": "2015-12-26 19:43:43+09:00",
+            "_commit_index": 387,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "17465b7c030ed4fdb947976c3fe1da3580a0afb5",
-            "_timestamp": "2016-03-04 22:18:25-08:00",
-            "_commit_index": 774,
+            "_sha_id": "33e6254b8ef149ab267036a359db84c7c11e1dac",
+            "_timestamp": "2016-02-07 11:32:40+09:00",
+            "_commit_index": 580,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "17465b7c030ed4fdb947976c3fe1da3580a0afb5",
-            "_timestamp": "2016-03-04 22:18:25-08:00",
-            "_commit_index": 774,
+            "_sha_id": "72dbb000930792616528ae02e018973c7846909f",
+            "_timestamp": "2016-02-21 19:54:38+09:00",
+            "_commit_index": 677,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "17465b7c030ed4fdb947976c3fe1da3580a0afb5",
-            "_timestamp": "2016-03-04 22:18:25-08:00",
-            "_commit_index": 774,
+            "_sha_id": "153aa3eb91b407b950364b03ec29abd025ccfcd6",
+            "_timestamp": "2016-02-25 23:07:42+09:00",
+            "_commit_index": 725,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "17465b7c030ed4fdb947976c3fe1da3580a0afb5",
-            "_timestamp": "2016-03-04 22:18:25-08:00",
-            "_commit_index": 774,
+            "_sha_id": "608c967fa420cea9338776d7f3f345a75e041307",
+            "_timestamp": "2016-02-27 23:58:45+09:00",
+            "_commit_index": 749,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "17465b7c030ed4fdb947976c3fe1da3580a0afb5",
-            "_timestamp": "2016-03-04 22:18:25-08:00",
-            "_commit_index": 774,
+            "_sha_id": "3a13054f2b1bdbba89af872ae1e8f8c36aae613c",
+            "_timestamp": "2016-02-29 10:12:39+09:00",
+            "_commit_index": 761,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "17465b7c030ed4fdb947976c3fe1da3580a0afb5",
-            "_timestamp": "2016-03-04 22:18:25-08:00",
-            "_commit_index": 774,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "17465b7c030ed4fdb947976c3fe1da3580a0afb5",
-            "_timestamp": "2016-03-04 22:18:25-08:00",
-            "_commit_index": 774,
-            "_changed_files_list": []
+            "_sha_id": "845c99cb4b862c640d2c7b400454440a93dea40c",
+            "_timestamp": "2016-03-03 15:21:00-08:00",
+            "_commit_index": 767,
+            "_changed_files_list": [
+                {
+                    "_file_name": "migration/src/main/java/com/github/gfx/android/orma/migration/sqliteparser/SQLiteCreateTableStatementCollector.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "migration/src/main/java/com/github/gfx/android/orma/migration/sqliteparser/SQLiteCreateIndexStatementCollector.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "9b4d5181a7ee8edf34e8471b6d2ac73f618de402",

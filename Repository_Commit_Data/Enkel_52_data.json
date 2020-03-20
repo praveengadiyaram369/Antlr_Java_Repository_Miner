@@ -21,6 +21,20 @@
             "_commit_index": 21,
             "_changed_files_list": [
                 {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/FunctionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/CompilationUnitVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
                     "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/ClassVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
@@ -35,11 +49,46 @@
                     "_visit_cnt": 1
                 },
                 {
-                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/function/CallExpressionVisitor.java",
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/ValueExpressionVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 3
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/ConditionalExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/VariableReferenceExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/ArithmeticExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/function/ParameterExpressionListVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
                 },
                 {
                     "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/function/ParameterExpressionVisitor.java",
@@ -47,16 +96,72 @@
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 2
-                }
-            ]
-        },
-        {
-            "_sha_id": "3e0b0c5ec9ca6e31039e4737162727b5a890d37f",
-            "_timestamp": "2018-09-02 15:15:29+08:00",
-            "_commit_index": 24,
-            "_changed_files_list": [
+                },
                 {
-                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/ValueExpressionVisitor.java",
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/function/CallExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/function/ArgumentExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/function/ArgumentExpressionsListVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/statement/ForStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/statement/BlockStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/statement/PrintStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/statement/ReturnStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/statement/StatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/statement/IfStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/statement/VariableDeclarationStatementVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
@@ -65,33 +170,187 @@
             ]
         },
         {
-            "_sha_id": "cfb11c2ae3f4aa31f580a1d8a64a54d802fded93",
-            "_timestamp": "2018-09-02 15:42:03+08:00",
-            "_commit_index": 26,
+            "_sha_id": "7b7914fd72d4402946a16273d027a45b857562e8",
+            "_timestamp": "2018-08-30 23:19:33+08:00",
+            "_commit_index": 17,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "c9b1fd11d86b274c3a9ed9914c4cabaca4a1d88d",
-            "_timestamp": "2018-09-03 18:31:33+08:00",
-            "_commit_index": 27,
+            "_sha_id": "b3536411d9c506749b9fc879759e75388d8d3746",
+            "_timestamp": "2018-08-31 00:32:21+08:00",
+            "_commit_index": 19,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "a0ce0c2520e1892b6f1f3e927bb232d179c5d80d",
-            "_timestamp": "2018-08-13 23:26:39+08:00",
-            "_commit_index": 3,
+            "_sha_id": "06fc63963843e69b534896e685f289d79e9a5246",
+            "_timestamp": "2018-08-31 13:14:04+08:00",
+            "_commit_index": 20,
+            "_changed_files_list": [
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/FunctionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/CompilationUnitVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/ClassVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/FunctionSignatureVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/ValueExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/ConditionalExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/VariableReferenceExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/ArithmeticExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/function/ParameterExpressionListVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/function/ParameterExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/function/CallExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/function/ArgumentExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/expression/function/ArgumentExpressionsListVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/statement/ForStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/statement/BlockStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/statement/PrintStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/statement/ReturnStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/statement/StatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/statement/IfStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/bendcap/enkel/compiler/parsing/visitor/statement/VariableDeclarationStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "02fb97ba9db6b9d736ff133c5daf7ea53d83214e",
+            "_timestamp": "2018-08-25 10:38:20+08:00",
+            "_commit_index": 10,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "94b40b78f9076c8a83294c0f66b1979a445af973",
-            "_timestamp": "2018-08-30 23:54:45+08:00",
-            "_commit_index": 18,
+            "_sha_id": "392f24f3f4a47a78aabe254ae23ce4a46666d266",
+            "_timestamp": "2018-08-29 23:25:19+08:00",
+            "_commit_index": 15,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "7d84bbd98ef46e60146cf1a87f87418d40177fd6",
-            "_timestamp": "2018-08-25 16:30:13+08:00",
-            "_commit_index": 11,
+            "_sha_id": "e10ce91bb4e0c77b351d3ea9a096898a8feca9d6",
+            "_timestamp": "2018-08-13 23:28:09+08:00",
+            "_commit_index": 4,
             "_changed_files_list": []
         },
         {

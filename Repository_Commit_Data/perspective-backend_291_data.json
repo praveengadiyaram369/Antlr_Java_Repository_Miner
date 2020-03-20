@@ -13,49 +13,155 @@
             "_sha_id": "e9a0ec7c499600d95ba902bb22e805ba2c56b7ee",
             "_timestamp": "2016-06-26 13:33:37+03:00",
             "_commit_index": 283,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "perspective-sql/src/main/java/org/meridor/perspective/sql/impl/PlaceholderConfigurer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "perspective-sql/src/main/java/org/meridor/perspective/sql/impl/parser/QueryParserImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "f4f67e9baf7de024caa8ee08fe413f1eaf25ac88",
-            "_timestamp": "2016-10-03 06:33:49+03:00",
-            "_commit_index": 425,
-            "_changed_files_list": []
+            "_sha_id": "1d2ab4ec04ed4feeb6c084b186a7e38ac1d4bc63",
+            "_timestamp": "2016-01-05 19:48:42+03:00",
+            "_commit_index": 141,
+            "_changed_files_list": [
+                {
+                    "_file_name": "perspective-sql/src/main/java/org/meridor/perspective/sql/impl/PlaceholderConfigurer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "837bb04dccd9ff77d9ec988be47a983575423371",
-            "_timestamp": "2016-12-04 17:49:32+03:00",
-            "_commit_index": 496,
-            "_changed_files_list": []
+            "_sha_id": "197957d0d829ce5c3de364897ba7f02ecf7a3745",
+            "_timestamp": "2016-03-17 22:26:14+03:00",
+            "_commit_index": 212,
+            "_changed_files_list": [
+                {
+                    "_file_name": "perspective-sql/src/main/java/org/meridor/perspective/sql/impl/PlaceholderConfigurer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "perspective-sql/src/main/java/org/meridor/perspective/sql/impl/parser/QueryParserImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "8540c6bb00a4ce5e30b377780d44bcf6816137b4",
-            "_timestamp": "2017-01-10 20:21:50+03:00",
-            "_commit_index": 531,
-            "_changed_files_list": []
+            "_sha_id": "be3b15f447188116dda4d5095ea2689869a35a86",
+            "_timestamp": "2016-02-24 14:14:12+03:00",
+            "_commit_index": 176,
+            "_changed_files_list": [
+                {
+                    "_file_name": "perspective-sql/src/main/java/org/meridor/perspective/sql/impl/PlaceholderConfigurer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "perspective-sql/src/main/java/org/meridor/perspective/sql/impl/parser/QueryParserImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "47a99332f9cee606272c81e56ad950059328324e",
-            "_timestamp": "2017-01-26 12:09:29+03:00",
-            "_commit_index": 549,
-            "_changed_files_list": []
+            "_sha_id": "e2c12c121810ee8aec3cbee19f174bf336a3227a",
+            "_timestamp": "2016-02-10 18:58:50+03:00",
+            "_commit_index": 158,
+            "_changed_files_list": [
+                {
+                    "_file_name": "perspective-sql/src/main/java/org/meridor/perspective/sql/impl/PlaceholderConfigurer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "perspective-sql/src/main/java/org/meridor/perspective/sql/impl/parser/QueryParserImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "c3115ac0025548bb157ac745408f2fffdd38f388",
-            "_timestamp": "2017-02-14 11:17:22+03:00",
-            "_commit_index": 558,
-            "_changed_files_list": []
+            "_sha_id": "ffd49278f741252d769be31447bfa3e8a7869dd6",
+            "_timestamp": "2016-02-03 11:17:30+03:00",
+            "_commit_index": 149,
+            "_changed_files_list": [
+                {
+                    "_file_name": "perspective-sql/src/main/java/org/meridor/perspective/sql/impl/PlaceholderConfigurer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "perspective-sql/src/main/java/org/meridor/perspective/sql/impl/parser/QueryParserImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "fd6b7cfb335eb01300a2a3fb6bcf29644225f047",
-            "_timestamp": "2017-02-14 12:02:13+03:00",
-            "_commit_index": 562,
-            "_changed_files_list": []
+            "_sha_id": "6f30ebacc91df6b50b98b87b6954e35f99cff52b",
+            "_timestamp": "2016-01-09 13:42:22+03:00",
+            "_commit_index": 145,
+            "_changed_files_list": [
+                {
+                    "_file_name": "perspective-sql/src/main/java/org/meridor/perspective/sql/impl/PlaceholderConfigurer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "perspective-sql/src/main/java/org/meridor/perspective/sql/impl/parser/QueryParserImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "e7e125740e7e2ba9f2e00a347745811f4a388f51",
-            "_timestamp": "2017-02-14 19:01:53+03:00",
-            "_commit_index": 564,
-            "_changed_files_list": []
+            "_sha_id": "8b2489354d63d6ff6ce6c7548a076f99d8a9aae5",
+            "_timestamp": "2016-01-07 11:31:00+03:00",
+            "_commit_index": 143,
+            "_changed_files_list": [
+                {
+                    "_file_name": "perspective-sql/src/main/java/org/meridor/perspective/sql/impl/PlaceholderConfigurer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "5f98083977a57115988678e97d1642ee83431258",

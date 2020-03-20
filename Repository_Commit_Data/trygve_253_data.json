@@ -13,49 +13,162 @@
             "_sha_id": "e3ec745ab5a48fd10859a270f9ef3e65f0cb81da",
             "_timestamp": "2016-01-23 21:29:23+01:00",
             "_commit_index": 173,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/DebugPassListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/Pass0Listener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "641d9b1a00afad74a3a1055b67462fe36f21ec5b",
             "_timestamp": "2016-04-14 11:46:04+02:00",
             "_commit_index": 260,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/DebugPassListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/Pass0Listener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "489316d85b8240d4456e2f7f8e3647e93f796cc6",
-            "_timestamp": "2016-05-12 22:54:13+02:00",
-            "_commit_index": 303,
-            "_changed_files_list": []
+            "_sha_id": "179c39396807e7ce01621895c3fda51731ca491d",
+            "_timestamp": "2016-02-22 17:06:26+01:00",
+            "_commit_index": 216,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/DebugPassListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/Pass0Listener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "c757192fc137aad8f1a84ed4e2107fb235b7347c",
-            "_timestamp": "2017-04-19 23:15:15+02:00",
-            "_commit_index": 325,
-            "_changed_files_list": []
+            "_sha_id": "82934065e8d4b6f9cd72cf0a0e22d0c0bd716299",
+            "_timestamp": "2016-02-06 13:04:20+01:00",
+            "_commit_index": 194,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/DebugPassListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/Pass0Listener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "59a34e69b04cd66a513afecdf698ae1b48006f99",
-            "_timestamp": "2017-08-13 16:14:10+02:00",
-            "_commit_index": 336,
-            "_changed_files_list": []
+            "_sha_id": "c0c016d8d93f006eba07d8992e31fb378ea27800",
+            "_timestamp": "2015-12-18 01:28:56+01:00",
+            "_commit_index": 86,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/DebugPassListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
-            "_sha_id": "1e2fd35cb30c1df2f35c903e709ab51849ec0631",
-            "_timestamp": "2018-04-15 15:24:37+02:00",
-            "_commit_index": 341,
-            "_changed_files_list": []
+            "_sha_id": "8e70df32c622ea9a401e9603df7785740116c4b3",
+            "_timestamp": "2016-01-31 16:24:11+01:00",
+            "_commit_index": 183,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/DebugPassListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/Pass0Listener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "51df3713471bfa07407f8caccb954bce89803187",
-            "_timestamp": "2019-03-11 00:59:01-04:00",
-            "_commit_index": 344,
-            "_changed_files_list": []
+            "_sha_id": "390b7ae2e283e7a383764cd5146425b6254c300e",
+            "_timestamp": "2016-01-22 13:30:30+01:00",
+            "_commit_index": 188,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/DebugPassListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/Pass0Listener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "f955c99944f1b99370f376060ab075ff264fbc48",
-            "_timestamp": "2019-03-11 12:24:36+01:00",
-            "_commit_index": 345,
-            "_changed_files_list": []
+            "_sha_id": "3eeee2cb3ee939f1bbd6b54462f98e0963cfd86c",
+            "_timestamp": "2016-01-31 18:16:23+01:00",
+            "_commit_index": 185,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/DebugPassListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/info/fulloo/trygve/parser/Pass0Listener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "3faebe091ad9657553520d926890740f89031c7a",

@@ -13,45 +13,9 @@
             "_sha_id": "5d1ee94bef3fbbbc7a255dbeaced3a9145fadfd9",
             "_timestamp": "2017-07-17 17:10:43+02:00",
             "_commit_index": 142,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "dfd8c320cc021965d459d6a171899331990722ac",
-            "_timestamp": "2017-12-14 14:07:36+01:00",
-            "_commit_index": 213,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "400fad02481925b55d6d42c3b32a9ee3fe651e7d",
-            "_timestamp": "2018-03-17 16:01:57+01:00",
-            "_commit_index": 249,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "562a95b2a5b4b1ed084ba8f4912e860fdf5f043b",
-            "_timestamp": "2018-09-26 20:20:12+02:00",
-            "_commit_index": 267,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "39182944e4666e896de4e5dc713de70b94c945c3",
-            "_timestamp": "2018-11-30 14:26:35+01:00",
-            "_commit_index": 276,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "5c0f1564202e18174d51891e137edff5d44240d4",
-            "_timestamp": "2019-01-07 12:16:58+01:00",
-            "_commit_index": 280,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "bfb595c066a41df4ce800d5bfbb6dcf78b579453",
-            "_timestamp": "2019-08-07 15:25:51+02:00",
-            "_commit_index": 282,
             "_changed_files_list": [
                 {
-                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/ColumnPredicateFilterVisitor.java",
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/BooleanFilterVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
@@ -63,13 +27,150 @@
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/ColumnPredicateFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/FilterPredicateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/RegexFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
                 }
             ]
         },
         {
-            "_sha_id": "a410b866bae7e58cb615aeec2dd4cd6847f22e0e",
-            "_timestamp": "2019-08-07 15:57:24+02:00",
-            "_commit_index": 283,
+            "_sha_id": "e31b90047386042c13f9b47e390cd6bce8a659a2",
+            "_timestamp": "2016-09-23 07:13:09+02:00",
+            "_commit_index": 71,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "51ee2900e5c62d523b1b2bc91b4e6fc14475e944",
+            "_timestamp": "2017-06-12 10:16:51+02:00",
+            "_commit_index": 106,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/BooleanFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/FieldFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/ColumnPredicateFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/FilterPredicateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/RegexFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "a6fc4ab74da5ce71eb78b3292e7f1e1e80fa5deb",
+            "_timestamp": "2017-06-04 20:09:31+02:00",
+            "_commit_index": 88,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/FieldFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/FilterPredicateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/RegexFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "3ef884f7548337ea1ff709436c8709adc3cde531",
+            "_timestamp": "2017-05-19 16:58:32+02:00",
+            "_commit_index": 79,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a7560f47e014fb874aa1360573e6d19ce4e35acc",
+            "_timestamp": "2017-05-28 16:46:51+02:00",
+            "_commit_index": 83,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/FieldFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/FilterPredicateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/de/unknownreality/dataframe/filter/compile/RegexFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "7f6bd4da58027f571b94c1bdc5442966f52a3355",
+            "_timestamp": "2017-05-19 16:59:37+02:00",
+            "_commit_index": 81,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0a79070b3fc44dc77d2497bb2ec417c562a49dde",
+            "_timestamp": "2017-05-19 17:00:28+02:00",
+            "_commit_index": 82,
             "_changed_files_list": []
         },
         {

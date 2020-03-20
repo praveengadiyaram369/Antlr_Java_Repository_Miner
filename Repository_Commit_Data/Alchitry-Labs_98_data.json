@@ -15,6 +15,111 @@
             "_commit_index": 42,
             "_changed_files_list": [
                 {
+                    "_file_name": "src/com/alchitry/labs/parsers/styles/LucidNewLineIndenter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/styles/VerilogIndentProvider.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 13,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BitWidthChecker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 33,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidGlobalExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ParamsParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidDebugModifier.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BoundsParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstExprParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 21,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 22,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidModuleExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/toVerilog/LucidToVerilog.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 63,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogLucidModuleFixer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogModuleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 8,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogConstExprParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
                     "_file_name": "src/com/alchitry/labs/parsers/tools/constraints/AlchitryConstraintsExtractor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 1,
@@ -24,61 +129,562 @@
             ]
         },
         {
-            "_sha_id": "0bb9e21cc2cbdffdb17e002dfe75f9d9636b74b9",
-            "_timestamp": "2019-06-25 12:50:40-06:00",
-            "_commit_index": 63,
+            "_sha_id": "2cca86355afc34b2814289ce6935972620b462a4",
+            "_timestamp": "2019-02-19 10:36:40-07:00",
+            "_commit_index": 21,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "531febc16addea148c44449ee9fcad43d57cbea6",
-            "_timestamp": "2019-07-17 11:39:12-06:00",
-            "_commit_index": 74,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "227ce1cc745259f3d65b59221c2bd3be51aa865f",
-            "_timestamp": "2019-08-18 13:09:57-06:00",
-            "_commit_index": 79,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "688b2de50090d5722f0399918014246417c2b897",
-            "_timestamp": "2019-09-19 12:13:23-06:00",
-            "_commit_index": 82,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "56bfa98838de1d0dc4e121ae02e6b7ca0812eada",
-            "_timestamp": "2019-09-19 14:16:29-06:00",
-            "_commit_index": 83,
+            "_sha_id": "dc9f4d0056ca42c77ea18bf108b3b7168cae8eff",
+            "_timestamp": "2019-03-13 10:21:12-06:00",
+            "_commit_index": 31,
             "_changed_files_list": [
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/styles/LucidNewLineIndenter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/styles/VerilogIndentProvider.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 13,
+                    "_visit_cnt": 0
+                },
                 {
                     "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BitWidthChecker.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 2,
-                    "_exit_cnt": 36,
+                    "_exit_cnt": 33,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidGlobalExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ParamsParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidDebugModifier.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BoundsParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
                     "_visit_cnt": 0
                 },
                 {
                     "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstExprParser.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 1,
-                    "_exit_cnt": 23,
+                    "_exit_cnt": 21,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 22,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidModuleExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogLucidModuleFixer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogModuleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 8,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogConstExprParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/constraints/AlchitryConstraintsExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 2,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "e2857e93931f0b452aa16a701763749e72d6a526",
-            "_timestamp": "2019-09-19 14:24:48-06:00",
-            "_commit_index": 84,
+            "_sha_id": "2d3dc7bc2078eb07eb612a063eeeb1571fe6a7d1",
+            "_timestamp": "2019-02-27 08:46:19-07:00",
+            "_commit_index": 26,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "aaa94b7249a915a735918b885b67ae25d878c7a5",
-            "_timestamp": "2019-03-28 14:59:19-05:00",
-            "_commit_index": 33,
-            "_changed_files_list": []
+            "_sha_id": "90b94f847df00335bf6b560942f92fb54e4e531b",
+            "_timestamp": "2019-02-28 13:13:13-07:00",
+            "_commit_index": 28,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/styles/LucidNewLineIndenter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/styles/VerilogIndentProvider.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 13,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BitWidthChecker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 33,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidGlobalExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ParamsParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidDebugModifier.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BoundsParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstExprParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 21,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 22,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidModuleExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogLucidModuleFixer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogModuleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 8,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogConstExprParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/constraints/AlchitryConstraintsExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "9301ab4eee5217156c94359c7d707e4e69ce2077",
+            "_timestamp": "2019-02-27 13:44:14-07:00",
+            "_commit_index": 27,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BitWidthChecker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 33,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidGlobalExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ParamsParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidDebugModifier.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BoundsParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstExprParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 21,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidModuleExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogLucidModuleFixer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogModuleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 8,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogConstExprParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "46f9d16de6fefc73b6d67976eb75859d8f212b4c",
+            "_timestamp": "2019-06-06 13:42:45-06:00",
+            "_commit_index": 56,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/styles/LucidNewLineIndenter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/styles/VerilogIndentProvider.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 13,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BitWidthChecker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 33,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidGlobalExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ParamsParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidDebugModifier.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BoundsParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstExprParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 21,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 22,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidModuleExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/toVerilog/LucidToVerilog.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 63,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogLucidModuleFixer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogModuleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 8,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogConstExprParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/constraints/AlchitryConstraintsExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "5712aa1c0d37727d90e9f90832c5688624719ed9",
+            "_timestamp": "2019-06-03 08:32:52-06:00",
+            "_commit_index": 48,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/styles/LucidNewLineIndenter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/styles/VerilogIndentProvider.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 13,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BitWidthChecker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 33,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidGlobalExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ParamsParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidDebugModifier.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/BoundsParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/ConstExprParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 21,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 22,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/LucidModuleExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/lucid/toVerilog/LucidToVerilog.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 63,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogLucidModuleFixer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogModuleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 8,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/verilog/VerilogConstExprParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/com/alchitry/labs/parsers/tools/constraints/AlchitryConstraintsExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "c6253270b4357cd549da8a743640ac450f32f287",

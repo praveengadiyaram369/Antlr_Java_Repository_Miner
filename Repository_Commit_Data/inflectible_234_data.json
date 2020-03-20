@@ -19,42 +19,58 @@
             "_sha_id": "540934eec33bb755c42aa96674c54089f01531e0",
             "_timestamp": "2015-08-28 04:59:38+05:00",
             "_commit_index": 299,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/tendiwa/inflectible/antlr/parsed/ParsedTemplate.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "cb78abb126c1bc7da28f07e78529ee0b0257b9be",
+            "_timestamp": "2015-08-24 01:59:35+05:00",
+            "_commit_index": 249,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/tendiwa/inflectible/antlr/parsed/ParsedTemplate.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "daecee428b468687be636c8628283b4b73a0363e",
+            "_timestamp": "2015-08-23 05:08:45+05:00",
+            "_commit_index": 224,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "2cad9304462eef18da2a586a8c8deeb8f71b5fc3",
-            "_timestamp": "2015-10-05 16:02:23+05:00",
-            "_commit_index": 349,
+            "_sha_id": "5aa7574525906b68799f40ab41878875ef91790f",
+            "_timestamp": "2015-08-23 20:28:44+05:00",
+            "_commit_index": 236,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0a1bdfb38baaafb0880069a0049417b2a81ed19d",
-            "_timestamp": "2015-10-07 11:33:38+05:00",
-            "_commit_index": 374,
+            "_sha_id": "e117f833c7b08f0f1a1d0e726fcf786661eb987d",
+            "_timestamp": "2015-08-23 23:24:52+05:00",
+            "_commit_index": 242,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "5cbe5b611f13ad04820dd5e9e9a86d9166ab0e08",
-            "_timestamp": "2015-11-04 10:50:45+05:00",
-            "_commit_index": 386,
+            "_sha_id": "e817ddb8c36d7d1e0d27ae4dedabe2c80b7799ad",
+            "_timestamp": "2015-08-24 00:01:13+05:00",
+            "_commit_index": 245,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "be6dc53c16733333f76d59fadc5847f121036908",
-            "_timestamp": "2015-11-04 22:00:30+05:00",
-            "_commit_index": 392,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4649f4240ff8c447ebfad274d2c2a70a6d7f657b",
-            "_timestamp": "2015-11-04 22:19:47+05:00",
-            "_commit_index": 395,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "a2740bfaaf306458820b75c7ea6ec1887c76f8b5",
-            "_timestamp": "2017-07-13 15:19:25+05:00",
-            "_commit_index": 397,
+            "_sha_id": "8f1460f27991510da2348b2ca6693f57c952256b",
+            "_timestamp": "2015-08-24 00:19:14+05:00",
+            "_commit_index": 247,
             "_changed_files_list": []
         },
         {

@@ -31,31 +31,76 @@
             "_sha_id": "ab020a650bf7f5b4a46250f4662e46b51dd3d20c",
             "_timestamp": "2019-09-27 21:17:56-04:00",
             "_commit_index": 2242,
+            "_changed_files_list": [
+                {
+                    "_file_name": "diana/diana-query/src/main/java/org/eclipse/jnosql/diana/query/AbstractSupplier.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "diana/diana-query/src/main/java/org/eclipse/jnosql/diana/query/method/AbstractMethodQueryProvider.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "4a2b16491a5ebcc02053c349a4783b5cc460be6d",
+            "_timestamp": "2019-09-01 08:00:51-03:00",
+            "_commit_index": 2167,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b909e1db0fe2313cd16cfa3814783e0e0ca3a8c6",
-            "_timestamp": "2019-10-01 23:40:38-05:00",
-            "_commit_index": 2317,
+            "_sha_id": "fe866e08995d268712780a0327178f39de77ae59",
+            "_timestamp": "2019-09-09 19:50:17-03:00",
+            "_commit_index": 2204,
+            "_changed_files_list": [
+                {
+                    "_file_name": "diana/diana-query/src/main/java/org/eclipse/jnosql/diana/query/AbstractSupplier.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "diana/diana-query/src/main/java/org/eclipse/jnosql/diana/query/method/AbstractMethodQueryProvider.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "d2d2f740125e781fff3e81eb66ded6ab0cf3664c",
+            "_timestamp": "2019-09-03 15:30:09-03:00",
+            "_commit_index": 2185,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "d2b26f8442a146626e41c120361db464f1f98fd7",
-            "_timestamp": "2019-11-18 09:51:59-03:00",
-            "_commit_index": 2354,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b6f7089e2bc7cdd1afdfea631331b27f79ff8873",
-            "_timestamp": "2019-11-26 17:16:11-03:00",
-            "_commit_index": 2373,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "f39dca8449e3a80c36e868e93ddbd6d9c8e8e97d",
-            "_timestamp": "2019-11-26 19:58:03-03:00",
-            "_commit_index": 2382,
-            "_changed_files_list": []
+            "_sha_id": "d9322fcf0b97ff76454cd057f5f9a7d14d60398e",
+            "_timestamp": "2019-09-09 15:18:16-03:00",
+            "_commit_index": 2194,
+            "_changed_files_list": [
+                {
+                    "_file_name": "diana/diana-query/src/main/java/org/eclipse/jnosql/diana/query/AbstractSupplier.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "diana/diana-query/src/main/java/org/eclipse/jnosql/diana/query/method/AbstractMethodQueryProvider.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "873e370a5724c125bf8aa5c197942022bd7d5922",

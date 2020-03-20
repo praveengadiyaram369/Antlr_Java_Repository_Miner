@@ -21,49 +21,113 @@
             "_sha_id": "ea6b8608fc3452ddda5f688d398892266f9acfc8",
             "_timestamp": "2013-04-02 21:46:14-04:00",
             "_commit_index": 54,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/basho/contact/ContactWalker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 33,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "ea6b8608fc3452ddda5f688d398892266f9acfc8",
-            "_timestamp": "2013-04-02 21:46:14-04:00",
-            "_commit_index": 54,
-            "_changed_files_list": []
+            "_sha_id": "7fd10bed6f3cd40212e3b59a6491477697ec770d",
+            "_timestamp": "2013-03-26 21:15:06-04:00",
+            "_commit_index": 27,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/basho/contact/ContactWalker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 26,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "ea6b8608fc3452ddda5f688d398892266f9acfc8",
-            "_timestamp": "2013-04-02 21:46:14-04:00",
-            "_commit_index": 54,
-            "_changed_files_list": []
+            "_sha_id": "55cc01b2b069f2a8bc2e7d6f781924cf973dbc7a",
+            "_timestamp": "2013-03-28 21:24:55-04:00",
+            "_commit_index": 40,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/basho/contact/ContactWalker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 31,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "ea6b8608fc3452ddda5f688d398892266f9acfc8",
-            "_timestamp": "2013-04-02 21:46:14-04:00",
-            "_commit_index": 54,
-            "_changed_files_list": []
+            "_sha_id": "f16a5c92ec35fbfc0f2e9452aa4da2bb641ee532",
+            "_timestamp": "2013-03-27 08:40:56-04:00",
+            "_commit_index": 33,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/basho/contact/ContactWalker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 27,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "ea6b8608fc3452ddda5f688d398892266f9acfc8",
-            "_timestamp": "2013-04-02 21:46:14-04:00",
-            "_commit_index": 54,
-            "_changed_files_list": []
+            "_sha_id": "51b7b8b19df87afdd32a9447575c083f4c003ec9",
+            "_timestamp": "2013-03-27 15:26:17-04:00",
+            "_commit_index": 36,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/basho/contact/ContactWalker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 29,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "ea6b8608fc3452ddda5f688d398892266f9acfc8",
-            "_timestamp": "2013-04-02 21:46:14-04:00",
-            "_commit_index": 54,
-            "_changed_files_list": []
+            "_sha_id": "504428dec9b85caa4f7eeeef69c711975ecefbff",
+            "_timestamp": "2013-04-10 18:49:04-03:00",
+            "_commit_index": 81,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/basho/contact/ContactWalker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 35,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "ea6b8608fc3452ddda5f688d398892266f9acfc8",
-            "_timestamp": "2013-04-02 21:46:14-04:00",
-            "_commit_index": 54,
-            "_changed_files_list": []
+            "_sha_id": "aabf5650f5178820a5a77944cab5f5a39705e697",
+            "_timestamp": "2013-03-27 08:56:05-04:00",
+            "_commit_index": 34,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/basho/contact/ContactWalker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 27,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "ea6b8608fc3452ddda5f688d398892266f9acfc8",
-            "_timestamp": "2013-04-02 21:46:14-04:00",
-            "_commit_index": 54,
-            "_changed_files_list": []
+            "_sha_id": "b644f0b7c360d16590cdf5b39dacbf1ca8498c6e",
+            "_timestamp": "2013-03-27 11:49:02-04:00",
+            "_commit_index": 35,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/basho/contact/ContactWalker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 27,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "80c613a1b9b65520c2af2ee2650883636c064866",

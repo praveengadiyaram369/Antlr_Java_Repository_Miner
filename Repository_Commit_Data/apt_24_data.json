@@ -16,46 +16,331 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "c34a32e46213e9ae189913b57aa9ad6888008a72",
-            "_timestamp": "2015-11-25 18:27:14+01:00",
-            "_commit_index": 667,
+            "_sha_id": "92fc7e322215f58a41ea83c8c8a5413fdc274379",
+            "_timestamp": "2016-09-19 09:08:54+02:00",
+            "_commit_index": 1001,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/PetrifyPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/AptPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 11,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/RegexParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 20,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/SynetPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/SynetLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/PetrifyLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/LoLAPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/AptLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 8,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "44ab23ee0de87169be551f79e11f6af12775924c",
+            "_timestamp": "2016-02-08 11:19:20+01:00",
+            "_commit_index": 834,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/PetrifyPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/AptPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/RegexParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 20,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/SynetPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/SynetLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/PetrifyLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/LoLAPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/AptLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "a826defc15b8ab26e773ed96440a960d7e765b07",
+            "_timestamp": "2015-12-09 12:38:54+01:00",
+            "_commit_index": 750,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "c34a32e46213e9ae189913b57aa9ad6888008a72",
-            "_timestamp": "2015-11-25 18:27:14+01:00",
-            "_commit_index": 667,
+            "_sha_id": "9b950755b4e922147018df44310188e09149e47c",
+            "_timestamp": "2016-01-20 13:26:30+01:00",
+            "_commit_index": 792,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/PetrifyPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/AptPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/RegexParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 20,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/SynetPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/SynetLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/PetrifyLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/LoLAPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/AptLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "85af5a9a4e2a53cbb0619af48a6324615ac20f93",
+            "_timestamp": "2016-01-19 12:35:59+01:00",
+            "_commit_index": 771,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/PetrifyPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/AptPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/RegexParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 20,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/SynetPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/SynetLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/PetrifyLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/LoLAPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/AptLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "07f31d62d884c1b2b4955a08f02e06aa7b2e9c50",
+            "_timestamp": "2016-01-18 13:08:18+01:00",
+            "_commit_index": 760,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "c34a32e46213e9ae189913b57aa9ad6888008a72",
-            "_timestamp": "2015-11-25 18:27:14+01:00",
-            "_commit_index": 667,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c34a32e46213e9ae189913b57aa9ad6888008a72",
-            "_timestamp": "2015-11-25 18:27:14+01:00",
-            "_commit_index": 667,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c34a32e46213e9ae189913b57aa9ad6888008a72",
-            "_timestamp": "2015-11-25 18:27:14+01:00",
-            "_commit_index": 667,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c34a32e46213e9ae189913b57aa9ad6888008a72",
-            "_timestamp": "2015-11-25 18:27:14+01:00",
-            "_commit_index": 667,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c34a32e46213e9ae189913b57aa9ad6888008a72",
-            "_timestamp": "2015-11-25 18:27:14+01:00",
-            "_commit_index": 667,
-            "_changed_files_list": []
+            "_sha_id": "a594bf970c6e93f04c38b867066af3cc179c7d2f",
+            "_timestamp": "2016-01-18 14:47:20+01:00",
+            "_commit_index": 765,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/PetrifyPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/AptPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/RegexParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 20,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/SynetPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/SynetLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/PetrifyLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/LoLAPNParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/io/uniol/apt/io/parser/impl/AptLTSParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "b47c043aa8da2195452a801c5ce6f3a05805920e",

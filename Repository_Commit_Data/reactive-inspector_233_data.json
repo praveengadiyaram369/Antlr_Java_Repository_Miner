@@ -16,46 +16,91 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "7f7a9d4790fb845af0d13887555952e248529c69",
-            "_timestamp": "2015-05-05 17:12:02+02:00",
-            "_commit_index": 87,
+            "_sha_id": "20385f9c619e9e0ae92ab33e201c5e9ed9e71f5d",
+            "_timestamp": "2015-07-09 10:18:35+02:00",
+            "_commit_index": 131,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "7f7a9d4790fb845af0d13887555952e248529c69",
-            "_timestamp": "2015-05-05 17:12:02+02:00",
-            "_commit_index": 87,
+            "_sha_id": "eb06bde950728a598fbdaa9dab0fb735085ae01d",
+            "_timestamp": "2015-07-21 16:58:45+02:00",
+            "_commit_index": 153,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "7f7a9d4790fb845af0d13887555952e248529c69",
-            "_timestamp": "2015-05-05 17:12:02+02:00",
-            "_commit_index": 87,
+            "_sha_id": "8f715a2c75e5cb90177ea3aaf15948ec41970e33",
+            "_timestamp": "2015-08-12 12:34:16+02:00",
+            "_commit_index": 164,
+            "_changed_files_list": [
+                {
+                    "_file_name": "REclipse_TreeViewer/src/de/tuda/stg/reclipse/graphview/model/querylanguage/ReclipseVisitorEsperImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "REclipse_TreeViewer/src/de/tuda/stg/reclipse/graphview/model/querylanguage/ReclipseVisitorSQLImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                }
+            ]
+        },
+        {
+            "_sha_id": "1c02dd0eac3a6b6b4c30a0b5ec7ea3ca462cd397",
+            "_timestamp": "2015-07-28 15:56:35+02:00",
+            "_commit_index": 158,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "7f7a9d4790fb845af0d13887555952e248529c69",
-            "_timestamp": "2015-05-05 17:12:02+02:00",
-            "_commit_index": 87,
+            "_sha_id": "0a91fc01e5775838e695b3165a63b7696ef492c6",
+            "_timestamp": "2015-08-07 13:14:23+02:00",
+            "_commit_index": 161,
+            "_changed_files_list": [
+                {
+                    "_file_name": "REclipse_TreeViewer/src/de/tuda/stg/reclipse/graphview/model/querylanguage/ReclipseVisitorEsperImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "REclipse_TreeViewer/src/de/tuda/stg/reclipse/graphview/model/querylanguage/ReclipseVisitorSQLImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                }
+            ]
+        },
+        {
+            "_sha_id": "aa195d5be05597b486685ba1e6d8abb05d3aa095",
+            "_timestamp": "2015-08-04 19:40:51+02:00",
+            "_commit_index": 159,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "7f7a9d4790fb845af0d13887555952e248529c69",
-            "_timestamp": "2015-05-05 17:12:02+02:00",
-            "_commit_index": 87,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "7f7a9d4790fb845af0d13887555952e248529c69",
-            "_timestamp": "2015-05-05 17:12:02+02:00",
-            "_commit_index": 87,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "7f7a9d4790fb845af0d13887555952e248529c69",
-            "_timestamp": "2015-05-05 17:12:02+02:00",
-            "_commit_index": 87,
-            "_changed_files_list": []
+            "_sha_id": "7b138eac73b3baf6d433ed050f99b2c2ff4d6ef8",
+            "_timestamp": "2015-08-07 09:11:00+02:00",
+            "_commit_index": 160,
+            "_changed_files_list": [
+                {
+                    "_file_name": "REclipse_TreeViewer/src/de/tuda/stg/reclipse/graphview/model/querylanguage/ReclipseVisitorEsperImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "REclipse_TreeViewer/src/de/tuda/stg/reclipse/graphview/model/querylanguage/ReclipseVisitorSQLImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                }
+            ]
         },
         {
             "_sha_id": "769a17b6c04682bdffebfee2482889d6f2ec0d81",

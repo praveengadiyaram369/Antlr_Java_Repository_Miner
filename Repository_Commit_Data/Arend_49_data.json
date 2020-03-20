@@ -25,36 +25,68 @@
             "_sha_id": "ddc41bca7e6c5c86ff01f05ecf40cc9ec72d94c4",
             "_timestamp": "2019-03-14 15:35:07+03:00",
             "_commit_index": 2431,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/arend/frontend/parser/BuildVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 116
+                }
+            ]
+        },
+        {
+            "_sha_id": "297a0663f78232d482755777535fbdd488742da6",
+            "_timestamp": "2018-11-16 22:18:48+03:00",
+            "_commit_index": 2257,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/arend/frontend/parser/BuildVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 110
+                }
+            ]
+        },
+        {
+            "_sha_id": "ca9f68c1c55408a2e8e28b947aad24bb198cd1f9",
+            "_timestamp": "2018-10-11 18:10:12+03:00",
+            "_commit_index": 2170,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/arend/frontend/parser/BuildVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 110
+                }
+            ]
+        },
+        {
+            "_sha_id": "0fdcbb2dd8af78fa0f6e6fdc101eb1c0549a29a0",
+            "_timestamp": "2018-09-11 16:07:53+03:00",
+            "_commit_index": 2127,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "a9214443fee154c69a2715388a33948cbfcfe200",
-            "_timestamp": "2019-08-18 19:19:12+03:00",
-            "_commit_index": 2605,
-            "_changed_files_list": []
+            "_sha_id": "3535781801507bd2a9f238090834820643174da4",
+            "_timestamp": "2018-09-23 11:49:26+03:00",
+            "_commit_index": 2148,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/arend/frontend/parser/BuildVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 108
+                }
+            ]
         },
         {
-            "_sha_id": "fb70ede7b9119c2220a33590bd500e0ee53bbae3",
-            "_timestamp": "2019-11-05 15:50:01+03:00",
-            "_commit_index": 2692,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "03cb1c632d903c4055f5f606b92009bb7f042d7d",
-            "_timestamp": "2019-11-19 23:41:26+03:00",
-            "_commit_index": 2735,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4676aa93754684fb37edddf3f6828a6144edc7fb",
-            "_timestamp": "2019-12-02 22:17:37+03:00",
-            "_commit_index": 2757,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "82785abbb1e906b8216e7aff76c983f652673383",
-            "_timestamp": "2019-12-09 23:47:22+03:00",
-            "_commit_index": 2768,
+            "_sha_id": "526a71843d36dd3eab467d96897b677cb9e85c9e",
+            "_timestamp": "2018-09-14 21:59:39+03:00",
+            "_commit_index": 2137,
             "_changed_files_list": []
         },
         {

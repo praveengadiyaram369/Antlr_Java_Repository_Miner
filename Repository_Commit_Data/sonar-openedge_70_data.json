@@ -9,11 +9,11 @@
             "_commit_index": 1,
             "_changed_files_list": [
                 {
-                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileReleaseDescriptor.java",
+                    "_file_name": "profiler-parser/src/main/java/eu/rssw/antlr/profiler/ProfilerSessionVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 11
+                    "_visit_cnt": 7
                 },
                 {
                     "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileVisitor.java",
@@ -23,11 +23,11 @@
                     "_visit_cnt": 24
                 },
                 {
-                    "_file_name": "profiler-parser/src/main/java/eu/rssw/antlr/profiler/ProfilerSessionVisitor.java",
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileReleaseDescriptor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 7
+                    "_visit_cnt": 11
                 }
             ]
         },
@@ -35,49 +35,302 @@
             "_sha_id": "9f4bd4487491512b849d266d2ff81f830cd5ea5f",
             "_timestamp": "2018-03-21 09:13:32+01:00",
             "_commit_index": 271,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "profiler-parser/src/main/java/eu/rssw/antlr/profiler/ProfilerSessionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "proparse/src/main/java/org/prorefactor/proparse/antlr4/PreproEval.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 37
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileReleaseDescriptor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
         },
         {
             "_sha_id": "9707b06352d84cda0683c35338a87d86c6a737a9",
             "_timestamp": "2019-01-09 17:45:46+01:00",
             "_commit_index": 407,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "profiler-parser/src/main/java/eu/rssw/antlr/profiler/ProfilerSessionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "proparse/src/main/java/org/prorefactor/proparse/antlr4/PreproEval.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 38
+                },
+                {
+                    "_file_name": "proparse/src/main/java/org/prorefactor/proparse/antlr4/JPNodeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 472
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileReleaseDescriptor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
         },
         {
-            "_sha_id": "b32facbe2ddc2df03a90e98b97c3b6b31417e13e",
-            "_timestamp": "2019-06-18 11:23:59+02:00",
-            "_commit_index": 475,
-            "_changed_files_list": []
+            "_sha_id": "17d79e7b899d5bb4d7b6d362b42c072b2f19812a",
+            "_timestamp": "2018-09-10 16:27:33+02:00",
+            "_commit_index": 339,
+            "_changed_files_list": [
+                {
+                    "_file_name": "profiler-parser/src/main/java/eu/rssw/antlr/profiler/ProfilerSessionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "proparse/src/main/java/org/prorefactor/proparse/antlr4/PreproEval.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 38
+                },
+                {
+                    "_file_name": "proparse/src/main/java/org/prorefactor/proparse/antlr4/JPNodeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 466
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileReleaseDescriptor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
         },
         {
-            "_sha_id": "1db5d6ad269996f55a7e552765514b8746b41f76",
-            "_timestamp": "2019-10-02 14:58:44+02:00",
-            "_commit_index": 509,
-            "_changed_files_list": []
+            "_sha_id": "2f3b6cf1372bf59ec3329c76ad6ac47d07a70f38",
+            "_timestamp": "2018-07-21 08:49:41+02:00",
+            "_commit_index": 305,
+            "_changed_files_list": [
+                {
+                    "_file_name": "profiler-parser/src/main/java/eu/rssw/antlr/profiler/ProfilerSessionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "proparse/src/main/java/org/prorefactor/proparse/antlr4/PreproEval.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 38
+                },
+                {
+                    "_file_name": "proparse/src/main/java/org/prorefactor/proparse/antlr4/JPNodeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 464
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileReleaseDescriptor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
         },
         {
-            "_sha_id": "199ee028a6f7aea8a855ef500f2bbe2b465f8f88",
-            "_timestamp": "2019-10-28 15:14:52+01:00",
-            "_commit_index": 526,
-            "_changed_files_list": []
+            "_sha_id": "008a15f42da119a8cae52ae61ded3cbae94f1c65",
+            "_timestamp": "2018-04-09 16:26:27+02:00",
+            "_commit_index": 288,
+            "_changed_files_list": [
+                {
+                    "_file_name": "profiler-parser/src/main/java/eu/rssw/antlr/profiler/ProfilerSessionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "proparse/src/main/java/org/prorefactor/proparse/antlr4/PreproEval.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 37
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileReleaseDescriptor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
         },
         {
-            "_sha_id": "97997ed5a5acb9a902b889eb05d75672201cd683",
-            "_timestamp": "2019-10-31 15:26:37+01:00",
-            "_commit_index": 534,
-            "_changed_files_list": []
+            "_sha_id": "c6c3c49febe8c62fcbe7941d8dadf2019b0f028f",
+            "_timestamp": "2018-04-26 10:54:27+02:00",
+            "_commit_index": 296,
+            "_changed_files_list": [
+                {
+                    "_file_name": "profiler-parser/src/main/java/eu/rssw/antlr/profiler/ProfilerSessionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "proparse/src/main/java/org/prorefactor/proparse/antlr4/PreproEval.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 37
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileReleaseDescriptor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
         },
         {
-            "_sha_id": "1d7172f691624705811fcc0fbba702ecc9b83c47",
-            "_timestamp": "2019-11-07 08:51:09+01:00",
-            "_commit_index": 538,
-            "_changed_files_list": []
+            "_sha_id": "89e9cd6fd25ca383e0cc0bc1fb0ecc2a6b7fc473",
+            "_timestamp": "2018-05-24 20:40:45+02:00",
+            "_commit_index": 300,
+            "_changed_files_list": [
+                {
+                    "_file_name": "profiler-parser/src/main/java/eu/rssw/antlr/profiler/ProfilerSessionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "proparse/src/main/java/org/prorefactor/proparse/antlr4/PreproEval.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 38
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileReleaseDescriptor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
         },
         {
-            "_sha_id": "d9c6eaae59fd1b780229200ba61aa4825625759f",
-            "_timestamp": "2019-11-08 09:21:04+01:00",
-            "_commit_index": 540,
-            "_changed_files_list": []
+            "_sha_id": "dd427f3cf69daa0f54bb350a7cb388010b938bfe",
+            "_timestamp": "2018-07-03 09:17:43+02:00",
+            "_commit_index": 302,
+            "_changed_files_list": [
+                {
+                    "_file_name": "profiler-parser/src/main/java/eu/rssw/antlr/profiler/ProfilerSessionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "proparse/src/main/java/org/prorefactor/proparse/antlr4/PreproEval.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 38
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                },
+                {
+                    "_file_name": "database-parser/src/main/java/eu/rssw/antlr/database/DumpFileReleaseDescriptor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
         },
         {
             "_sha_id": "cb3bfdaa90428e76d1a1dd8cfa9b814d1da7c576",

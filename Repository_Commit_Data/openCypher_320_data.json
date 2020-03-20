@@ -16,46 +16,91 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "f76cbb4d7a2374f85494ec1a31df30d4f3158a0a",
-            "_timestamp": "2016-12-19 14:27:47+01:00",
-            "_commit_index": 532,
+            "_sha_id": "94511b8e15d0cd9a590d18a31d50834e6c7b2bb3",
+            "_timestamp": "2018-02-01 16:13:35+01:00",
+            "_commit_index": 798,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "f76cbb4d7a2374f85494ec1a31df30d4f3158a0a",
-            "_timestamp": "2016-12-19 14:27:47+01:00",
-            "_commit_index": 532,
+            "_sha_id": "893ff9367bd529e200f439c9820c2aaa99b32262",
+            "_timestamp": "2019-01-11 13:45:29+01:00",
+            "_commit_index": 931,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "f76cbb4d7a2374f85494ec1a31df30d4f3158a0a",
-            "_timestamp": "2016-12-19 14:27:47+01:00",
-            "_commit_index": 532,
+            "_sha_id": "cee35ef8927d7ee509e2bd2a1ae27c456e805dd2",
+            "_timestamp": "2019-07-18 20:08:42+01:00",
+            "_commit_index": 997,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "f76cbb4d7a2374f85494ec1a31df30d4f3158a0a",
-            "_timestamp": "2016-12-19 14:27:47+01:00",
-            "_commit_index": 532,
+            "_sha_id": "c04891b20d9f00ab466daf58265c788c6efebd42",
+            "_timestamp": "2019-09-10 09:07:51+02:00",
+            "_commit_index": 1030,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "f76cbb4d7a2374f85494ec1a31df30d4f3158a0a",
-            "_timestamp": "2016-12-19 14:27:47+01:00",
-            "_commit_index": 532,
-            "_changed_files_list": []
+            "_sha_id": "0a7d56600f04af065a26b13e281fe47a49bc8727",
+            "_timestamp": "2019-09-20 17:09:23+02:00",
+            "_commit_index": 1047,
+            "_changed_files_list": [
+                {
+                    "_file_name": "tools/grammar/src/main/java/org/opencypher/tools/g4processors/G4Listener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 19,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "tools/grammar/src/main/java/org/opencypher/tools/g4processors/BNFListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 19,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "f76cbb4d7a2374f85494ec1a31df30d4f3158a0a",
-            "_timestamp": "2016-12-19 14:27:47+01:00",
-            "_commit_index": 532,
-            "_changed_files_list": []
+            "_sha_id": "63cff766dc3dacc5f6189906f8945d0dee69f99f",
+            "_timestamp": "2019-09-18 18:19:23+01:00",
+            "_commit_index": 1038,
+            "_changed_files_list": [
+                {
+                    "_file_name": "tools/grammar/src/main/java/org/opencypher/tools/g4processors/G4Listener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 19,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "tools/grammar/src/main/java/org/opencypher/tools/g4processors/BNFListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 19,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "f76cbb4d7a2374f85494ec1a31df30d4f3158a0a",
-            "_timestamp": "2016-12-19 14:27:47+01:00",
-            "_commit_index": 532,
-            "_changed_files_list": []
+            "_sha_id": "9279fb9314d0d75db62964ac68176523c67105c4",
+            "_timestamp": "2019-09-12 16:43:30+01:00",
+            "_commit_index": 1034,
+            "_changed_files_list": [
+                {
+                    "_file_name": "tools/grammar/src/main/java/org/opencypher/tools/g4processors/G4Listener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 19,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "tools/grammar/src/main/java/org/opencypher/tools/g4processors/BNFListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 19,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "c1456f7212d797c6876e97a4fefcec36f6bffcea",

@@ -19,42 +19,87 @@
             "_sha_id": "592186941ebba5415cc311e1917726719db0db64",
             "_timestamp": "2015-03-29 21:32:25-04:00",
             "_commit_index": 32,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/bbejeck/sql/lucene/LuceneQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/bbejeck/sql/lucene/LuceneQueryListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 34,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "dc9ef4b17a12599a4e55790b0f1ec6102fd426e6",
+            "_timestamp": "2015-03-23 21:39:47-04:00",
+            "_commit_index": 26,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "bc4ee5472a1563cfa82d6a0c9748590ea8394bb1",
-            "_timestamp": "2015-04-25 17:19:51-04:00",
-            "_commit_index": 37,
+            "_sha_id": "dc91845e0654e443fbda0082a957c0f26f72fd4c",
+            "_timestamp": "2015-03-28 11:51:46-04:00",
+            "_commit_index": 29,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "806ad16e704d3474418dfefb4bb7ee00ef482703",
-            "_timestamp": "2017-04-07 08:05:25-04:00",
-            "_commit_index": 40,
+            "_sha_id": "9aaea15826e8b31bb9e1f06b6d5d90b729bf6870",
+            "_timestamp": "2015-03-28 22:25:09-04:00",
+            "_commit_index": 30,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "546d97c24f14c34ecbe7cbf1c96d79843112705f",
-            "_timestamp": "2017-11-08 17:24:51+02:00",
-            "_commit_index": 41,
-            "_changed_files_list": []
+            "_sha_id": "5a75b21854134b76be08bb4decfa681626e183b1",
+            "_timestamp": "2015-03-29 20:38:03-04:00",
+            "_commit_index": 31,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/bbejeck/sql/lucene/LuceneQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/bbejeck/sql/lucene/LuceneQueryListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 34,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "ea6a8d85b08b483e580399ef804a0cd0ea0fb0bd",
-            "_timestamp": "2017-11-12 19:10:13-05:00",
-            "_commit_index": 42,
-            "_changed_files_list": []
+            "_sha_id": "9adf50553bbb2e5fb044274f1b04c9211604dd8f",
+            "_timestamp": "2015-03-29 21:40:06-04:00",
+            "_commit_index": 34,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/bbejeck/sql/lucene/LuceneQueryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/bbejeck/sql/lucene/LuceneQueryListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 34,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "c8a4bd77b97dfbff0bfb2d2966edb39c1e87d859",
-            "_timestamp": "2015-03-07 09:37:59-05:00",
-            "_commit_index": 6,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d4a2b71516eac754aafd8c7619e522d86124e775",
-            "_timestamp": "2015-03-14 21:20:46-04:00",
-            "_commit_index": 17,
+            "_sha_id": "b72c8d00a892adbf1d43ca0cf68eb286becb0e8c",
+            "_timestamp": "2015-03-07 19:15:41-05:00",
+            "_commit_index": 7,
             "_changed_files_list": []
         },
         {

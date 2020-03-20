@@ -15,11 +15,11 @@
             "_commit_index": 2,
             "_changed_files_list": [
                 {
-                    "_file_name": "apidoc4j-parser/src/main/java/io/github/flylib/apidoc4j/parser/antlr/api/custom/ApidocVisitor.java",
+                    "_file_name": "apidoc4j-parser/src/main/java/io/github/flylib/apidoc4j/parser/antlr/api/custom/ObjectVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 1
+                    "_visit_cnt": 7
                 },
                 {
                     "_file_name": "apidoc4j-parser/src/main/java/io/github/flylib/apidoc4j/parser/antlr/api/custom/CustomFieldVisitor.java",
@@ -27,19 +27,27 @@
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "apidoc4j-parser/src/main/java/io/github/flylib/apidoc4j/parser/antlr/api/custom/ApidocVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "apidoc4j-parser/src/main/java/io/github/flylib/apidoc4j/parser/antlr/extractor/CustomExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "b369c934426b4670c1687ea653031e347b3dd2e5",
-            "_timestamp": "2018-01-14 17:50:05+08:00",
-            "_commit_index": 3,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d5d80c34ffb38e1fd30f89bd642b56b07995016f",
-            "_timestamp": "2018-01-14 17:55:29+08:00",
-            "_commit_index": 4,
+            "_sha_id": "79e8b1818523bf85c80cbf99c86fa7434d19ed96",
+            "_timestamp": "2018-01-10 23:00:48+08:00",
+            "_commit_index": 1,
             "_changed_files_list": []
         },
         {

@@ -13,49 +13,155 @@
             "_sha_id": "e397559f26ce43aeabec41956426536aded9f840",
             "_timestamp": "2017-02-15 15:11:41-07:00",
             "_commit_index": 358,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/edu/byu/ece/rapidSmith/interfaces/ise/XDLReader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/edu/byu/ece/rapidSmith/util/luts/LutConfig.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "49d9935ec912f32dc76ea471f79f6560c01cc01a",
-            "_timestamp": "2017-10-26 19:04:25-04:00",
-            "_commit_index": 537,
-            "_changed_files_list": []
+            "_sha_id": "87190d27ab0414a23790ecb30ee2e49352fa4ef6",
+            "_timestamp": "2016-11-01 11:44:52-06:00",
+            "_commit_index": 179,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/edu/byu/ece/rapidSmith/interfaces/ise/XDLReader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/edu/byu/ece/rapidSmith/util/luts/LutConfig.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2e8b212db5ac2dc53fdf214f66409363b4b17d0d",
-            "_timestamp": "2018-02-02 10:20:02-07:00",
-            "_commit_index": 626,
-            "_changed_files_list": []
+            "_sha_id": "afd313372e8a380a41eab954e22bc91165b4a081",
+            "_timestamp": "2016-09-01 12:50:24-06:00",
+            "_commit_index": 89,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/edu/byu/ece/rapidSmith/util/luts/LutConfig.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
         },
         {
-            "_sha_id": "fc21f9b04d0b8857789ebe9fe4ebb3507944d19e",
-            "_timestamp": "2018-11-09 16:28:02-05:00",
-            "_commit_index": 671,
-            "_changed_files_list": []
+            "_sha_id": "723fb800ddcf68da1ccb8521876b17333cfa1a7b",
+            "_timestamp": "2016-10-25 15:41:33-06:00",
+            "_commit_index": 134,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/edu/byu/ece/rapidSmith/interfaces/ise/XDLReader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/edu/byu/ece/rapidSmith/util/luts/LutConfig.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
         },
         {
-            "_sha_id": "d7f29228c3963a8595065c6cf8d8853f724da8e9",
-            "_timestamp": "2019-03-06 15:33:59-07:00",
-            "_commit_index": 693,
-            "_changed_files_list": []
+            "_sha_id": "3dd0921d964b38fc911a9dfda0a95b03b13b3d14",
+            "_timestamp": "2016-09-13 18:42:11-06:00",
+            "_commit_index": 111,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/edu/byu/ece/rapidSmith/interfaces/ise/XDLReader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/edu/byu/ece/rapidSmith/util/luts/LutConfig.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
         },
         {
-            "_sha_id": "a7c99a96f0623de898d1e9a204608c8ea26316fc",
-            "_timestamp": "2019-06-15 17:46:24-04:00",
-            "_commit_index": 704,
-            "_changed_files_list": []
+            "_sha_id": "7db120f9700029b429ffadf90211a8a7805e46f7",
+            "_timestamp": "2016-09-07 18:45:05-06:00",
+            "_commit_index": 100,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/edu/byu/ece/rapidSmith/interfaces/ise/XDLReader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/edu/byu/ece/rapidSmith/util/luts/LutConfig.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
         },
         {
-            "_sha_id": "0ad29a77c6d2567c094154bdfcb50efbb04c8712",
-            "_timestamp": "2019-06-19 17:10:15-06:00",
-            "_commit_index": 710,
-            "_changed_files_list": []
+            "_sha_id": "12be80d2ff5db0e4efaed57a7bddf2d0cec09f9c",
+            "_timestamp": "2016-09-06 16:03:32-06:00",
+            "_commit_index": 94,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/edu/byu/ece/rapidSmith/util/luts/LutConfig.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
         },
         {
-            "_sha_id": "69c4225c981da9fe8f0a6aa362a4bb7689f16c94",
-            "_timestamp": "2019-07-11 21:24:39-04:00",
-            "_commit_index": 713,
-            "_changed_files_list": []
+            "_sha_id": "7659d22cad29392391bb531e4fe1ec9b118eb713",
+            "_timestamp": "2016-09-06 19:51:39-06:00",
+            "_commit_index": 97,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/edu/byu/ece/rapidSmith/interfaces/ise/XDLReader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/edu/byu/ece/rapidSmith/util/luts/LutConfig.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
         },
         {
             "_sha_id": "102d9f66a8977bf249c4057179d1b1689d85b7c3",

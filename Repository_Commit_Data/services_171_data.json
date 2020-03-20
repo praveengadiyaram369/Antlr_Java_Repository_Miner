@@ -31,31 +31,55 @@
             "_sha_id": "df69fb7e5c9243a315460a7cb110ab581464f5f8",
             "_timestamp": "2018-11-15 08:56:49-08:00",
             "_commit_index": 3478,
+            "_changed_files_list": [
+                {
+                    "_file_name": "services/structureddate/structureddate/src/main/java/org/collectionspace/services/structureddate/antlr/ANTLRStructuredDateEvaluator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 44,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "c3286c54028d10f5ebe9d6670be1054968806f3b",
+            "_timestamp": "2017-12-07 21:17:21-08:00",
+            "_commit_index": 3362,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0be28377d7f9b6c23ae6a5a175dbf0de302d10aa",
-            "_timestamp": "2019-06-07 18:50:38-07:00",
-            "_commit_index": 3594,
+            "_sha_id": "3c3fe4859e6336f135bddfc0a3b12e9085969125",
+            "_timestamp": "2018-03-06 22:57:53-08:00",
+            "_commit_index": 3420,
+            "_changed_files_list": [
+                {
+                    "_file_name": "services/structureddate/structureddate/src/main/java/org/collectionspace/services/structureddate/antlr/ANTLRStructuredDateEvaluator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 44,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "6760563a2561a47eac440f85b3c558f377099535",
+            "_timestamp": "2018-01-24 12:08:20-08:00",
+            "_commit_index": 3391,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "80b32630e0ed3bed8cdd641be35b1d7cce2de2f6",
-            "_timestamp": "2019-09-19 18:55:38-07:00",
-            "_commit_index": 3652,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "853c84bcba7f0fd65217fc9c517579ff813cfde2",
-            "_timestamp": "2019-10-21 12:15:46-07:00",
-            "_commit_index": 3681,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "f2ad2228178d6f9385c08e386f0edf807c5e5c5e",
-            "_timestamp": "2019-10-23 15:54:56-07:00",
-            "_commit_index": 3695,
-            "_changed_files_list": []
+            "_sha_id": "787405d081b4fe75f4e8110483b0024468ccfa7f",
+            "_timestamp": "2018-02-08 18:54:54-08:00",
+            "_commit_index": 3405,
+            "_changed_files_list": [
+                {
+                    "_file_name": "services/structureddate/structureddate/src/main/java/org/collectionspace/services/structureddate/antlr/ANTLRStructuredDateEvaluator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 44,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "f06b7ccca332f9734101b4bcefde1c13bfce9250",

@@ -21,49 +21,113 @@
             "_sha_id": "272a2f38dfbb37bb2c7c8afd8aa2045068f08e9b",
             "_timestamp": "2017-10-31 13:49:26+08:00",
             "_commit_index": 219,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "ureport2-core/src/main/java/com/bstek/ureport/expression/parse/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
         },
         {
             "_sha_id": "776e213d56e45bb9739c902b3164ed16aff6f300",
             "_timestamp": "2018-01-05 15:13:13+08:00",
             "_commit_index": 329,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "ureport2-core/src/main/java/com/bstek/ureport/expression/parse/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
         },
         {
             "_sha_id": "b534ff9005b46292503f6d33a4754a5f450f7fcc",
             "_timestamp": "2018-04-17 09:40:51+08:00",
             "_commit_index": 384,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "ureport2-core/src/main/java/com/bstek/ureport/expression/parse/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
         },
         {
             "_sha_id": "1793e13973ed1be254795ddda1ef3bc529ba40fa",
             "_timestamp": "2018-07-09 14:33:40+08:00",
             "_commit_index": 411,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "ureport2-core/src/main/java/com/bstek/ureport/expression/parse/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
         },
         {
             "_sha_id": "63881d7e23344991126ed5c9d89d4acef7e76f9a",
             "_timestamp": "2018-09-11 10:03:41+08:00",
             "_commit_index": 425,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "ureport2-core/src/main/java/com/bstek/ureport/expression/parse/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
         },
         {
-            "_sha_id": "59b82fe42fe892e3da01f88127fcb528a338a6e9",
-            "_timestamp": "2019-03-21 10:01:56+08:00",
-            "_commit_index": 432,
-            "_changed_files_list": []
+            "_sha_id": "b56d442d736b73f9201e8c3a2eac38f0d3c72c93",
+            "_timestamp": "2018-08-03 10:50:13+08:00",
+            "_commit_index": 418,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ureport2-core/src/main/java/com/bstek/ureport/expression/parse/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
         },
         {
-            "_sha_id": "5fd241ebf183667be2ee2aa4a31868a14d835090",
-            "_timestamp": "2019-09-05 10:41:35+08:00",
-            "_commit_index": 435,
-            "_changed_files_list": []
+            "_sha_id": "a6e6bbc91141725147550fff21ca7e82ed199c58",
+            "_timestamp": "2018-07-17 10:31:16+08:00",
+            "_commit_index": 414,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ureport2-core/src/main/java/com/bstek/ureport/expression/parse/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
         },
         {
-            "_sha_id": "f1dde051aca658e7f7d7327b5440847ba9ad774f",
-            "_timestamp": "2019-09-26 11:01:26+08:00",
-            "_commit_index": 437,
-            "_changed_files_list": []
+            "_sha_id": "3aabae4eac96417b56d2ed1e541e95ab81a3b1a1",
+            "_timestamp": "2018-07-10 11:40:32+08:00",
+            "_commit_index": 412,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ureport2-core/src/main/java/com/bstek/ureport/expression/parse/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
         },
         {
             "_sha_id": "07f9c32593274c1f23e403ffddcb86ffb9964799",

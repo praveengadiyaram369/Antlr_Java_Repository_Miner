@@ -31,30 +31,46 @@
             "_sha_id": "f0e35622610fecc2fdb5af194b14280f0b1146ba",
             "_timestamp": "2019-08-09 11:13:40+01:00",
             "_commit_index": 266,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/br/unicamp/cst/representation/owrl/grammar/CustomizedListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "acbf66ae007986deea3e64640fb84c4bec09b67d",
+            "_timestamp": "2019-06-26 09:56:50+01:00",
+            "_commit_index": 257,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/br/unicamp/cst/representation/owrl/grammar/CustomizedListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "4f7e7bb14e6f01d70b97d058a1496987128febae",
+            "_timestamp": "2019-06-18 10:58:01+01:00",
+            "_commit_index": 252,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "222587aee4482d20c1f91015644214c6176fb856",
-            "_timestamp": "2019-08-11 18:50:05+01:00",
-            "_commit_index": 275,
+            "_sha_id": "3a589031fee4f4825caa64966588ae2bdf619020",
+            "_timestamp": "2019-06-18 15:42:03+01:00",
+            "_commit_index": 254,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "cc8197a0e428c899ced24a6e3ef5e368fb3f68fa",
-            "_timestamp": "2019-08-12 16:32:01+01:00",
-            "_commit_index": 279,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d437ccee7df5b1a66c451df20b468962f982df9b",
-            "_timestamp": "2019-08-26 11:54:04+01:00",
-            "_commit_index": 281,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "13dc3abbc23c420ce7ffb928d7fccf806022db5e",
-            "_timestamp": "2019-08-26 12:56:29+01:00",
-            "_commit_index": 282,
+            "_sha_id": "f45943e4ea50ea261b694dbe3b6b8f7fb79dbb84",
+            "_timestamp": "2019-06-18 22:23:42+01:00",
+            "_commit_index": 255,
             "_changed_files_list": []
         },
         {

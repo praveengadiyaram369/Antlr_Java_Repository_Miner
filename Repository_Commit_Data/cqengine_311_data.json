@@ -16,46 +16,91 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "f702c0c29f0ba329432a3ca98f811b1288f8d412",
-            "_timestamp": "2014-01-07 17:07:03+00:00",
-            "_commit_index": 683,
+            "_sha_id": "a521bdc9fcdd00ff4df1cc8addf7329ab7a1ab46",
+            "_timestamp": "2016-04-19 18:49:21+01:00",
+            "_commit_index": 1024,
+            "_changed_files_list": [
+                {
+                    "_file_name": "code/src/main/java/com/googlecode/cqengine/query/parser/sql/support/SQLAntlrListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 20,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "code/src/main/java/com/googlecode/cqengine/query/parser/cqn/support/CQNAntlrListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 21,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "9084219a454ed43875aee191c60a46e7f72a7885",
+            "_timestamp": "2015-05-10 01:37:31+00:00",
+            "_commit_index": 853,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "f702c0c29f0ba329432a3ca98f811b1288f8d412",
-            "_timestamp": "2014-01-07 17:07:03+00:00",
-            "_commit_index": 683,
+            "_sha_id": "2094b16436ce89530ad005e9af5277ae6fd52370",
+            "_timestamp": "2015-10-26 02:28:35+00:00",
+            "_commit_index": 938,
+            "_changed_files_list": [
+                {
+                    "_file_name": "code/src/main/java/com/googlecode/cqengine/query/parser/sql/support/SQLAntlrListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 20,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "code/src/main/java/com/googlecode/cqengine/query/parser/cqn/support/CQNAntlrListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 21,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "7ecd174709de9956e3cf7a61f0485e77f1a55e59",
+            "_timestamp": "2015-07-26 23:46:13+00:00",
+            "_commit_index": 895,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "f702c0c29f0ba329432a3ca98f811b1288f8d412",
-            "_timestamp": "2014-01-07 17:07:03+00:00",
-            "_commit_index": 683,
+            "_sha_id": "567701fa3a18d87aad614966b402617fdea221e5",
+            "_timestamp": "2015-08-23 22:13:55+01:00",
+            "_commit_index": 916,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "f702c0c29f0ba329432a3ca98f811b1288f8d412",
-            "_timestamp": "2014-01-07 17:07:03+00:00",
-            "_commit_index": 683,
+            "_sha_id": "38e998cc57703cd886e10e785a746802b3869052",
+            "_timestamp": "2015-10-26 01:08:02+00:00",
+            "_commit_index": 927,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "f702c0c29f0ba329432a3ca98f811b1288f8d412",
-            "_timestamp": "2014-01-07 17:07:03+00:00",
-            "_commit_index": 683,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "f702c0c29f0ba329432a3ca98f811b1288f8d412",
-            "_timestamp": "2014-01-07 17:07:03+00:00",
-            "_commit_index": 683,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "f702c0c29f0ba329432a3ca98f811b1288f8d412",
-            "_timestamp": "2014-01-07 17:07:03+00:00",
-            "_commit_index": 683,
-            "_changed_files_list": []
+            "_sha_id": "b8ccc87885b17bd7731bc5ebbaad4e0b2782d80e",
+            "_timestamp": "2015-10-26 01:40:14+00:00",
+            "_commit_index": 932,
+            "_changed_files_list": [
+                {
+                    "_file_name": "code/src/main/java/com/googlecode/cqengine/query/parser/sql/support/SQLAntlrListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 20,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "code/src/main/java/com/googlecode/cqengine/query/parser/cqn/support/CQNAntlrListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 21,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "16655557ca8dfe6d7a22e2e58f8ceb1411b98919",

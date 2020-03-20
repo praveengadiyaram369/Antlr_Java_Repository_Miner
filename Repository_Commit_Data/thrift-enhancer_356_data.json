@@ -18,52 +18,116 @@
             ]
         },
         {
-            "_sha_id": "9d62e915f070fc082d7bd50f92845deb16d76b42",
-            "_timestamp": "2019-01-14 00:14:06+08:00",
-            "_commit_index": 6,
-            "_changed_files_list": []
+            "_sha_id": "ff2e2f3de89b863a9d9416e1858b4d66cb843be9",
+            "_timestamp": "2019-01-23 10:39:03+08:00",
+            "_commit_index": 9,
+            "_changed_files_list": [
+                {
+                    "_file_name": "thrift-translator/src/main/java/com/github/rolandhe/thrift/enhancer/translator/idl/parse/JavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "e09783f353a6860b89a3407d9219f57d93e7293a",
             "_timestamp": "2019-01-13 23:35:19+08:00",
             "_commit_index": 4,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d4dab74f373dadbe6b262a831e7e029c4c701045",
-            "_timestamp": "2019-01-24 21:56:02+08:00",
-            "_commit_index": 14,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "ffe591e5052f49c346f2a4f19a0e610d3b74554e",
-            "_timestamp": "2019-01-14 15:09:31+08:00",
-            "_commit_index": 7,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "thrift-translator/src/main/java/com/github/rolandhe/thrift/enhancer/translator/idl/parse/JavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "0f80066e297a64af5148402a6d5897c74c4d840c",
             "_timestamp": "2019-01-24 00:19:49+08:00",
             "_commit_index": 10,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "thrift-translator/src/main/java/com/github/rolandhe/thrift/enhancer/translator/idl/parse/JavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "ff2e2f3de89b863a9d9416e1858b4d66cb843be9",
-            "_timestamp": "2019-01-23 10:39:03+08:00",
-            "_commit_index": 9,
-            "_changed_files_list": []
+            "_sha_id": "d4dab74f373dadbe6b262a831e7e029c4c701045",
+            "_timestamp": "2019-01-24 21:56:02+08:00",
+            "_commit_index": 14,
+            "_changed_files_list": [
+                {
+                    "_file_name": "thrift-translator/src/main/java/com/github/rolandhe/thrift/enhancer/translator/idl/parse/JavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "33db741abfe39febbf578a734ed7b9c1238c973f",
+            "_timestamp": "2019-01-14 00:05:45+08:00",
+            "_commit_index": 5,
+            "_changed_files_list": [
+                {
+                    "_file_name": "thrift-translator/src/main/java/com/github/rolandhe/thrift/enhancer/translator/idl/parse/JavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "34733d3195a955f69ca8984a7b8fc75f1b38fb93",
+            "_timestamp": "2019-01-24 21:16:04+08:00",
+            "_commit_index": 13,
+            "_changed_files_list": [
+                {
+                    "_file_name": "thrift-translator/src/main/java/com/github/rolandhe/thrift/enhancer/translator/idl/parse/JavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "9c627e92083b998bdab5f538ef39615f78177d23",
             "_timestamp": "2019-01-14 15:10:35+08:00",
             "_commit_index": 8,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "thrift-translator/src/main/java/com/github/rolandhe/thrift/enhancer/translator/idl/parse/JavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "9f7f6cadd09a83d46813b68cc1cf15a592920932",
-            "_timestamp": "2019-01-12 23:29:56+08:00",
-            "_commit_index": 2,
-            "_changed_files_list": []
+            "_sha_id": "ee45353054277521da50711db101434b9ee807f4",
+            "_timestamp": "2019-01-13 00:44:15+08:00",
+            "_commit_index": 3,
+            "_changed_files_list": [
+                {
+                    "_file_name": "thrift-translator/src/main/java/com/github/rolandhe/thrift/enhancer/translator/idl/parse/JavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "d65121f13a8abc0ba67e7243044668752e798871",

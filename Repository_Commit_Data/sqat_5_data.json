@@ -13,49 +13,491 @@
             "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
             "_timestamp": "2015-10-25 16:24:36+08:00",
             "_commit_index": 90,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/AllListeners.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/MethodNameFormatListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/WildCardImportStatementListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
-            "_timestamp": "2015-10-25 16:24:36+08:00",
-            "_commit_index": 90,
-            "_changed_files_list": []
+            "_sha_id": "08f94198c93d3a57c12a419174eb7de10ffb0f4a",
+            "_timestamp": "2015-12-22 16:55:02+08:00",
+            "_commit_index": 135,
+            "_changed_files_list": [
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfMethodsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfAttributesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/DepthOfConditionNestingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfLinesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/AverageLengthOfIdentifierListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/AllListeners.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/MethodNameFormatListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/WildCardImportStatementListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
-            "_timestamp": "2015-10-25 16:24:36+08:00",
-            "_commit_index": 90,
-            "_changed_files_list": []
+            "_sha_id": "8e5d5f3d3979dc893dd6312efd8d777cf6dfbd51",
+            "_timestamp": "2015-12-18 18:57:48+08:00",
+            "_commit_index": 112,
+            "_changed_files_list": [
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfMethodsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/DepthOfConditionNestingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/AllListeners.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/MethodNameFormatListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/WildCardImportStatementListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
-            "_timestamp": "2015-10-25 16:24:36+08:00",
-            "_commit_index": 90,
-            "_changed_files_list": []
+            "_sha_id": "42b5ff89e5a9b8ccde5a73cf0423364193543ff8",
+            "_timestamp": "2015-12-20 18:30:21+08:00",
+            "_commit_index": 123,
+            "_changed_files_list": [
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfMethodsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfAttributesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/DepthOfConditionNestingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfLinesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/AverageLengthOfIdentifierListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/AllListeners.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/MethodNameFormatListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/WildCardImportStatementListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
-            "_timestamp": "2015-10-25 16:24:36+08:00",
-            "_commit_index": 90,
-            "_changed_files_list": []
+            "_sha_id": "f37ce013e797e4ddde21fd1e7027484eb3778407",
+            "_timestamp": "2015-12-20 17:07:07+08:00",
+            "_commit_index": 117,
+            "_changed_files_list": [
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfMethodsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/DepthOfConditionNestingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/AverageLengthOfIdentifierListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/AllListeners.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/MethodNameFormatListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/WildCardImportStatementListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
-            "_timestamp": "2015-10-25 16:24:36+08:00",
-            "_commit_index": 90,
-            "_changed_files_list": []
+            "_sha_id": "dc697d3652a3d2f663a24c4c15762b3fa3d2a699",
+            "_timestamp": "2015-12-21 19:50:28+08:00",
+            "_commit_index": 129,
+            "_changed_files_list": [
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfMethodsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfAttributesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/DepthOfConditionNestingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfLinesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/AverageLengthOfIdentifierListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/AllListeners.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/MethodNameFormatListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/WildCardImportStatementListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
-            "_timestamp": "2015-10-25 16:24:36+08:00",
-            "_commit_index": 90,
-            "_changed_files_list": []
+            "_sha_id": "24ac96ef1fc3eadbeade79367ced381f0fc7867b",
+            "_timestamp": "2015-12-20 21:19:55+08:00",
+            "_commit_index": 126,
+            "_changed_files_list": [
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfMethodsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfAttributesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/DepthOfConditionNestingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfLinesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/AverageLengthOfIdentifierListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/AllListeners.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/MethodNameFormatListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/WildCardImportStatementListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "045d790f7f1f3bca4c25da39fc0e08cdc42b40b7",
-            "_timestamp": "2015-10-25 16:24:36+08:00",
-            "_commit_index": 90,
-            "_changed_files_list": []
+            "_sha_id": "42e8ad22ff2706c91748f85c44ab1b913696cccb",
+            "_timestamp": "2015-12-21 00:50:22+08:00",
+            "_commit_index": 127,
+            "_changed_files_list": [
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfMethodsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfAttributesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/DepthOfConditionNestingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/NumberOfLinesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/metrics/listener/AverageLengthOfIdentifierListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/AllListeners.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/MethodNameFormatListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "stylechecker/src/main/java/com/sqatntu/stylechecker/listener/WildCardImportStatementListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "dddeb49ad73050044ec3a5c3f8659c38a51b84c5",

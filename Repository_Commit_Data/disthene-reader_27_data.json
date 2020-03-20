@@ -13,48 +13,72 @@
             "_sha_id": "47be48c9e1f13095a4cc08853d4b8ccde669f198",
             "_timestamp": "2015-07-21 14:17:21+03:00",
             "_commit_index": 167,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/net/iponweb/disthene/reader/graphite/TargetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "a5606b93dc532da68ddbd0e1c6b881d5940fbf5d",
+            "_timestamp": "2015-06-30 21:17:30+03:00",
+            "_commit_index": 83,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/net/iponweb/disthene/reader/graphite/TargetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "1d6ae8497ce6aa17d1cd8ab77ac1553da1196251",
+            "_timestamp": "2014-11-29 20:14:43+03:00",
+            "_commit_index": 41,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "61d4f6c3a315ca707b94edfd31fd7ffa9ec54950",
-            "_timestamp": "2015-09-29 13:48:43+03:00",
-            "_commit_index": 251,
+            "_sha_id": "51ab8ca8dfff076a55a6e32d471895065a8a5315",
+            "_timestamp": "2014-12-01 23:59:17+03:00",
+            "_commit_index": 62,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9c63646afb7ba3f1ea9400abb0f68e09d17f76a4",
-            "_timestamp": "2016-08-03 21:29:52+03:00",
-            "_commit_index": 293,
+            "_sha_id": "bffe8ec0336d97aeab1e64c0e2dfb1459d24c7c0",
+            "_timestamp": "2015-06-12 14:32:18+03:00",
+            "_commit_index": 72,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6dd067d741db630772e21569753aee1881b17786",
-            "_timestamp": "2017-05-14 21:44:52+03:00",
-            "_commit_index": 314,
+            "_sha_id": "f45e5dea3ea583b47d795bf701a6ef854f7971c2",
+            "_timestamp": "2015-06-21 15:24:46+03:00",
+            "_commit_index": 77,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b943987f682deca7155b736b6a52b7aeef8fa1d4",
-            "_timestamp": "2017-05-19 20:39:35+03:00",
-            "_commit_index": 324,
-            "_changed_files_list": []
+            "_sha_id": "a88b3aa56a3e0ae751249ed044abe31afedfb7e7",
+            "_timestamp": "2015-06-24 21:40:35+03:00",
+            "_commit_index": 80,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/net/iponweb/disthene/reader/graphite/TargetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
-            "_sha_id": "45326c2be14a9b8fa7cf124099860d6460a29e51",
-            "_timestamp": "2017-10-03 19:16:03+03:00",
-            "_commit_index": 329,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0dddcad8b99c0821ce21ee0e335bb0d60333d19b",
-            "_timestamp": "2017-10-25 15:44:03+03:00",
-            "_commit_index": 332,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b48655b754460179029f4c00a16043111217094f",
-            "_timestamp": "2017-11-29 16:11:38+03:00",
-            "_commit_index": 333,
+            "_sha_id": "e58eec739b8345084dfdfe34989c4a69cbcf486b",
+            "_timestamp": "2015-06-22 10:27:35+03:00",
+            "_commit_index": 78,
             "_changed_files_list": []
         },
         {

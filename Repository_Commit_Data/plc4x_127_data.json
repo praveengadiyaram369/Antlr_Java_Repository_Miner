@@ -25,52 +25,97 @@
             "_sha_id": "0dd5acbff1a9a2699dc00b788215fa082715fefa",
             "_timestamp": "2019-08-23 08:15:35+02:00",
             "_commit_index": 2170,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "a6edd444469c30f448c771a79694703a788d5a35",
-            "_timestamp": "2019-10-17 21:58:28+02:00",
-            "_commit_index": 2325,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "f436d6896649c66c89b0ade244a2cc41ddccc02b",
-            "_timestamp": "2019-11-20 15:30:26+01:00",
-            "_commit_index": 2402,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "9a13bfae948ed12cc01c5b490d8d3efac9de6a4b",
-            "_timestamp": "2019-12-08 15:26:42-08:00",
-            "_commit_index": 2441,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "1660dfbf12b13a2863a3bc4f4295507473fa8019",
-            "_timestamp": "2019-12-11 15:52:56+01:00",
-            "_commit_index": 2460,
             "_changed_files_list": [
                 {
                     "_file_name": "build-utils/protocol-base-mspec/src/main/java/org/apache/plc4x/plugins/codegenerator/language/mspec/expression/ExpressionStringListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 16,
-                    "_exit_cnt": 20,
+                    "_enter_cnt": 13,
+                    "_exit_cnt": 17,
                     "_visit_cnt": 0
                 },
                 {
                     "_file_name": "build-utils/protocol-base-mspec/src/main/java/org/apache/plc4x/plugins/codegenerator/language/mspec/parser/MessageFormatListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 18,
+                    "_enter_cnt": 15,
                     "_exit_cnt": 2,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "0ee09faaec8c93121e41bc097ca9de394f82113a",
-            "_timestamp": "2019-12-10 16:52:04+01:00",
-            "_commit_index": 2450,
+            "_sha_id": "b0397cb27c405c7d27ee35bd4442cf175ad7df04",
+            "_timestamp": "2019-08-08 16:39:23+02:00",
+            "_commit_index": 2015,
+            "_changed_files_list": [
+                {
+                    "_file_name": "build-utils/protocol-base-mspec/src/main/java/org/apache/plc4x/plugins/codegenerator/language/mspec/expression/ExpressionStringListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 13,
+                    "_exit_cnt": 17,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "build-utils/protocol-base-mspec/src/main/java/org/apache/plc4x/plugins/codegenerator/language/mspec/parser/MessageFormatListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 15,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "1f3144bf26db3db40cac2a1ac54082456296c673",
+            "_timestamp": "2019-07-01 15:56:35+02:00",
+            "_commit_index": 1937,
+            "_changed_files_list": [
+                {
+                    "_file_name": "build-utils/protocol-base-mspec/src/main/java/org/apache/plc4x/plugins/codegenerator/language/mspec/expression/ExpressionStringListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 13,
+                    "_exit_cnt": 17,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "build-utils/protocol-base-mspec/src/main/java/org/apache/plc4x/plugins/codegenerator/language/mspec/parser/MessageFormatListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "56a750ec842fc97462fa513ac7467aa9eeebce5b",
+            "_timestamp": "2019-06-11 16:27:56+02:00",
+            "_commit_index": 1898,
             "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f1a8f3819f2cc8af6d1e25984ab8529a5dd625a3",
+            "_timestamp": "2019-06-19 13:13:05+02:00",
+            "_commit_index": 1917,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a49baff55406842b4560317fbc26f31ad04cf805",
+            "_timestamp": "2019-06-26 07:27:36+02:00",
+            "_commit_index": 1927,
+            "_changed_files_list": [
+                {
+                    "_file_name": "build-utils/protocol-base-mspec/src/main/java/org/apache/plc4x/plugins/codegenerator/language/mspec/expression/ExpressionStringListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 13,
+                    "_exit_cnt": 17,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "build-utils/protocol-base-mspec/src/main/java/org/apache/plc4x/plugins/codegenerator/language/mspec/parser/MessageFormatListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "9653debd5c8a365155c1c09f9ff18d8d75a65ddf",

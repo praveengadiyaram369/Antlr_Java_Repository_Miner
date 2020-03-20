@@ -16,46 +16,121 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "387c325403875b456eee60b9aff6bf8b7a2ce5db",
-            "_timestamp": "2018-05-10 21:46:00+03:00",
-            "_commit_index": 8236,
+            "_sha_id": "126e4e421ae763e1b50e8290f3835f3328d51a41",
+            "_timestamp": "2019-03-18 19:12:23+08:00",
+            "_commit_index": 12354,
+            "_changed_files_list": [
+                {
+                    "_file_name": "antlr/src/main/java/com/baeldung/antlr/log/LogListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "antlr/src/main/java/com/baeldung/antlr/java/UppercaseMethodListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "b2f3115cfda2dd24d38b29f9553cb462f7c727bb",
+            "_timestamp": "2018-10-21 00:14:30+05:18",
+            "_commit_index": 10295,
+            "_changed_files_list": [
+                {
+                    "_file_name": "antlr/src/main/java/com/baeldung/antlr/log/LogListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "antlr/src/main/java/com/baeldung/antlr/java/UppercaseMethodListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "4b1f9559808e42099f57d1272b0c6f11cb06bc72",
+            "_timestamp": "2018-08-14 22:57:17+08:00",
+            "_commit_index": 9265,
+            "_changed_files_list": [
+                {
+                    "_file_name": "antlr/src/main/java/com/baeldung/antlr/log/LogListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "antlr/src/main/java/com/baeldung/antlr/java/UppercaseMethodListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "30b439458e60944282aedb329d94017173d7c2ca",
+            "_timestamp": "2018-07-08 17:29:29+05:18",
+            "_commit_index": 8750,
+            "_changed_files_list": [
+                {
+                    "_file_name": "antlr/src/main/java/com/baeldung/antlr/log/LogListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "antlr/src/main/java/com/baeldung/antlr/java/UppercaseMethodListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "f8b9555e4260104cdaf815efabfc93863d0bb7c6",
+            "_timestamp": "2018-05-09 18:35:14+02:00",
+            "_commit_index": 8493,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "387c325403875b456eee60b9aff6bf8b7a2ce5db",
-            "_timestamp": "2018-05-10 21:46:00+03:00",
-            "_commit_index": 8236,
+            "_sha_id": "32d50befa41a0c866b86bf8e226ddf7d885b1db2",
+            "_timestamp": "2018-06-24 23:24:49+01:00",
+            "_commit_index": 8621,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "387c325403875b456eee60b9aff6bf8b7a2ce5db",
-            "_timestamp": "2018-05-10 21:46:00+03:00",
-            "_commit_index": 8236,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "387c325403875b456eee60b9aff6bf8b7a2ce5db",
-            "_timestamp": "2018-05-10 21:46:00+03:00",
-            "_commit_index": 8236,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "387c325403875b456eee60b9aff6bf8b7a2ce5db",
-            "_timestamp": "2018-05-10 21:46:00+03:00",
-            "_commit_index": 8236,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "387c325403875b456eee60b9aff6bf8b7a2ce5db",
-            "_timestamp": "2018-05-10 21:46:00+03:00",
-            "_commit_index": 8236,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "387c325403875b456eee60b9aff6bf8b7a2ce5db",
-            "_timestamp": "2018-05-10 21:46:00+03:00",
-            "_commit_index": 8236,
-            "_changed_files_list": []
+            "_sha_id": "9c82a741b94b0b942cb0963b4bf1295f513107a8",
+            "_timestamp": "2018-07-01 18:51:42+03:00",
+            "_commit_index": 8685,
+            "_changed_files_list": [
+                {
+                    "_file_name": "antlr/src/main/java/com/baeldung/antlr/log/LogListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "antlr/src/main/java/com/baeldung/antlr/java/UppercaseMethodListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "3b3880a942ef729e67fed331b810b3245450ef45",

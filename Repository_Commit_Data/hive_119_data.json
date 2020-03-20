@@ -16,46 +16,102 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4014b4269037d98de39d369d302f704bbdb9f474",
-            "_timestamp": "2015-07-09 09:58:15+08:00",
-            "_commit_index": 6980,
-            "_changed_files_list": []
+            "_sha_id": "d2e870438a99fe84369154d6f399f7864a36319a",
+            "_timestamp": "2017-06-13 17:12:13-07:00",
+            "_commit_index": 10470,
+            "_changed_files_list": [
+                {
+                    "_file_name": "hplsql/src/main/java/org/apache/hive/hplsql/Exec.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 110
+                }
+            ]
         },
         {
-            "_sha_id": "4014b4269037d98de39d369d302f704bbdb9f474",
-            "_timestamp": "2015-07-09 09:58:15+08:00",
-            "_commit_index": 6980,
-            "_changed_files_list": []
+            "_sha_id": "299672cfc784445048c5145f273a917862c62f5d",
+            "_timestamp": "2016-06-21 16:37:36-07:00",
+            "_commit_index": 8725,
+            "_changed_files_list": [
+                {
+                    "_file_name": "hplsql/src/main/java/org/apache/hive/hplsql/Exec.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 110
+                }
+            ]
         },
         {
-            "_sha_id": "4014b4269037d98de39d369d302f704bbdb9f474",
-            "_timestamp": "2015-07-09 09:58:15+08:00",
-            "_commit_index": 6980,
-            "_changed_files_list": []
+            "_sha_id": "34c83fb36f2baf116cbd128ba47773472a24a9c4",
+            "_timestamp": "2015-12-09 17:16:04-05:00",
+            "_commit_index": 7852,
+            "_changed_files_list": [
+                {
+                    "_file_name": "hplsql/src/main/java/org/apache/hive/hplsql/Exec.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 97
+                }
+            ]
         },
         {
-            "_sha_id": "4014b4269037d98de39d369d302f704bbdb9f474",
-            "_timestamp": "2015-07-09 09:58:15+08:00",
-            "_commit_index": 6980,
-            "_changed_files_list": []
+            "_sha_id": "c9cc105cd7557a57f4207d3ea056e5222e5e3f32",
+            "_timestamp": "2015-09-28 12:09:59-07:00",
+            "_commit_index": 7416,
+            "_changed_files_list": [
+                {
+                    "_file_name": "hplsql/src/main/java/org/apache/hive/hplsql/Exec.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 94
+                }
+            ]
         },
         {
-            "_sha_id": "4014b4269037d98de39d369d302f704bbdb9f474",
-            "_timestamp": "2015-07-09 09:58:15+08:00",
-            "_commit_index": 6980,
-            "_changed_files_list": []
+            "_sha_id": "3c1eae0c44450ebbf26c88066de871ea7f479981",
+            "_timestamp": "2015-08-21 15:23:53-07:00",
+            "_commit_index": 7198,
+            "_changed_files_list": [
+                {
+                    "_file_name": "hplsql/src/main/java/org/apache/hive/hplsql/Exec.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 91
+                }
+            ]
         },
         {
-            "_sha_id": "4014b4269037d98de39d369d302f704bbdb9f474",
-            "_timestamp": "2015-07-09 09:58:15+08:00",
-            "_commit_index": 6980,
-            "_changed_files_list": []
+            "_sha_id": "537114b964c71b7a5cd00c9938eadc6d0cf76536",
+            "_timestamp": "2015-07-30 12:48:31-07:00",
+            "_commit_index": 7089,
+            "_changed_files_list": [
+                {
+                    "_file_name": "hplsql/src/main/java/org/apache/hive/hplsql/Exec.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 85
+                }
+            ]
         },
         {
-            "_sha_id": "4014b4269037d98de39d369d302f704bbdb9f474",
-            "_timestamp": "2015-07-09 09:58:15+08:00",
-            "_commit_index": 6980,
-            "_changed_files_list": []
+            "_sha_id": "8646c12f7438a166d32cf8527733fe68d152a831",
+            "_timestamp": "2015-07-16 02:09:00+07:00",
+            "_commit_index": 7034,
+            "_changed_files_list": [
+                {
+                    "_file_name": "hplsql/src/main/java/org/apache/hive/hplsql/Exec.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 85
+                }
+            ]
         },
         {
             "_sha_id": "2e930ab97ebb2ef53c29b019415491be406501c9",

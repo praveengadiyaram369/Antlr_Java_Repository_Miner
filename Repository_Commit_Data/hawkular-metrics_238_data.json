@@ -31,30 +31,54 @@
             "_sha_id": "4dbd5a3314583d91956a5bb3544cb78d520bdf8c",
             "_timestamp": "2017-04-25 11:22:52-04:00",
             "_commit_index": 3033,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/metrics-core-service/src/main/java/org/hawkular/metrics/core/service/tags/ExpressionTagQueryParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "54ced0490a2821ad9e910db24a343e909af2c9ab",
+            "_timestamp": "2017-02-08 17:24:32+01:00",
+            "_commit_index": 2932,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/metrics-core-service/src/main/java/org/hawkular/metrics/core/service/tags/ExpressionTagQueryParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "20d86c30242ca3238de55e660f8f41fe2ea79e64",
+            "_timestamp": "2017-01-10 14:27:08-05:00",
+            "_commit_index": 2881,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "83dfe8b4706b2307037a7101ff1539ab88438683",
-            "_timestamp": "2017-08-10 15:14:58-04:00",
-            "_commit_index": 3134,
-            "_changed_files_list": []
+            "_sha_id": "90baec180b9d7270d94039141194627701bab8e4",
+            "_timestamp": "2017-01-24 15:03:18-06:00",
+            "_commit_index": 2906,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/metrics-core-service/src/main/java/org/hawkular/metrics/core/service/tags/ExpressionTagQueryParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "487ba0d64f5e539faea4bd5ff8bc3fbec79da79b",
-            "_timestamp": "2018-02-12 14:32:52-05:00",
-            "_commit_index": 3185,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "58976360c23a1cf02170408839195128d2bb1e16",
-            "_timestamp": "2018-03-31 19:48:03+03:00",
-            "_commit_index": 3210,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4cdd6be407faa0b7a467de0b9ae7f4c7682c24d2",
-            "_timestamp": "2018-05-04 13:33:13-04:00",
-            "_commit_index": 3223,
+            "_sha_id": "cd83a172307d7ecccd6436c6336018e09601219f",
+            "_timestamp": "2017-01-19 14:34:20-06:00",
+            "_commit_index": 2893,
             "_changed_files_list": []
         },
         {

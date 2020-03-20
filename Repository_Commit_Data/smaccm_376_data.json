@@ -31,31 +31,71 @@
             "_sha_id": "7a35340a96b83317aa53b7a351a4abf783f32e60",
             "_timestamp": "2018-04-04 05:57:29-05:00",
             "_commit_index": 2249,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "fm-workbench/trusted-build/edu.umn.cs.crisys.tb/src/edu/umn/cs/crisys/tb/parse/AadlModelParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "24c5a8703912510156e42d34b820a4673bdfd637",
-            "_timestamp": "2018-06-15 06:49:10-05:00",
-            "_commit_index": 2324,
-            "_changed_files_list": []
+            "_sha_id": "3c92f0fcc95ba2fba4fa12cce3ef4fa3e0f03ed2",
+            "_timestamp": "2018-02-28 16:10:43-06:00",
+            "_commit_index": 2174,
+            "_changed_files_list": [
+                {
+                    "_file_name": "fm-workbench/trusted-build/edu.umn.cs.crisys.tb/src/edu/umn/cs/crisys/tb/parse/AadlModelParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "8ff8d1e7d6b8487f34d4e73cae3ecb7176d98fcd",
-            "_timestamp": "2018-08-08 12:43:16-05:00",
-            "_commit_index": 2361,
-            "_changed_files_list": []
+            "_sha_id": "3dbe5dc43eb962fb24e8379056286f8881206de6",
+            "_timestamp": "2017-12-14 15:26:40-06:00",
+            "_commit_index": 2136,
+            "_changed_files_list": [
+                {
+                    "_file_name": "fm-workbench/trusted-build/edu.umn.cs.crisys.tb/src/edu/umn/cs/crisys/tb/parse/AadlModelParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "8dc98b75257e81ffaf0d9e2e3530cfe9bf95e87c",
-            "_timestamp": "2018-10-02 08:11:17-05:00",
-            "_commit_index": 2380,
-            "_changed_files_list": []
+            "_sha_id": "a44e5dda13a1361f58dc90551aa88fd7b17fe42c",
+            "_timestamp": "2017-11-03 16:27:43-04:00",
+            "_commit_index": 2117,
+            "_changed_files_list": [
+                {
+                    "_file_name": "fm-workbench/trusted-build/edu.umn.cs.crisys.tb/src/edu/umn/cs/crisys/tb/parse/AadlModelParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "27898bc44221235ee68edd99c90f5c39cddf1905",
-            "_timestamp": "2018-10-18 07:37:10-05:00",
-            "_commit_index": 2389,
-            "_changed_files_list": []
+            "_sha_id": "d05f5268612afcb1369cec82ed52fdc535babb30",
+            "_timestamp": "2017-10-12 17:08:05-05:00",
+            "_commit_index": 2108,
+            "_changed_files_list": [
+                {
+                    "_file_name": "fm-workbench/trusted-build/edu.umn.cs.crisys.tb/src/edu/umn/cs/crisys/tb/parse/AadlModelParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "7393c423b5aca1a272a88cbb89b5dcfd08a5a47c",

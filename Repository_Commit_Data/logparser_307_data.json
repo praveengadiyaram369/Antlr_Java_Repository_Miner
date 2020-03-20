@@ -45,24 +45,48 @@
             "_sha_id": "721aedc09276129e0dfb5b17603011e3b4a3a31e",
             "_timestamp": "2017-12-15 16:33:56+01:00",
             "_commit_index": 518,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "httpdlog/httpdlog-parser/src/main/java/nl/basjes/parse/httpdlog/dissectors/StrfTimeToDateTimeFormatter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 44,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "8fd8f8b05c9133a3adc03263ed2b6f9cab2886c6",
-            "_timestamp": "2018-01-09 15:41:59+01:00",
-            "_commit_index": 528,
-            "_changed_files_list": []
+            "_sha_id": "5450153e031e80839f35c02a7dd47f3c52e3655a",
+            "_timestamp": "2017-10-15 11:01:47+02:00",
+            "_commit_index": 508,
+            "_changed_files_list": [
+                {
+                    "_file_name": "httpdlog/httpdlog-parser/src/main/java/nl/basjes/parse/httpdlog/dissectors/StrfTimeToDateTimeFormatter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 44,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "fd7d2dfc4565b31b54a42ce8ac776e286b46d06a",
-            "_timestamp": "2018-01-15 13:37:50+01:00",
-            "_commit_index": 533,
-            "_changed_files_list": []
+            "_sha_id": "0db416be0d2073fe46b50b3bd3036592aa2cbe5d",
+            "_timestamp": "2017-09-25 22:07:18+02:00",
+            "_commit_index": 503,
+            "_changed_files_list": [
+                {
+                    "_file_name": "httpdlog/httpdlog-parser/src/main/java/nl/basjes/parse/httpdlog/dissectors/StrfTimeToDateTimeFormatter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 44,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "7fe7fe1aea3898e543522ed9a849e1591817059e",
-            "_timestamp": "2018-01-15 15:15:35+01:00",
-            "_commit_index": 535,
+            "_sha_id": "4299949c4b7f7b2d6003a8fb72a64ab1341ffa0d",
+            "_timestamp": "2017-09-21 22:10:47+02:00",
+            "_commit_index": 501,
             "_changed_files_list": []
         },
         {

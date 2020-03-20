@@ -13,48 +13,72 @@
             "_sha_id": "54e5252fbc747bc90240c519d1ef770c2b6676df",
             "_timestamp": "2016-06-13 16:06:19+02:00",
             "_commit_index": 244,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/nedap/archie/adlparser/treewalkers/ADLListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 13,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "068dbf1679e375da598ff11309e9e9855a6eea90",
+            "_timestamp": "2016-02-23 12:00:38+01:00",
+            "_commit_index": 122,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4bd8052db973db2a44a873022c059db13eb95fc2",
-            "_timestamp": "2017-04-03 13:25:04+02:00",
-            "_commit_index": 366,
+            "_sha_id": "527f7ddee689ac0e0ea706bce0e6e843061ccdd1",
+            "_timestamp": "2016-04-26 12:38:05+02:00",
+            "_commit_index": 183,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "2a7ca4c15815d751fa2408d4700335f87e4bbff2",
-            "_timestamp": "2017-07-18 12:23:14+02:00",
-            "_commit_index": 427,
+            "_sha_id": "1bf2d817666a7f2f9ce6ae4454925135776e1eee",
+            "_timestamp": "2016-05-13 11:54:16+02:00",
+            "_commit_index": 213,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/nedap/archie/adlparser/treewalkers/ADLListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 13,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "1fb8f05b8c776a76d4c76a7eb3ef02f0355107db",
+            "_timestamp": "2016-05-09 16:36:58+02:00",
+            "_commit_index": 198,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "515519a947f748369a3304d87dd7f7b706b7178c",
-            "_timestamp": "2017-10-06 17:06:28+02:00",
-            "_commit_index": 457,
+            "_sha_id": "b0aaaea66463002e39f1cd4a3af75035d0f884ae",
+            "_timestamp": "2016-05-12 14:33:16+02:00",
+            "_commit_index": 205,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6bd3210ac2be09eff485f9e479785e1078251f45",
-            "_timestamp": "2017-11-07 11:24:15+01:00",
-            "_commit_index": 472,
-            "_changed_files_list": []
+            "_sha_id": "11228ad04c43106650ffdefafb6361af36fb1fa4",
+            "_timestamp": "2016-05-13 11:05:46+02:00",
+            "_commit_index": 209,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/nedap/archie/adlparser/treewalkers/ADLListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 13,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "6e962237994c8d706e2638cd9101e81785314691",
-            "_timestamp": "2017-12-01 14:41:08+01:00",
-            "_commit_index": 480,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "fe98bcd393040733ba5de5ce53c8cafae21477b8",
-            "_timestamp": "2017-12-27 11:39:05+01:00",
-            "_commit_index": 484,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8fb32e0f2b0ef2cc1e3f06f4abea5b6c4b361a28",
-            "_timestamp": "2018-01-17 13:19:53+01:00",
-            "_commit_index": 486,
+            "_sha_id": "4609f48bbe58c03bfc6fc492e1687784497666f3",
+            "_timestamp": "2016-05-12 14:45:30+02:00",
+            "_commit_index": 207,
             "_changed_files_list": []
         },
         {

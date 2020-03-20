@@ -13,13 +13,49 @@
             "_sha_id": "2da9593402720686673a018e0b93f6bf963aa9f2",
             "_timestamp": "2015-05-08 13:19:50-07:00",
             "_commit_index": 214,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "lectures/code/gendot/CollectCalls.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "lectures/code/symtab/src/DefSymbolsAndScopes.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "7668da4cf45e9dd9a99cb177e2c059839f4b0782",
             "_timestamp": "2017-02-10 10:40:19-08:00",
             "_commit_index": 321,
             "_changed_files_list": [
+                {
+                    "_file_name": "lectures/code/gendot/CollectCalls.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "lectures/code/symtab/src/DefSymbolsAndScopes.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/listener/src/PropertyFileLoader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
                 {
                     "_file_name": "labs/visitor/src/ExprEval.java",
                     "_is_antlr_file": true,
@@ -35,43 +71,349 @@
             "_commit_index": 375,
             "_changed_files_list": [
                 {
+                    "_file_name": "lectures/code/gendot/CollectCalls.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "lectures/code/symtab/src/DefSymbolsAndScopes.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/types/src/ComputeTypes.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/types/src/Def.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
                     "_file_name": "labs/trans-st2/src/Gen.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 2,
                     "_exit_cnt": 0,
                     "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/listener/src/PropertyFileLoader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/symtab-func/src/DefSymbols.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/trans-st/src/Gen.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/symtab-mono/src/DefSymbols.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/trans-objects/src/Gen.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/trans/src/Gen.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/csvloader/src/CSVLoader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/visitor/src/ExprEval.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
                 }
             ]
         },
         {
-            "_sha_id": "387d2347b2167e12b3f6560e3a7978fbc6b1571a",
-            "_timestamp": "2017-04-12 10:52:16-07:00",
-            "_commit_index": 402,
-            "_changed_files_list": []
+            "_sha_id": "6b42313cb2ce455f76ba2fabbbccdfa94946790a",
+            "_timestamp": "2017-03-01 11:12:56-08:00",
+            "_commit_index": 348,
+            "_changed_files_list": [
+                {
+                    "_file_name": "lectures/code/gendot/CollectCalls.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "lectures/code/symtab/src/DefSymbolsAndScopes.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/listener/src/PropertyFileLoader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/symtab-func/src/DefSymbols.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/symtab-mono/src/DefSymbols.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/csvloader/src/CSVLoader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/visitor/src/ExprEval.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
         },
         {
-            "_sha_id": "431853d08f4a5084425dcc470f99e2ecbc4a0ddb",
-            "_timestamp": "2017-04-28 10:53:18-07:00",
-            "_commit_index": 415,
-            "_changed_files_list": []
+            "_sha_id": "10289dc8c7b5b28fa692304529e55917084abc28",
+            "_timestamp": "2017-02-22 12:40:34-08:00",
+            "_commit_index": 334,
+            "_changed_files_list": [
+                {
+                    "_file_name": "lectures/code/gendot/CollectCalls.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "lectures/code/symtab/src/DefSymbolsAndScopes.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/listener/src/PropertyFileLoader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/symtab-mono/src/DefSymbols.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/csvloader/src/CSVLoader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/visitor/src/ExprEval.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
         },
         {
-            "_sha_id": "45d6e8fd603b84b71effd6d59e261927827620fd",
-            "_timestamp": "2017-05-08 12:30:36-07:00",
-            "_commit_index": 422,
-            "_changed_files_list": []
+            "_sha_id": "38bc1ba0dd90e458a111d1311a529fb471f2e28a",
+            "_timestamp": "2017-03-20 11:02:49-07:00",
+            "_commit_index": 361,
+            "_changed_files_list": [
+                {
+                    "_file_name": "lectures/code/gendot/CollectCalls.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "lectures/code/symtab/src/DefSymbolsAndScopes.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/types/src/ComputeTypes.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/types/src/Def.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/listener/src/PropertyFileLoader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/symtab-func/src/DefSymbols.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/symtab-mono/src/DefSymbols.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/trans/src/Gen.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/csvloader/src/CSVLoader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/visitor/src/ExprEval.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
         },
         {
-            "_sha_id": "d298a7c98bd61f45aa5b3d5e41e4d80df81d0be8",
-            "_timestamp": "2017-05-08 16:15:36-07:00",
-            "_commit_index": 425,
-            "_changed_files_list": []
+            "_sha_id": "c61edcf440ab732e5b2ba2adb239cde69581b93d",
+            "_timestamp": "2015-03-13 16:43:41-07:00",
+            "_commit_index": 107,
+            "_changed_files_list": [
+                {
+                    "_file_name": "lectures/code/symtab/src/DefSymbolsAndScopes.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "271ef5637b3bc4da12367310dc7662cdb5247eae",
-            "_timestamp": "2017-05-10 11:45:49-07:00",
-            "_commit_index": 427,
-            "_changed_files_list": []
+            "_sha_id": "05fa090d37227465bac23a1368f54162a4728125",
+            "_timestamp": "2017-03-01 10:30:37-08:00",
+            "_commit_index": 341,
+            "_changed_files_list": [
+                {
+                    "_file_name": "lectures/code/gendot/CollectCalls.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "lectures/code/symtab/src/DefSymbolsAndScopes.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/listener/src/PropertyFileLoader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/symtab-func/src/DefSymbols.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/symtab-mono/src/DefSymbols.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/csvloader/src/CSVLoader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "labs/visitor/src/ExprEval.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
         },
         {
             "_sha_id": "24a2353290887203c11a0a50bc703084374483c0",

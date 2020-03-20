@@ -13,56 +13,96 @@
             "_sha_id": "77351108de87fed07f8efbe825cb02c4f1586e58",
             "_timestamp": "2015-05-13 10:10:12-04:00",
             "_commit_index": 112,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "23b73a1b2cb30f19678fcb070bbda18e0316dead",
-            "_timestamp": "2015-06-18 16:22:06+02:00",
-            "_commit_index": 168,
             "_changed_files_list": [
                 {
                     "_file_name": "solutions/org.campagnelab.antlr.parsers/source_gen/org/campagnelab/antlr/parsers/AntlrRuleVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 27
+                    "_visit_cnt": 26
                 }
             ]
         },
         {
-            "_sha_id": "05eb0f2b4e592987413db66e9ce833f65ca7d696",
-            "_timestamp": "2015-05-15 11:49:25-04:00",
-            "_commit_index": 140,
+            "_sha_id": "c20c359cd9c47aacb9b04aea20688cf81a190ff1",
+            "_timestamp": "2015-05-06 09:02:06-04:00",
+            "_commit_index": 56,
+            "_changed_files_list": [
+                {
+                    "_file_name": "solutions/org.campagnelab.antlr.parsers/source_gen/org/campagnelab/antlr/parsers/AntlrRuleVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                }
+            ]
+        },
+        {
+            "_sha_id": "913e92a0da4c314bccb41620803cdb74e9fd5b3f",
+            "_timestamp": "2015-04-28 09:53:37-04:00",
+            "_commit_index": 28,
+            "_changed_files_list": [
+                {
+                    "_file_name": "solutions/org.campagnelab.antlr.parsers/source_gen/org/campagnelab/antlr/parsers/AntlrRuleVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 19
+                }
+            ]
+        },
+        {
+            "_sha_id": "6a34781b96432354827eb77ecf3be1287de3666c",
+            "_timestamp": "2015-04-26 11:40:42-04:00",
+            "_commit_index": 14,
+            "_changed_files_list": [
+                {
+                    "_file_name": "solutions/org.campagnelab.antlr.parsers/source_gen/org/campagnelab/antlr/parsers/AntlrRuleVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                }
+            ]
+        },
+        {
+            "_sha_id": "fddc427be74a59222ad14fc59ca6d1692818350f",
+            "_timestamp": "2015-04-27 12:37:54-04:00",
+            "_commit_index": 21,
+            "_changed_files_list": [
+                {
+                    "_file_name": "solutions/org.campagnelab.antlr.parsers/source_gen/org/campagnelab/antlr/parsers/AntlrRuleVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 15
+                }
+            ]
+        },
+        {
+            "_sha_id": "7feef50c595cb6552d630bd4b271611a6106519e",
+            "_timestamp": "2015-04-25 14:59:31-04:00",
+            "_commit_index": 7,
+            "_changed_files_list": [
+                {
+                    "_file_name": "solutions/org.campagnelab.antlr.parsers/source_gen/org/campagnelab/antlr/parsers/AntlrRuleVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                }
+            ]
+        },
+        {
+            "_sha_id": "b7c30ee97bd6a3f0a11140ad459ce2a629748458",
+            "_timestamp": "2015-04-24 09:10:56-04:00",
+            "_commit_index": 3,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "a4bdec30011c4cc7bee83b40c4a3775b77ebdbcd",
-            "_timestamp": "2015-05-26 14:51:19-04:00",
-            "_commit_index": 154,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "9bc3c230fd8d2206f4c600a120d749b7cace8488",
-            "_timestamp": "2015-06-10 18:38:35-04:00",
-            "_commit_index": 161,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "e5eef1f6aeb2b0ca50c783554aa7416403c3ee8c",
-            "_timestamp": "2015-06-10 18:54:58-04:00",
-            "_commit_index": 164,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b5e5c42a50329d9b9aafdd349db75badcd32ee9e",
-            "_timestamp": "2015-06-11 08:13:07-04:00",
-            "_commit_index": 166,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c35ac776020d8f0c38383a880a5a18b12295fbf3",
-            "_timestamp": "2015-06-11 08:16:16-04:00",
-            "_commit_index": 167,
+            "_sha_id": "f95a1042ec2dd354b6e402c809acd8c4f5f1bb22",
+            "_timestamp": "2015-04-24 09:12:57-04:00",
+            "_commit_index": 5,
             "_changed_files_list": []
         },
         {

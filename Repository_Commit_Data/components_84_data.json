@@ -19,43 +19,83 @@
             "_sha_id": "b68e83f52bfce39e2163d26aed7520329c5c1842",
             "_timestamp": "2017-06-08 10:45:05+08:00",
             "_commit_index": 1777,
+            "_changed_files_list": [
+                {
+                    "_file_name": "components/components-salesforce/components-salesforce-runtime/src/main/java/org/talend/components/salesforce/soql/SoqlQuery.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "dca1c9ca23ba715a1a3cfbb060510e3714db9bd9",
+            "_timestamp": "2017-02-20 10:32:11+01:00",
+            "_commit_index": 1481,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "48bea765e98724b8c3b15b7c9f9447fa8e62fa85",
-            "_timestamp": "2018-03-07 09:50:52+01:00",
-            "_commit_index": 2073,
+            "_sha_id": "1fa56d26871067b969f48a0cefc31597b98fbd43",
+            "_timestamp": "2017-04-06 17:47:39+03:00",
+            "_commit_index": 1629,
+            "_changed_files_list": [
+                {
+                    "_file_name": "components/components-salesforce/components-salesforce-runtime/src/main/java/org/talend/components/salesforce/soql/SoqlQuery.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "ea1bd26fc46ff31646981628b1e72efec1764b98",
+            "_timestamp": "2017-03-16 15:01:21+08:00",
+            "_commit_index": 1555,
+            "_changed_files_list": [
+                {
+                    "_file_name": "components/components-salesforce/components-salesforce-runtime/src/main/java/org/talend/components/salesforce/soql/SoqlQuery.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "0f65a480ca2cabc9d69f59cef3b931fde3dab0cf",
+            "_timestamp": "2017-03-06 19:44:34+01:00",
+            "_commit_index": 1518,
+            "_changed_files_list": [
+                {
+                    "_file_name": "components/components-salesforce/components-salesforce-runtime/src/main/java/org/talend/components/salesforce/soql/SoqlQuery.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "6bdf8da81d526a5da8ed876b0ffaf6aa55c20214",
+            "_timestamp": "2017-03-02 19:52:18+02:00",
+            "_commit_index": 1499,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "ae958bdda161f6d8fcc36e0c1a74d177ddd44784",
-            "_timestamp": "2018-09-07 09:05:43+03:00",
-            "_commit_index": 2221,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "541af5be050cb36efa93b9ca6ba0b4c1f63b7ed3",
-            "_timestamp": "2019-03-29 09:41:38+01:00",
-            "_commit_index": 2295,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "f8a1755da267eadc40775d51d23573eca814c3ce",
-            "_timestamp": "2019-08-14 11:11:12+03:00",
-            "_commit_index": 2332,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6e4a761af86ca5d595b7fb0f6af01febd0203e0c",
-            "_timestamp": "2019-11-12 13:59:40+02:00",
-            "_commit_index": 2351,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "07e7d7c405ab1964c9bb73050b88f3cde0d0ee49",
-            "_timestamp": "2019-12-06 11:24:27+02:00",
-            "_commit_index": 2360,
-            "_changed_files_list": []
+            "_sha_id": "de8bde93ffc7ec370db276e52a4fdd23d0837da7",
+            "_timestamp": "2017-03-03 16:39:30+02:00",
+            "_commit_index": 1508,
+            "_changed_files_list": [
+                {
+                    "_file_name": "components/components-salesforce/components-salesforce-runtime/src/main/java/org/talend/components/salesforce/soql/SoqlQuery.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "7323e92b44893dd2cf3f4ee1c11adeff50b78301",

@@ -16,45 +16,77 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8c3839656f58bb7777cf1d11cf516532065c5fab",
-            "_timestamp": "2017-05-17 17:19:35+02:00",
-            "_commit_index": 785,
+            "_sha_id": "80334bac1b07749808befe861441ef699b01835e",
+            "_timestamp": "2018-03-14 00:30:01+01:00",
+            "_commit_index": 1178,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8c3839656f58bb7777cf1d11cf516532065c5fab",
-            "_timestamp": "2017-05-17 17:19:35+02:00",
-            "_commit_index": 785,
+            "_sha_id": "69f31a40368006e926a971da3f710fdfafde55ed",
+            "_timestamp": "2018-07-05 19:31:57+02:00",
+            "_commit_index": 1374,
+            "_changed_files_list": [
+                {
+                    "_file_name": "kripton-processor/src/main/java/com/abubusoft/kripton/processor/sqlite/grammars/jql/JQLChecker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 24,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "85c0290f3130587adee6fa3613f008026615b11f",
+            "_timestamp": "2018-04-13 17:07:36+02:00",
+            "_commit_index": 1276,
+            "_changed_files_list": [
+                {
+                    "_file_name": "kripton-processor/src/main/java/com/abubusoft/kripton/processor/sqlite/grammars/jql/JQLChecker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 24,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "85f2985b6da5b1b9d33fede974634eef85bb0aa0",
+            "_timestamp": "2018-04-03 20:50:18+02:00",
+            "_commit_index": 1227,
+            "_changed_files_list": [
+                {
+                    "_file_name": "kripton-processor/src/main/java/com/abubusoft/kripton/processor/sqlite/grammars/jql/JQLChecker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 24,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "cb5a72f114b6f75a3e240eec23fe0b7f3410382f",
+            "_timestamp": "2018-03-29 20:49:02+02:00",
+            "_commit_index": 1202,
+            "_changed_files_list": [
+                {
+                    "_file_name": "kripton-processor/src/main/java/com/abubusoft/kripton/processor/sqlite/grammars/jql/JQLChecker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 24,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "1141244815d52046aeff955474fc0fe44577b1c0",
+            "_timestamp": "2018-03-26 17:14:52+02:00",
+            "_commit_index": 1190,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8c3839656f58bb7777cf1d11cf516532065c5fab",
-            "_timestamp": "2017-05-17 17:19:35+02:00",
-            "_commit_index": 785,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8c3839656f58bb7777cf1d11cf516532065c5fab",
-            "_timestamp": "2017-05-17 17:19:35+02:00",
-            "_commit_index": 785,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8c3839656f58bb7777cf1d11cf516532065c5fab",
-            "_timestamp": "2017-05-17 17:19:35+02:00",
-            "_commit_index": 785,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8c3839656f58bb7777cf1d11cf516532065c5fab",
-            "_timestamp": "2017-05-17 17:19:35+02:00",
-            "_commit_index": 785,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8c3839656f58bb7777cf1d11cf516532065c5fab",
-            "_timestamp": "2017-05-17 17:19:35+02:00",
-            "_commit_index": 785,
+            "_sha_id": "f19f34b3fbaa1cbbe9104caef91b5db0f8e5d08a",
+            "_timestamp": "2018-03-29 02:07:18+02:00",
+            "_commit_index": 1196,
             "_changed_files_list": []
         },
         {

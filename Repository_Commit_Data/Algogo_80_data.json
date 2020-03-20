@@ -21,49 +21,113 @@
             "_sha_id": "9c2e786ba233bea449c2b524c849956f6c9ed82e",
             "_timestamp": "2019-07-11 06:32:54+00:00",
             "_commit_index": 67,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/src/main/java/xyz/algogo/core/AlgorithmParserVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 34
+                }
+            ]
         },
         {
-            "_sha_id": "9c2e786ba233bea449c2b524c849956f6c9ed82e",
-            "_timestamp": "2019-07-11 06:32:54+00:00",
-            "_commit_index": 67,
-            "_changed_files_list": []
+            "_sha_id": "d1f9a8e3fcf8c6cbd0c77d04d5857ee349e8b5f2",
+            "_timestamp": "2018-08-28 01:06:33+02:00",
+            "_commit_index": 33,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/src/main/java/xyz/algogo/core/AlgorithmParserVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 34
+                }
+            ]
         },
         {
-            "_sha_id": "9c2e786ba233bea449c2b524c849956f6c9ed82e",
-            "_timestamp": "2019-07-11 06:32:54+00:00",
-            "_commit_index": 67,
-            "_changed_files_list": []
+            "_sha_id": "c32f1059d2458a243c8fbaf8e1a4757b8a1589f1",
+            "_timestamp": "2018-07-03 19:38:25+02:00",
+            "_commit_index": 16,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/src/main/java/xyz/algogo/core/AlgorithmParserVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 34
+                }
+            ]
         },
         {
-            "_sha_id": "9c2e786ba233bea449c2b524c849956f6c9ed82e",
-            "_timestamp": "2019-07-11 06:32:54+00:00",
-            "_commit_index": 67,
-            "_changed_files_list": []
+            "_sha_id": "773027d218ddccd98ec9a5eeccb71364081e27bd",
+            "_timestamp": "2018-07-02 14:39:35+02:00",
+            "_commit_index": 8,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/src/main/java/xyz/algogo/core/AlgorithmParserVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 34
+                }
+            ]
         },
         {
-            "_sha_id": "9c2e786ba233bea449c2b524c849956f6c9ed82e",
-            "_timestamp": "2019-07-11 06:32:54+00:00",
-            "_commit_index": 67,
-            "_changed_files_list": []
+            "_sha_id": "23f7b8093719dc3870b868ecb3cd4e8694db565b",
+            "_timestamp": "2018-07-01 15:56:58+02:00",
+            "_commit_index": 4,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/src/main/java/xyz/algogo/core/AlgorithmParserVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 33
+                }
+            ]
         },
         {
-            "_sha_id": "9c2e786ba233bea449c2b524c849956f6c9ed82e",
-            "_timestamp": "2019-07-11 06:32:54+00:00",
-            "_commit_index": 67,
-            "_changed_files_list": []
+            "_sha_id": "4122bce775f32b6ce328454215f720785fe82ee9",
+            "_timestamp": "2018-07-02 02:01:18+02:00",
+            "_commit_index": 6,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/src/main/java/xyz/algogo/core/AlgorithmParserVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 34
+                }
+            ]
         },
         {
-            "_sha_id": "9c2e786ba233bea449c2b524c849956f6c9ed82e",
-            "_timestamp": "2019-07-11 06:32:54+00:00",
-            "_commit_index": 67,
-            "_changed_files_list": []
+            "_sha_id": "b371398d319a0258badd107553e08273cc9adddb",
+            "_timestamp": "2018-07-01 17:49:33+02:00",
+            "_commit_index": 5,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/src/main/java/xyz/algogo/core/AlgorithmParserVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 33
+                }
+            ]
         },
         {
-            "_sha_id": "9c2e786ba233bea449c2b524c849956f6c9ed82e",
-            "_timestamp": "2019-07-11 06:32:54+00:00",
-            "_commit_index": 67,
-            "_changed_files_list": []
+            "_sha_id": "f65cbf0a5b12641d03bcc37b2dc95f2114ecba4c",
+            "_timestamp": "2019-11-20 04:29:28+00:00",
+            "_commit_index": 132,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/src/main/java/xyz/algogo/core/AlgorithmParserVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 34
+                }
+            ]
         },
         {
             "_sha_id": "4c3faea70c939c4546c32c0ab4977d30d0a88f8b",

@@ -13,49 +13,103 @@
             "_sha_id": "778343a09cbf40cf9491dcdf8093ed48e1db1683",
             "_timestamp": "2018-07-09 17:56:07+02:00",
             "_commit_index": 83,
+            "_changed_files_list": [
+                {
+                    "_file_name": "solidity-checks/src/main/java/org/sonarsource/solidity/checks/IssuableVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "solidity-plugin/src/main/java/org/sonarsource/solidity/MetricsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 13
+                },
+                {
+                    "_file_name": "solidity-plugin/src/main/java/org/sonarsource/solidity/SyntaxHighlightingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "a214fa501cf847335f6429143225952e5e5dc412",
+            "_timestamp": "2018-06-19 14:19:29+02:00",
+            "_commit_index": 41,
+            "_changed_files_list": [
+                {
+                    "_file_name": "solidity-plugin/src/main/java/org/sonarsource/solidity/MetricsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 13
+                }
+            ]
+        },
+        {
+            "_sha_id": "8ab606b83e96b9aedf7eb4083fa23ce3461c4d5a",
+            "_timestamp": "2018-06-08 16:22:07+02:00",
+            "_commit_index": 20,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "778343a09cbf40cf9491dcdf8093ed48e1db1683",
-            "_timestamp": "2018-07-09 17:56:07+02:00",
-            "_commit_index": 83,
+            "_sha_id": "ea011374bee762cf364086d3ad14aefd5c76478b",
+            "_timestamp": "2018-06-14 11:53:23+02:00",
+            "_commit_index": 30,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "778343a09cbf40cf9491dcdf8093ed48e1db1683",
-            "_timestamp": "2018-07-09 17:56:07+02:00",
-            "_commit_index": 83,
+            "_sha_id": "eda4bd1739d37f7b57b729893f7a294b843be445",
+            "_timestamp": "2018-06-19 10:55:55+02:00",
+            "_commit_index": 35,
+            "_changed_files_list": [
+                {
+                    "_file_name": "solidity-plugin/src/main/java/org/sonarsource/solidity/MetricsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 13
+                }
+            ]
+        },
+        {
+            "_sha_id": "b0a5acd4a24346fa54fee5c1a43e5f06b9122a88",
+            "_timestamp": "2018-06-15 14:57:22+02:00",
+            "_commit_index": 32,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "778343a09cbf40cf9491dcdf8093ed48e1db1683",
-            "_timestamp": "2018-07-09 17:56:07+02:00",
-            "_commit_index": 83,
-            "_changed_files_list": []
+            "_sha_id": "226cb58aee2af47385c7396c65f6434150b9e40b",
+            "_timestamp": "2018-06-18 15:44:01+02:00",
+            "_commit_index": 33,
+            "_changed_files_list": [
+                {
+                    "_file_name": "solidity-plugin/src/main/java/org/sonarsource/solidity/MetricsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 13
+                }
+            ]
         },
         {
-            "_sha_id": "778343a09cbf40cf9491dcdf8093ed48e1db1683",
-            "_timestamp": "2018-07-09 17:56:07+02:00",
-            "_commit_index": 83,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "778343a09cbf40cf9491dcdf8093ed48e1db1683",
-            "_timestamp": "2018-07-09 17:56:07+02:00",
-            "_commit_index": 83,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "778343a09cbf40cf9491dcdf8093ed48e1db1683",
-            "_timestamp": "2018-07-09 17:56:07+02:00",
-            "_commit_index": 83,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "778343a09cbf40cf9491dcdf8093ed48e1db1683",
-            "_timestamp": "2018-07-09 17:56:07+02:00",
-            "_commit_index": 83,
-            "_changed_files_list": []
+            "_sha_id": "d29584d4fddbd5f7d55d619c8d64fcfd7c270fed",
+            "_timestamp": "2018-06-19 11:32:44+02:00",
+            "_commit_index": 38,
+            "_changed_files_list": [
+                {
+                    "_file_name": "solidity-plugin/src/main/java/org/sonarsource/solidity/MetricsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 13
+                }
+            ]
         },
         {
             "_sha_id": "cd67d0fdff25688d3ff0a7d8686cd2c5d080e33b",

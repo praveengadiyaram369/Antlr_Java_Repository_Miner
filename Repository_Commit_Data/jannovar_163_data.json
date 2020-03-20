@@ -16,45 +16,69 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b8be6210b54438b9a4ac40a7dbc5741477fe5bc3",
-            "_timestamp": "2015-02-04 14:06:37+01:00",
-            "_commit_index": 986,
+            "_sha_id": "414d180e24f399d711257adb3bfabce092c7ec6b",
+            "_timestamp": "2016-08-29 11:40:24+02:00",
+            "_commit_index": 1479,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jannovar-hgvs/src/main/java/de/charite/compbio/jannovar/hgvs/parser/Antlr4HGVSParserListenerImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 29,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "e0cdf164e5c4890d71de1b6e697bf7571048fda2",
+            "_timestamp": "2015-05-25 15:55:27+02:00",
+            "_commit_index": 1232,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b8be6210b54438b9a4ac40a7dbc5741477fe5bc3",
-            "_timestamp": "2015-02-04 14:06:37+01:00",
-            "_commit_index": 986,
+            "_sha_id": "03c85599a95513dd371b4d9dd5c40e955a7d8818",
+            "_timestamp": "2015-12-16 15:10:56+01:00",
+            "_commit_index": 1355,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jannovar-hgvs/src/main/java/de/charite/compbio/jannovar/hgvs/parser/Antlr4HGVSParserListenerImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 29,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "0543a7d84a1729449ac319c5f2fe6db4f114deb1",
+            "_timestamp": "2015-07-02 15:04:51+02:00",
+            "_commit_index": 1293,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jannovar-hgvs/src/main/java/de/charite/compbio/jannovar/hgvs/parser/Antlr4HGVSParserListenerImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 22,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "dea3b17aeb356c1acee695a23932f89c3cbbf4e9",
+            "_timestamp": "2015-06-15 16:39:35+02:00",
+            "_commit_index": 1262,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b8be6210b54438b9a4ac40a7dbc5741477fe5bc3",
-            "_timestamp": "2015-02-04 14:06:37+01:00",
-            "_commit_index": 986,
+            "_sha_id": "28840fa16bc5e96965fc0235d649aa258f8b999d",
+            "_timestamp": "2015-06-16 17:44:21+02:00",
+            "_commit_index": 1277,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b8be6210b54438b9a4ac40a7dbc5741477fe5bc3",
-            "_timestamp": "2015-02-04 14:06:37+01:00",
-            "_commit_index": 986,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b8be6210b54438b9a4ac40a7dbc5741477fe5bc3",
-            "_timestamp": "2015-02-04 14:06:37+01:00",
-            "_commit_index": 986,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b8be6210b54438b9a4ac40a7dbc5741477fe5bc3",
-            "_timestamp": "2015-02-04 14:06:37+01:00",
-            "_commit_index": 986,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b8be6210b54438b9a4ac40a7dbc5741477fe5bc3",
-            "_timestamp": "2015-02-04 14:06:37+01:00",
-            "_commit_index": 986,
+            "_sha_id": "d46ffbfc5886cc3b6fa08534f5e11f49a6d32bdf",
+            "_timestamp": "2015-06-17 11:27:54+02:00",
+            "_commit_index": 1285,
             "_changed_files_list": []
         },
         {

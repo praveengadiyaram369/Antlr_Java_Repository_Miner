@@ -13,48 +13,96 @@
             "_sha_id": "e253f449bdb636cbe3c88eda2ad01697c07b8b5c",
             "_timestamp": "2015-07-06 16:23:46-03:00",
             "_commit_index": 5,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/brunocvcunha/mdmlang/MDMRuleWalkerListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "e9a1f93031e783cbf9dde42037d63d2d5e26c23c",
+            "_timestamp": "2015-07-06 16:07:47-03:00",
+            "_commit_index": 2,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e253f449bdb636cbe3c88eda2ad01697c07b8b5c",
-            "_timestamp": "2015-07-06 16:23:46-03:00",
-            "_commit_index": 5,
-            "_changed_files_list": []
+            "_sha_id": "f40c933c248a5c886f8347b586de2b5e0efe1e1f",
+            "_timestamp": "2015-07-06 16:17:15-03:00",
+            "_commit_index": 3,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/brunocvcunha/mdmlang/MDMRuleWalkerListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "e253f449bdb636cbe3c88eda2ad01697c07b8b5c",
-            "_timestamp": "2015-07-06 16:23:46-03:00",
-            "_commit_index": 5,
-            "_changed_files_list": []
+            "_sha_id": "e3d58eff8e572d765942ed0a7eaf0330ea79dfa0",
+            "_timestamp": "2015-07-06 16:18:51-03:00",
+            "_commit_index": 4,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/brunocvcunha/mdmlang/MDMRuleWalkerListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "e253f449bdb636cbe3c88eda2ad01697c07b8b5c",
-            "_timestamp": "2015-07-06 16:23:46-03:00",
-            "_commit_index": 5,
-            "_changed_files_list": []
+            "_sha_id": "b242ef6fe67e3f8218aadb0dab2926b52781632a",
+            "_timestamp": "2016-04-05 17:38:33-04:00",
+            "_commit_index": 9,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/brunocvcunha/mdmlang/MDMRuleWalkerListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "e253f449bdb636cbe3c88eda2ad01697c07b8b5c",
-            "_timestamp": "2015-07-06 16:23:46-03:00",
-            "_commit_index": 5,
-            "_changed_files_list": []
+            "_sha_id": "88a3fa4d8184fd3120747759e84f175f6249b309",
+            "_timestamp": "2015-07-09 23:02:10-03:00",
+            "_commit_index": 7,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/brunocvcunha/mdmlang/MDMRuleWalkerListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "e253f449bdb636cbe3c88eda2ad01697c07b8b5c",
-            "_timestamp": "2015-07-06 16:23:46-03:00",
-            "_commit_index": 5,
-            "_changed_files_list": []
+            "_sha_id": "aa0d3cbceb7e705c9cc4e83891ba4ca8915e664c",
+            "_timestamp": "2015-07-09 22:56:53-03:00",
+            "_commit_index": 6,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/brunocvcunha/mdmlang/MDMRuleWalkerListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "e253f449bdb636cbe3c88eda2ad01697c07b8b5c",
-            "_timestamp": "2015-07-06 16:23:46-03:00",
-            "_commit_index": 5,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "e253f449bdb636cbe3c88eda2ad01697c07b8b5c",
-            "_timestamp": "2015-07-06 16:23:46-03:00",
-            "_commit_index": 5,
+            "_sha_id": "7457ef7852de0e9fe7df4a61c0a3033f557b8a2a",
+            "_timestamp": "2015-07-06 16:05:04-03:00",
+            "_commit_index": 1,
             "_changed_files_list": []
         },
         {

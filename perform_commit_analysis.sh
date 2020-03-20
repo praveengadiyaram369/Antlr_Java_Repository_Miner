@@ -1,5 +1,5 @@
-/home/praveen/anaconda3/bin/python /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_3/finalproject/GitCommitAnalyzer.py /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_2/project/repositories/ repository_mining_data_1.csv repo_names_done_1.txt &
+python GitCommitAnalyzer.py repositories/ repository_mining_data_1.csv repo_names_done_1.txt &
 
-/home/praveen/anaconda3/bin/python /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_3/finalproject/GitCommitAnalyzer.py /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_2/project/repositories/ repository_mining_data_2.csv repo_names_done_2.txt &
+python GitCommitAnalyzer.py repositories/ repository_mining_data_2.csv repo_names_done_2.txt &
 
-/home/praveen/anaconda3/bin/python /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_3/finalproject/GitCommitAnalyzer.py /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_2/project/repositories/ repository_mining_data_3.csv repo_names_done_3.txt &
+python GitCommitAnalyzer.py repositories/ repository_mining_data_3.csv repo_names_done_3.txt &

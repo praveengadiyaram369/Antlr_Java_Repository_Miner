@@ -24,102 +24,46 @@
             ]
         },
         {
-            "_sha_id": "4828d6b0fd1e4214b01a485f97a7309791732782",
-            "_timestamp": "2016-11-18 16:22:33-08:00",
-            "_commit_index": 706,
-            "_changed_files_list": [
-                {
-                    "_file_name": "psl-parser/src/main/java/org/linqs/psl/parser/ModelLoader.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 24
-                }
-            ]
+            "_sha_id": "a7a1b96a737e21ae5861c982aaf76d5a1145f68c",
+            "_timestamp": "2013-02-03 13:13:29-05:00",
+            "_commit_index": 353,
+            "_changed_files_list": []
         },
         {
-            "_sha_id": "4828d6b0fd1e4214b01a485f97a7309791732782",
-            "_timestamp": "2016-11-18 16:22:33-08:00",
-            "_commit_index": 706,
-            "_changed_files_list": [
-                {
-                    "_file_name": "psl-parser/src/main/java/org/linqs/psl/parser/ModelLoader.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 24
-                }
-            ]
+            "_sha_id": "f49b99925723699ed56b51771186156217d8b3ea",
+            "_timestamp": "2014-05-21 16:29:00-04:00",
+            "_commit_index": 529,
+            "_changed_files_list": []
         },
         {
-            "_sha_id": "4828d6b0fd1e4214b01a485f97a7309791732782",
-            "_timestamp": "2016-11-18 16:22:33-08:00",
-            "_commit_index": 706,
-            "_changed_files_list": [
-                {
-                    "_file_name": "psl-parser/src/main/java/org/linqs/psl/parser/ModelLoader.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 24
-                }
-            ]
+            "_sha_id": "5d14af8b7aa0c2a31e43824f186a468bc6fa8883",
+            "_timestamp": "2015-06-25 10:40:53-04:00",
+            "_commit_index": 617,
+            "_changed_files_list": []
         },
         {
-            "_sha_id": "4828d6b0fd1e4214b01a485f97a7309791732782",
-            "_timestamp": "2016-11-18 16:22:33-08:00",
-            "_commit_index": 706,
-            "_changed_files_list": [
-                {
-                    "_file_name": "psl-parser/src/main/java/org/linqs/psl/parser/ModelLoader.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 24
-                }
-            ]
+            "_sha_id": "9ffca1f640afc0bfcb247c99917276080a0cb68b",
+            "_timestamp": "2015-11-29 11:59:26-08:00",
+            "_commit_index": 661,
+            "_changed_files_list": []
         },
         {
-            "_sha_id": "4828d6b0fd1e4214b01a485f97a7309791732782",
-            "_timestamp": "2016-11-18 16:22:33-08:00",
-            "_commit_index": 706,
-            "_changed_files_list": [
-                {
-                    "_file_name": "psl-parser/src/main/java/org/linqs/psl/parser/ModelLoader.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 24
-                }
-            ]
+            "_sha_id": "4ad9982c2b4c79b79298c863c51bb0b1de12acdf",
+            "_timestamp": "2016-10-27 13:28:34-07:00",
+            "_commit_index": 683,
+            "_changed_files_list": []
         },
         {
-            "_sha_id": "4828d6b0fd1e4214b01a485f97a7309791732782",
-            "_timestamp": "2016-11-18 16:22:33-08:00",
-            "_commit_index": 706,
-            "_changed_files_list": [
-                {
-                    "_file_name": "psl-parser/src/main/java/org/linqs/psl/parser/ModelLoader.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 24
-                }
-            ]
+            "_sha_id": "8502f9fb691d2f81714dc6ce373da600b1c343b9",
+            "_timestamp": "2016-11-17 17:49:19-08:00",
+            "_commit_index": 694,
+            "_changed_files_list": []
         },
         {
-            "_sha_id": "4828d6b0fd1e4214b01a485f97a7309791732782",
-            "_timestamp": "2016-11-18 16:22:33-08:00",
-            "_commit_index": 706,
-            "_changed_files_list": [
-                {
-                    "_file_name": "psl-parser/src/main/java/org/linqs/psl/parser/ModelLoader.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 24
-                }
-            ]
+            "_sha_id": "f10077069163a201c48ab7396e82a7b6d078e4d9",
+            "_timestamp": "2016-11-18 14:13:32-08:00",
+            "_commit_index": 700,
+            "_changed_files_list": []
         },
         {
             "_sha_id": "a57376346fb51fceedc5cc4b0fe4580d94258a99",

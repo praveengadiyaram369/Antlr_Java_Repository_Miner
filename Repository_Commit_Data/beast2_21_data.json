@@ -13,56 +13,72 @@
             "_sha_id": "fa2134d6bbb27951a922dc2b643e594d07be3cb7",
             "_timestamp": "2014-07-10 10:53:45+12:00",
             "_commit_index": 1340,
-            "_changed_files_list": [
-                {
-                    "_file_name": "src/beast/util/TreeParser.java",
-                    "_is_antlr_file": false,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 0
-                }
-            ]
+            "_changed_files_list": []
         },
         {
             "_sha_id": "c5e86699cff3c54be4019ce648af4119eddb633e",
             "_timestamp": "2016-03-01 14:47:56+13:00",
             "_commit_index": 2010,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/beast/util/TreeParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "f989f005779581120ab79d89ffeccbe149e46aea",
+            "_timestamp": "2015-05-06 09:12:48+12:00",
+            "_commit_index": 1675,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "87939256d4b27ecc7a56abe9a99e6256bdef452f",
-            "_timestamp": "2017-05-12 12:08:22+12:00",
-            "_commit_index": 2345,
+            "_sha_id": "d71335c53d7b351b851c3798f91ba51e93a9df23",
+            "_timestamp": "2015-11-16 16:15:43+13:00",
+            "_commit_index": 1842,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/beast/util/TreeParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "d4a237fd009201dfdc37898e78c72119fca7bd86",
+            "_timestamp": "2015-06-11 20:47:44-04:00",
+            "_commit_index": 1758,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/beast/util/TreeParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "3bc77ca3a6804cededaa2efb566eb699ddbffdb0",
+            "_timestamp": "2015-05-28 12:06:37+12:00",
+            "_commit_index": 1716,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "f6f325e3c7cb06853d34f2869854c1921aef1780",
-            "_timestamp": "2018-06-21 14:52:35+02:00",
-            "_commit_index": 2512,
+            "_sha_id": "5a625e31b2327f70ab1abf417110642a60bf237a",
+            "_timestamp": "2015-06-08 13:29:53+12:00",
+            "_commit_index": 1737,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "293fa82b757dc5482e3fddbcc968f74df8bbf420",
-            "_timestamp": "2019-05-22 14:43:40+12:00",
-            "_commit_index": 2596,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "7e56af36d3c3d60787878e9013d82df8ca7c148d",
-            "_timestamp": "2019-07-15 08:19:50+12:00",
-            "_commit_index": 2638,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "522ea489d0576b3ae01843da218dacf70f168223",
-            "_timestamp": "2019-08-09 16:38:09+02:00",
-            "_commit_index": 2659,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "18b0b3abb5bb05040889b7e0ce33c05520582283",
-            "_timestamp": "2019-10-18 15:51:42+13:00",
-            "_commit_index": 2669,
+            "_sha_id": "5f1900919efe8c2fcdd6de7bbaaed08a62b16f4d",
+            "_timestamp": "2015-06-11 12:27:59+12:00",
+            "_commit_index": 1747,
             "_changed_files_list": []
         },
         {

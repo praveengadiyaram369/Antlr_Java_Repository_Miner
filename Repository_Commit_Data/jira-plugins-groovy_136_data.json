@@ -19,42 +19,66 @@
             "_sha_id": "87ba0c754db1a8f54949e4776453fef9013b938f",
             "_timestamp": "2018-10-03 19:14:56+03:00",
             "_commit_index": 640,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/ru/mail/jira/plugins/groovy/impl/jql/function/builtin/DateCompareFunction.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "5f6b4f3bca1c5fb10786a6702d02625050137aba",
+            "_timestamp": "2018-08-27 12:40:42+03:00",
+            "_commit_index": 533,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/ru/mail/jira/plugins/groovy/impl/jql/function/builtin/DateCompareFunction.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "ffc4d5ea61c72ac229bd59307099d90924d6bac1",
+            "_timestamp": "2018-08-14 15:41:12+03:00",
+            "_commit_index": 480,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "dea2be6bbb90486dfe2728b2ad5cc2b756b5ebb9",
-            "_timestamp": "2019-02-14 17:36:59+03:00",
-            "_commit_index": 747,
+            "_sha_id": "5ac193ea63abc910fcd3c826ad43678e3056e3f3",
+            "_timestamp": "2018-07-30 18:27:02+03:00",
+            "_commit_index": 506,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/ru/mail/jira/plugins/groovy/impl/jql/function/builtin/DateCompareFunction.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "9fcf491a86d86637cb2fb5e1dfdd45dcded9e7b3",
+            "_timestamp": "2018-07-02 13:33:15+03:00",
+            "_commit_index": 493,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "05cae95bf454c0ed9d75f0ce76fc08506cb30585",
-            "_timestamp": "2019-08-07 10:42:31+03:00",
-            "_commit_index": 800,
+            "_sha_id": "c73e043ee8b2aa01c90c1f14ff6fa1d7ac12d202",
+            "_timestamp": "2018-07-13 11:47:07+03:00",
+            "_commit_index": 499,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "45074c65d92fd51f3e9e92407d609b24c005fb56",
-            "_timestamp": "2019-11-29 19:06:19+03:00",
-            "_commit_index": 827,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c7b8b870d30bc165374797450847e84d4782ce11",
-            "_timestamp": "2019-12-20 14:50:16+03:00",
-            "_commit_index": 840,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "9e3a4562216ebb837e750d3b3fc7c070bb91b5fd",
-            "_timestamp": "2019-12-26 13:33:36+03:00",
-            "_commit_index": 847,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "a6f86f0bac3d92f75ce90d7ad24383d4601bd2be",
-            "_timestamp": "2019-12-26 17:33:20+03:00",
-            "_commit_index": 850,
+            "_sha_id": "6d8fcd00666fa1e72d521d0c67d96c8ffb9f703c",
+            "_timestamp": "2018-07-18 12:25:58+03:00",
+            "_commit_index": 502,
             "_changed_files_list": []
         },
         {

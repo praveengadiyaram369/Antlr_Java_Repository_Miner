@@ -10,52 +10,116 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "5d143df14cfa48f4955427eed9c98db1bf8f2621",
-            "_timestamp": "2019-10-12 17:31:48+03:00",
-            "_commit_index": 134,
-            "_changed_files_list": []
+            "_sha_id": "c0310a5d7c96f3526f82bfab6b6f6842b7a5dac5",
+            "_timestamp": "2019-11-02 16:48:29+00:00",
+            "_commit_index": 150,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/flair/bi/compiler/AbstractFQLListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "d6468348c50aa23d874fa43462786a59000c255c",
-            "_timestamp": "2019-07-15 19:58:54+03:00",
-            "_commit_index": 114,
-            "_changed_files_list": []
+            "_sha_id": "2f536ad031646438b41bc51e7d848b097758551a",
+            "_timestamp": "2019-05-15 19:28:24-04:00",
+            "_commit_index": 80,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/flair/bi/compiler/AbstractFQLListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "63efe4668ae623a5b3c7eeeaff965aff41811c4a",
-            "_timestamp": "2019-03-13 23:16:19+01:00",
-            "_commit_index": 11,
-            "_changed_files_list": []
+            "_sha_id": "e6552e728bf47848a3f294b629f66d3b1d420636",
+            "_timestamp": "2019-06-23 13:02:11+03:00",
+            "_commit_index": 99,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/flair/bi/compiler/AbstractFQLListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "1d242a25c72f5b843b70e451005b6e12c6723a10",
-            "_timestamp": "2019-06-27 22:20:38-04:00",
-            "_commit_index": 104,
-            "_changed_files_list": []
+            "_sha_id": "6225725412b281dc6b1296e5f6c351a117c331bc",
+            "_timestamp": "2019-12-07 19:05:30+00:00",
+            "_commit_index": 184,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/flair/bi/compiler/AbstractFQLListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "727f41d8c903bb77a3a4170f8c5180505de44649",
-            "_timestamp": "2019-04-03 15:19:33+00:00",
-            "_commit_index": 40,
-            "_changed_files_list": []
+            "_sha_id": "595de8ca557800f900453adaccea4ae4ce46931e",
+            "_timestamp": "2019-06-16 10:11:02+00:00",
+            "_commit_index": 93,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/flair/bi/compiler/AbstractFQLListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "7c6e93bbb81a7064f3223e6359723e8571115751",
-            "_timestamp": "2019-04-03 15:26:30+00:00",
-            "_commit_index": 45,
-            "_changed_files_list": []
+            "_sha_id": "eb402f3766c6ed321c9d0d05d9e8182267ac118c",
+            "_timestamp": "2019-11-28 18:53:27+00:00",
+            "_commit_index": 167,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/flair/bi/compiler/AbstractFQLListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "019089e312c96f35d9593e050fa93d9ea04ae41e",
-            "_timestamp": "2019-10-12 14:34:32+00:00",
-            "_commit_index": 136,
-            "_changed_files_list": []
+            "_sha_id": "c3c89142719899b78a00409aa58e35db6384505a",
+            "_timestamp": "2019-11-16 20:50:41+00:00",
+            "_commit_index": 155,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/flair/bi/compiler/AbstractFQLListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "0ce3cc42108945bbbd2a67a95812fb8a3ea246b6",
-            "_timestamp": "2019-04-03 17:53:42+03:00",
-            "_commit_index": 36,
-            "_changed_files_list": []
+            "_sha_id": "494fa2cee7004f0e5fc1adc4121fea9854afaa25",
+            "_timestamp": "2019-04-03 15:36:21+00:00",
+            "_commit_index": 57,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/flair/bi/compiler/AbstractFQLListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "07ad4e3c3299bc83d9765a9425e5f65484050655",

@@ -16,46 +16,70 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4c5323cfd49a3b88f2cd507cf7d55c944d132ca8",
-            "_timestamp": "2016-04-20 16:04:56+02:00",
-            "_commit_index": 86,
+            "_sha_id": "139a374215b26205f6f3f460486a531e032663ff",
+            "_timestamp": "2016-07-14 17:21:09+02:00",
+            "_commit_index": 129,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugin/idea/parser/src/premun/mps/ingrid/parser/GrammarWalker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "8b1f07714ccafc420c71715cc6fd2e214044c43c",
+            "_timestamp": "2016-07-06 11:08:39+02:00",
+            "_commit_index": 107,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4c5323cfd49a3b88f2cd507cf7d55c944d132ca8",
-            "_timestamp": "2016-04-20 16:04:56+02:00",
-            "_commit_index": 86,
+            "_sha_id": "4005d976887e97cc769919bb82dcab878df0d0b1",
+            "_timestamp": "2016-07-11 18:42:45+02:00",
+            "_commit_index": 118,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugin/idea/parser/src/premun/mps/ingrid/parser/GrammarWalker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "9ea9ad9dafd6fef9e4ea755eb5d4337dcc470ddb",
+            "_timestamp": "2016-07-06 15:24:56+02:00",
+            "_commit_index": 112,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4c5323cfd49a3b88f2cd507cf7d55c944d132ca8",
-            "_timestamp": "2016-04-20 16:04:56+02:00",
-            "_commit_index": 86,
+            "_sha_id": "c52fd59f1ef457fa04447c6c88cd7003dcbd44eb",
+            "_timestamp": "2016-07-06 19:03:17+02:00",
+            "_commit_index": 115,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4c5323cfd49a3b88f2cd507cf7d55c944d132ca8",
-            "_timestamp": "2016-04-20 16:04:56+02:00",
-            "_commit_index": 86,
+            "_sha_id": "88cd55179bfe38baa396cc63e0ff85e85904a2c9",
+            "_timestamp": "2016-07-10 22:08:13+02:00",
+            "_commit_index": 116,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4c5323cfd49a3b88f2cd507cf7d55c944d132ca8",
-            "_timestamp": "2016-04-20 16:04:56+02:00",
-            "_commit_index": 86,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4c5323cfd49a3b88f2cd507cf7d55c944d132ca8",
-            "_timestamp": "2016-04-20 16:04:56+02:00",
-            "_commit_index": 86,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4c5323cfd49a3b88f2cd507cf7d55c944d132ca8",
-            "_timestamp": "2016-04-20 16:04:56+02:00",
-            "_commit_index": 86,
-            "_changed_files_list": []
+            "_sha_id": "97416f1101828ea466d396e2564afeae5aaced3d",
+            "_timestamp": "2016-07-11 17:52:30+02:00",
+            "_commit_index": 117,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugin/idea/parser/src/premun/mps/ingrid/parser/GrammarWalker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "80f18c36d6496003f8ecd9a3ce23ea9b5cb38c70",

@@ -45,24 +45,40 @@
             "_sha_id": "33f832cb5b62efb8e748de8dcbd2046df80ed006",
             "_timestamp": "2017-02-07 22:30:44+01:00",
             "_commit_index": 360,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/io/kodokojo/commons/docker/model/StringToImageNameConverter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "09bc164b3512e25152e2fef5384164a95f4c4ccf",
+            "_timestamp": "2017-01-26 21:05:03+01:00",
+            "_commit_index": 354,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/io/kodokojo/commons/docker/model/StringToImageNameConverter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "27e187f29204bca689b02d6e41779627874562f4",
+            "_timestamp": "2016-11-18 18:00:53+01:00",
+            "_commit_index": 351,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "678f2af0ebddf0ad00b1065551e125e33b83a452",
-            "_timestamp": "2017-02-22 11:29:24+01:00",
-            "_commit_index": 366,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "cb2742f71117c7c3eb987093380aafab35939d26",
-            "_timestamp": "2017-02-23 15:35:49+01:00",
-            "_commit_index": 369,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "28d80022aa213cd717c5159c7cfcf76516bd2b11",
-            "_timestamp": "2017-02-25 23:55:05+01:00",
-            "_commit_index": 371,
+            "_sha_id": "e1791b1a74205f491fb84e007c467918533b4af8",
+            "_timestamp": "2016-11-18 18:03:46+01:00",
+            "_commit_index": 352,
             "_changed_files_list": []
         },
         {

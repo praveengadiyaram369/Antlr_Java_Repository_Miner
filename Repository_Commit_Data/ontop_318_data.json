@@ -16,46 +16,86 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b0677e8bf7e9725b50bcf7547d0a9d984d28c211",
-            "_timestamp": "2016-01-24 22:42:09+01:00",
-            "_commit_index": 5339,
+            "_sha_id": "446a5b53e0f99439939e017b692b2ea54570841d",
+            "_timestamp": "2018-01-09 17:38:09+01:00",
+            "_commit_index": 8008,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b0677e8bf7e9725b50bcf7547d0a9d984d28c211",
-            "_timestamp": "2016-01-24 22:42:09+01:00",
-            "_commit_index": 5339,
+            "_sha_id": "999aa778f6ea6680846de200678a556fe61233b2",
+            "_timestamp": "2019-02-17 13:18:54+01:00",
+            "_commit_index": 9343,
+            "_changed_files_list": [
+                {
+                    "_file_name": "mapping/core/src/main/java/it/unibz/inf/ontop/spec/mapping/parser/impl/AbstractTurtleOBDAVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 29
+                }
+            ]
+        },
+        {
+            "_sha_id": "8034bbc5421fd506a60213d7443865468ea981db",
+            "_timestamp": "2018-09-15 01:33:16+01:00",
+            "_commit_index": 8675,
+            "_changed_files_list": [
+                {
+                    "_file_name": "mapping/core/src/main/java/it/unibz/inf/ontop/spec/mapping/parser/impl/AbstractTurtleOBDAVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 29
+                }
+            ]
+        },
+        {
+            "_sha_id": "4b0f7f81472c110cfe960d36c753c925cd24d168",
+            "_timestamp": "2018-05-02 11:04:17+02:00",
+            "_commit_index": 8341,
+            "_changed_files_list": [
+                {
+                    "_file_name": "mapping/core/src/main/java/it/unibz/inf/ontop/spec/mapping/parser/impl/AbstractTurtleOBDAVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 28
+                }
+            ]
+        },
+        {
+            "_sha_id": "6235c576196c82186a6340f86b78c14096fcf1d5",
+            "_timestamp": "2018-02-13 11:47:02+01:00",
+            "_commit_index": 8174,
+            "_changed_files_list": [
+                {
+                    "_file_name": "mapping/core/src/main/java/it/unibz/inf/ontop/spec/mapping/parser/impl/AbstractTurtleOBDAVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 28
+                }
+            ]
+        },
+        {
+            "_sha_id": "16e94a726d353831e0f75b9d6a7d7c1bb9f3f71f",
+            "_timestamp": "2018-01-25 18:26:07+01:00",
+            "_commit_index": 8091,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b0677e8bf7e9725b50bcf7547d0a9d984d28c211",
-            "_timestamp": "2016-01-24 22:42:09+01:00",
-            "_commit_index": 5339,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b0677e8bf7e9725b50bcf7547d0a9d984d28c211",
-            "_timestamp": "2016-01-24 22:42:09+01:00",
-            "_commit_index": 5339,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b0677e8bf7e9725b50bcf7547d0a9d984d28c211",
-            "_timestamp": "2016-01-24 22:42:09+01:00",
-            "_commit_index": 5339,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b0677e8bf7e9725b50bcf7547d0a9d984d28c211",
-            "_timestamp": "2016-01-24 22:42:09+01:00",
-            "_commit_index": 5339,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b0677e8bf7e9725b50bcf7547d0a9d984d28c211",
-            "_timestamp": "2016-01-24 22:42:09+01:00",
-            "_commit_index": 5339,
-            "_changed_files_list": []
+            "_sha_id": "ddf57dbbd14cb509c0a2f4ba81e130bc9c0b4489",
+            "_timestamp": "2018-02-06 16:16:36+01:00",
+            "_commit_index": 8132,
+            "_changed_files_list": [
+                {
+                    "_file_name": "mapping/core/src/main/java/it/unibz/inf/ontop/spec/mapping/parser/impl/AbstractTurtleOBDAVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 28
+                }
+            ]
         },
         {
             "_sha_id": "6dcdb8ff9544184a3a2057b838d74a6e56645de3",

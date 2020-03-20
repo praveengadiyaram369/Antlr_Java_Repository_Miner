@@ -38,85 +38,77 @@
             ]
         },
         {
-            "_sha_id": "ddc2f6d1df862717cc9fe869c02e7c6606be9046",
-            "_timestamp": "2018-05-26 18:24:09+02:00",
-            "_commit_index": 9,
+            "_sha_id": "4ad333d977445a768582cb3d8f5a3675f5efcbd8",
+            "_timestamp": "2018-05-25 23:11:48+02:00",
+            "_commit_index": 4,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/at/datasciencelabs/pattern/FlinkCepPatternLanguageListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 21,
+                    "_enter_cnt": 19,
                     "_exit_cnt": 20,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "ddc2f6d1df862717cc9fe869c02e7c6606be9046",
-            "_timestamp": "2018-05-26 18:24:09+02:00",
-            "_commit_index": 9,
+            "_sha_id": "befd64328c441d3b98b4411fb4a9699e5c841723",
+            "_timestamp": "2018-05-25 15:57:21+02:00",
+            "_commit_index": 2,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/at/datasciencelabs/pattern/FlinkCepPatternLanguageListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 21,
-                    "_exit_cnt": 20,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 14,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "ddc2f6d1df862717cc9fe869c02e7c6606be9046",
-            "_timestamp": "2018-05-26 18:24:09+02:00",
-            "_commit_index": 9,
+            "_sha_id": "512f29bfcea995d184fa139084a0f4915a625dbb",
+            "_timestamp": "2018-05-24 22:36:59+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0149e4fff4c54f58214ec22705c64aadda8a95f5",
+            "_timestamp": "2018-09-14 13:26:46+02:00",
+            "_commit_index": 31,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/at/datasciencelabs/pattern/FlinkCepPatternLanguageListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 21,
-                    "_exit_cnt": 20,
+                    "_enter_cnt": 17,
+                    "_exit_cnt": 11,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "ddc2f6d1df862717cc9fe869c02e7c6606be9046",
-            "_timestamp": "2018-05-26 18:24:09+02:00",
-            "_commit_index": 9,
+            "_sha_id": "646fac5f40de9c418a431632143ce44db2dda014",
+            "_timestamp": "2018-06-07 12:24:01+02:00",
+            "_commit_index": 21,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/at/datasciencelabs/pattern/FlinkCepPatternLanguageListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 21,
-                    "_exit_cnt": 20,
+                    "_enter_cnt": 22,
+                    "_exit_cnt": 22,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "ddc2f6d1df862717cc9fe869c02e7c6606be9046",
-            "_timestamp": "2018-05-26 18:24:09+02:00",
-            "_commit_index": 9,
+            "_sha_id": "ac50b20bbd7c26fe1fb4d45e860f327fdb653153",
+            "_timestamp": "2018-05-31 21:15:29+02:00",
+            "_commit_index": 20,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/at/datasciencelabs/pattern/FlinkCepPatternLanguageListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 21,
-                    "_exit_cnt": 20,
-                    "_visit_cnt": 0
-                }
-            ]
-        },
-        {
-            "_sha_id": "ddc2f6d1df862717cc9fe869c02e7c6606be9046",
-            "_timestamp": "2018-05-26 18:24:09+02:00",
-            "_commit_index": 9,
-            "_changed_files_list": [
-                {
-                    "_file_name": "src/main/java/at/datasciencelabs/pattern/FlinkCepPatternLanguageListener.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 21,
-                    "_exit_cnt": 20,
+                    "_enter_cnt": 22,
+                    "_exit_cnt": 22,
                     "_visit_cnt": 0
                 }
             ]

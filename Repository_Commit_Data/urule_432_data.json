@@ -18,52 +18,116 @@
             ]
         },
         {
-            "_sha_id": "dd33c9b48e36523f252d1297e742ef9ea80df5eb",
-            "_timestamp": "2018-11-26 10:37:21+08:00",
-            "_commit_index": 165,
-            "_changed_files_list": []
+            "_sha_id": "18b5828331a4dd455024321b740064cb5657683b",
+            "_timestamp": "2018-11-26 10:32:13+08:00",
+            "_commit_index": 163,
+            "_changed_files_list": [
+                {
+                    "_file_name": "urule-core/src/main/java/com/bstek/urule/dsl/BuildRulesVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                }
+            ]
         },
         {
-            "_sha_id": "0d2f9c71100e267ee9ec4db7335400baa9948a86",
-            "_timestamp": "2017-11-20 16:18:07+08:00",
-            "_commit_index": 39,
-            "_changed_files_list": []
+            "_sha_id": "fd1d3ae592e13e7825aa50b7c514214fb2c639de",
+            "_timestamp": "2018-03-16 11:33:07+08:00",
+            "_commit_index": 99,
+            "_changed_files_list": [
+                {
+                    "_file_name": "urule-core/src/main/java/com/bstek/urule/dsl/BuildRulesVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                }
+            ]
         },
         {
-            "_sha_id": "b13d0a5726c7590d7b9103de0c10e1a2d61e63e9",
-            "_timestamp": "2017-12-08 12:12:02+08:00",
-            "_commit_index": 65,
-            "_changed_files_list": []
+            "_sha_id": "816ace6ab149ea3ca22d79d2b8ad899a7949aba8",
+            "_timestamp": "2018-11-26 14:22:17+08:00",
+            "_commit_index": 166,
+            "_changed_files_list": [
+                {
+                    "_file_name": "urule-core/src/main/java/com/bstek/urule/dsl/BuildRulesVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                }
+            ]
         },
         {
-            "_sha_id": "c23b134365e9b086c25be394f559fd48759fc999",
-            "_timestamp": "2019-11-01 12:14:39+08:00",
-            "_commit_index": 191,
-            "_changed_files_list": []
+            "_sha_id": "210765cf21eb36743c310cc193113fcf27ddb87b",
+            "_timestamp": "2017-11-30 11:39:12+08:00",
+            "_commit_index": 51,
+            "_changed_files_list": [
+                {
+                    "_file_name": "urule-core/src/main/java/com/bstek/urule/dsl/BuildRulesVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                }
+            ]
         },
         {
-            "_sha_id": "d6d910ea74625c6bda77729a75ecf05845b35074",
-            "_timestamp": "2018-04-28 09:17:40+08:00",
-            "_commit_index": 141,
-            "_changed_files_list": []
+            "_sha_id": "5e0f20d0b633688432eca7620a6691fb9424effa",
+            "_timestamp": "2018-04-17 13:55:39+08:00",
+            "_commit_index": 127,
+            "_changed_files_list": [
+                {
+                    "_file_name": "urule-core/src/main/java/com/bstek/urule/dsl/BuildRulesVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                }
+            ]
         },
         {
-            "_sha_id": "c19f3e9e75f3bc5fc58d729c0109c0dd4aceeb99",
-            "_timestamp": "2018-03-16 12:08:39+08:00",
-            "_commit_index": 112,
-            "_changed_files_list": []
+            "_sha_id": "62e3c81b3480fe9e8ba40481043eec1616fc39e6",
+            "_timestamp": "2017-08-29 14:10:04+08:00",
+            "_commit_index": 7,
+            "_changed_files_list": [
+                {
+                    "_file_name": "urule-core/src/main/java/com/bstek/urule/dsl/BuildRulesVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                }
+            ]
         },
         {
-            "_sha_id": "3d575238439c7b45f6a922ca1ecf95f7152bdbd4",
-            "_timestamp": "2017-12-19 15:54:12+08:00",
-            "_commit_index": 85,
-            "_changed_files_list": []
+            "_sha_id": "7d7879bc082a7b2ee6bc03a6b44f49dc8f6a0641",
+            "_timestamp": "2018-12-21 14:55:44+08:00",
+            "_commit_index": 169,
+            "_changed_files_list": [
+                {
+                    "_file_name": "urule-core/src/main/java/com/bstek/urule/dsl/BuildRulesVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                }
+            ]
         },
         {
-            "_sha_id": "653d6d99bf212d0344d4fa363af0d3cadfc3657a",
-            "_timestamp": "2017-08-25 15:44:53+08:00",
-            "_commit_index": 2,
-            "_changed_files_list": []
+            "_sha_id": "b97a1418a8df1631f932a2e17bd6c410a0499bb4",
+            "_timestamp": "2018-04-28 09:07:36+08:00",
+            "_commit_index": 140,
+            "_changed_files_list": [
+                {
+                    "_file_name": "urule-core/src/main/java/com/bstek/urule/dsl/BuildRulesVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                }
+            ]
         },
         {
             "_sha_id": "88ff69658dd127720f8f8cf72492efa7b306d43b",

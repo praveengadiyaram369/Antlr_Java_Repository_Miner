@@ -13,57 +13,89 @@
             "_sha_id": "e04ca21c0d2449708583917fffaacbcd987e55fa",
             "_timestamp": "2018-08-29 11:49:24+02:00",
             "_commit_index": 242,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "cab32775c66ff5aa3761457410bec187205d780c",
-            "_timestamp": "2018-11-29 15:11:30+01:00",
-            "_commit_index": 363,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d80cf4d9438f92db3f0944654718fab17b95db17",
-            "_timestamp": "2019-07-08 14:54:28+02:00",
-            "_commit_index": 424,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0024f733e022de3cb8e1281453f69aa96f21f289",
-            "_timestamp": "2019-07-15 09:59:57+02:00",
-            "_commit_index": 454,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "fa46c2a7b5e8c6597111d337855b2fa2ae2bf0f8",
-            "_timestamp": "2019-08-06 11:29:16+02:00",
-            "_commit_index": 469,
             "_changed_files_list": [
                 {
                     "_file_name": "slang-antlr/src/main/java/org/sonarsource/slang/parser/SLangConverter.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 39
+                    "_visit_cnt": 36
                 }
             ]
         },
         {
-            "_sha_id": "9373a9607c6c6bfde53467f85221c6400c353333",
-            "_timestamp": "2019-07-25 15:29:12+02:00",
-            "_commit_index": 461,
+            "_sha_id": "bb46161c84abee9641777841d1ef1f177863ec44",
+            "_timestamp": "2018-07-02 14:01:41+02:00",
+            "_commit_index": 121,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0ae2081427972263f8b24e1262177a8a6fa3af78",
-            "_timestamp": "2019-07-30 16:49:13+02:00",
-            "_commit_index": 465,
+            "_sha_id": "8c3d2270320c03cf5a3d4d02892054c565c7263b",
+            "_timestamp": "2018-08-14 15:31:12+02:00",
+            "_commit_index": 181,
+            "_changed_files_list": [
+                {
+                    "_file_name": "slang-antlr/src/main/java/org/sonarsource/slang/parser/SLangConverter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 35
+                }
+            ]
+        },
+        {
+            "_sha_id": "c8f6a3825c21c611b63230bc6f2ca8d0497ff0fb",
+            "_timestamp": "2018-07-30 16:23:16+02:00",
+            "_commit_index": 151,
+            "_changed_files_list": [
+                {
+                    "_file_name": "slang-antlr/src/main/java/org/sonarsource/slang/parser/SLangConverter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 35
+                }
+            ]
+        },
+        {
+            "_sha_id": "b70df59f39848164cc7d1ab3241b7da7710075ad",
+            "_timestamp": "2018-07-05 10:50:43+02:00",
+            "_commit_index": 136,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0c88859af1444d2c4dadbc8abf0d62dc51bd5dee",
-            "_timestamp": "2019-08-05 17:11:39+02:00",
-            "_commit_index": 467,
+            "_sha_id": "80fd66861fa50320c15b47b22f3b44bc99b4dfa8",
+            "_timestamp": "2018-07-06 17:03:12+02:00",
+            "_commit_index": 143,
             "_changed_files_list": []
+        },
+        {
+            "_sha_id": "ebf8e69ee7e925695a854697066e70df4e53aab8",
+            "_timestamp": "2018-07-12 14:39:15+02:00",
+            "_commit_index": 147,
+            "_changed_files_list": [
+                {
+                    "_file_name": "slang-antlr/src/main/java/org/sonarsource/slang/parser/SLangConverter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 35
+                }
+            ]
+        },
+        {
+            "_sha_id": "115f6885b4df3330882d21abb06ff511509cb5f8",
+            "_timestamp": "2018-07-10 11:59:00+02:00",
+            "_commit_index": 145,
+            "_changed_files_list": [
+                {
+                    "_file_name": "slang-antlr/src/main/java/org/sonarsource/slang/parser/SLangConverter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 35
+                }
+            ]
         },
         {
             "_sha_id": "2f26839679726a6e295912bf67775bf179b462f4",

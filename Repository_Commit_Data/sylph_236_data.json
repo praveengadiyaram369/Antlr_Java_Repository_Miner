@@ -13,57 +13,89 @@
             "_sha_id": "9b70e81854f5217c51e0081ea5f75c261558d5cb",
             "_timestamp": "2018-11-24 18:59:58+08:00",
             "_commit_index": 259,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "906e008d9782bbfbc94d39af21d66d44f795f032",
-            "_timestamp": "2019-04-22 12:06:58+08:00",
-            "_commit_index": 389,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "ae5601cc8b6734b2b34ed0a42734138c8510322b",
-            "_timestamp": "2019-07-05 11:41:54+08:00",
-            "_commit_index": 454,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "556d34bbbccfad6a8df15ba1ebb7156ecb89b8bd",
-            "_timestamp": "2019-11-25 10:26:46+08:00",
-            "_commit_index": 486,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "68ac46b18e08a840e619cddb523d6b7ff4f73cf3",
-            "_timestamp": "2019-12-30 14:13:33+08:00",
-            "_commit_index": 502,
             "_changed_files_list": [
                 {
                     "_file_name": "sylph-parser/src/main/java/ideal/sylph/parser/antlr/AstBuilder.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 22
+                    "_visit_cnt": 21
                 }
             ]
         },
         {
-            "_sha_id": "607da73cc9fb27a8178cf6155c8fb919f7e03ed6",
-            "_timestamp": "2019-12-18 22:56:53+08:00",
-            "_commit_index": 494,
+            "_sha_id": "866398d1486a413b1e248e502cf2aaa2eddc3e34",
+            "_timestamp": "2018-08-30 13:45:44+08:00",
+            "_commit_index": 129,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4eb2c7c9e5b5d762f7c7f5e675901217566f305a",
-            "_timestamp": "2019-12-19 22:10:51+08:00",
-            "_commit_index": 498,
+            "_sha_id": "baf3d4e21a401edde63aa4b7b609bd23b0c11a1f",
+            "_timestamp": "2018-11-16 23:34:29+08:00",
+            "_commit_index": 194,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sylph-parser/src/main/java/ideal/sylph/parser/antlr/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                }
+            ]
+        },
+        {
+            "_sha_id": "5b462ce65c81a01d0a70e30d6a479e266811f610",
+            "_timestamp": "2018-10-10 16:28:26+08:00",
+            "_commit_index": 161,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0ccd321f8d2d728c1c0763a5f73d35d2b10c8632",
-            "_timestamp": "2019-12-27 10:12:56+08:00",
-            "_commit_index": 500,
+            "_sha_id": "901ba08693b2f9e55d1ebbfe24c129e3cae40556",
+            "_timestamp": "2018-10-23 21:36:04+08:00",
+            "_commit_index": 177,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sylph-parser/src/main/java/ideal/sylph/parser/antlr/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                }
+            ]
+        },
+        {
+            "_sha_id": "6d5699920ea710a76dde91005d1101535828b3fc",
+            "_timestamp": "2018-10-22 21:04:51+08:00",
+            "_commit_index": 169,
             "_changed_files_list": []
+        },
+        {
+            "_sha_id": "ca40fb402d68646bc94570afb156c1f44a895394",
+            "_timestamp": "2018-10-23 21:33:06+08:00",
+            "_commit_index": 173,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sylph-parser/src/main/java/ideal/sylph/parser/antlr/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                }
+            ]
+        },
+        {
+            "_sha_id": "ab315f6ae646161c2c7d01a5168f8d8a63407ae9",
+            "_timestamp": "2018-10-23 21:30:05+08:00",
+            "_commit_index": 171,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sylph-parser/src/main/java/ideal/sylph/parser/antlr/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                }
+            ]
         },
         {
             "_sha_id": "fabee0e8ba7a181cb86a926a268e0d600c79ec5d",

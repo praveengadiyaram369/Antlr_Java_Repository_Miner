@@ -13,48 +13,145 @@
             "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
             "_timestamp": "2016-08-17 10:29:58-04:00",
             "_commit_index": 8343,
+            "_changed_files_list": [
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/type/TypeCalculation.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 120
+                }
+            ]
+        },
+        {
+            "_sha_id": "485edc7d5c50c158778642980760f4b498c10868",
+            "_timestamp": "2014-12-10 19:50:30-08:00",
+            "_commit_index": 4171,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
-            "_timestamp": "2016-08-17 10:29:58-04:00",
-            "_commit_index": 8343,
-            "_changed_files_list": []
+            "_sha_id": "0997280071d028ea77c89976dcf73d09a37cd3e2",
+            "_timestamp": "2015-11-03 09:03:24-08:00",
+            "_commit_index": 6257,
+            "_changed_files_list": [
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 98
+                }
+            ]
         },
         {
-            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
-            "_timestamp": "2016-08-17 10:29:58-04:00",
-            "_commit_index": 8343,
-            "_changed_files_list": []
+            "_sha_id": "7cc091d4ec24f9cac9364bad0e084520e422d2fa",
+            "_timestamp": "2015-06-04 17:07:31-07:00",
+            "_commit_index": 5214,
+            "_changed_files_list": [
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 90
+                }
+            ]
         },
         {
-            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
-            "_timestamp": "2016-08-17 10:29:58-04:00",
-            "_commit_index": 8343,
-            "_changed_files_list": []
+            "_sha_id": "7f2d4e7574bd3462a7a9d717e521c1ddc24b7185",
+            "_timestamp": "2015-03-16 15:22:36-07:00",
+            "_commit_index": 4692,
+            "_changed_files_list": [
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 88
+                }
+            ]
         },
         {
-            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
-            "_timestamp": "2016-08-17 10:29:58-04:00",
-            "_commit_index": 8343,
-            "_changed_files_list": []
+            "_sha_id": "8a0b0269f880efe3a1640ed0ef62f392fe361b30",
+            "_timestamp": "2015-01-21 18:52:06-08:00",
+            "_commit_index": 4431,
+            "_changed_files_list": [
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 85
+                }
+            ]
         },
         {
-            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
-            "_timestamp": "2016-08-17 10:29:58-04:00",
-            "_commit_index": 8343,
-            "_changed_files_list": []
+            "_sha_id": "004b6d5a052b886297bbac8296c633db08c50974",
+            "_timestamp": "2015-01-09 11:53:01-08:00",
+            "_commit_index": 4301,
+            "_changed_files_list": [
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "presto-parser/src/main/java/com/facebook/presto/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 85
+                }
+            ]
         },
         {
-            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
-            "_timestamp": "2016-08-17 10:29:58-04:00",
-            "_commit_index": 8343,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8362cf03be6c4e3bbea643653463a1ca677ace7a",
-            "_timestamp": "2016-08-17 10:29:58-04:00",
-            "_commit_index": 8343,
+            "_sha_id": "81ed0629e4fa5d39b19874a8f6f2b2c86d75178d",
+            "_timestamp": "2014-12-30 08:53:24-08:00",
+            "_commit_index": 4236,
             "_changed_files_list": []
         },
         {

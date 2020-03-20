@@ -19,43 +19,75 @@
             "_sha_id": "921a2c653d2d851cef0e7b9b286651485c967a5f",
             "_timestamp": "2019-10-11 11:09:42+01:00",
             "_commit_index": 6456,
+            "_changed_files_list": [
+                {
+                    "_file_name": "extensions/panache/mongodb-panache/runtime/src/main/java/io/quarkus/mongodb/panache/runtime/MongoParserVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 13
+                }
+            ]
+        },
+        {
+            "_sha_id": "e4d3a186f225eb2cf4b25d20951f07d5c059b452",
+            "_timestamp": "2019-08-22 15:12:26+02:00",
+            "_commit_index": 5380,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "063a0cf5a0eb212005be531d87817fe80d6effeb",
-            "_timestamp": "2019-11-11 10:41:13-05:00",
-            "_commit_index": 7532,
+            "_sha_id": "43b9fa5ba48f0250b68519ff82629b39b92c1961",
+            "_timestamp": "2019-09-18 09:14:23+03:00",
+            "_commit_index": 5918,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "cf888d01eec7b73ab65cc40b36bc8c31ca195ee7",
-            "_timestamp": "2019-12-02 06:52:40-06:00",
-            "_commit_index": 8070,
+            "_sha_id": "82fe2706da33807d49abc09cb3792e09871bae61",
+            "_timestamp": "2019-10-01 11:45:14+02:00",
+            "_commit_index": 6187,
+            "_changed_files_list": [
+                {
+                    "_file_name": "extensions/panache/mongodb-panache/runtime/src/main/java/io/quarkus/mongodb/panache/runtime/MongoParserVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 13
+                }
+            ]
+        },
+        {
+            "_sha_id": "b6fa1267b4426ef3e0608b13eefed91803926995",
+            "_timestamp": "2019-09-24 15:55:05+05:18",
+            "_commit_index": 6052,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "fb1fb0240a809a6465a379bad9a6d903d7713bcc",
-            "_timestamp": "2019-12-11 22:07:13-03:00",
-            "_commit_index": 8339,
-            "_changed_files_list": []
+            "_sha_id": "f16ded635f4100d2ee19660f11520eb03b837b62",
+            "_timestamp": "2019-09-25 15:54:29+01:00",
+            "_commit_index": 6119,
+            "_changed_files_list": [
+                {
+                    "_file_name": "extensions/panache/mongodb-panache/runtime/src/main/java/io/quarkus/mongodb/panache/runtime/MongoParserVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 13
+                }
+            ]
         },
         {
-            "_sha_id": "bf683e76c2d8f407fbb380bab2eb66a8cd0be2f9",
-            "_timestamp": "2019-12-20 08:49:07+02:00",
-            "_commit_index": 8474,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "ba2f7f8380548a2333d78c9262b6e89976f89651",
-            "_timestamp": "2019-12-30 14:23:43+01:00",
-            "_commit_index": 8541,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0169fb86e743c107a0d1c00311ef50903b45003c",
-            "_timestamp": "2019-12-30 14:51:57+01:00",
-            "_commit_index": 8575,
-            "_changed_files_list": []
+            "_sha_id": "48c98f7a4b256ebb9de3cb52e645129ce9ec6670",
+            "_timestamp": "2019-09-25 11:22:20+02:00",
+            "_commit_index": 6085,
+            "_changed_files_list": [
+                {
+                    "_file_name": "extensions/panache/mongodb-panache/runtime/src/main/java/io/quarkus/mongodb/panache/runtime/MongoParserVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 13
+                }
+            ]
         },
         {
             "_sha_id": "455578d200800af2380d6bfcfa6c765e15505204",

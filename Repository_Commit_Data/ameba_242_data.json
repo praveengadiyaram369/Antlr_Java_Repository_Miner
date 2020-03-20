@@ -25,36 +25,60 @@
             "_sha_id": "345299a225f9dc1b43a1e9ce566b7908cda5768b",
             "_timestamp": "2016-11-22 11:33:35+08:00",
             "_commit_index": 843,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/ameba/db/dsl/QueryExprListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "74af2fe2ae45785e8e38ca1cdcf9b66e2ab47f12",
+            "_timestamp": "2016-06-22 14:00:53+08:00",
+            "_commit_index": 783,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/ameba/db/dsl/QueryExprListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "2aac1d7e824fc081bdcd28c86c06bd57f05c0749",
+            "_timestamp": "2016-04-05 11:42:12+08:00",
+            "_commit_index": 753,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "7c215cb90eb9fe21c25b43869a245b5aa696bf1f",
-            "_timestamp": "2017-10-09 09:51:28+08:00",
-            "_commit_index": 903,
+            "_sha_id": "8e53320919afd9ebb8f4cced435d4d29f0f3da99",
+            "_timestamp": "2016-05-04 23:55:55+08:00",
+            "_commit_index": 768,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "f2eb281731faff42b750ccac252b4dc4438a870f",
-            "_timestamp": "2017-12-08 17:55:13+08:00",
-            "_commit_index": 933,
-            "_changed_files_list": []
+            "_sha_id": "5c4cde5db11d785b4297ec6affec3f64d6c77b1f",
+            "_timestamp": "2016-05-17 14:17:56+08:00",
+            "_commit_index": 775,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/ameba/db/dsl/QueryExprListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "e92f87b6724d8093575db8b0858df0d45d011bb8",
-            "_timestamp": "2018-03-13 14:54:09+08:00",
-            "_commit_index": 948,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d7ecf8cc86cc23bc88130c7985051c5de8b1332f",
-            "_timestamp": "2018-04-13 22:35:33+08:00",
-            "_commit_index": 956,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d36eb000ab490a036a46feab47c61321ec69c60f",
-            "_timestamp": "2018-04-18 20:38:25+08:00",
-            "_commit_index": 960,
+            "_sha_id": "f6aea7221e8dbde1384e91f9df6ace1509fbc2a5",
+            "_timestamp": "2016-05-08 00:15:43+08:00",
+            "_commit_index": 771,
             "_changed_files_list": []
         },
         {

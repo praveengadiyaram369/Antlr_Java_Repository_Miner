@@ -19,43 +19,75 @@
             "_sha_id": "e4205b3b8047ee084419419a6c0b37a3ae9acad3",
             "_timestamp": "2018-04-30 14:21:49-07:00",
             "_commit_index": 2216,
+            "_changed_files_list": [
+                {
+                    "_file_name": "repository/src/main/java/org/apache/atlas/query/DSLVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                }
+            ]
+        },
+        {
+            "_sha_id": "baccd1d8d768cc9e4650c3b39383c304e936e503",
+            "_timestamp": "2017-09-20 16:12:23-07:00",
+            "_commit_index": 1846,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "ca22400ebf425088097b20b33873c15a71d5f908",
-            "_timestamp": "2019-03-08 15:35:49-08:00",
-            "_commit_index": 2585,
+            "_sha_id": "3689a358292ce6d854b19056bede958d247ce8d3",
+            "_timestamp": "2018-01-15 23:25:53-08:00",
+            "_commit_index": 2031,
+            "_changed_files_list": [
+                {
+                    "_file_name": "repository/src/main/java/org/apache/atlas/query/DSLVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
+        },
+        {
+            "_sha_id": "4a8777b40e641584c088e6e9bc14145f72f681c0",
+            "_timestamp": "2017-11-20 15:38:17+00:00",
+            "_commit_index": 1938,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "d59c0d08fbc1f815608807d8dc76dbf8c8b3372d",
-            "_timestamp": "2019-07-10 17:14:44+05:18",
-            "_commit_index": 2770,
+            "_sha_id": "5384a74274b435118e0c4d4c521557df0b0f7eef",
+            "_timestamp": "2017-12-22 13:52:14-08:00",
+            "_commit_index": 1984,
+            "_changed_files_list": [
+                {
+                    "_file_name": "repository/src/main/java/org/apache/atlas/query/DSLVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                }
+            ]
+        },
+        {
+            "_sha_id": "69330a5d33c4d0007c4aaa47800f0a9a03427fbb",
+            "_timestamp": "2017-12-07 01:05:57+05:18",
+            "_commit_index": 1961,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6d907bd0094d7637a72479bb6fabfe2c0650109d",
-            "_timestamp": "2019-09-30 16:26:30+05:18",
-            "_commit_index": 2862,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "25044cee5d945985aaadfc68e3da992eb4cc688e",
-            "_timestamp": "2019-10-23 18:54:30+05:18",
-            "_commit_index": 2908,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d1f341864ee026c0ea30c7f76f1fa5acad25dc09",
-            "_timestamp": "2019-11-21 14:59:01-08:00",
-            "_commit_index": 2931,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c95aba218b9318ce44abf574faff62908f24916d",
-            "_timestamp": "2019-12-04 20:16:36-08:00",
-            "_commit_index": 2943,
-            "_changed_files_list": []
+            "_sha_id": "d1e79fa06c455f161b6dc3bd2c4ffee577e98b37",
+            "_timestamp": "2017-12-15 13:30:02-08:00",
+            "_commit_index": 1972,
+            "_changed_files_list": [
+                {
+                    "_file_name": "repository/src/main/java/org/apache/atlas/query/DSLVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                }
+            ]
         },
         {
             "_sha_id": "f5dcc7b7036414f3e382d172dbe10ed83be90bda",

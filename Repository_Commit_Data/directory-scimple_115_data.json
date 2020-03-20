@@ -31,31 +31,97 @@
             "_sha_id": "6ba018524aa0df439614267cb35aefb4a93c7ba6",
             "_timestamp": "2018-07-25 10:48:05-04:00",
             "_commit_index": 775,
+            "_changed_files_list": [
+                {
+                    "_file_name": "scim-spec/scim-spec-schema/src/main/java/org/apache/directory/scim/spec/phonenumber/TreePrintingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "scim-spec/scim-spec-schema/src/main/java/org/apache/directory/scim/spec/phonenumber/PhoneNumberParseTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "scim-spec/scim-spec-protocol/src/main/java/org/apache/directory/scim/spec/protocol/filter/ExpressionBuildingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "18d05422aff07d3bd67d61adbb19aa6422551d1f",
+            "_timestamp": "2018-05-15 16:30:12-04:00",
+            "_commit_index": 749,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "31da7bf77989dc172c7c7ff76c9a62a523547fcf",
-            "_timestamp": "2018-08-03 06:26:37-04:00",
-            "_commit_index": 801,
+            "_sha_id": "ec52663655e22be519964fc36b21599493f3df4a",
+            "_timestamp": "2018-07-10 16:08:42-04:00",
+            "_commit_index": 762,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e66c52270f5ec095368161f2aa5ded3ad60358cd",
-            "_timestamp": "2018-08-08 15:31:16-04:00",
-            "_commit_index": 814,
-            "_changed_files_list": []
+            "_sha_id": "566fcd174ab2d1660a7e3ccfb2c940a2ba8b34d4",
+            "_timestamp": "2018-07-18 14:44:06-04:00",
+            "_commit_index": 768,
+            "_changed_files_list": [
+                {
+                    "_file_name": "scim-spec/scim-spec-schema/src/main/java/org/apache/directory/scim/spec/phonenumber/TreePrintingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "scim-spec/scim-spec-schema/src/main/java/org/apache/directory/scim/spec/phonenumber/PhoneNumberParseTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "scim-spec/scim-spec-protocol/src/main/java/org/apache/directory/scim/spec/protocol/filter/ExpressionBuildingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "4ea22f5d052f46ff68af1aef16b01083edf1dc57",
-            "_timestamp": "2018-08-10 15:57:31-04:00",
-            "_commit_index": 820,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "415710223235506726225de48a5342662e1ca5c9",
-            "_timestamp": "2018-08-15 10:15:14-04:00",
-            "_commit_index": 823,
-            "_changed_files_list": []
+            "_sha_id": "2f7c7e1505b4e08936679d5b8a996a95f6c1af4b",
+            "_timestamp": "2018-07-17 14:53:00-04:00",
+            "_commit_index": 765,
+            "_changed_files_list": [
+                {
+                    "_file_name": "scim-spec/scim-spec-schema/src/main/java/org/apache/directory/scim/spec/phonenumber/TreePrintingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "scim-spec/scim-spec-schema/src/main/java/org/apache/directory/scim/spec/phonenumber/PhoneNumberParseTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "scim-spec/scim-spec-protocol/src/main/java/org/apache/directory/scim/spec/protocol/filter/ExpressionBuildingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "8f31568bc0ce71225ba964ff1d315bf19de353ef",

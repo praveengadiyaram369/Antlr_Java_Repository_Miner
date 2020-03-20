@@ -21,49 +21,113 @@
             "_sha_id": "554c644d9fbdef5a0dffee623944ddad0281e0e7",
             "_timestamp": "2018-08-16 00:19:34+08:00",
             "_commit_index": 7,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b6331387376c2646545bb05e9d0177ea295981f5",
-            "_timestamp": "2018-07-27 17:29:21+08:00",
-            "_commit_index": 6,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/bigdata/sql/antlr4/PostProcessor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "4ecddb4aee4536607a5dce22a3c6878dc320d60d",
             "_timestamp": "2018-07-27 17:20:36+08:00",
             "_commit_index": 3,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "244ca581798631d2fe4a0184252cd3bb2ff48d91",
-            "_timestamp": "2018-07-27 17:26:42+08:00",
-            "_commit_index": 5,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "2275269ad5e525bb9f3f791f4db5b21effc00d6f",
-            "_timestamp": "2018-09-26 16:36:45+08:00",
-            "_commit_index": 8,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/bigdata/sql/antlr4/PostProcessor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "b63cdeaef6507b2b9ed67ae6c6b40fc107b254b1",
             "_timestamp": "2018-07-12 09:40:03+08:00",
             "_commit_index": 1,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/bigdata/sql/antlr4/PostProcessor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "30666ab204434fb17177a07a22f27a6181e00948",
-            "_timestamp": "2018-07-12 09:41:37+08:00",
-            "_commit_index": 2,
-            "_changed_files_list": []
+            "_sha_id": "2275269ad5e525bb9f3f791f4db5b21effc00d6f",
+            "_timestamp": "2018-09-26 16:36:45+08:00",
+            "_commit_index": 8,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/bigdata/sql/antlr4/PostProcessor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "d16d55511791ab2f036d6fc86915851815160b33",
             "_timestamp": "2018-07-27 17:21:31+08:00",
             "_commit_index": 4,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/bigdata/sql/antlr4/PostProcessor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "30666ab204434fb17177a07a22f27a6181e00948",
+            "_timestamp": "2018-07-12 09:41:37+08:00",
+            "_commit_index": 2,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/bigdata/sql/antlr4/PostProcessor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "244ca581798631d2fe4a0184252cd3bb2ff48d91",
+            "_timestamp": "2018-07-27 17:26:42+08:00",
+            "_commit_index": 5,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/bigdata/sql/antlr4/PostProcessor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "b6331387376c2646545bb05e9d0177ea295981f5",
+            "_timestamp": "2018-07-27 17:29:21+08:00",
+            "_commit_index": 6,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/bigdata/sql/antlr4/PostProcessor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "f3b747e8d2227afebdaaac41d908adf39401bdef",

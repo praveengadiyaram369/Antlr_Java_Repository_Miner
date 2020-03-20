@@ -13,65 +13,117 @@
             "_sha_id": "099df33db87190bb4b9e5e87798b9717183249f2",
             "_timestamp": "2017-01-07 00:45:16-05:00",
             "_commit_index": 220,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8367c66a0c2d7229a20a5f17e1eab6e5d81470d6",
-            "_timestamp": "2017-08-03 08:27:33-04:00",
-            "_commit_index": 330,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4d532aecd7181adfc113f496e4949733f32b553f",
-            "_timestamp": "2017-12-16 21:34:04-05:00",
-            "_commit_index": 385,
             "_changed_files_list": [
                 {
                     "_file_name": "cfml.parsing/src/main/java/cfml/parsing/cfscript/walker/CFScriptStatementVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 43
+                    "_visit_cnt": 40
+                },
+                {
+                    "_file_name": "cfml.parsing/src/main/java/cfml/parsing/cfscript/walker/CFExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 40
                 }
             ]
         },
         {
-            "_sha_id": "cf1868038ca56a85d939e84a6d4bd00c996f18f4",
-            "_timestamp": "2017-08-12 14:11:07-04:00",
-            "_commit_index": 357,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "f3a6f0a372e44e8b19e26783d6d5579ff1a3dd48",
-            "_timestamp": "2017-08-17 22:40:41-04:00",
-            "_commit_index": 371,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "fca7ee7ba349577690b03f8631819bc6a2c98642",
-            "_timestamp": "2017-11-24 21:17:50-05:00",
-            "_commit_index": 378,
+            "_sha_id": "37e2aab9604961e966906566aacee49653d9e4f0",
+            "_timestamp": "2016-04-14 16:11:18-06:00",
+            "_commit_index": 110,
             "_changed_files_list": [
                 {
                     "_file_name": "cfml.parsing/src/main/java/cfml/parsing/cfscript/walker/CFScriptStatementVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 43
+                    "_visit_cnt": 38
+                },
+                {
+                    "_file_name": "cfml.parsing/src/main/java/cfml/parsing/cfscript/walker/CFExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 32
                 }
             ]
         },
         {
-            "_sha_id": "85552addbaeb6337680ee67e35a520ab9f18f8cb",
-            "_timestamp": "2017-08-24 23:54:57-06:00",
-            "_commit_index": 374,
+            "_sha_id": "ac16b04809cd57835aa971ea093a464b2aed9d05",
+            "_timestamp": "2015-05-17 14:07:38-04:00",
+            "_commit_index": 55,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cfml.parsing/src/main/java/cfml/parsing/cfscript/walker/CFScriptStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 38
+                },
+                {
+                    "_file_name": "cfml.parsing/src/main/java/cfml/parsing/cfscript/walker/CFExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 32
+                }
+            ]
+        },
+        {
+            "_sha_id": "8953516a4d0ece596bfccf29871a8ae3b4c6d7b7",
+            "_timestamp": "2015-03-03 00:50:50-05:00",
+            "_commit_index": 27,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cfml.parsing/src/main/java/cfml/parsing/cfscript/walker/CFScriptStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 37
+                },
+                {
+                    "_file_name": "cfml.parsing/src/main/java/cfml/parsing/cfscript/walker/CFExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 30
+                }
+            ]
+        },
+        {
+            "_sha_id": "1f441ebca6f5d25b1055c32faad588614a74778d",
+            "_timestamp": "2014-08-14 18:50:18-06:00",
+            "_commit_index": 13,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "7ef808a2433692d068a1ad4b4eebecb7ce395d0e",
-            "_timestamp": "2017-09-05 23:23:23-06:00",
-            "_commit_index": 376,
+            "_sha_id": "5f9a71c10f88200212cadd776523d3a97fde04f0",
+            "_timestamp": "2015-02-03 17:50:39-07:00",
+            "_commit_index": 20,
             "_changed_files_list": []
+        },
+        {
+            "_sha_id": "74cc4a11450898d5ab8dd231d137117e73ce26cb",
+            "_timestamp": "2015-02-25 23:15:39-05:00",
+            "_commit_index": 23,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "16e0afdda512a7ccd909af1754c14d38bdb3a1cb",
+            "_timestamp": "2015-02-26 20:05:59-07:00",
+            "_commit_index": 25,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cfml.parsing/src/main/java/cfml/parsing/cfscript/walker/CFExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 47
+                }
+            ]
         },
         {
             "_sha_id": "3f1b8b62ead8cc543cba00c69781cae8910fd7ca",

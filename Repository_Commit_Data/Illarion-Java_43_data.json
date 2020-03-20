@@ -19,43 +19,75 @@
             "_sha_id": "8949d83ec88bea56073b8b5351255b4b84c95ab7",
             "_timestamp": "2014-04-29 22:17:41+02:00",
             "_commit_index": 2211,
+            "_changed_files_list": [
+                {
+                    "_file_name": "illaeasynpc/src/main/java/illarion/easynpc/parser/ParsedNpcVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                }
+            ]
+        },
+        {
+            "_sha_id": "dbf4289620bf40ad3a22bb99228edbeaa68229ff",
+            "_timestamp": "2013-09-10 00:45:05+02:00",
+            "_commit_index": 1842,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8af11876c2a05ba50fc10d98f847e2c52a40a992",
-            "_timestamp": "2015-01-18 13:51:16+01:00",
-            "_commit_index": 2580,
+            "_sha_id": "804590c376f6114288de33568e8480b69e01b283",
+            "_timestamp": "2014-01-03 15:19:26+01:00",
+            "_commit_index": 2026,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "10d993c9bf545c90d7b64a89d08e8e5378201c4d",
-            "_timestamp": "2015-04-04 11:32:45+02:00",
-            "_commit_index": 2764,
+            "_sha_id": "46a5e626f7eb4abeb05f61c8cf0dd5f9039aad69",
+            "_timestamp": "2014-03-08 13:49:37+01:00",
+            "_commit_index": 2118,
+            "_changed_files_list": [
+                {
+                    "_file_name": "illaeasynpc/src/main/java/illarion/easynpc/parser/ParsedNpcVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                }
+            ]
+        },
+        {
+            "_sha_id": "3fc1580bc3970613c4a80a83de071feea8860d33",
+            "_timestamp": "2014-01-15 22:58:29+01:00",
+            "_commit_index": 2072,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e2673fdbacf54968407cc8ce416f4f5f368facd9",
-            "_timestamp": "2015-06-20 15:04:47+02:00",
-            "_commit_index": 2856,
-            "_changed_files_list": []
+            "_sha_id": "4a4e051d15c5b69db461784270c1dd6e3852a6a6",
+            "_timestamp": "2014-02-23 01:25:00+01:00",
+            "_commit_index": 2095,
+            "_changed_files_list": [
+                {
+                    "_file_name": "illaeasynpc/src/main/java/illarion/easynpc/parser/ParsedNpcVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                }
+            ]
         },
         {
-            "_sha_id": "39e20b1607e1cd501c281e253de6183b2eb76e38",
-            "_timestamp": "2015-10-01 19:46:22-04:00",
-            "_commit_index": 2902,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "58bc9ba8c721fb012abca29f51e881879f83b51b",
-            "_timestamp": "2016-03-20 20:54:01+01:00",
-            "_commit_index": 2925,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8634b40fd4b8122881f12ac0d65682349551eef8",
-            "_timestamp": "2017-04-05 23:41:26-05:00",
-            "_commit_index": 2937,
-            "_changed_files_list": []
+            "_sha_id": "7fcbc5b88ab43e364f3d366c72bc817a533bc9f0",
+            "_timestamp": "2014-01-27 00:13:26+01:00",
+            "_commit_index": 2083,
+            "_changed_files_list": [
+                {
+                    "_file_name": "illaeasynpc/src/main/java/illarion/easynpc/parser/ParsedNpcVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                }
+            ]
         },
         {
             "_sha_id": "012d8f53bf1aefe5a873e9546d50b5cbf053d2a0",

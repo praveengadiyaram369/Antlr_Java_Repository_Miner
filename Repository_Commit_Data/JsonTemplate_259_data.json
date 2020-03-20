@@ -13,42 +13,6 @@
             "_sha_id": "ae0fd6b2f5f193df8c97034bf871e392d879e3c9",
             "_timestamp": "2019-02-26 22:41:02+01:00",
             "_commit_index": 31,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "5cb12cba854921193f404c192d9b492650a84f57",
-            "_timestamp": "2019-03-02 14:18:35+01:00",
-            "_commit_index": 46,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "99fb83c5a947c3c2b29f6c2cc272ce2b0ce94133",
-            "_timestamp": "2019-03-15 14:32:11+01:00",
-            "_commit_index": 54,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "bd15425f1d9f767da95189af1989b97b05f13563",
-            "_timestamp": "2019-03-18 11:10:23+01:00",
-            "_commit_index": 58,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c30ee6503b946ed9e0f01db4d44c32436e2d20b5",
-            "_timestamp": "2019-04-01 09:36:40+02:00",
-            "_commit_index": 60,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "91a132f95e1ae206eb9cd38c85365230e64da4c1",
-            "_timestamp": "2019-04-08 21:37:09-04:00",
-            "_commit_index": 61,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "f1ca19f398d8d306c6d47911bfba14b46797955b",
-            "_timestamp": "2019-02-27 17:09:53+01:00",
-            "_commit_index": 35,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/com/github/jsontemplate/modelbuild/JsonTemplateTreeListener.java",
@@ -60,10 +24,102 @@
             ]
         },
         {
-            "_sha_id": "b4c449183cf3c0f654d864b8b170d27590ed4ce7",
-            "_timestamp": "2019-02-27 13:03:09+01:00",
-            "_commit_index": 33,
-            "_changed_files_list": []
+            "_sha_id": "2a89da28f480104b49801107923c358978e8a8b5",
+            "_timestamp": "2019-02-13 22:35:47+01:00",
+            "_commit_index": 15,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/jsontemplate/modelbuild/JsonTemplateTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "c6557f8530db5e7875722d400a834e76f358854a",
+            "_timestamp": "2019-02-10 18:02:16+01:00",
+            "_commit_index": 7,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/jsontemplate/modelbuild/JsonTemplateTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "02621b11e7ba9daa497ea6f18dfbc771fc115726",
+            "_timestamp": "2019-02-07 17:38:07+01:00",
+            "_commit_index": 3,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/jsontemplate/modelbuild/JsonTemplateTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "f6205aefc2f3b9bbc5db4fbdd4902ef5a21e7f78",
+            "_timestamp": "2019-02-07 12:36:56+01:00",
+            "_commit_index": 1,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/jsontemplate/modelbuild/JsonTemplateTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 13,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "dc8e33ef640b80a0a24bfe3fc91293e383f1001a",
+            "_timestamp": "2019-02-13 14:00:16+01:00",
+            "_commit_index": 14,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/jsontemplate/modelbuild/JsonTemplateTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "ad96c180025ca54ae5eb13d5d7d83d8751d1c8d2",
+            "_timestamp": "2019-03-10 21:32:03+01:00",
+            "_commit_index": 53,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/jsontemplate/modelbuild/JsonTemplateTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 15,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "49e866bb5bf71ba474f9b20f1506fde6cfd1dab3",
+            "_timestamp": "2019-03-01 16:38:31+01:00",
+            "_commit_index": 39,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/jsontemplate/modelbuild/JsonTemplateTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 15,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "3a493055316ce96f6884f0434733b9f4a47bd1b6",

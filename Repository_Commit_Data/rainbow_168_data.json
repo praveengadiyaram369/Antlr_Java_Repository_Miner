@@ -13,48 +13,72 @@
             "_sha_id": "6d78b478156c4c08a0eeec19b25fcba369dad8fa",
             "_timestamp": "2019-03-15 12:27:05-04:00",
             "_commit_index": 882,
+            "_changed_files_list": [
+                {
+                    "_file_name": "rainbow/rainbow-stitch/src/main/java/org/sa/rainbow/stitch/visitor/StitchBeginEndVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 45
+                }
+            ]
+        },
+        {
+            "_sha_id": "e45002f70f9c3b3cd84117b463f0f7be524ddd53",
+            "_timestamp": "2018-03-24 16:47:40-04:00",
+            "_commit_index": 441,
+            "_changed_files_list": [
+                {
+                    "_file_name": "rainbow/rainbow-stitch/src/main/java/org/sa/rainbow/stitch/visitor/StitchBeginEndVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 45
+                }
+            ]
+        },
+        {
+            "_sha_id": "50a4b21fbf580a7c8d39f35cfb15ca915d7cd64e",
+            "_timestamp": "2016-10-27 15:29:55+00:00",
+            "_commit_index": 220,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6d78b478156c4c08a0eeec19b25fcba369dad8fa",
-            "_timestamp": "2019-03-15 12:27:05-04:00",
-            "_commit_index": 882,
+            "_sha_id": "04dc82f8be5d1f17abc64cdadf491c9c73a05e17",
+            "_timestamp": "2017-03-04 05:53:38+00:00",
+            "_commit_index": 330,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6d78b478156c4c08a0eeec19b25fcba369dad8fa",
-            "_timestamp": "2019-03-15 12:27:05-04:00",
-            "_commit_index": 882,
+            "_sha_id": "86e0ce1f506b6f7a2ac60b7843dfc5654e34fa16",
+            "_timestamp": "2017-11-02 15:06:30-07:00",
+            "_commit_index": 385,
+            "_changed_files_list": [
+                {
+                    "_file_name": "rainbow/rainbow-stitch/src/main/java/org/sa/rainbow/stitch/visitor/StitchBeginEndVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 45
+                }
+            ]
+        },
+        {
+            "_sha_id": "7dd00a27c81db245e8f6db52af6ce444637124b5",
+            "_timestamp": "2017-03-18 20:27:08+00:00",
+            "_commit_index": 357,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6d78b478156c4c08a0eeec19b25fcba369dad8fa",
-            "_timestamp": "2019-03-15 12:27:05-04:00",
-            "_commit_index": 882,
+            "_sha_id": "6897286fa0d3addea5a26c953da7efe58a1869e5",
+            "_timestamp": "2017-11-01 15:34:01+00:00",
+            "_commit_index": 371,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6d78b478156c4c08a0eeec19b25fcba369dad8fa",
-            "_timestamp": "2019-03-15 12:27:05-04:00",
-            "_commit_index": 882,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6d78b478156c4c08a0eeec19b25fcba369dad8fa",
-            "_timestamp": "2019-03-15 12:27:05-04:00",
-            "_commit_index": 882,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6d78b478156c4c08a0eeec19b25fcba369dad8fa",
-            "_timestamp": "2019-03-15 12:27:05-04:00",
-            "_commit_index": 882,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6d78b478156c4c08a0eeec19b25fcba369dad8fa",
-            "_timestamp": "2019-03-15 12:27:05-04:00",
-            "_commit_index": 882,
+            "_sha_id": "04b1201295122553aa6e7255dc9424f2dbb9337b",
+            "_timestamp": "2017-11-02 14:29:50-04:00",
+            "_commit_index": 378,
             "_changed_files_list": []
         },
         {

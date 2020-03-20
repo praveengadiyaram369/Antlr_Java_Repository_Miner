@@ -13,49 +13,729 @@
             "_sha_id": "2c4a70538ac7ef37cc2b6fce84da74f0b9976831",
             "_timestamp": "2012-08-13 14:25:17-05:00",
             "_commit_index": 821,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/syndiag/SyntaxDiagramTopComponent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/analysis/FactorLabelForSetHintParserTask.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/analysis/GroupSetElementsHintParserTask.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/GrammarParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/ActionExpressionAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/LabelAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/TemplateParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/semantics/SemanticAnalyzerListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 126,
+                    "_exit_cnt": 131,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/navigation/GoDeclarationsScanner.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/highlighter/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/highlighter/SemanticHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/fold/DeclarationFoldScanner.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/completion/GoCompletionQuery.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 29,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/parser/GoParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/parser/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 33,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2c4a70538ac7ef37cc2b6fce84da74f0b9976831",
-            "_timestamp": "2012-08-13 14:25:17-05:00",
-            "_commit_index": 821,
-            "_changed_files_list": []
+            "_sha_id": "298fe5a962873ae9c2063912a3fdcf1e97859f46",
+            "_timestamp": "2012-01-25 21:47:46-06:00",
+            "_commit_index": 410,
+            "_changed_files_list": [
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/navigation/GoDeclarationsScanner.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/highlighter/SemanticHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/fold/DeclarationFoldScanner.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/completion/GoCompletionQuery.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/parser/GoParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/parser/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2c4a70538ac7ef37cc2b6fce84da74f0b9976831",
-            "_timestamp": "2012-08-13 14:25:17-05:00",
-            "_commit_index": 821,
-            "_changed_files_list": []
+            "_sha_id": "9f494d5c6c767a6cfbffc854aaa6634773b56b70",
+            "_timestamp": "2012-02-27 22:10:20-06:00",
+            "_commit_index": 615,
+            "_changed_files_list": [
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/syndiag/SyntaxDiagramTopComponent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/GrammarParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/ActionExpressionAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/LabelAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/TemplateParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2c4a70538ac7ef37cc2b6fce84da74f0b9976831",
-            "_timestamp": "2012-08-13 14:25:17-05:00",
-            "_commit_index": 821,
-            "_changed_files_list": []
+            "_sha_id": "63411def21621e64164439082fcf4564777fc45a",
+            "_timestamp": "2012-07-12 13:58:27-05:00",
+            "_commit_index": 718,
+            "_changed_files_list": [
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/syndiag/SyntaxDiagramTopComponent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/GrammarParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/ActionExpressionAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/LabelAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/TemplateParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2c4a70538ac7ef37cc2b6fce84da74f0b9976831",
-            "_timestamp": "2012-08-13 14:25:17-05:00",
-            "_commit_index": 821,
-            "_changed_files_list": []
+            "_sha_id": "fa85818891ed6a6bb164a0775b71af5b268df173",
+            "_timestamp": "2012-07-30 19:37:56-05:00",
+            "_commit_index": 769,
+            "_changed_files_list": [
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/syndiag/SyntaxDiagramTopComponent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/GrammarParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/ActionExpressionAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/LabelAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/TemplateParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/semantics/SemanticAnalyzerListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 125,
+                    "_exit_cnt": 130,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/navigation/GoDeclarationsScanner.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/highlighter/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/highlighter/SemanticHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/fold/DeclarationFoldScanner.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/completion/GoCompletionQuery.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 29,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/parser/GoParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/parser/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 33,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2c4a70538ac7ef37cc2b6fce84da74f0b9976831",
-            "_timestamp": "2012-08-13 14:25:17-05:00",
-            "_commit_index": 821,
-            "_changed_files_list": []
+            "_sha_id": "081d8a33ad82bb1eb6e4404c13a627e541182b28",
+            "_timestamp": "2012-07-20 18:53:23-05:00",
+            "_commit_index": 743,
+            "_changed_files_list": [
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/syndiag/SyntaxDiagramTopComponent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/GrammarParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/ActionExpressionAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/LabelAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/TemplateParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2c4a70538ac7ef37cc2b6fce84da74f0b9976831",
-            "_timestamp": "2012-08-13 14:25:17-05:00",
-            "_commit_index": 821,
-            "_changed_files_list": []
+            "_sha_id": "4e8391d8206debed2446418290b9a33aebcd97a9",
+            "_timestamp": "2012-07-26 12:54:36-05:00",
+            "_commit_index": 756,
+            "_changed_files_list": [
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/syndiag/SyntaxDiagramTopComponent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/GrammarParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/ActionExpressionAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/LabelAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/TemplateParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/semantics/SemanticAnalyzerListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 125,
+                    "_exit_cnt": 130,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/navigation/GoDeclarationsScanner.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/highlighter/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/highlighter/SemanticHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/fold/DeclarationFoldScanner.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/completion/GoCompletionQuery.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 29,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/parser/GoParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/parser/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 33,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2c4a70538ac7ef37cc2b6fce84da74f0b9976831",
-            "_timestamp": "2012-08-13 14:25:17-05:00",
-            "_commit_index": 821,
-            "_changed_files_list": []
+            "_sha_id": "db62b33df70fc2a8e172139c6e795401615c165d",
+            "_timestamp": "2012-07-26 12:53:07-05:00",
+            "_commit_index": 749,
+            "_changed_files_list": [
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/syndiag/SyntaxDiagramTopComponent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/GrammarParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/ActionExpressionAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/LabelAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/TemplateParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/semantics/SemanticAnalyzerListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 125,
+                    "_exit_cnt": 130,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/navigation/GoDeclarationsScanner.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/highlighter/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/highlighter/SemanticHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/fold/DeclarationFoldScanner.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/completion/GoCompletionQuery.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 29,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/parser/GoParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "goworks.editor/src/org/tvl/goworks/editor/go/parser/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 33,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "fe04f7c0ba2787c52183cded9dae1a2245af3d14",

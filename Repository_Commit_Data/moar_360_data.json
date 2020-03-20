@@ -13,48 +13,72 @@
             "_sha_id": "495c4c61485de2ea0d4274b48ff34fae6f0cb26b",
             "_timestamp": "2016-08-17 11:32:10+02:00",
             "_commit_index": 80,
+            "_changed_files_list": [
+                {
+                    "_file_name": "engine/src/main/java/com/github/s4ke/moar/regex/parser/RegexTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 18,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "d2aca9f3945323af3a617c7a52cc34702cbdf32c",
+            "_timestamp": "2016-07-17 11:08:15+02:00",
+            "_commit_index": 40,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "495c4c61485de2ea0d4274b48ff34fae6f0cb26b",
-            "_timestamp": "2016-08-17 11:32:10+02:00",
-            "_commit_index": 80,
+            "_sha_id": "950eecde055e556246285bd3506a0d7270ebb7e8",
+            "_timestamp": "2016-07-19 16:10:10+02:00",
+            "_commit_index": 60,
+            "_changed_files_list": [
+                {
+                    "_file_name": "engine/src/main/java/com/github/s4ke/moar/regex/parser/RegexTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 18,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "e436407560b7bb01a961e3455637f7d1a053910c",
+            "_timestamp": "2016-07-17 23:54:41+02:00",
+            "_commit_index": 50,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "495c4c61485de2ea0d4274b48ff34fae6f0cb26b",
-            "_timestamp": "2016-08-17 11:32:10+02:00",
-            "_commit_index": 80,
+            "_sha_id": "48aa95236135ee3fd6a4a1abeee96c5e0cffcabb",
+            "_timestamp": "2016-07-18 13:36:34+02:00",
+            "_commit_index": 55,
+            "_changed_files_list": [
+                {
+                    "_file_name": "engine/src/main/java/com/github/s4ke/moar/regex/parser/RegexTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 18,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "03b7a0662c697b29be1727cc35bab29771887226",
+            "_timestamp": "2016-07-18 00:00:45+02:00",
+            "_commit_index": 52,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "495c4c61485de2ea0d4274b48ff34fae6f0cb26b",
-            "_timestamp": "2016-08-17 11:32:10+02:00",
-            "_commit_index": 80,
+            "_sha_id": "85c511e83cc027d74e6e14652bf8d51824e2d19e",
+            "_timestamp": "2016-07-18 13:00:43+02:00",
+            "_commit_index": 53,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "495c4c61485de2ea0d4274b48ff34fae6f0cb26b",
-            "_timestamp": "2016-08-17 11:32:10+02:00",
-            "_commit_index": 80,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "495c4c61485de2ea0d4274b48ff34fae6f0cb26b",
-            "_timestamp": "2016-08-17 11:32:10+02:00",
-            "_commit_index": 80,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "495c4c61485de2ea0d4274b48ff34fae6f0cb26b",
-            "_timestamp": "2016-08-17 11:32:10+02:00",
-            "_commit_index": 80,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "495c4c61485de2ea0d4274b48ff34fae6f0cb26b",
-            "_timestamp": "2016-08-17 11:32:10+02:00",
-            "_commit_index": 80,
+            "_sha_id": "94b2e1beff059348a130d63eefc0c9fd311123e0",
+            "_timestamp": "2016-07-18 13:22:56+02:00",
+            "_commit_index": 54,
             "_changed_files_list": []
         },
         {

@@ -16,45 +16,61 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9c19802e3aa7452511d6c7136c18ec7bc6af1542",
-            "_timestamp": "2016-10-09 04:37:36+02:00",
-            "_commit_index": 605,
+            "_sha_id": "d099426831344f7be7e479cedb5a290ad7641bf0",
+            "_timestamp": "2017-06-22 12:18:41+02:00",
+            "_commit_index": 908,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9c19802e3aa7452511d6c7136c18ec7bc6af1542",
-            "_timestamp": "2016-10-09 04:37:36+02:00",
-            "_commit_index": 605,
+            "_sha_id": "56a23c971d00664d706f1c4793625464d6861460",
+            "_timestamp": "2018-10-16 15:46:45-04:00",
+            "_commit_index": 1059,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9c19802e3aa7452511d6c7136c18ec7bc6af1542",
-            "_timestamp": "2016-10-09 04:37:36+02:00",
-            "_commit_index": 605,
+            "_sha_id": "0a8612b6ff3d3931f41107380a596740768bbd52",
+            "_timestamp": "2019-05-22 11:10:54-04:00",
+            "_commit_index": 1135,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9c19802e3aa7452511d6c7136c18ec7bc6af1542",
-            "_timestamp": "2016-10-09 04:37:36+02:00",
-            "_commit_index": 605,
+            "_sha_id": "f0de1d3cb70259eeefb6f254920b8e3021d13dc1",
+            "_timestamp": "2019-09-09 10:00:25-04:00",
+            "_commit_index": 1173,
+            "_changed_files_list": [
+                {
+                    "_file_name": "heroic-core/src/main/java/com/spotify/heroic/grammar/QueryListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 43,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "7f7f66601b8f6151d6bfbdc4863ae6d22b9e1a43",
+            "_timestamp": "2019-07-11 09:11:02-04:00",
+            "_commit_index": 1154,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9c19802e3aa7452511d6c7136c18ec7bc6af1542",
-            "_timestamp": "2016-10-09 04:37:36+02:00",
-            "_commit_index": 605,
-            "_changed_files_list": []
+            "_sha_id": "b510b4a6b8195fc6904d72a168abc8f550cfcabd",
+            "_timestamp": "2019-08-09 09:14:07-04:00",
+            "_commit_index": 1163,
+            "_changed_files_list": [
+                {
+                    "_file_name": "heroic-core/src/main/java/com/spotify/heroic/grammar/QueryListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 43,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "9c19802e3aa7452511d6c7136c18ec7bc6af1542",
-            "_timestamp": "2016-10-09 04:37:36+02:00",
-            "_commit_index": 605,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "9c19802e3aa7452511d6c7136c18ec7bc6af1542",
-            "_timestamp": "2016-10-09 04:37:36+02:00",
-            "_commit_index": 605,
+            "_sha_id": "486ac1ea9a8b10b59b7b474b9e13b19f41d74cfb",
+            "_timestamp": "2019-07-18 16:45:32-04:00",
+            "_commit_index": 1158,
             "_changed_files_list": []
         },
         {

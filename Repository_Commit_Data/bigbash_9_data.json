@@ -9,10 +9,10 @@
             "_commit_index": 1,
             "_changed_files_list": [
                 {
-                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlCreateStmtListener.java",
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlSelectListener.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 1,
-                    "_exit_cnt": 3,
+                    "_exit_cnt": 0,
                     "_visit_cnt": 0
                 },
                 {
@@ -23,61 +23,237 @@
                     "_visit_cnt": 0
                 },
                 {
-                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlSelectListener.java",
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlCreateStmtListener.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 1,
-                    "_exit_cnt": 0,
+                    "_exit_cnt": 3,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "b9d324ece7f6cf26472685d448f49c4cdd054fac",
-            "_timestamp": "2016-07-04 22:31:52+02:00",
-            "_commit_index": 11,
-            "_changed_files_list": []
-        },
-        {
             "_sha_id": "f187fa470f67e93cc23028cafd1f234838575206",
             "_timestamp": "2016-05-24 23:32:22+02:00",
             "_commit_index": 7,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlSelectListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlGeneralStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlCreateStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "7bf2f960883cce1938c8f0d49580193f17335286",
-            "_timestamp": "2016-05-28 11:21:11+02:00",
-            "_commit_index": 8,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d21eed0ad15d3e6a6516a059829a479a324c0d44",
-            "_timestamp": "2016-02-19 17:17:08+01:00",
-            "_commit_index": 6,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "cb3d9c59c57649972b03d7b938a0173aedd64b60",
-            "_timestamp": "2016-02-11 19:13:10+01:00",
-            "_commit_index": 1,
-            "_changed_files_list": []
+            "_sha_id": "ea80d17db2ea8beb51015ec7325ea8f49afb4765",
+            "_timestamp": "2016-07-03 22:37:32+02:00",
+            "_commit_index": 10,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlSelectListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlGeneralStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlCreateStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "ae29154eb0845e9c8d4c624f0eba21a480beeb86",
             "_timestamp": "2016-02-12 19:24:54+01:00",
             "_commit_index": 3,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlSelectListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlGeneralStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlCreateStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "efb784417fcb67f6bc9e46089eff077d9a75ff3d",
-            "_timestamp": "2016-02-17 18:14:14+01:00",
-            "_commit_index": 5,
-            "_changed_files_list": []
+            "_sha_id": "8d71a94f6c3e858f74b03c692942c23f318a396a",
+            "_timestamp": "2016-06-07 08:18:07+02:00",
+            "_commit_index": 9,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlSelectListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlGeneralStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlCreateStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "7d798cc51d0782fd571a9a91c82904125e0c45fe",
             "_timestamp": "2016-02-12 19:28:44+01:00",
             "_commit_index": 4,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlSelectListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlGeneralStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlCreateStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "d21eed0ad15d3e6a6516a059829a479a324c0d44",
+            "_timestamp": "2016-02-19 17:17:08+01:00",
+            "_commit_index": 6,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlSelectListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlGeneralStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlCreateStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "cb3d9c59c57649972b03d7b938a0173aedd64b60",
+            "_timestamp": "2016-02-11 19:13:10+01:00",
+            "_commit_index": 1,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlSelectListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlGeneralStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlCreateStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "4be15df71386d37dce4861d30ef35cdf9c1369c0",
+            "_timestamp": "2016-02-12 11:17:45+01:00",
+            "_commit_index": 2,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlSelectListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlGeneralStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/de/zalando/bigbash/parser/BashSqlCreateStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "51290b1912dd5c0ff34e9da1093dcd9028692054",

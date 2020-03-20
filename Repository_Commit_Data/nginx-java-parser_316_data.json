@@ -13,36 +13,20 @@
             "_sha_id": "78032e663ca78952b7d624f0c73c27725357f403",
             "_timestamp": "2014-09-16 01:36:48+11:00",
             "_commit_index": 22,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/odiszapc/nginxparser/antlr/NginxListenerImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2405f89021bffac3de1e40cbb98cbb21e4703da0",
-            "_timestamp": "2015-05-14 18:16:10+10:00",
-            "_commit_index": 33,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "3b48e2020876bf7d278c67facfdf7d18e795b36e",
-            "_timestamp": "2016-04-10 18:59:37+10:00",
-            "_commit_index": 38,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0907742036e472a8c8c598379c064c8bec689b90",
-            "_timestamp": "2016-04-10 23:53:11+10:00",
-            "_commit_index": 41,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "5361e73afdd825efaef71e0e49a19beae7691ee7",
-            "_timestamp": "2016-04-10 23:56:01+10:00",
-            "_commit_index": 42,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "fbc5edf28d4b620148058ba908141e1b274adef6",
-            "_timestamp": "2016-04-11 00:05:32+10:00",
-            "_commit_index": 43,
+            "_sha_id": "636f7cffa44291fca0d2b7aa950c8ecb209429a9",
+            "_timestamp": "2014-09-07 13:31:31+11:00",
+            "_commit_index": 11,
             "_changed_files_list": []
         },
         {
@@ -52,9 +36,65 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "c0a78b0cad78a19be15005422128961155b4939b",
-            "_timestamp": "2014-09-06 21:09:05+11:00",
-            "_commit_index": 5,
+            "_sha_id": "ad346ae2d2f2267f680ea5dc657b5640ccfa27c5",
+            "_timestamp": "2014-09-16 01:20:26+11:00",
+            "_commit_index": 19,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/odiszapc/nginxparser/antlr/NginxListenerImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "30a36615c36ee033717d834f581f25e0f164eccf",
+            "_timestamp": "2014-09-15 23:32:17+11:00",
+            "_commit_index": 17,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/odiszapc/nginxparser/antlr/NginxListenerImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "4cbe184762c6a3da76ae2c2cec3bd6c751d868f5",
+            "_timestamp": "2014-10-08 10:04:06+11:00",
+            "_commit_index": 31,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/odiszapc/nginxparser/antlr/NginxListenerImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "86715c890b8a7c60320320fef530f9e8c70debab",
+            "_timestamp": "2014-10-08 10:03:52+11:00",
+            "_commit_index": 30,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/odiszapc/nginxparser/antlr/NginxListenerImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "f25ad055cd9fc52bba06650368c62513210f46db",
+            "_timestamp": "2014-09-07 13:10:00+11:00",
+            "_commit_index": 9,
             "_changed_files_list": []
         },
         {

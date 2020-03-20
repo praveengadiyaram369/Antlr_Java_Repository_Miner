@@ -16,46 +16,101 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
-            "_timestamp": "2012-09-26 13:36:16+09:00",
-            "_commit_index": 595,
+            "_sha_id": "3f45f0cdde6c15a820a19f5b5c5a52f7f0322ed8",
+            "_timestamp": "2013-10-16 18:28:01+09:00",
+            "_commit_index": 893,
+            "_changed_files_list": [
+                {
+                    "_file_name": "tajo-core/tajo-core-backend/src/main/java/org/apache/tajo/engine/parser/SQLAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 52
+                }
+            ]
+        },
+        {
+            "_sha_id": "a8646fbf58f99f149b68089a439de850299d26fd",
+            "_timestamp": "2013-12-31 02:02:26+09:00",
+            "_commit_index": 1042,
+            "_changed_files_list": [
+                {
+                    "_file_name": "tajo-core/tajo-core-backend/src/main/java/org/apache/tajo/engine/parser/SQLAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 61
+                }
+            ]
+        },
+        {
+            "_sha_id": "0c0111cdf4b0b3cceb4b58f2c59a8632bb6da7b2",
+            "_timestamp": "2014-02-04 02:10:51+09:00",
+            "_commit_index": 1116,
+            "_changed_files_list": [
+                {
+                    "_file_name": "tajo-core/tajo-core-backend/src/main/java/org/apache/tajo/engine/parser/SQLAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 64
+                }
+            ]
+        },
+        {
+            "_sha_id": "8a6f88a9ce4af0dd1bca56e1f5209fa686fefbb7",
+            "_timestamp": "2013-03-26 20:33:43-07:00",
+            "_commit_index": 744,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
-            "_timestamp": "2012-09-26 13:36:16+09:00",
-            "_commit_index": 595,
-            "_changed_files_list": []
+            "_sha_id": "0f3965a0005fb6f041d487b5ce75f3ef6dc2d8e3",
+            "_timestamp": "2013-09-02 18:13:23+09:00",
+            "_commit_index": 818,
+            "_changed_files_list": [
+                {
+                    "_file_name": "tajo-core/tajo-core-backend/src/main/java/org/apache/tajo/engine/parser/SQLAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 37
+                }
+            ]
         },
         {
-            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
-            "_timestamp": "2012-09-26 13:36:16+09:00",
-            "_commit_index": 595,
-            "_changed_files_list": []
+            "_sha_id": "56fbd99acf9bcf467f9e5e62342401e47bfd6779",
+            "_timestamp": "2014-02-25 16:50:24+09:00",
+            "_commit_index": 1153,
+            "_changed_files_list": [
+                {
+                    "_file_name": "tajo-core/tajo-core-backend/src/main/java/org/apache/tajo/engine/parser/SQLAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 65
+                },
+                {
+                    "_file_name": "tajo-core/tajo-core-backend/src/main/java/org/apache/tajo/engine/parser/HiveQLAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 49
+                }
+            ]
         },
         {
-            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
-            "_timestamp": "2012-09-26 13:36:16+09:00",
-            "_commit_index": 595,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
-            "_timestamp": "2012-09-26 13:36:16+09:00",
-            "_commit_index": 595,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
-            "_timestamp": "2012-09-26 13:36:16+09:00",
-            "_commit_index": 595,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6b7f3f7fcd97c5da25d00feb476dd6527963ef88",
-            "_timestamp": "2012-09-26 13:36:16+09:00",
-            "_commit_index": 595,
-            "_changed_files_list": []
+            "_sha_id": "3f6e071efdd4917687b1d4468d372ad42c125c1d",
+            "_timestamp": "2014-02-20 00:08:59+09:00",
+            "_commit_index": 1134,
+            "_changed_files_list": [
+                {
+                    "_file_name": "tajo-core/tajo-core-backend/src/main/java/org/apache/tajo/engine/parser/SQLAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 65
+                }
+            ]
         },
         {
             "_sha_id": "7283c586af5d0df675373b25d19c5eabb527e303",

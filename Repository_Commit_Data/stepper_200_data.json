@@ -13,15 +13,37 @@
             "_sha_id": "5f2d1e02c3e8813e53bcd237a14e18e831c8f32f",
             "_timestamp": "2019-03-23 17:56:29-04:00",
             "_commit_index": 47,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "1078d0c5f04e5a58d0c0b20ee35cc82476473fba",
-            "_timestamp": "2019-05-07 21:13:44-04:00",
-            "_commit_index": 70,
             "_changed_files_list": [
                 {
-                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/AbstractVisitor.java",
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/RetryVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/JsonObjectVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/DereferenceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/DereferencingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/test/java/com/eclecticlogic/stepper/antlr/AbstractGrammarTester.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
@@ -30,40 +52,164 @@
             ]
         },
         {
-            "_sha_id": "92f40df1e1c46dea945a020390d2a5f8239d7b4b",
-            "_timestamp": "2019-05-31 17:27:38-04:00",
-            "_commit_index": 82,
-            "_changed_files_list": []
+            "_sha_id": "9304e1de969520d4c50591abe1fb15dae41272a1",
+            "_timestamp": "2019-02-09 10:55:14-05:00",
+            "_commit_index": 23,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/JsonObjectVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/DereferenceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/DereferencingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
-            "_sha_id": "078afadca859fb71a65855fc293193b617709724",
-            "_timestamp": "2019-06-01 07:19:09-04:00",
-            "_commit_index": 88,
-            "_changed_files_list": []
+            "_sha_id": "db36d88e532cc48b66a2d01038609d81ab61d4d5",
+            "_timestamp": "2019-02-04 21:40:45-05:00",
+            "_commit_index": 11,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/JsonObjectVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/DereferenceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/DereferencingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
-            "_sha_id": "c055f9c28064ceb337d54125b42dfe06a8e01863",
-            "_timestamp": "2019-07-20 14:57:15-04:00",
-            "_commit_index": 91,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b4dcc644d371e9c992eb5dce84fd66e9179e0864",
-            "_timestamp": "2019-07-20 14:58:27-04:00",
-            "_commit_index": 92,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c08bf8c73411ea4abcac5f06e1cf3ab631b7e10c",
-            "_timestamp": "2019-07-27 08:37:17-04:00",
-            "_commit_index": 93,
+            "_sha_id": "fdfe775f0a14635142490d73011950f17b5436ff",
+            "_timestamp": "2019-01-26 20:29:25-05:00",
+            "_commit_index": 5,
             "_changed_files_list": []
         },
         {
             "_sha_id": "60225ed4f0fdd3b6e4239903985d733b4d5fcb61",
             "_timestamp": "2019-02-02 10:31:53-05:00",
             "_commit_index": 8,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/DereferenceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/DereferencingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "79418db95f08e06e60c943a0fbe75d207975b6ed",
+            "_timestamp": "2019-02-02 14:06:47-05:00",
+            "_commit_index": 9,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/DereferenceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/DereferencingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "5b40d8babf91bcfc920b31e8178f29b3cc07e754",
+            "_timestamp": "2019-02-03 17:49:18-05:00",
+            "_commit_index": 10,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/DereferenceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/DereferencingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "20f4db2e84edf38f3390249378816b3070476aee",
+            "_timestamp": "2019-03-23 10:26:19-04:00",
+            "_commit_index": 42,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/JsonObjectVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/DereferenceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/eclecticlogic/stepper/visitor/DereferencingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/test/java/com/eclecticlogic/stepper/antlr/AbstractGrammarTester.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "215cb3cc5e5c1df1804ec0f5d7fd42a81df52654",

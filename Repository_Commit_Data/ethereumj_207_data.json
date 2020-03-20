@@ -13,48 +13,88 @@
             "_sha_id": "eb63e08bbb9c502fef360ba0fbfad816d5012ea1",
             "_timestamp": "2014-07-02 13:13:20+02:00",
             "_commit_index": 431,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ethereumj-core/src/main/java/org/ethereum/serpent/SerpentToAssemblyCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 46
+                }
+            ]
+        },
+        {
+            "_sha_id": "57234f2591a9f5693af4a4b3c0a71de96c00e962",
+            "_timestamp": "2014-06-03 08:49:35+03:00",
+            "_commit_index": 215,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ethereumj-core/src/main/java/org/ethereum/serpent/SerpentToAssemblyCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 44
+                }
+            ]
+        },
+        {
+            "_sha_id": "3b408af654ba01aab130936cab63e3fa97edcf5a",
+            "_timestamp": "2014-05-21 20:06:37+02:00",
+            "_commit_index": 107,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ethereumj-core/src/main/java/org/ethereum/serpent/SerpentToAssemblyCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 30
+                }
+            ]
+        },
+        {
+            "_sha_id": "b1a965c549a75d5943f679ac0088bf2385e5bd91",
+            "_timestamp": "2014-05-14 17:14:17+03:00",
+            "_commit_index": 53,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ethereumj-core/src/main/java/org/ethereum/serpent/SerpentToAssemblyCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 30
+                }
+            ]
+        },
+        {
+            "_sha_id": "1f3455f5c6755ac17a72a8c4d8b38da46af1b39a",
+            "_timestamp": "2014-05-05 03:00:49+02:00",
+            "_commit_index": 26,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "7f3c44e51480dc1fa9900b5d08cc56d06951c806",
-            "_timestamp": "2014-09-04 20:30:34+03:00",
-            "_commit_index": 647,
+            "_sha_id": "1bb6557a267449a721833d0e1d8ba353e079f50a",
+            "_timestamp": "2014-05-13 19:23:54+03:00",
+            "_commit_index": 39,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "ac982a6767914a6826b181f3a8a5adb622550c58",
-            "_timestamp": "2014-10-02 00:23:12+02:00",
-            "_commit_index": 755,
-            "_changed_files_list": []
+            "_sha_id": "ea0a0bc754ff8e40e752f1e3d66f39ea22c1b3be",
+            "_timestamp": "2014-05-13 22:00:08+03:00",
+            "_commit_index": 46,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ethereumj-core/src/main/java/org/ethereum/serpent/SerpentToAssemblyCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 30
+                }
+            ]
         },
         {
-            "_sha_id": "d87b3f10bcc2e6466ce42d3bd090ec9b44c50bf6",
-            "_timestamp": "2014-10-13 17:46:16+02:00",
-            "_commit_index": 809,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "7768107386c9ec5068cf6c8e70f426b9f8276989",
-            "_timestamp": "2014-10-23 21:00:39-05:00",
-            "_commit_index": 836,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "5364edf9a36bf273e8833e1c186b3d47cdef5b58",
-            "_timestamp": "2014-10-25 09:57:41-05:00",
-            "_commit_index": 849,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "9d9c84f862a5d72ce5f8e94a041daa16fb937fbd",
-            "_timestamp": "2014-10-31 10:18:40-05:00",
-            "_commit_index": 856,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d3ae5c94195fe4acc2133bc74d94a8f356c08f93",
-            "_timestamp": "2014-11-01 21:49:53-05:00",
-            "_commit_index": 859,
+            "_sha_id": "808105dce2926f65263ee1e6950cf7acd11a625d",
+            "_timestamp": "2014-05-13 11:36:57+02:00",
+            "_commit_index": 42,
             "_changed_files_list": []
         },
         {

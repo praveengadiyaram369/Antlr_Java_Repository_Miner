@@ -19,43 +19,67 @@
             "_sha_id": "fedaa4d64dee5b2865c6d209960c24a9a0c8888a",
             "_timestamp": "2019-12-07 15:28:21+08:00",
             "_commit_index": 157,
+            "_changed_files_list": [
+                {
+                    "_file_name": "parser/src/main/java/com/distkv/dst/parser/DstNewSqlListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 24,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "b051c38e7e9effaf668b316ed55b30a93f881ab8",
+            "_timestamp": "2019-11-12 00:32:10+08:00",
+            "_commit_index": 131,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e0d2c88dc8687d98d8b5e485fb16250a81ecd31c",
-            "_timestamp": "2019-12-17 10:12:59+08:00",
-            "_commit_index": 183,
+            "_sha_id": "d56bf494ddfc6297543abdf6470802a1f13e4b04",
+            "_timestamp": "2019-11-30 11:17:56+08:00",
+            "_commit_index": 144,
+            "_changed_files_list": [
+                {
+                    "_file_name": "parser/src/main/java/com/distkv/dst/parser/DstNewSqlListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 22,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "abee6b8d1145b26cedc041a458a7c8e70b885247",
+            "_timestamp": "2019-11-16 15:04:43+08:00",
+            "_commit_index": 137,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "2a1e1347a77b4a50723b4ffe80fd98dd72493f8a",
-            "_timestamp": "2019-12-21 16:39:35+08:00",
-            "_commit_index": 196,
+            "_sha_id": "f85a8679e92df008abd4f09c86b906f1fd44c79d",
+            "_timestamp": "2019-11-19 20:27:31+08:00",
+            "_commit_index": 140,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "d6b244927d06611dd22584e903ccbf35a397720d",
-            "_timestamp": "2019-12-25 00:11:41+08:00",
-            "_commit_index": 203,
+            "_sha_id": "821661510eba2aab5c8733e9f8435a91a4e732b4",
+            "_timestamp": "2019-11-23 16:49:32+08:00",
+            "_commit_index": 142,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6b83bee4a0e04298b7b77fb565ede33397d08742",
-            "_timestamp": "2019-12-29 14:58:13+08:00",
-            "_commit_index": 206,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "327eaae1e72cab8a435c04083b388738d12d39ac",
-            "_timestamp": "2019-12-31 21:51:09+08:00",
-            "_commit_index": 208,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "bbce6db0380aa5560cd89f1d89e3a9f6f0809b19",
-            "_timestamp": "2020-01-03 15:00:22+08:00",
-            "_commit_index": 209,
-            "_changed_files_list": []
+            "_sha_id": "d4b046467cd49dbaec113a8a34dccad64242ab7c",
+            "_timestamp": "2019-11-29 15:32:40+08:00",
+            "_commit_index": 143,
+            "_changed_files_list": [
+                {
+                    "_file_name": "parser/src/main/java/com/distkv/dst/parser/DstNewSqlListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 22,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "24d3b6774bc70ee2fbd63c4b7c119b8c06331638",

@@ -16,46 +16,86 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8f319cb47d2dbb92c38f7fa2215a85f3e211eb4b",
-            "_timestamp": "2013-12-02 08:59:26+01:00",
-            "_commit_index": 811,
+            "_sha_id": "3a35ee41f09806f4d1dcdc9f1f76707536813393",
+            "_timestamp": "2014-02-05 12:32:48+01:00",
+            "_commit_index": 1217,
+            "_changed_files_list": [
+                {
+                    "_file_name": "resource-server/src/main/java/org/osiam/storage/query/EvalVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                }
+            ]
+        },
+        {
+            "_sha_id": "a6688301a2e943826d257c1654ae633318c70205",
+            "_timestamp": "2013-12-12 18:12:29+01:00",
+            "_commit_index": 1014,
+            "_changed_files_list": [
+                {
+                    "_file_name": "resource-server/src/main/java/org/osiam/storage/query/EvalVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                }
+            ]
+        },
+        {
+            "_sha_id": "04d490f4ab8e9605d1b1b9fa0c9c1cb7278dc11e",
+            "_timestamp": "2013-12-12 15:46:30+01:00",
+            "_commit_index": 912,
+            "_changed_files_list": [
+                {
+                    "_file_name": "resource-server/src/main/java/org/osiam/storage/query/EvalVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                }
+            ]
+        },
+        {
+            "_sha_id": "acf1bc91877240fae5bb55d5d36564f9dcac2418",
+            "_timestamp": "2013-12-13 14:59:56+01:00",
+            "_commit_index": 861,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8f319cb47d2dbb92c38f7fa2215a85f3e211eb4b",
-            "_timestamp": "2013-12-02 08:59:26+01:00",
-            "_commit_index": 811,
+            "_sha_id": "0c462daf692795c91858f6680cf14205aa0942c6",
+            "_timestamp": "2013-12-18 15:43:32+01:00",
+            "_commit_index": 886,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8f319cb47d2dbb92c38f7fa2215a85f3e211eb4b",
-            "_timestamp": "2013-12-02 08:59:26+01:00",
-            "_commit_index": 811,
-            "_changed_files_list": []
+            "_sha_id": "742561c11f1f5b56992fad8ba2cb564091fd1354",
+            "_timestamp": "2013-12-12 13:23:53+01:00",
+            "_commit_index": 899,
+            "_changed_files_list": [
+                {
+                    "_file_name": "resource-server/src/main/java/org/osiam/storage/query/EvalVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                }
+            ]
         },
         {
-            "_sha_id": "8f319cb47d2dbb92c38f7fa2215a85f3e211eb4b",
-            "_timestamp": "2013-12-02 08:59:26+01:00",
-            "_commit_index": 811,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8f319cb47d2dbb92c38f7fa2215a85f3e211eb4b",
-            "_timestamp": "2013-12-02 08:59:26+01:00",
-            "_commit_index": 811,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8f319cb47d2dbb92c38f7fa2215a85f3e211eb4b",
-            "_timestamp": "2013-12-02 08:59:26+01:00",
-            "_commit_index": 811,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8f319cb47d2dbb92c38f7fa2215a85f3e211eb4b",
-            "_timestamp": "2013-12-02 08:59:26+01:00",
-            "_commit_index": 811,
-            "_changed_files_list": []
+            "_sha_id": "eb97a8b79e1ff7b11f8629e2de31fc97cf076f2a",
+            "_timestamp": "2013-12-11 16:24:08+01:00",
+            "_commit_index": 892,
+            "_changed_files_list": [
+                {
+                    "_file_name": "resource-server/src/main/java/org/osiam/storage/query/EvalVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                }
+            ]
         },
         {
             "_sha_id": "de573a78dce96599ba92444a6103aa9f271dcb6c",

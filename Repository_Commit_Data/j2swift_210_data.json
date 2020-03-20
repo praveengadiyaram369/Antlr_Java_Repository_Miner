@@ -13,7 +13,15 @@
             "_sha_id": "ca7c6db0c45df5bb8a67c6bc5ea1ea07c44e3848",
             "_timestamp": "2015-08-15 00:22:05-04:00",
             "_commit_index": 28,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/com/j2swift/J2SwiftListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 17,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "319912be37306751e5563db24c9706627b4d9f6d",
@@ -30,24 +38,18 @@
             ]
         },
         {
-            "_sha_id": "2700a573a7600ec9ba7ab01201e2ad4605a97c5f",
-            "_timestamp": "2015-08-17 01:39:00-04:00",
-            "_commit_index": 35,
+            "_sha_id": "332256fa2d51eaf1c07fd6c96a1dc949bb027cee",
+            "_timestamp": "2015-08-18 13:12:30-04:00",
+            "_commit_index": 49,
             "_changed_files_list": [
                 {
                     "_file_name": "src/com/j2swift/J2SwiftListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 38,
-                    "_exit_cnt": 21,
+                    "_enter_cnt": 49,
+                    "_exit_cnt": 25,
                     "_visit_cnt": 0
                 }
             ]
-        },
-        {
-            "_sha_id": "332256fa2d51eaf1c07fd6c96a1dc949bb027cee",
-            "_timestamp": "2015-08-18 13:12:30-04:00",
-            "_commit_index": 49,
-            "_changed_files_list": []
         },
         {
             "_sha_id": "4c30e8bf45ff43f569b5758cc6cd42625589ecbe",
@@ -67,7 +69,15 @@
             "_sha_id": "c6950e7e835d23170e556edfef19b8e6ff147d64",
             "_timestamp": "2015-08-20 23:17:26-04:00",
             "_commit_index": 51,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/com/j2swift/J2SwiftListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 55,
+                    "_exit_cnt": 27,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "2f189875a6d2a1848c8ae214ec09908c16768735",
@@ -84,10 +94,32 @@
             ]
         },
         {
+            "_sha_id": "2700a573a7600ec9ba7ab01201e2ad4605a97c5f",
+            "_timestamp": "2015-08-17 01:39:00-04:00",
+            "_commit_index": 35,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/com/j2swift/J2SwiftListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 38,
+                    "_exit_cnt": 21,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
             "_sha_id": "930d01d0cfe0256f5ef4382b991de72182246635",
             "_timestamp": "2015-08-17 01:48:20-04:00",
             "_commit_index": 36,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/com/j2swift/J2SwiftListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 38,
+                    "_exit_cnt": 21,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "4729790ac7ad08f21b1469639e2da0266c0d8186",

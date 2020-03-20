@@ -37,24 +37,32 @@
             "_sha_id": "f3d6b69a6e7a86f51e74f84c99c84aab58ed663a",
             "_timestamp": "2019-06-27 20:49:20+03:00",
             "_commit_index": 3616,
+            "_changed_files_list": [
+                {
+                    "_file_name": "exec/vector/src/main/java/org/apache/drill/exec/record/metadata/schema/parser/SchemaVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 28
+                }
+            ]
+        },
+        {
+            "_sha_id": "bf0712755884db1627e8dba3df4fec6b53b70d80",
+            "_timestamp": "2019-04-10 12:33:02-07:00",
+            "_commit_index": 3557,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "a13608b8d1f8110d7bd944c10259b2252dfbf18b",
-            "_timestamp": "2019-10-10 15:43:33+03:00",
-            "_commit_index": 3674,
+            "_sha_id": "4a0d2d01a702f20df9204da39f55f3da4d6a7143",
+            "_timestamp": "2019-04-18 14:50:38-07:00",
+            "_commit_index": 3586,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "a456da51a57cbc05155327c761c771da9f5dfa6d",
-            "_timestamp": "2019-11-22 17:28:24-08:00",
-            "_commit_index": 3703,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0acc6526e021509f817cc4b00ae1923b8583c29b",
-            "_timestamp": "2019-12-06 23:26:19+02:00",
-            "_commit_index": 3718,
+            "_sha_id": "2615d68de4e44b1f03f5c047018548c06a7396b4",
+            "_timestamp": "2019-05-06 09:01:29+03:00",
+            "_commit_index": 3601,
             "_changed_files_list": []
         },
         {

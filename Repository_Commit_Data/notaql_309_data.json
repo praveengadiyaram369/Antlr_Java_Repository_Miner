@@ -9,18 +9,18 @@
             "_commit_index": 1,
             "_changed_files_list": [
                 {
-                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVInputPathVisitor.java",
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBOutputPathStepVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 5
+                    "_visit_cnt": 3
                 },
                 {
-                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVOutputPathVisitor.java",
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBInputPathStepVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 2
+                    "_visit_cnt": 17
                 },
                 {
                     "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseInputPathVisitor.java",
@@ -37,25 +37,11 @@
                     "_visit_cnt": 4
                 },
                 {
-                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBInputPathStepVisitor.java",
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisOutputPathVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 17
-                },
-                {
-                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBOutputPathStepVisitor.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 3
-                },
-                {
-                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathStepVisitor.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 9
+                    "_visit_cnt": 4
                 },
                 {
                     "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathVisitor.java",
@@ -65,14 +51,42 @@
                     "_visit_cnt": 4
                 },
                 {
-                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisOutputPathVisitor.java",
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathStepVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 4
+                    "_visit_cnt": 9
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
                 },
                 {
                     "_file_name": "src/main/java/notaql/parser/AtomValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/VDataVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/OutputPathVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
@@ -86,7 +100,119 @@
                     "_visit_cnt": 2
                 },
                 {
+                    "_file_name": "src/main/java/notaql/parser/PredicateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
+        },
+        {
+            "_sha_id": "16859443f676b56add5a546362f1ccf1dc367dba",
+            "_timestamp": "2015-06-04 12:47:07+02:00",
+            "_commit_index": 12,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/json/path/JSONInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/json/path/JSONOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/AtomValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/VDataVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                },
+                {
                     "_file_name": "src/main/java/notaql/parser/OutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/InputPathVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
@@ -98,6 +224,83 @@
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 7
+                }
+            ]
+        },
+        {
+            "_sha_id": "a0cd8d59621641f9cc447f9fcb4a50b016fbe0fb",
+            "_timestamp": "2015-05-19 21:08:17+02:00",
+            "_commit_index": 6,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/AtomValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
                 },
                 {
                     "_file_name": "src/main/java/notaql/parser/VDataVisitor.java",
@@ -105,64 +308,743 @@
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 11
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/OutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/InputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/PredicateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
                 }
             ]
         },
         {
-            "_sha_id": "16859443f676b56add5a546362f1ccf1dc367dba",
-            "_timestamp": "2015-06-04 12:47:07+02:00",
-            "_commit_index": 12,
+            "_sha_id": "2c6970f87abe83172a446288185dd2ac47c79dc5",
+            "_timestamp": "2015-05-23 21:23:35+02:00",
+            "_commit_index": 9,
             "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/json/path/JSONInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/json/path/JSONOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/AtomValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/VDataVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/OutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/InputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/PredicateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
+        },
+        {
+            "_sha_id": "ea38fe50942a49fc1b7e36473a1fb8b1463f1876",
+            "_timestamp": "2015-05-23 21:20:42+02:00",
+            "_commit_index": 7,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/json/path/JSONInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/json/path/JSONOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/AtomValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/VDataVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/OutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/InputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/PredicateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
+        },
+        {
+            "_sha_id": "83fe382bb25eba6959e38112cd56afc0d741ff0e",
+            "_timestamp": "2015-07-05 00:36:11+02:00",
+            "_commit_index": 23,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/json/path/JSONInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/json/path/JSONOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
                 {
                     "_file_name": "src/main/java/notaql/parser/AtomValueVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/VDataVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/OutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/InputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/PredicateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
                 }
             ]
         },
         {
-            "_sha_id": "f36e1f113c741207df13cb81dc3b40ccb39eafab",
-            "_timestamp": "2015-07-01 14:04:12+02:00",
-            "_commit_index": 18,
-            "_changed_files_list": []
+            "_sha_id": "234032b9ea6a37119ffcf13ddfa2b0111cdb7cd4",
+            "_timestamp": "2015-05-28 15:56:38+02:00",
+            "_commit_index": 11,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/json/path/JSONInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/json/path/JSONOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/AtomValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/VDataVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/OutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/InputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/PredicateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
         },
         {
-            "_sha_id": "485d85cb7ae90ffeb63ef5d50f4c91138b4986ee",
-            "_timestamp": "2015-07-04 18:34:05+02:00",
-            "_commit_index": 21,
-            "_changed_files_list": []
+            "_sha_id": "582904082c8328870dfdbcd56c67819af60f5a88",
+            "_timestamp": "2015-06-05 02:36:33+02:00",
+            "_commit_index": 14,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/json/path/JSONInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/json/path/JSONOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/AtomValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/VDataVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/OutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/InputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/PredicateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
         },
         {
-            "_sha_id": "83fe382bb25eba6959e38112cd56afc0d741ff0e",
-            "_timestamp": "2015-07-05 00:36:11+02:00",
-            "_commit_index": 23,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "1d0b237116523c3887bccacbae6254c7f2368149",
-            "_timestamp": "2015-07-05 00:36:42+02:00",
-            "_commit_index": 24,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "30e16c1d607439319b889ec3e8c1bc1f5166cfa2",
-            "_timestamp": "2015-06-25 12:46:07+02:00",
-            "_commit_index": 15,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "9b81f4550466d7a98faf462d17556c25ee0b8997",
-            "_timestamp": "2015-05-23 23:13:02+02:00",
-            "_commit_index": 10,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "a0cd8d59621641f9cc447f9fcb4a50b016fbe0fb",
-            "_timestamp": "2015-05-19 21:08:17+02:00",
-            "_commit_index": 6,
-            "_changed_files_list": []
+            "_sha_id": "fd1113e145cb45d2a2f1025ef602f6f3a0ac6497",
+            "_timestamp": "2015-06-04 19:39:31+02:00",
+            "_commit_index": 13,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/mongodb/parser/path/MongoDBInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/hbase/parser/path/HBaseOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/json/path/JSONInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 17
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/json/path/JSONOutputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/redis/parser/path/RedisInputPathStepVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVInputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "src/main/java/notaql/engines/csv/path/CSVOutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/AtomValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/VDataVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/OutputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/InputPathVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/notaql/parser/PredicateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
         },
         {
             "_sha_id": "cc2d5a0cda1667751bd49c23255f1e95f9dbf2a4",

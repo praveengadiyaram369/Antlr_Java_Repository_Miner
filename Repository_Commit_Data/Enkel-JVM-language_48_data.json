@@ -15,6 +15,27 @@
             "_commit_index": 22,
             "_changed_files_list": [
                 {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/FunctionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/CompilationUnitVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/ClassVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
                     "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/FunctionSignatureVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
@@ -22,28 +43,14 @@
                     "_visit_cnt": 1
                 },
                 {
-                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ArithmeticExpressionVisitor.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 4
-                },
-                {
-                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ConditionalExpressionVisitor.java",
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ValueExpressionVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 1
                 },
                 {
-                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ExpressionVisitor.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 10
-                },
-                {
-                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ValueExpressionVisitor.java",
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ConditionalExpressionVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
@@ -57,25 +64,18 @@
                     "_visit_cnt": 1
                 },
                 {
-                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/ArgumentExpressionVisitor.java",
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ExpressionVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 2
+                    "_visit_cnt": 10
                 },
                 {
-                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/ArgumentExpressionsListVisitor.java",
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ArithmeticExpressionVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 2
-                },
-                {
-                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/CallExpressionVisitor.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 3
+                    "_visit_cnt": 4
                 },
                 {
                     "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/ParameterExpressionListVisitor.java",
@@ -92,14 +92,35 @@
                     "_visit_cnt": 2
                 },
                 {
-                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/BlockStatementVisitor.java",
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/CallExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/ArgumentExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/ArgumentExpressionsListVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/ForStatementVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 1
                 },
                 {
-                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/IfStatementVisitor.java",
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/BlockStatementVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
@@ -125,6 +146,13 @@
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 16
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/IfStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
                 },
                 {
                     "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/VariableDeclarationStatementVisitor.java",
@@ -166,16 +194,340 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "d7899fc9723823cec1df257bd541ab04280e447d",
-            "_timestamp": "2016-05-12 18:44:08+02:00",
-            "_commit_index": 24,
-            "_changed_files_list": []
+            "_sha_id": "fda2f79c28e38861a75c7360dc95888f72abe3b8",
+            "_timestamp": "2016-10-06 09:59:57+02:00",
+            "_commit_index": 41,
+            "_changed_files_list": [
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/FunctionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/CompilationUnitVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/FieldVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/ClassVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/FunctionSignatureVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ValueExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ConditionalExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/VariableReferenceExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ArithmeticExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/ParameterExpressionListVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/ParameterExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/CallExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/ArgumentExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/ArgumentExpressionsListVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/ForStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/BlockStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/PrintStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/ReturnStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/StatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/IfStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/VariableDeclarationStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/AssignmentStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
-            "_sha_id": "1cbc2cd43dbdd9b8ad9723bc5bbd4e7618343198",
-            "_timestamp": "2016-05-20 00:53:59+02:00",
-            "_commit_index": 29,
-            "_changed_files_list": []
+            "_sha_id": "96c5144d287446986d19ad64ecf3ed7d97a1c6e1",
+            "_timestamp": "2016-10-06 09:15:22+02:00",
+            "_commit_index": 36,
+            "_changed_files_list": [
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/FunctionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/CompilationUnitVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/FieldVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/ClassVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/FunctionSignatureVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ValueExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ConditionalExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/VariableReferenceExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/ArithmeticExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/ParameterExpressionListVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/ParameterExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/CallExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/ArgumentExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/expression/function/ArgumentExpressionsListVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/ForStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/BlockStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/PrintStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/ReturnStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/StatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/IfStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/VariableDeclarationStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "compiler/src/main/java/com/kubadziworski/parsing/visitor/statement/AssignmentStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
             "_sha_id": "1527076545f7402a279db2c19f1e28ba7f084585",

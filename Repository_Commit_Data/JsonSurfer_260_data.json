@@ -13,73 +13,89 @@
             "_sha_id": "b779b1011aab11340c519f4a1b640c83a8e739eb",
             "_timestamp": "2015-11-12 22:04:37+08:00",
             "_commit_index": 126,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "82248caff58fbf8f2b790af984ce786502b641f7",
-            "_timestamp": "2017-08-11 15:54:57+08:00",
-            "_commit_index": 189,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "811b0d5e3cd1f5a2ccfe984728b906a6fdbb188e",
-            "_timestamp": "2018-07-20 00:50:23+08:00",
-            "_commit_index": 220,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8406fd12455541b746dae989de36c07e4d3f6aeb",
-            "_timestamp": "2019-05-18 15:19:02+08:00",
-            "_commit_index": 236,
             "_changed_files_list": [
                 {
                     "_file_name": "jsurfer-core/src/main/java/org/jsfr/json/compiler/JsonPathCompiler.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 20
+                    "_visit_cnt": 13
                 }
             ]
         },
         {
-            "_sha_id": "f44f18dc6add4dd14d057e6ad80aa05159acf3f9",
-            "_timestamp": "2019-04-26 17:57:04+01:00",
-            "_commit_index": 228,
+            "_sha_id": "5b4226e37cad91accc13a467885fc9ec54887733",
+            "_timestamp": "2015-04-02 00:22:43+08:00",
+            "_commit_index": 63,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "cde578260b7ef07d99ee82f7decfbc0291b80f75",
+            "_timestamp": "2015-07-20 11:19:12+08:00",
+            "_commit_index": 94,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "fe4a423637abb620f437dda9ef7f892a611e20aa",
+            "_timestamp": "2015-10-29 11:14:54+08:00",
+            "_commit_index": 110,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "9b1500415ddc9fed993b170f084019b058521de3",
+            "_timestamp": "2015-11-05 00:29:56+08:00",
+            "_commit_index": 118,
             "_changed_files_list": [
                 {
                     "_file_name": "jsurfer-core/src/main/java/org/jsfr/json/compiler/JsonPathCompiler.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 20
+                    "_visit_cnt": 13
                 }
             ]
         },
         {
-            "_sha_id": "e87864ff6009aca40e94d4e1d02ea93032571489",
-            "_timestamp": "2019-03-21 15:51:01+08:00",
-            "_commit_index": 224,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "9c25a1e21a8b6f556c9b9483f3ee0325fa1fff3a",
-            "_timestamp": "2019-04-16 20:02:13+01:00",
-            "_commit_index": 226,
+            "_sha_id": "866cb9b11a50b31972b485a8d1623b9240c0eaa0",
+            "_timestamp": "2015-11-03 00:39:51+08:00",
+            "_commit_index": 114,
             "_changed_files_list": [
                 {
                     "_file_name": "jsurfer-core/src/main/java/org/jsfr/json/compiler/JsonPathCompiler.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 19
+                    "_visit_cnt": 13
                 }
             ]
         },
         {
-            "_sha_id": "21b73ba22c45f7825227b053b3566e912714eda5",
-            "_timestamp": "2019-03-21 16:25:23+08:00",
-            "_commit_index": 225,
-            "_changed_files_list": []
+            "_sha_id": "bae853ea349fd7fa82aa212e4c0aa1535f4eaa78",
+            "_timestamp": "2015-10-31 01:37:24+08:00",
+            "_commit_index": 112,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jsurfer-core/src/main/java/org/jsfr/json/compiler/JsonPathCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 13
+                }
+            ]
+        },
+        {
+            "_sha_id": "c8acc2ca230a7ad1b8f4ea276e5e276d702a2931",
+            "_timestamp": "2015-10-30 23:20:36+08:00",
+            "_commit_index": 111,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jsurfer-core/src/main/java/org/jsfr/json/compiler/JsonPathCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 13
+                }
+            ]
         },
         {
             "_sha_id": "42b17de5d0dc9331fd96803895b9067aceaccce9",

@@ -16,45 +16,61 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9dfa08ba90942748a5041c3dd6578ed30e4ba48c",
-            "_timestamp": "2013-01-31 15:48:30+04:00",
-            "_commit_index": 531,
+            "_sha_id": "69b4f71fcb87d21eca0add9d16cc519151da3114",
+            "_timestamp": "2014-09-02 17:15:10-07:00",
+            "_commit_index": 797,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9dfa08ba90942748a5041c3dd6578ed30e4ba48c",
-            "_timestamp": "2013-01-31 15:48:30+04:00",
-            "_commit_index": 531,
+            "_sha_id": "c7122b6b6986987f8d201a88a119d83fc7bb181d",
+            "_timestamp": "2015-08-09 20:03:06-07:00",
+            "_commit_index": 930,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9dfa08ba90942748a5041c3dd6578ed30e4ba48c",
-            "_timestamp": "2013-01-31 15:48:30+04:00",
-            "_commit_index": 531,
+            "_sha_id": "390aeb512c33d1dbe8d7eb11b77c7e300991e132",
+            "_timestamp": "2016-07-11 21:12:19-07:00",
+            "_commit_index": 996,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9dfa08ba90942748a5041c3dd6578ed30e4ba48c",
-            "_timestamp": "2013-01-31 15:48:30+04:00",
-            "_commit_index": 531,
+            "_sha_id": "e3975a3f35d08045c6d2a4d5b5d62f976241a3b5",
+            "_timestamp": "2019-09-09 00:07:39-07:00",
+            "_commit_index": 1029,
+            "_changed_files_list": [
+                {
+                    "_file_name": "permissionsex-core/src/main/java/ca/stellardrift/permissionsex/util/glob/GlobListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "7e83eab89485c11d89d628166121b88a8192a804",
+            "_timestamp": "2019-08-03 00:06:12-07:00",
+            "_commit_index": 1012,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9dfa08ba90942748a5041c3dd6578ed30e4ba48c",
-            "_timestamp": "2013-01-31 15:48:30+04:00",
-            "_commit_index": 531,
-            "_changed_files_list": []
+            "_sha_id": "3289ff79463a4ebc68f9524244b60bd7e0b41a95",
+            "_timestamp": "2019-08-17 17:28:51-07:00",
+            "_commit_index": 1020,
+            "_changed_files_list": [
+                {
+                    "_file_name": "permissionsex-core/src/main/java/ca/stellardrift/permissionsex/util/glob/GlobListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "9dfa08ba90942748a5041c3dd6578ed30e4ba48c",
-            "_timestamp": "2013-01-31 15:48:30+04:00",
-            "_commit_index": 531,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "9dfa08ba90942748a5041c3dd6578ed30e4ba48c",
-            "_timestamp": "2013-01-31 15:48:30+04:00",
-            "_commit_index": 531,
+            "_sha_id": "b28f15475c7913299acf6a1ccf64620a46de13a1",
+            "_timestamp": "2019-08-13 21:33:17-07:00",
+            "_commit_index": 1016,
             "_changed_files_list": []
         },
         {

@@ -13,48 +13,108 @@
             "_sha_id": "e189850122584357e2bf878c18b40e1bd5cfa57a",
             "_timestamp": "2019-09-21 17:06:27+08:00",
             "_commit_index": 199,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/datasphere/server/prep/parser/preparation/PrepRuleVisitorParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 53
+                },
+                {
+                    "_file_name": "src/main/java/com/datasphere/server/prep/parser/preparation/RuleVisitorParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                }
+            ]
+        },
+        {
+            "_sha_id": "51949c2e91d72ad7c82e5e490b20b490df5b84f0",
+            "_timestamp": "2019-08-30 17:25:18+08:00",
+            "_commit_index": 99,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/datasphere/server/prep/parser/preparation/PrepRuleVisitorParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 53
+                },
+                {
+                    "_file_name": "src/main/java/com/datasphere/server/prep/parser/preparation/RuleVisitorParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                }
+            ]
+        },
+        {
+            "_sha_id": "b7889ba6bbcc456ba488a90c0026ffb6588f5ecc",
+            "_timestamp": "2019-08-25 11:06:00+08:00",
+            "_commit_index": 49,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "501e111b7976c103e5174abedc467a37b9d22e65",
-            "_timestamp": "2019-10-16 14:54:09+08:00",
-            "_commit_index": 298,
+            "_sha_id": "0f62521af40a2ab205e133849bc2e1ef2d1dd7c5",
+            "_timestamp": "2019-08-26 14:13:30+08:00",
+            "_commit_index": 74,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "591afbeaa112fdfcfa1ab6aad1d8f6f855124c3a",
-            "_timestamp": "2019-10-16 18:23:00+08:00",
-            "_commit_index": 348,
+            "_sha_id": "f11a7b9add13010f484820e1a6c605f30a20e238",
+            "_timestamp": "2019-08-29 19:33:37+08:00",
+            "_commit_index": 86,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/datasphere/server/prep/parser/preparation/PrepRuleVisitorParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 53
+                },
+                {
+                    "_file_name": "src/main/java/com/datasphere/server/prep/parser/preparation/RuleVisitorParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                }
+            ]
+        },
+        {
+            "_sha_id": "6941e12fb8b748b3a29479026b4a0f1a2d8c9c32",
+            "_timestamp": "2019-08-26 19:40:22+08:00",
+            "_commit_index": 80,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "02d5daec4c0125f528eca88a8c87a90fad202a89",
-            "_timestamp": "2019-10-16 21:19:13+08:00",
-            "_commit_index": 373,
-            "_changed_files_list": []
+            "_sha_id": "798b705261e0c5b77c2a4005191f23e59b372915",
+            "_timestamp": "2019-08-29 19:20:34+08:00",
+            "_commit_index": 83,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/datasphere/server/prep/parser/preparation/PrepRuleVisitorParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 53
+                },
+                {
+                    "_file_name": "src/main/java/com/datasphere/server/prep/parser/preparation/RuleVisitorParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                }
+            ]
         },
         {
-            "_sha_id": "c7aafc2944b0ecdddf074e60274ceeab16cac433",
-            "_timestamp": "2019-10-16 21:53:41+08:00",
-            "_commit_index": 385,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6f646baa69fcf7e96c08639fe8d39ee6b4709758",
-            "_timestamp": "2019-10-16 21:56:17+08:00",
-            "_commit_index": 391,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "42937d3c654ae7d00fd867a7a36e671cc6265474",
-            "_timestamp": "2019-10-16 22:36:51+08:00",
-            "_commit_index": 394,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "f70e528780c605855b3b47532740ab8cdeffce78",
-            "_timestamp": "2019-10-16 22:37:48+08:00",
-            "_commit_index": 396,
+            "_sha_id": "c9b9953febf7a44174d6084118f1375348942602",
+            "_timestamp": "2019-08-27 17:15:08+08:00",
+            "_commit_index": 81,
             "_changed_files_list": []
         },
         {

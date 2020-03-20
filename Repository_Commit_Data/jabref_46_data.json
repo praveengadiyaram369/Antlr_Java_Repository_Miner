@@ -16,45 +16,69 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "104c6e6310b8f0962e9eafb6826e4e9d8836b222",
-            "_timestamp": "2016-02-17 18:32:32+01:00",
-            "_commit_index": 6957,
+            "_sha_id": "8abf3ed88406a761aa81566ca395dbb74d6489c6",
+            "_timestamp": "2017-08-27 18:03:49+02:00",
+            "_commit_index": 10436,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/jabref/model/search/rules/GrammarBasedSearchRule.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
+        },
+        {
+            "_sha_id": "ac1ed522019b66e2177096c408d8037b37f77aaf",
+            "_timestamp": "2016-09-07 17:57:48+02:00",
+            "_commit_index": 8696,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "104c6e6310b8f0962e9eafb6826e4e9d8836b222",
-            "_timestamp": "2016-02-17 18:32:32+01:00",
-            "_commit_index": 6957,
+            "_sha_id": "e4da431012fb624ce77a6dae815631141ad85a67",
+            "_timestamp": "2016-12-28 19:30:24+01:00",
+            "_commit_index": 9566,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "104c6e6310b8f0962e9eafb6826e4e9d8836b222",
-            "_timestamp": "2016-02-17 18:32:32+01:00",
-            "_commit_index": 6957,
+            "_sha_id": "c2fe38881fa21854788ccc76f470747ff73e905b",
+            "_timestamp": "2017-04-07 17:08:44+02:00",
+            "_commit_index": 10001,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/jabref/model/search/rules/GrammarBasedSearchRule.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
+        },
+        {
+            "_sha_id": "89c290c785a9ed52035a287aa9ff02bc6c0385d3",
+            "_timestamp": "2017-02-23 15:37:41+01:00",
+            "_commit_index": 9783,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/jabref/model/search/rules/GrammarBasedSearchRule.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
+        },
+        {
+            "_sha_id": "be429bc589b2061d7aebc73f10151146322aef4e",
+            "_timestamp": "2017-02-15 15:44:37+01:00",
+            "_commit_index": 9674,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "104c6e6310b8f0962e9eafb6826e4e9d8836b222",
-            "_timestamp": "2016-02-17 18:32:32+01:00",
-            "_commit_index": 6957,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "104c6e6310b8f0962e9eafb6826e4e9d8836b222",
-            "_timestamp": "2016-02-17 18:32:32+01:00",
-            "_commit_index": 6957,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "104c6e6310b8f0962e9eafb6826e4e9d8836b222",
-            "_timestamp": "2016-02-17 18:32:32+01:00",
-            "_commit_index": 6957,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "104c6e6310b8f0962e9eafb6826e4e9d8836b222",
-            "_timestamp": "2016-02-17 18:32:32+01:00",
-            "_commit_index": 6957,
+            "_sha_id": "f4c20713e969079e2d95ce9173df80cc008974da",
+            "_timestamp": "2017-02-16 12:29:49+01:00",
+            "_commit_index": 9728,
             "_changed_files_list": []
         },
         {

@@ -19,42 +19,129 @@
             "_sha_id": "d10dfc0884a53f68922e9ee5b5237943e606daa8",
             "_timestamp": "2018-06-18 14:43:51+02:00",
             "_commit_index": 271787,
+            "_changed_files_list": [
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-form-values-query/src/main/java/com/liferay/dynamic/data/mapping/form/values/query/internal/DDMFormValuesQueryListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-expression/src/main/java/com/liferay/dynamic/data/mapping/expression/internal/DDMExpressionListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-expression/src/main/java/com/liferay/dynamic/data/mapping/expression/internal/DDMExpressionEvaluatorVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                },
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-expression/src/main/java/com/liferay/dynamic/data/mapping/expression/internal/DDMExpressionModelVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                }
+            ]
+        },
+        {
+            "_sha_id": "f264c6cbe108fc47d8506ad92aa5af922b89648d",
+            "_timestamp": "2017-08-02 09:11:16-07:00",
+            "_commit_index": 226489,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "658ee7b0ffbdeb942243c170019cf4bb4b268f68",
-            "_timestamp": "2019-05-09 11:49:30-07:00",
-            "_commit_index": 317085,
+            "_sha_id": "1db6d275e7e80c5716a441c6a225f41f120fecb5",
+            "_timestamp": "2018-01-23 16:19:56-08:00",
+            "_commit_index": 249138,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "7756dddf96e62cc396c1160f4ab72c12ec7fdb63",
-            "_timestamp": "2017-06-05 10:17:57-07:00",
-            "_commit_index": 339734,
+            "_sha_id": "eb1ff6ad74b3054492746fb0805cf3e7239be6ee",
+            "_timestamp": "2018-04-18 15:53:35+08:00",
+            "_commit_index": 260462,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "3f0b7f9a80de26ff0d31bb3439fa7a7917e4eb8e",
-            "_timestamp": "2019-05-09 16:24:52-03:00",
-            "_commit_index": 351058,
-            "_changed_files_list": []
+            "_sha_id": "a3d4247e078d6d3758aede7eae52a314c98341d9",
+            "_timestamp": "2018-04-19 13:20:42+02:00",
+            "_commit_index": 266124,
+            "_changed_files_list": [
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-form-values-query/src/main/java/com/liferay/dynamic/data/mapping/form/values/query/internal/DDMFormValuesQueryListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-expression/src/main/java/com/liferay/dynamic/data/mapping/expression/internal/DDMExpressionListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-expression/src/main/java/com/liferay/dynamic/data/mapping/expression/internal/DDMExpressionEvaluatorVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                },
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-expression/src/main/java/com/liferay/dynamic/data/mapping/expression/internal/DDMExpressionModelVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                }
+            ]
         },
         {
-            "_sha_id": "c6470704fd3105a09bc6eefe72c26523f113a997",
-            "_timestamp": "2019-10-25 17:14:01+02:00",
-            "_commit_index": 356720,
-            "_changed_files_list": []
+            "_sha_id": "98ed6b9f7b8a3e3ddc940b30aebd2b8a43deb3a0",
+            "_timestamp": "2018-05-07 21:15:32+01:00",
+            "_commit_index": 263293,
+            "_changed_files_list": [
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-form-values-query/src/main/java/com/liferay/dynamic/data/mapping/form/values/query/internal/DDMFormValuesQueryListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-expression/src/main/java/com/liferay/dynamic/data/mapping/expression/internal/DDMExpressionListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-expression/src/main/java/com/liferay/dynamic/data/mapping/expression/internal/DDMExpressionEvaluatorVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                },
+                {
+                    "_file_name": "modules/apps/dynamic-data-mapping/dynamic-data-mapping-expression/src/main/java/com/liferay/dynamic/data/mapping/expression/internal/DDMExpressionModelVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                }
+            ]
         },
         {
-            "_sha_id": "f7e651a7f0bb83fb6755d8786b1099337e6b92eb",
-            "_timestamp": "2019-12-05 11:41:00+01:00",
-            "_commit_index": 359551,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b751bc2bcc0c3e4309d5e5f4e918f17cad9fe354",
-            "_timestamp": "2019-12-19 20:17:25+08:00",
-            "_commit_index": 360967,
+            "_sha_id": "1773e4267aae3114c17fe4a137473ba660572b54",
+            "_timestamp": "2018-04-17 17:20:24-07:00",
+            "_commit_index": 261877,
             "_changed_files_list": []
         },
         {

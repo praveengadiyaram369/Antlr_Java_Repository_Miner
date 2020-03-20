@@ -10,52 +10,76 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6c48b7d91f0d550446852333f8d74e84c6b54a4e",
-            "_timestamp": "2017-03-31 14:23:47+02:00",
-            "_commit_index": 365,
+            "_sha_id": "bee3fecc02f3690a677828aa4781752012a86ee6",
+            "_timestamp": "2015-03-31 12:25:50+02:00",
+            "_commit_index": 218,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8b6cbafb9cb651ab0724a3a8ada6d2c98fb5b7ea",
-            "_timestamp": "2014-01-07 17:20:52+01:00",
-            "_commit_index": 115,
+            "_sha_id": "051636af7f0897aaed6235cd232465287c4fb58d",
+            "_timestamp": "2018-02-05 11:40:42+01:00",
+            "_commit_index": 396,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "1a3e76570fc8dce678718323cc850bb2ec0e595f",
-            "_timestamp": "2018-02-05 11:39:20+01:00",
-            "_commit_index": 395,
+            "_sha_id": "bd52eda3583a06bcef94e2835f2902f842cdb665",
+            "_timestamp": "2018-09-13 18:54:12+03:00",
+            "_commit_index": 444,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jt-jiffle/jt-jiffle-language/src/main/java/it/geosolutions/jaiext/jiffle/parser/BaseWorker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "0ae530408a20ad72d8884ea2241d9ef48b8cffd8",
+            "_timestamp": "2017-12-13 11:03:09+01:00",
+            "_commit_index": 385,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "1ba30e92a09a66f2acee298dcba3ca3eeb8eb318",
-            "_timestamp": "2018-02-08 16:36:15+01:00",
-            "_commit_index": 400,
+            "_sha_id": "5491f00595081b64660dac851480775b9c590b4e",
+            "_timestamp": "2015-09-04 14:47:31+02:00",
+            "_commit_index": 287,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b966b4e5071e31d9df9c65e6d86c634ade737813",
-            "_timestamp": "2015-04-15 17:07:22+02:00",
-            "_commit_index": 228,
+            "_sha_id": "9ec898169e0b340d73212251a40444057278e8fc",
+            "_timestamp": "2019-07-04 09:58:08+02:00",
+            "_commit_index": 501,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jt-jiffle/jt-jiffle-language/src/main/java/it/geosolutions/jaiext/jiffle/parser/BaseWorker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "199ddec6b86e07a3af4137435efc12693eed5e13",
+            "_timestamp": "2014-07-15 09:53:00+02:00",
+            "_commit_index": 183,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "cc4cdeb703f19ed2114eab8a9964c5d6327557f8",
-            "_timestamp": "2014-05-19 16:32:24+02:00",
-            "_commit_index": 135,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "9ac1110d6466fd756c15ed6c3acbed6d78195cf5",
-            "_timestamp": "2018-06-29 12:40:31+02:00",
-            "_commit_index": 438,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "797db525d9be873c2ce810a3728b163fc3f2c810",
-            "_timestamp": "2018-11-29 18:45:26+01:00",
-            "_commit_index": 466,
-            "_changed_files_list": []
+            "_sha_id": "485ef273303c17023196e5241be3aebff6144f95",
+            "_timestamp": "2018-06-20 14:33:11+02:00",
+            "_commit_index": 420,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jt-jiffle/jt-jiffle-language/src/main/java/it/geosolutions/jaiext/jiffle/parser/BaseWorker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "5b9c28c6a3d2ba96fcace8434143a0d3c5049dc1",
