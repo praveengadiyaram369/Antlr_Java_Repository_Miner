@@ -1,3 +1,4 @@
+# _importing python standard libraries
 import sys
 import os
 import json
@@ -5,19 +6,24 @@ import math
 import logging
 import random
 
+# _importing all project specific classes which holds the structure of repository(similar to json)
 import settings
 from RepositoryData import Repository
 from CommitData import Commit
 from FileData import File
 
+# _importing third-party installed libraries
 from antlr4 import *
 import antlr4
 from git import Repo
 
+# _importing antlr related libraries
 from antlr4_package.JavaLexer import *
 from antlr4_package.JavaParser import *
 from antlr4_package.JavaParserListener import *
 from PatternListener import PatternListener
+
+MINIMUM_MINING_COMMIT_COUNT = 10
 
 
 def configure_log_settings():
@@ -40,7 +46,8 @@ def check_for_new_iteration(output_repo_data):
     repo_done_name_list = []
     with open('Data_Config_Info/' + output_repo_data, 'r') as f:
         for line in f:
-            repo_done_name_list.append(line.strip()) # _just parsing at new lines and appending to a list
+            # _parsing at new lines and appending to a list
+            repo_done_name_list.append(line.strip())
 
     return repo_done_name_list
 
@@ -57,16 +64,17 @@ def get_all_repo_names(input_repo_data):
     repo_name_list = []
     with open('Data_Config_Info/' + input_repo_data, 'r') as f:
         for line in f:
-            repo_name_list.append(line.strip().split(',')[0]) # _just parsing at new lines and also with comma, then append the first value to a list
+            # _parsing at new lines and also with comma, then append the first value to a list
+            repo_name_list.append(line.strip().split(',')[0])
     return repo_name_list
 
 
 def get_complexity_with_file(file_path):
     """[this method parses a java file using antlr]
-    
+
     Arguments:
         file_path {[str]} -- [absolute path of the file]
- 
+
     """
     try:
         istream = FileStream(file_path, encoding='utf-8')
@@ -85,10 +93,10 @@ def get_complexity_with_file(file_path):
 
 def get_complexity_with_content(file_content):
     """[this method parses a java file content using antlr]
-    
+
     Arguments:
         file_content {[str]} -- [complete file content of an antlr file]
-  
+
     """
     try:
         istream = antlr4.InputStream(file_content)
@@ -107,12 +115,12 @@ def get_complexity_with_content(file_content):
 
 def get_blob_recursively(hash_code, file_path_name, repo):
     """[this method gives file content(blob) by going recursively through the file path]
-    
+
     Arguments:
         hash_code {bool} -- [hash code of the respective commit]
         file_path_name {[string]} -- [relative path of the blob]
         repo {[repository_object/Git Python]} -- [holds the information of the repository loaded through Git Python library]
-    
+
     Returns:
         [string] -- [File content/blob]
     """
@@ -120,12 +128,13 @@ def get_blob_recursively(hash_code, file_path_name, repo):
         if '/' in file_path_name:
             sub_dir = file_path_name.split('/', 1)
             changes = repo.git.execute(
-                ['git', 'cat-file', '-p', hash_code]) # _ git cat-file gives the complete file data at that particular commit
+                ['git', 'cat-file', '-p', hash_code])  # _ git cat-file gives the complete file data at that particular commit
             for line in changes.split('\n'):
                 split = line.split()
                 if split[3] == sub_dir[0]:
                     sub_tree_hash = split[2]
-                    return get_blob_recursively(sub_tree_hash, sub_dir[1], repo) # _calling sub-tree recursively
+                    # _calling sub-tree recursively
+                    return get_blob_recursively(sub_tree_hash, sub_dir[1], repo)
         else:
             changes = repo.git.execute(
                 ['git', 'cat-file', '-p', hash_code])
@@ -134,36 +143,36 @@ def get_blob_recursively(hash_code, file_path_name, repo):
                 if split[3] == file_path_name:
                     final_hash = split[2]
                     return repo.git.execute(
-                        ['git', 'cat-file', '-p', final_hash]) # _getting the final blob content
-    
+                        ['git', 'cat-file', '-p', final_hash])  # _getting the final blob content
+
     except Exception as e:
         print("Unexpected error:  " + str(e))
 
 
 def analyze_commit(commit, antlr_file_list, repo, commit_index):
     """[this commit takes commit details and analyze all antlr files inside]
-    
+
     Arguments:
         commit {[object]} -- [commit object holds commit information]
         antlr_file_list {[list]} -- [contains all antlr filenames present in the HEAD revision]
         repo {[repository_object/Git Python]} -- [holds the information of the repository loaded through Git Python library]
         commit_index {[int]} -- [commit id of the respective commit]
-    
+
     Returns:
         [object] -- [commit_data object]
     """
     try:
         commit_data = Commit(str(commit.hexsha), str(
-            commit.authored_datetime), commit_index) # _initializing the commit object
+            commit.authored_datetime), commit_index)  # _initializing the commit object
 
         for file_path_name in antlr_file_list:
 
             file_content = get_blob_recursively(
-                str(commit.tree.hexsha), file_path_name, repo) # _getting blob data recursively
-            
+                str(commit.tree.hexsha), file_path_name, repo)  # _getting blob data recursively
+
             if file_content is not None:
                 enter_cnt = exit_cnt = visit_cnt = 0
-                settings.init() # _resets all the antlr count details
+                settings.init()  # _resets all the antlr count details
 
                 get_complexity_with_content(file_content)
 
@@ -174,7 +183,7 @@ def analyze_commit(commit, antlr_file_list, repo, commit_index):
 
                 if is_antlr_file is True:
                     commit_data.add_changed_files(
-                        File(file_path_name, is_antlr_file, enter_cnt, exit_cnt, visit_cnt)) # _creating File object and appending to the commit data list
+                        File(file_path_name, is_antlr_file, enter_cnt, exit_cnt, visit_cnt))  # _creating File object and appending to the commit data list
 
         return commit_data
     except ValueError as ve:
@@ -185,14 +194,14 @@ def analyze_commit(commit, antlr_file_list, repo, commit_index):
 
 def get_complexity_project(commit_sha_id, commit_timestamp, repo_path, repo_name, final_commit_id):
     """[this method would be used only for the last commit/HEAD revision, we are finding the all antlr files in the repositories in order to trace back]
-    
+
     Arguments:
         commit_sha_id {[string]} -- [unique hash id of a commit/HEAD]
         commit_timestamp {[string]} -- [timestamp of the commit/HEAD]
         repo_path {[string]} -- [absolute path of the repository]
         repo_name {[string]} -- [name of the repository]
         final_commit_id {[int]} -- [last commit id]
-    
+
     Returns:
         [object] -- [commit data]
     """
@@ -202,7 +211,7 @@ def get_complexity_project(commit_sha_id, commit_timestamp, repo_path, repo_name
             if file.endswith('.java') and 'BaseListener' not in file and 'BaseVisitor' not in file:
 
                 enter_cnt = exit_cnt = visit_cnt = 0
-                settings.init() # _resets all antlr count values 
+                settings.init()  # _resets all antlr count values
 
                 get_complexity_with_file(os.path.join(subdir, file))
 
@@ -220,16 +229,20 @@ def get_complexity_project(commit_sha_id, commit_timestamp, repo_path, repo_name
 
 def get_commit_complexity(commit_data):
     """[this method takes in the commit object and returns the complexity]
-    
+
     Arguments:
         commit_data {[object]} -- [commit object]
-    
+
     Returns:
         [int] -- [complexity of the commit - sum(enter, exit, visit)]
     """
-    commit_complexity = 0
+    commit_complexity = 0  # _initializing the complexity with zero
+
+    # _considering commit complexity as sum(method counts in all antlr files)
     for file_data in commit_data.get_changed_files_list():
         if file_data.get_is_antlr_file() is True:
+
+            # _sum(visit + enter +exit) method counts
             commit_complexity += (file_data.get_enter_cnt() +
                                   file_data.get_exit_cnt() + file_data.get_visit_cnt())
 
@@ -237,17 +250,21 @@ def get_commit_complexity(commit_data):
 
 
 def get_antlr_classes(commit_data):
-    """[this method takes commit object and returns antlr file list]
-    
+    """[this method takes commit object and returns antlr file list present inside it]
+
     Arguments:
         commit_data {[object]} -- [holds commit object data]
-    
+
     Returns:
         [list] -- [list of all antlr files]
     """
-    antlr_file_list = []
+    antlr_file_list = []  # _initializing the list with empty list
+
     for file_data in commit_data.get_changed_files_list():
+
+        # _considering only antlr files
         if file_data.get_is_antlr_file() is True:
+            # _appending relative paths of the files
             antlr_file_list.append(file_data.get_file_name())
 
     return antlr_file_list
@@ -255,13 +272,13 @@ def get_antlr_classes(commit_data):
 
 def auto_analyze_commits(commit_dict, repo,  antlr_file_list, commits):
     """[this method analyzes all commits by traversing to the middle of the commits everytime and considers the part which has maximum complexity difference]
-    
+
     Arguments:
         commit_dict {[dict]} -- [dictionary contains commit_id as key and complexity as value]
         repo {[object]} -- [repository object data]
         antlr_file_list {[list]} -- [list of all antlr files in that repository]
         commits {[list]} -- [list of all commits in a repository]
-    
+
     Returns:
         [list, list] -- [processed commit object list, processed commit id list]
     """
@@ -271,62 +288,72 @@ def auto_analyze_commits(commit_dict, repo,  antlr_file_list, commits):
     commit_id_list = []
 
     # _considering a total of 10 commits for each repository
-    while commit_step < 8:
-        commit_index_list = sorted([int(key) for key, value in commit_dict.items()])
+    while commit_step < (MINIMUM_MINING_COMMIT_COUNT - 2):
+        # _considering sorted index list everytime
+        commit_index_list = sorted([int(key)
+                                    for key, value in commit_dict.items()])
         max_complexity_diff = 0
-        max_complexity_index = 0 # _initializing max complexity and index values to 0
+        max_complexity_index = 0  # _initializing max complexity and index values to 0
 
         for commit_index, commit_index_value in enumerate(commit_index_list[1:]):
+
+            # _checking if consecutive commit index difference is max?, and updating the max_complexity_diff accordingly
             if commit_dict[commit_index_value] - commit_dict[commit_index_list[commit_index]] > max_complexity_diff:
                 max_complexity_diff = commit_dict[commit_index_value] - \
                     commit_dict[commit_index_list[commit_index]]
                 max_complexity_index = commit_index + 1
 
+        # _lower_bound - lower limit of the maximum complexity difference part
+        # _upper_bound - upper limit of the maximum complexity difference part
         lower_bound = commit_index_list[max_complexity_index - 1]
         upper_bound = commit_index_list[max_complexity_index]
 
         next_commit_index = lower_bound + math.floor(
-            (abs(lower_bound - upper_bound))/2) # _finding the middle commit
+            (abs(lower_bound - upper_bound))/2)  # _finding the middle commit
 
         # _base cases to abort the auto analyze
         if previous_commit_index == next_commit_index or next_commit_index == lower_bound or next_commit_index == upper_bound or next_commit_index > len(commits) - 2:
             return commit_data_list, commit_id_list
 
+        # _analyzing the next commit
         next_commit_data = analyze_commit(
-            commits[next_commit_index], antlr_file_list, repo, next_commit_index) # _process the middle commit
+            commits[next_commit_index], antlr_file_list, repo, next_commit_index)  # _process the middle commit
 
         commit_id_list.append(next_commit_index)
-        commit_data_list.append(next_commit_data) # _append the middle commit to the procesed the list
+        # _append the middle commit to the procesed the list
+        commit_data_list.append(next_commit_data)
 
         commit_dict[next_commit_index] = get_commit_complexity(
-            next_commit_data)
-        
+            next_commit_data)  # _adding the processed commit object to commit dict
+
         previous_commit_index = next_commit_data
-        commit_step += 1
+        commit_step += 1  # _increment the processed commit count
 
     return commit_data_list, commit_id_list
 
 
 def fill_random_commits(repo, commits, commit_id_list, antlr_file_list):
     """[this method fills the repositories which has less than 10 commits with random commits]
-    
+
     Arguments:
         repo {[object]} -- [repository object]
         commits {[list]} -- [lsit of all commits in the repository]
         commit_id_list {[list]} -- [list of procesed commits]
         antlr_file_list {[list]} -- [list of all antlr from HEAD revision]
-    
+
     Returns:
         [list] -- [processed list of commit objects]
     """
     commit_data_list = []
 
     # _considering a total of 10 commits for each repository
-    while len(commit_id_list) < 8:
+    while len(commit_id_list) < (MINIMUM_MINING_COMMIT_COUNT - 2):
         rand_commit_id = random.randint(1, len(commits) - 2)
 
-        # _considering random commits to fill the limit of 10 
+        # _considering random commits to fill the limit of 10
         if rand_commit_id not in commit_id_list:
+
+            # _analyzing the random commit and appending to commit data list
             rand_commit_data = analyze_commit(
                 commits[rand_commit_id], antlr_file_list, repo, rand_commit_id)
 
@@ -349,40 +376,51 @@ def walk_repositories(repositories_path, repo_name_list, repo_done_name_list, ou
         if repo_name.split('/')[1] not in repo_done_name_list:
 
             repo_path = repositories_path + repo_name.split('/')[1]
+            # _initializing Git Python repository object
             repo = Repo(repo_path)
 
-            if 'sample' not in output_repo_data:
-                repo_id =  ((int(output_repo_data.split('.')[0].split('_')[3]) - 1) * 150) + repo_index + 1
+            if 'sample' not in output_repo_data:  # _sample used for only unit test cases
+                repo_id = (
+                    (int(output_repo_data.split('.')[0].split('_')[3]) - 1) * 150) + repo_index + 1
             else:
                 repo_id = repo_index + 1
 
             logging.info(
                 f'Started processing repository -- {repo_name} with repo id - {repo_id}')
-            
+
+            # _initializing Repository data object with unique id and username/repo_name
             repo_data = Repository(repo_id, repo_name)
             repo_name = repo_name.split('/')[1]
 
             if not repo.bare:
+                # _getting all commits of the repository
                 commits = list(repo.iter_commits(repo.active_branch))
 
                 commits.reverse()
                 total_commits_len = len(commits)
+                # _setting totoal commits of a repository
                 repo_data.update_total_commits(total_commits_len)
+
+                # _considering the HEAD revision after the last commit analyzing antlr complexity
                 project_commit_data = get_complexity_project(str(repo.head.commit.hexsha), str(
                     repo.head.commit.authored_datetime), repositories_path, repo_name, total_commits_len)
+
+                # _finding only antlr files to trace back to minimum 10 commits
                 antlr_file_list = get_antlr_classes(project_commit_data)
 
                 commit_1_data = analyze_commit(
                     commits[0], antlr_file_list, repo, commit_index=1)
-                commit_dict = {0: get_commit_complexity(commit_1_data), 
-                    total_commits_len - 1: get_commit_complexity(project_commit_data)}
+                commit_dict = {0: get_commit_complexity(commit_1_data),
+                               total_commits_len - 1: get_commit_complexity(project_commit_data)}
 
                 repo_data.add_to_commit_history(commit_1_data)
 
+                # _analyze commits automatically iterating through the middle everytime, which has highest complexity difference
                 commit_data_list, commit_id_list = auto_analyze_commits(
                     commit_dict, repo, antlr_file_list, commits)
 
-                if len(commit_data_list) < 8 and total_commits_len > 9:
+                # _filling the less than 10 commits with random commits
+                if len(commit_data_list) < (MINIMUM_MINING_COMMIT_COUNT - 2) and total_commits_len > (MINIMUM_MINING_COMMIT_COUNT - 1):
                     commit_data_list.extend(fill_random_commits(
                         repo, commits, commit_id_list, antlr_file_list))
 
@@ -392,9 +430,11 @@ def walk_repositories(repositories_path, repo_name_list, repo_done_name_list, ou
 
                 repo_data.add_to_commit_history(project_commit_data)
 
-                with open('Repository_Commit_Data/'+repo_name+ '_' + str(repo_id) + '_data.json', 'w', encoding='utf-8') as f:
+                # _writing the Repository data object to a json file
+                with open('Repository_Commit_Data/'+repo_name + '_' + str(repo_id) + '_data.json', 'w', encoding='utf-8') as f:
                     f.write(repo_data.toJson())
 
+                # _appending the repo_name to output file - which keeps the track of the processed repository names
                 with open('Data_Config_Info/' + output_repo_data, 'a') as the_file:
                     the_file.write(repo_name + '\n')
 
@@ -404,7 +444,7 @@ def walk_repositories(repositories_path, repo_name_list, repo_done_name_list, ou
 
 def process_repositories(repositories_path, input_repo_data, output_repo_data):
     """[this method processes the information of all repos and repos which are already processed]
-    
+
     Arguments:
         repositories_path {[string]} -- [absolute path of the repositories]
         input_repo_data {[string]} -- [Name of the csv file which contains repository info]
