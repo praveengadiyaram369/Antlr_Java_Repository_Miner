@@ -9,3 +9,5 @@ Untitled.ipynb
 analysing_repos_pattern_evolution.log
 Commit_Data/*
 Data_Config_Info/*
+repositories/*
+!repositories/clone_repositories.sh
