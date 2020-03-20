@@ -97,16 +97,39 @@ Build instructions -- Tools needed : VScode(any text editor), Jupyter Notebook m
 
 5) Visualize the mined data and Validate the analysis by executing AnalyzingCommitHistories.ipynb on jupyter-notebook.
 
-# Project Results:
+# Research Questions:
 
-1) Mining Data Table
+**RQ1 – How the number of visitors and listener patterns evolve in the development of a project?**
+**RQ2 – Do developers switch between visitor and listener patterns?**
+
+# Methodology:
+
+There are a total of 438 repositories which are to be mined and most of them have a total commits of thousand or higher. We calculated a total number of 1444977 commits for all repositories. That means it is not computable to check all commits of all projects. Still we want to analyze how the number of antlr-methods evolves.
+
+To get a good understanding how the number of antlr-methods evolves and reduce the complexity of the problem we used these simplified methodology:
+
+**Step 1:** We start to analyze all files of the project after its last commit(HEAD). We save all filenames of antlr-files in a list and also to a commit dictionary to save the pairs of commit-number and the number of antlr-methods{commit_no: commit_complexity}.
+
+**Step 2:** Now we analyze just the antlr-files we got from Step-1 after the first commit and calculates the complexity to add the pair of commit no and complexity to commit dictionary.
+
+**Step 3:** We sort the list by the commit-number and calculate commits between which two entries there is the maximal complexity difference. In between these two entries we analyze our next commit (middle commit) and save its complexity to the commit dictionary.
+
+**Step 4:** We repeat step 3 till we reach 10 analyzed commits.
+
+**step 5:** If we still cannot reach 10 analyzed commits, we'll pick few random commits and analyze them, until we reach 10 analyzed commits.
+
+With this methodology we are able to approximate the function of antlr-methods by time for each repository better than using commits with equidistant timestamps or commit-number. As the data is un-structured, we are not sure of how many antlr file would exist at each commit, we cannot store the processed information in Tabular format(.csv). So we have stored the Final Repository data in JSOn format (refer to  final_repo_data.json).
+
+**Notes:** 
+At each step once the commit is analyzed, a list is maintained to keep the details of the commit objects and also only antlr files are being processed which are analyzed from the last commit/HEAD. we are parsing complete file at each processed commit and whole file complexity is saved, not just the change.
+
+
+# Findings:
+
+**RQ1 – How the number of visitors and listener patterns evolve in the development of a project?**
+
 <img src="results/avg_commit_comp_linegraph.png">
 
-2) Antlr4 Pattern Usage
-<img src="results/msr_2.png">
+**RQ2 – Do developers switch between visitor and listener patterns?**
 
-3) Patterns Method count distribution
-<img src="results/msr_3.png">
-
-4) Listener Pattern Method count distribution
-<img src="results/msr_4.png">
+<img src="results/repo_pattern_piechart.png">
