@@ -19,42 +19,74 @@
             "_sha_id": "557dde5d2d6f83873a3c3bfb7366a157153f0c65",
             "_timestamp": "2018-12-11 12:34:48+01:00",
             "_commit_index": 2910,
+            "_changed_files_list": [
+                {
+                    "_file_name": "server/src/main/java/org/gluu/oxtrust/service/antlr/scimFilter/MatchFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
+        },
+        {
+            "_sha_id": "51237b5b7e81541eab5556df5cc79da550de566d",
+            "_timestamp": "2018-03-30 16:50:47-05:00",
+            "_commit_index": 2425,
+            "_changed_files_list": [
+                {
+                    "_file_name": "server/src/main/java/org/gluu/oxtrust/service/antlr/scimFilter/MatchFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
+        },
+        {
+            "_sha_id": "e0c7559e134c6851b42cdc385c9ed6209a84ccb8",
+            "_timestamp": "2018-02-06 16:15:34+03:00",
+            "_commit_index": 2182,
+            "_changed_files_list": [
+                {
+                    "_file_name": "server/src/main/java/org/gluu/oxtrust/service/antlr/scimFilter/MatchFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
+        },
+        {
+            "_sha_id": "1b7c2019936a11fd897960d7f23cd0cc4cb51384",
+            "_timestamp": "2017-12-17 14:37:15-05:00",
+            "_commit_index": 2061,
+            "_changed_files_list": [
+                {
+                    "_file_name": "server/src/main/java/org/gluu/oxtrust/service/antlr/scimFilter/MatchFilterVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
+        },
+        {
+            "_sha_id": "0ea1aa3e8fb025029fa0e76688a133c03d86f171",
+            "_timestamp": "2017-11-24 15:57:55-05:00",
+            "_commit_index": 2000,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "70cb4a24c19d52c8c7ad08bddc20e3c80c7b33a1",
-            "_timestamp": "2019-05-21 11:10:41+03:00",
-            "_commit_index": 3395,
+            "_sha_id": "637cecb71dbaf1cb140d597900c73cf663b584ba",
+            "_timestamp": "2017-12-07 20:29:01-03:00",
+            "_commit_index": 2030,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "892974c7e3efa69dd681c6f4cb3a9a62dffdefd6",
-            "_timestamp": "2019-08-08 18:49:45+01:00",
-            "_commit_index": 3637,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "3cd34482f683e311ebd209c0689e1ed9915caa62",
-            "_timestamp": "2019-09-20 08:49:54-05:00",
-            "_commit_index": 3758,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "506512286b1e0e78e24c5dcb6afb61c9b8abab2e",
-            "_timestamp": "2019-10-16 12:36:14+01:00",
-            "_commit_index": 3819,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "f44d9cd4cb87c6c659856896d8e8b38681f12482",
-            "_timestamp": "2019-12-02 21:48:11+03:00",
-            "_commit_index": 3849,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "1d6c7005dfde6d987a071639b9dce58bb3ba7c99",
-            "_timestamp": "2019-12-10 15:03:23+01:00",
-            "_commit_index": 3864,
+            "_sha_id": "e3a53bd2d4f47652d5e4607a03cfb7f45aab000b",
+            "_timestamp": "2017-12-08 18:58:55-03:00",
+            "_commit_index": 2045,
             "_changed_files_list": []
         },
         {

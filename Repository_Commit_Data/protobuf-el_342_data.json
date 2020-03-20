@@ -18,52 +18,116 @@
             ]
         },
         {
-            "_sha_id": "5c1021bd7c252c82f638c114c33e22ea131adbe2",
-            "_timestamp": "2014-11-04 10:35:53-08:00",
-            "_commit_index": 3,
-            "_changed_files_list": []
+            "_sha_id": "3ad6bd2041e99cb11b778dcbde4a15574d8a67d8",
+            "_timestamp": "2015-01-28 14:08:08-08:00",
+            "_commit_index": 36,
+            "_changed_files_list": [
+                {
+                    "_file_name": "protobufel-grammar/src/main/java/com/github/protobufel/grammar/ProtoFileParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 56,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "1072671d7a5e448b39e1848219e4b9572df4231d",
-            "_timestamp": "2017-06-29 19:37:39-07:00",
-            "_commit_index": 39,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "59289f0c10354b2969c870f26ff9378a682282ce",
-            "_timestamp": "2017-06-29 19:51:52-07:00",
-            "_commit_index": 41,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0a200a443ef3ea8c0ea92e42ed92c4fbcac03f16",
-            "_timestamp": "2014-11-19 20:03:02-08:00",
-            "_commit_index": 20,
-            "_changed_files_list": []
+            "_sha_id": "362e36993a273281fba4c7d9d6ef5b3f3c7e344f",
+            "_timestamp": "2014-11-19 09:40:17-08:00",
+            "_commit_index": 19,
+            "_changed_files_list": [
+                {
+                    "_file_name": "protobufel-grammar/src/main/java/com/github/protobufel/grammar/ProtoFileParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 56,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "889da5e615f2f3d7d50819a1a848897857f22ecc",
             "_timestamp": "2017-06-30 00:36:07-07:00",
             "_commit_index": 44,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "protobufel-grammar/src/main/java/com/github/protobufel/grammar/ProtoFileParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 56,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "abb26f27e5f5815ce27ba3ce9c477d4804f24c7f",
-            "_timestamp": "2014-11-14 15:19:27-08:00",
-            "_commit_index": 10,
-            "_changed_files_list": []
+            "_sha_id": "ef307e8c004fac3d153dcb970a4858b2c29160bc",
+            "_timestamp": "2014-11-06 12:43:25-08:00",
+            "_commit_index": 4,
+            "_changed_files_list": [
+                {
+                    "_file_name": "protobufel-grammar/src/main/java/com/github/protobufel/grammar/ProtoFileParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 56,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "22db7ed2ad710af96515f3a01d4389f1c3b4853c",
-            "_timestamp": "2014-11-16 22:43:26-08:00",
-            "_commit_index": 16,
-            "_changed_files_list": []
+            "_sha_id": "3c6e6c05787891ac6c170696e6131a998785ca93",
+            "_timestamp": "2014-11-20 11:59:57-08:00",
+            "_commit_index": 26,
+            "_changed_files_list": [
+                {
+                    "_file_name": "protobufel-grammar/src/main/java/com/github/protobufel/grammar/ProtoFileParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 56,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "db4c3142d8d26ce826941793844237edecd97e99",
-            "_timestamp": "2017-07-04 10:44:02-07:00",
-            "_commit_index": 55,
-            "_changed_files_list": []
+            "_sha_id": "ba2b264d814ade634d9d618776cafe79d4f3b413",
+            "_timestamp": "2017-07-04 10:37:01-07:00",
+            "_commit_index": 53,
+            "_changed_files_list": [
+                {
+                    "_file_name": "protobufel-grammar/src/main/java/com/github/protobufel/grammar/ProtoFileParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 56,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "1636741e30d48cb1d73665384c3e3993c92c0125",
+            "_timestamp": "2017-06-30 12:45:08-07:00",
+            "_commit_index": 48,
+            "_changed_files_list": [
+                {
+                    "_file_name": "protobufel-grammar/src/main/java/com/github/protobufel/grammar/ProtoFileParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 56,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "1072671d7a5e448b39e1848219e4b9572df4231d",
+            "_timestamp": "2017-06-29 19:37:39-07:00",
+            "_commit_index": 39,
+            "_changed_files_list": [
+                {
+                    "_file_name": "protobufel-grammar/src/main/java/com/github/protobufel/grammar/ProtoFileParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 56,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "3a600e2f7a8e74b637f44eee0331ef6e57e7441c",

@@ -13,49 +13,113 @@
             "_sha_id": "6dd30afa6002339da520ea96bb330103778f6fb2",
             "_timestamp": "2015-04-17 21:24:26+01:00",
             "_commit_index": 71,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/vaguehope/dlnatoad/dlnaserver/SearchEngine.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "6dd30afa6002339da520ea96bb330103778f6fb2",
-            "_timestamp": "2015-04-17 21:24:26+01:00",
-            "_commit_index": 71,
-            "_changed_files_list": []
+            "_sha_id": "c2f3646fb9ddb09b7bca179af07b32c9452b42c8",
+            "_timestamp": "2018-11-11 15:53:52+00:00",
+            "_commit_index": 106,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/vaguehope/dlnatoad/dlnaserver/SearchEngine.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "6dd30afa6002339da520ea96bb330103778f6fb2",
-            "_timestamp": "2015-04-17 21:24:26+01:00",
-            "_commit_index": 71,
-            "_changed_files_list": []
+            "_sha_id": "7050eb3d3ba3d0c9c14a5b9e4d14c63f72a589d1",
+            "_timestamp": "2016-05-29 13:25:53+01:00",
+            "_commit_index": 88,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/vaguehope/dlnatoad/dlnaserver/SearchEngine.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "6dd30afa6002339da520ea96bb330103778f6fb2",
-            "_timestamp": "2015-04-17 21:24:26+01:00",
-            "_commit_index": 71,
-            "_changed_files_list": []
+            "_sha_id": "c55266ced2b94f29094f8446d819c1437f36b3f5",
+            "_timestamp": "2016-02-13 21:45:28+00:00",
+            "_commit_index": 79,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/vaguehope/dlnatoad/dlnaserver/SearchEngine.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "6dd30afa6002339da520ea96bb330103778f6fb2",
-            "_timestamp": "2015-04-17 21:24:26+01:00",
-            "_commit_index": 71,
-            "_changed_files_list": []
+            "_sha_id": "379d3fd8ae5208a503825c16fc359769a3f722f8",
+            "_timestamp": "2015-10-21 20:35:54+01:00",
+            "_commit_index": 75,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/vaguehope/dlnatoad/dlnaserver/SearchEngine.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "6dd30afa6002339da520ea96bb330103778f6fb2",
-            "_timestamp": "2015-04-17 21:24:26+01:00",
-            "_commit_index": 71,
-            "_changed_files_list": []
+            "_sha_id": "93baec409ef9841f3b32afef351c63f687c9984f",
+            "_timestamp": "2015-10-24 12:11:41+01:00",
+            "_commit_index": 77,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/vaguehope/dlnatoad/dlnaserver/SearchEngine.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "6dd30afa6002339da520ea96bb330103778f6fb2",
-            "_timestamp": "2015-04-17 21:24:26+01:00",
-            "_commit_index": 71,
-            "_changed_files_list": []
+            "_sha_id": "3ca429772bedbc03bbab3a1ecce90b99e68e6cdf",
+            "_timestamp": "2016-02-13 13:53:05+00:00",
+            "_commit_index": 78,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/vaguehope/dlnatoad/dlnaserver/SearchEngine.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "6dd30afa6002339da520ea96bb330103778f6fb2",
-            "_timestamp": "2015-04-17 21:24:26+01:00",
-            "_commit_index": 71,
-            "_changed_files_list": []
+            "_sha_id": "16abb679beda6c88f09fd7ef47ba04936657adf1",
+            "_timestamp": "2018-11-30 20:14:45+00:00",
+            "_commit_index": 117,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/vaguehope/dlnatoad/dlnaserver/SearchEngine.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "94d8c88d431a577154273996795cd00ae00565e4",

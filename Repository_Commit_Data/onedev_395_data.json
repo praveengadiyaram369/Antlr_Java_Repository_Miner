@@ -31,30 +31,46 @@
             "_sha_id": "fb16b56e70bbaff180b8d1b1c9da4a5d1fbb9487",
             "_timestamp": "2019-08-20 22:02:58+08:00",
             "_commit_index": 2975,
+            "_changed_files_list": [
+                {
+                    "_file_name": "server-core/src/main/java/io/onedev/server/search/code/query/regex/LiteralVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
+        },
+        {
+            "_sha_id": "ad31fa72b805ef4b5a30dd8325c2b6662834db47",
+            "_timestamp": "2019-05-09 10:00:00+08:00",
+            "_commit_index": 2876,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8b2d72b51806904cf2d384b8e39c2947ec1d6d3e",
-            "_timestamp": "2019-11-22 10:44:56+08:00",
-            "_commit_index": 3074,
+            "_sha_id": "8a0c9d0060c7c17c881d87be231579776c830e24",
+            "_timestamp": "2019-06-18 19:40:21+08:00",
+            "_commit_index": 2925,
+            "_changed_files_list": [
+                {
+                    "_file_name": "server-core/src/main/java/io/onedev/server/search/code/query/regex/LiteralVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
+        },
+        {
+            "_sha_id": "bed7d4694b74fbdabd1bf43573fe89e34721f9ad",
+            "_timestamp": "2019-05-25 08:10:27+08:00",
+            "_commit_index": 2900,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9d2d5c66de2f049a30d9e0de476ea92afdecfde3",
-            "_timestamp": "2019-12-11 15:58:48+08:00",
-            "_commit_index": 3124,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "243359dbc5e084be4bc48d9cb88c47f30325e0cf",
-            "_timestamp": "2019-12-18 11:29:43+08:00",
-            "_commit_index": 3149,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "46379305766c5275efc1ffa7b192a09e786a5895",
-            "_timestamp": "2019-12-20 10:07:47+00:00",
-            "_commit_index": 3161,
+            "_sha_id": "86fa1afdf7bb2fd0966c568fd9b33028e07e3d38",
+            "_timestamp": "2019-05-31 21:15:04+08:00",
+            "_commit_index": 2912,
             "_changed_files_list": []
         },
         {

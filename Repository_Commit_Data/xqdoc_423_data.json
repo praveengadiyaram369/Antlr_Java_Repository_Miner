@@ -13,72 +13,72 @@
             "_sha_id": "1a6278139d887c9db535bda685c26a9a3e20a968",
             "_timestamp": "2018-11-28 09:30:57-05:00",
             "_commit_index": 42,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "51c9467fa73e57ab28bfbbcb4a7de4073f676f05",
-            "_timestamp": "2019-03-01 13:22:47-05:00",
-            "_commit_index": 63,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/org/xqdoc/XQueryVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 12
+                    "_visit_cnt": 10
                 }
             ]
         },
         {
-            "_sha_id": "761bbc18336153ded4b86c2742050730e3367860",
-            "_timestamp": "2018-12-05 19:01:58-05:00",
-            "_commit_index": 52,
+            "_sha_id": "109bf15a6e5e5d9ed1601d3ef98329f3dc6fff99",
+            "_timestamp": "2018-11-21 05:24:00-05:00",
+            "_commit_index": 21,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0f0b092206267d78a8b35e038a14a6d53ea439a2",
+            "_timestamp": "2018-11-23 07:26:42-05:00",
+            "_commit_index": 31,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5cf0540b8aa45242d3a2d5c121d507144ed490f1",
+            "_timestamp": "2018-11-26 08:27:46-05:00",
+            "_commit_index": 36,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "79f64a4a30f250b06aa1b4b996aca701209223d7",
+            "_timestamp": "2018-11-28 07:01:52-05:00",
+            "_commit_index": 39,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/org/xqdoc/XQueryVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 12
+                    "_visit_cnt": 10
                 }
             ]
         },
         {
-            "_sha_id": "0e117c30170745a5d0da8f7694e56fb7662e1d70",
-            "_timestamp": "2018-11-28 11:22:10-05:00",
-            "_commit_index": 47,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6b2d8e153d86c99565b85439a193ab00cd26bec5",
-            "_timestamp": "2018-12-02 08:16:41-05:00",
-            "_commit_index": 49,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "f4a384b54d2dceca5ad8a0b3b1e0cbe4477d9674",
-            "_timestamp": "2018-12-02 08:18:34-05:00",
-            "_commit_index": 50,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "1644dc423abed670ac99d01c8dbebde74941c1c5",
-            "_timestamp": "2018-12-02 12:48:09-05:00",
-            "_commit_index": 51,
+            "_sha_id": "fabb4a0d3f1d9a5ff18af52ba7e8a24a29199b4b",
+            "_timestamp": "2018-11-27 05:47:48-05:00",
+            "_commit_index": 37,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/org/xqdoc/XQueryVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 12
+                    "_visit_cnt": 10
                 }
             ]
         },
         {
-            "_sha_id": "6a097af70b7e4385293f78f1edb4f81366652716",
-            "_timestamp": "2018-11-21 12:53:04-05:00",
-            "_commit_index": 28,
+            "_sha_id": "e0f05e514e514319181854f8547b3d231ba51a3f",
+            "_timestamp": "2018-11-20 10:58:08-05:00",
+            "_commit_index": 16,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "511f376b688fceddcd6bc1793cd1842fbfc98e19",
+            "_timestamp": "2018-11-22 09:15:16-05:00",
+            "_commit_index": 30,
             "_changed_files_list": []
         },
         {

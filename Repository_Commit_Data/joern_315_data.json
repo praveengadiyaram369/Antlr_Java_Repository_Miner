@@ -16,45 +16,90 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
-            "_timestamp": "2015-10-14 14:18:13+02:00",
-            "_commit_index": 734,
+            "_sha_id": "1b1149da40bbb5a2175806b77e37b9931923529c",
+            "_timestamp": "2016-06-14 17:54:40+02:00",
+            "_commit_index": 1101,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
-            "_timestamp": "2015-10-14 14:18:13+02:00",
-            "_commit_index": 734,
+            "_sha_id": "14a5d11f8b4a7c382aeb5d3283304af72033eb11",
+            "_timestamp": "2016-08-28 17:37:53+02:00",
+            "_commit_index": 1285,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
-            "_timestamp": "2015-10-14 14:18:13+02:00",
-            "_commit_index": 734,
+            "_sha_id": "9d6081077492497cd00a0ffa59e2b392d0d3750e",
+            "_timestamp": "2016-09-18 21:01:12+02:00",
+            "_commit_index": 1377,
+            "_changed_files_list": [
+                {
+                    "_file_name": "projects/extensions/joern-fuzzyc/src/main/java/parsing/Functions/CFunctionParseTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 60,
+                    "_exit_cnt": 42,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "projects/extensions/joern-fuzzyc/src/main/java/parsing/Modules/CModuleParserTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "edc66eb5e73d9ac96ee0438f71ed24af5e3b0796",
+            "_timestamp": "2016-09-02 00:49:35+02:00",
+            "_commit_index": 1331,
+            "_changed_files_list": [
+                {
+                    "_file_name": "projects/extensions/joern-fuzzyc/src/main/java/parsing/Functions/CFunctionParseTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 60,
+                    "_exit_cnt": 42,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "projects/extensions/joern-fuzzyc/src/main/java/parsing/Modules/CModuleParserTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "88d6607b244d8d90ffa02523ec808f379465756b",
+            "_timestamp": "2016-08-31 01:46:15+02:00",
+            "_commit_index": 1308,
+            "_changed_files_list": [
+                {
+                    "_file_name": "projects/extensions/joern-fuzzyc/src/main/java/parsing/Functions/CFunctionParseTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 60,
+                    "_exit_cnt": 42,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "projects/extensions/joern-fuzzyc/src/main/java/parsing/Modules/CModuleParserTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "4013bfbad30c4bff75be77ee69329df07e3d0be9",
+            "_timestamp": "2016-08-30 12:21:15+02:00",
+            "_commit_index": 1296,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
-            "_timestamp": "2015-10-14 14:18:13+02:00",
-            "_commit_index": 734,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
-            "_timestamp": "2015-10-14 14:18:13+02:00",
-            "_commit_index": 734,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
-            "_timestamp": "2015-10-14 14:18:13+02:00",
-            "_commit_index": 734,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d3110e9b8867dbc529563fc34096ade5aa49f366",
-            "_timestamp": "2015-10-14 14:18:13+02:00",
-            "_commit_index": 734,
+            "_sha_id": "0bf30d965be0ef13326d7d1682945e71946f3423",
+            "_timestamp": "2016-08-30 19:17:19+02:00",
+            "_commit_index": 1302,
             "_changed_files_list": []
         },
         {

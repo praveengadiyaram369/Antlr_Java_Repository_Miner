@@ -16,46 +16,76 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
-            "_timestamp": "2015-05-11 09:35:15+02:00",
-            "_commit_index": 7987,
+            "_sha_id": "cc9a62d0d7816087c11ad3084221de4b96bf80bb",
+            "_timestamp": "2016-04-21 14:28:41+00:00",
+            "_commit_index": 11980,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
-            "_timestamp": "2015-05-11 09:35:15+02:00",
-            "_commit_index": 7987,
+            "_sha_id": "a878d7885ca7360c246ab59044e1e7bceae2db1a",
+            "_timestamp": "2018-03-13 16:12:38+01:00",
+            "_commit_index": 13977,
+            "_changed_files_list": [
+                {
+                    "_file_name": "graylog2-server/src/main/java/org/graylog/plugins/pipelineprocessor/codegen/CodeGenerator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 24,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "graylog2-server/src/main/java/org/graylog/plugins/pipelineprocessor/parser/PipelineRuleParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 45,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "1ca579d27edfc8e7343d815f88670f147a575379",
+            "_timestamp": "2016-12-06 15:44:43+01:00",
+            "_commit_index": 12978,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
-            "_timestamp": "2015-05-11 09:35:15+02:00",
-            "_commit_index": 7987,
+            "_sha_id": "a22c8c602566804cde7c01c1dec206395861ed41",
+            "_timestamp": "2017-06-26 14:12:31+00:00",
+            "_commit_index": 13477,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
-            "_timestamp": "2015-05-11 09:35:15+02:00",
-            "_commit_index": 7987,
+            "_sha_id": "4ce35e817e46ac7fda1a757019986fabef180691",
+            "_timestamp": "2017-10-17 11:44:07+02:00",
+            "_commit_index": 13727,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
-            "_timestamp": "2015-05-11 09:35:15+02:00",
-            "_commit_index": 7987,
+            "_sha_id": "5a4376dcae4f84e6e61ce736ecb948825faa1493",
+            "_timestamp": "2018-01-18 15:05:27+01:00",
+            "_commit_index": 13852,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
-            "_timestamp": "2015-05-11 09:35:15+02:00",
-            "_commit_index": 7987,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0f212ce291b4a71a8ea9f9ff27cb5cafc648ae59",
-            "_timestamp": "2015-05-11 09:35:15+02:00",
-            "_commit_index": 7987,
-            "_changed_files_list": []
+            "_sha_id": "b4b103cd6ab92decbc8fca677f789ce16ddc53f9",
+            "_timestamp": "2018-02-19 15:55:54+01:00",
+            "_commit_index": 13914,
+            "_changed_files_list": [
+                {
+                    "_file_name": "graylog2-server/src/main/java/org/graylog/plugins/pipelineprocessor/codegen/CodeGenerator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 24,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "graylog2-server/src/main/java/org/graylog/plugins/pipelineprocessor/parser/PipelineRuleParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 45,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "370c8b6a36f39f3723c6432810bf1d14a56b1eef",

@@ -13,49 +13,73 @@
             "_sha_id": "5610b07dba33b21009b8fbb167b4beed903f113d",
             "_timestamp": "2014-01-24 00:32:23+01:00",
             "_commit_index": 2721,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/jaeksoft/searchlib/query/QueryParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "86cc3bb6d43840ad8f7c56f609d9d45c157aef1d",
+            "_timestamp": "2012-10-08 17:36:46+00:00",
+            "_commit_index": 1360,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "330d99b6ffa4c99bac684e44b4cac6a120e9b5dd",
-            "_timestamp": "2014-10-03 18:31:57+02:00",
-            "_commit_index": 4082,
+            "_sha_id": "03337ea676e476a2af5062b7c5db29c3aaef7187",
+            "_timestamp": "2013-09-26 04:22:35-07:00",
+            "_commit_index": 2040,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e1c6b029458cf2a2384f38d3c4ff1f129580fac2",
-            "_timestamp": "2015-02-07 18:06:38+01:00",
-            "_commit_index": 4762,
+            "_sha_id": "a4639412c1ff4250280ba604cfb992a97bf25039",
+            "_timestamp": "2013-11-20 03:26:44-08:00",
+            "_commit_index": 2380,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "36d77ca5eb814ddbe76d13da4279f0fbaf1c3e11",
-            "_timestamp": "2015-09-09 23:09:21+02:00",
-            "_commit_index": 5102,
+            "_sha_id": "6b2ed183cc99e047a40e7091a06baf6811e09f95",
+            "_timestamp": "2013-12-20 00:46:16-08:00",
+            "_commit_index": 2550,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b323870aa630cdadb6a4d0df6b860eeab8d8bf87",
-            "_timestamp": "2016-04-14 17:33:27+02:00",
-            "_commit_index": 5272,
+            "_sha_id": "61b482d3d49e1f60b2053550f0b5b03c37a3742b",
+            "_timestamp": "2014-01-06 13:47:57+01:00",
+            "_commit_index": 2635,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/jaeksoft/searchlib/query/QueryParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "f5c1035b432d964e0ce16f9ee9f0e40d4ad996af",
+            "_timestamp": "2013-12-28 15:50:41+01:00",
+            "_commit_index": 2592,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4d33e3631877bdd29e26e9d5480676a5ba6bfc0a",
-            "_timestamp": "2016-08-08 22:07:21+02:00",
-            "_commit_index": 5357,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b51d29211f77f92ea1ef2a36e379cadcac67c2d1",
-            "_timestamp": "2017-08-09 18:32:53+02:00",
-            "_commit_index": 5400,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0b5217293858b78b7d80f474252d5648b7cccebe",
-            "_timestamp": "2017-09-26 23:28:17+02:00",
-            "_commit_index": 5421,
-            "_changed_files_list": []
+            "_sha_id": "a385c882f5e252fbc13abd3add541c743bcb5001",
+            "_timestamp": "2013-12-31 11:01:19+01:00",
+            "_commit_index": 2613,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/jaeksoft/searchlib/query/QueryParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
             "_sha_id": "a22c6ad1a1237f63ca2c0bbfdf8a627f150e060e",

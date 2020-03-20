@@ -16,46 +16,86 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
-            "_timestamp": "2011-03-07 15:14:32-05:00",
-            "_commit_index": 6187,
+            "_sha_id": "8b9e5a2edd935dd40e6dc30c14829e208d7945f2",
+            "_timestamp": "2014-04-29 17:56:37+02:00",
+            "_commit_index": 9280,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
-            "_timestamp": "2011-03-07 15:14:32-05:00",
-            "_commit_index": 6187,
+            "_sha_id": "11b913dfe04450a66f0cab1aff1d6efe79ac65b6",
+            "_timestamp": "2017-03-27 21:26:49+03:00",
+            "_commit_index": 10827,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
-            "_timestamp": "2011-03-07 15:14:32-05:00",
-            "_commit_index": 6187,
-            "_changed_files_list": []
+            "_sha_id": "aa8f2fa9dc1ffba2bc8734476075dc61a6c9da64",
+            "_timestamp": "2018-06-06 11:23:14+02:00",
+            "_commit_index": 11600,
+            "_changed_files_list": [
+                {
+                    "_file_name": "kie-dmn/kie-dmn-feel/src/main/java/org/kie/dmn/feel/parser/feel11/ASTBuilderVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 54
+                }
+            ]
         },
         {
-            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
-            "_timestamp": "2011-03-07 15:14:32-05:00",
-            "_commit_index": 6187,
-            "_changed_files_list": []
+            "_sha_id": "0896e94cf801e3408910d60e635c57935c3f6ca0",
+            "_timestamp": "2017-10-26 11:38:42+02:00",
+            "_commit_index": 11213,
+            "_changed_files_list": [
+                {
+                    "_file_name": "kie-dmn/kie-dmn-feel/src/main/java/org/kie/dmn/feel/parser/feel11/ASTBuilderVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 54
+                }
+            ]
         },
         {
-            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
-            "_timestamp": "2011-03-07 15:14:32-05:00",
-            "_commit_index": 6187,
-            "_changed_files_list": []
+            "_sha_id": "b4d31860da35d62ea1f80e9421e67cb7e33a5851",
+            "_timestamp": "2017-08-21 17:48:50+03:00",
+            "_commit_index": 11020,
+            "_changed_files_list": [
+                {
+                    "_file_name": "kie-dmn/kie-dmn-feel/src/main/java/org/kie/dmn/feel/parser/feel11/ASTBuilderVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 53
+                }
+            ]
         },
         {
-            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
-            "_timestamp": "2011-03-07 15:14:32-05:00",
-            "_commit_index": 6187,
-            "_changed_files_list": []
+            "_sha_id": "301064d26320a585b19a813677bdb9bca3e088d6",
+            "_timestamp": "2017-05-29 16:21:43-03:00",
+            "_commit_index": 10923,
+            "_changed_files_list": [
+                {
+                    "_file_name": "kie-dmn/kie-dmn-feel/src/main/java/org/kie/dmn/feel/parser/feel11/ASTBuilderVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 53
+                }
+            ]
         },
         {
-            "_sha_id": "17463d358c0e756db336f8fe539ea336ba919c99",
-            "_timestamp": "2011-03-07 15:14:32-05:00",
-            "_commit_index": 6187,
-            "_changed_files_list": []
+            "_sha_id": "169c596e59f75f9ee97cb728b013fed21f543f36",
+            "_timestamp": "2017-04-27 10:08:27+02:00",
+            "_commit_index": 10875,
+            "_changed_files_list": [
+                {
+                    "_file_name": "kie-dmn/kie-dmn-feel/src/main/java/org/kie/dmn/feel/parser/feel11/ASTBuilderVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 53
+                }
+            ]
         },
         {
             "_sha_id": "734e83196b1ec8c40b2cc8c24872e130f5e09c82",

@@ -45,31 +45,31 @@
             "_commit_index": 62,
             "_changed_files_list": [
                 {
-                    "_file_name": "plugin/src/net/certiv/fluentmark/dot/ContextVisitor.java",
+                    "_file_name": "plugin/src/net/certiv/fluentmark/dot/VerifyVisitor.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 1,
+                    "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 0
                 },
                 {
-                    "_file_name": "plugin/src/net/certiv/fluentmark/dot/VerifyVisitor.java",
+                    "_file_name": "plugin/src/net/certiv/fluentmark/dot/ContextVisitor.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 0,
+                    "_enter_cnt": 1,
                     "_exit_cnt": 0,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "81b43c45e3c0a8d4c8445cb277190d6067f4c1a7",
-            "_timestamp": "2017-12-21 20:36:24-08:00",
-            "_commit_index": 23,
+            "_sha_id": "c6c1efa42a999370a5eaf31660ea701b9c151bd7",
+            "_timestamp": "2016-12-21 15:34:14-08:00",
+            "_commit_index": 7,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8c2cc906cdb0b22618e834cffa12a19f28c231b1",
-            "_timestamp": "2018-08-07 17:19:19-07:00",
-            "_commit_index": 53,
+            "_sha_id": "6d2e9c5c26b8973e8e7216f95ae226b75e90fb98",
+            "_timestamp": "2018-02-22 15:34:23-08:00",
+            "_commit_index": 48,
             "_changed_files_list": []
         },
         {

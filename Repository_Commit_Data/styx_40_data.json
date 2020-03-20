@@ -9,68 +9,188 @@
             "_commit_index": 1,
             "_changed_files_list": [
                 {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/StringCompareVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
                     "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/ExpressionVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 7
-                },
+                }
+            ]
+        },
+        {
+            "_sha_id": "03a02b9d08542981037027b95fe72648f34d89a1",
+            "_timestamp": "2018-10-29 14:39:41+00:00",
+            "_commit_index": 261,
+            "_changed_files_list": [
                 {
                     "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/StringCompareVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
                 }
             ]
         },
         {
-            "_sha_id": "5449484bf048b025680c309f4987e2a8c2466929",
-            "_timestamp": "2018-09-17 10:09:53+01:00",
-            "_commit_index": 237,
-            "_changed_files_list": []
+            "_sha_id": "8b3fa53d36b406e35eb100b195f4ee9e43b0dc74",
+            "_timestamp": "2019-06-10 13:20:31+01:00",
+            "_commit_index": 340,
+            "_changed_files_list": [
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/StringCompareVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
         },
         {
-            "_sha_id": "4536a1788e7ba9a50e9c85fc3885f1912b4e59fe",
-            "_timestamp": "2019-03-15 16:16:25+00:00",
-            "_commit_index": 310,
-            "_changed_files_list": []
+            "_sha_id": "264193de60f1e8b620938991c3fc02666ea3d8db",
+            "_timestamp": "2019-12-10 09:26:34+00:00",
+            "_commit_index": 442,
+            "_changed_files_list": [
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/StringCompareVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
         },
         {
-            "_sha_id": "9018acf484a50241fb09242ce8ee408a0d73cbc9",
-            "_timestamp": "2019-10-02 20:35:55+01:00",
-            "_commit_index": 382,
-            "_changed_files_list": []
+            "_sha_id": "9f91ee2a2a3ec159dee2bd2fecc2197088c50697",
+            "_timestamp": "2018-09-14 09:18:52+01:00",
+            "_commit_index": 235,
+            "_changed_files_list": [
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/StringCompareVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
         },
         {
-            "_sha_id": "dc03c902e879a5ce57dd9df4d553ed25c020a114",
-            "_timestamp": "2018-11-19 12:35:11+00:00",
-            "_commit_index": 284,
-            "_changed_files_list": []
+            "_sha_id": "9a417836567713adba8ee88d69921a8868f365dc",
+            "_timestamp": "2018-09-12 11:57:38+01:00",
+            "_commit_index": 233,
+            "_changed_files_list": [
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/StringCompareVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
         },
         {
-            "_sha_id": "3865b83a3e3c1ea20d1431707334a918fc1a8945",
-            "_timestamp": "2018-08-23 10:40:22+01:00",
-            "_commit_index": 205,
-            "_changed_files_list": []
+            "_sha_id": "d8d256f50bce4a0c1484ed42b2bde26377ccc5fd",
+            "_timestamp": "2018-08-06 08:29:04+01:00",
+            "_commit_index": 186,
+            "_changed_files_list": [
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/StringCompareVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
         },
         {
-            "_sha_id": "b3f194659c90080e5a639660eca8b7ee5fc829b1",
-            "_timestamp": "2019-10-30 08:28:24-05:00",
-            "_commit_index": 411,
-            "_changed_files_list": []
+            "_sha_id": "08a62b719447c1244b859c459f763e4cab51f191",
+            "_timestamp": "2018-09-03 13:23:57+01:00",
+            "_commit_index": 224,
+            "_changed_files_list": [
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/StringCompareVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
         },
         {
-            "_sha_id": "f001fb77c115627d0ced164cc0511c7a220eff13",
-            "_timestamp": "2018-03-28 14:30:16+01:00",
-            "_commit_index": 119,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "aea728fa94e0b36f63d23240125e4e59a4c46be2",
-            "_timestamp": "2018-08-23 15:20:43+01:00",
-            "_commit_index": 198,
-            "_changed_files_list": []
+            "_sha_id": "9139b5f543579f89ad3f20b495e2df214cc01fd4",
+            "_timestamp": "2019-06-10 16:05:44+01:00",
+            "_commit_index": 347,
+            "_changed_files_list": [
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/StringCompareVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "components/server/src/main/java/com/hotels/styx/server/routing/antlr/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
         },
         {
             "_sha_id": "3a3fbb2d0e3c19241b607b96aa4d0f29199fc2ee",

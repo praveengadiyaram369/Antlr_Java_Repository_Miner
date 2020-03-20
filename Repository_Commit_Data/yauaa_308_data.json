@@ -13,48 +13,213 @@
             "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
             "_timestamp": "2017-12-06 11:58:08+01:00",
             "_commit_index": 824,
+            "_changed_files_list": [
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/UserAgent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/NumberRangeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/MatcherAction.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/WordRangeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/treewalker/steps/WalkList.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 31
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/treewalker/steps/walk/stepdown/UserAgentGetChildrenVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 13
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/parse/UserAgentTreeFlattener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 32,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "4734bc62b029abd38154153f6cbdaadcf86ee7ef",
+            "_timestamp": "2017-01-06 00:17:01+01:00",
+            "_commit_index": 412,
+            "_changed_files_list": [
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/UserAgent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/NumberRangeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/MatcherAction.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/WordRangeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/treewalker/steps/WalkList.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/parse/UserAgentTreeFlattener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 31,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "4e887ee3bfd952421396de5250d0cc04c1fe4de9",
+            "_timestamp": "2016-08-30 12:17:43+02:00",
+            "_commit_index": 206,
+            "_changed_files_list": [
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/UserAgent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/NumberRangeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/MatcherAction.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/treewalker/steps/WalkList.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 19
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/parse/UserAgentTreeFlattener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 31,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "7b1cb6aa88f7a2095a596f7e0a78e2e7deec8c36",
+            "_timestamp": "2016-07-27 23:14:29+02:00",
+            "_commit_index": 103,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
-            "_timestamp": "2017-12-06 11:58:08+01:00",
-            "_commit_index": 824,
+            "_sha_id": "098ce30f2b458d488070405b6f3d42908b5555a9",
+            "_timestamp": "2016-08-07 16:01:25+02:00",
+            "_commit_index": 154,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
-            "_timestamp": "2017-12-06 11:58:08+01:00",
-            "_commit_index": 824,
+            "_sha_id": "e3cf911b188ec622a30c71d7e09440b088f745f4",
+            "_timestamp": "2016-08-15 23:29:11+02:00",
+            "_commit_index": 180,
+            "_changed_files_list": [
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/UserAgent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/NumberRangeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/MatcherAction.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/analyze/treewalker/steps/WalkList.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 19
+                },
+                {
+                    "_file_name": "analyzer/src/main/java/nl/basjes/parse/useragent/parse/UserAgentTreeFlattener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 31,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "8fe8a7f86ce038fd07d609727b1ae9f94ec0bdc6",
+            "_timestamp": "2016-08-07 23:19:13+02:00",
+            "_commit_index": 167,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
-            "_timestamp": "2017-12-06 11:58:08+01:00",
-            "_commit_index": 824,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
-            "_timestamp": "2017-12-06 11:58:08+01:00",
-            "_commit_index": 824,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
-            "_timestamp": "2017-12-06 11:58:08+01:00",
-            "_commit_index": 824,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
-            "_timestamp": "2017-12-06 11:58:08+01:00",
-            "_commit_index": 824,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b8d94b08854489bfa86ce2d4bb933fb9aab95bc3",
-            "_timestamp": "2017-12-06 11:58:08+01:00",
-            "_commit_index": 824,
+            "_sha_id": "972627223aa9bc4bcf7a61f370fc9f67ddb0a212",
+            "_timestamp": "2016-08-08 10:48:14+02:00",
+            "_commit_index": 173,
             "_changed_files_list": []
         },
         {

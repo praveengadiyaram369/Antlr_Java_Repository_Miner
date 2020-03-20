@@ -13,49 +13,183 @@
             "_sha_id": "5525cdccc7661c84030676072a8d06ce956404c1",
             "_timestamp": "2014-04-05 20:26:51-05:00",
             "_commit_index": 369,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices/ResultExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "6715944faa2b4220c4fafb44e70bf886dac247fe",
             "_timestamp": "2015-02-11 13:45:56-06:00",
             "_commit_index": 554,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices2/ModelExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices/ResultExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "bc3eb1911db2c8f62acc0fe32db45f47fb7d1bce",
             "_timestamp": "2016-03-25 15:17:08-05:00",
             "_commit_index": 646,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "jkind-common/src/jkind/lustre/parsing/LustreToAstVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 28
+                },
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices2/ModelExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices/ResultExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "b0b87334d35fd0a55a6d6d8b2b93e28b0baf9075",
-            "_timestamp": "2017-11-27 09:30:38-06:00",
-            "_commit_index": 692,
-            "_changed_files_list": []
+            "_sha_id": "3e8820c34f218d620dacfbccb7f163a338be4e20",
+            "_timestamp": "2015-10-29 15:24:52-05:00",
+            "_commit_index": 600,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices2/ModelExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices/ResultExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "fbe6d2d85325e1a82df466bea27d3f0edaafa0ce",
-            "_timestamp": "2018-01-12 11:24:10-06:00",
-            "_commit_index": 715,
-            "_changed_files_list": []
+            "_sha_id": "e4617bc2cdb22cfb7e9d7d1f0aea066b26c32098",
+            "_timestamp": "2016-02-10 08:37:29-06:00",
+            "_commit_index": 623,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices2/ModelExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices/ResultExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "aee5e738c463d015326f1329deaa5712ce7d95b4",
-            "_timestamp": "2018-08-31 20:02:18-05:00",
-            "_commit_index": 727,
-            "_changed_files_list": []
+            "_sha_id": "ed51e561316be0dd49551deb319ca56ec24cd455",
+            "_timestamp": "2016-03-18 21:36:37-05:00",
+            "_commit_index": 634,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jkind-common/src/jkind/lustre/parsing/LustreToAstVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 28
+                },
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices2/ModelExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices/ResultExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "67b6c7a720f1c69072b0a73dd1d090732ab548b7",
-            "_timestamp": "2019-05-09 21:35:58-05:00",
-            "_commit_index": 733,
-            "_changed_files_list": []
+            "_sha_id": "c2dff6527f149e3d1f459c377cc63f8f17cd95c6",
+            "_timestamp": "2016-03-16 21:54:12-05:00",
+            "_commit_index": 628,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jkind-common/src/jkind/lustre/parsing/LustreToAstVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 28
+                },
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices2/ModelExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices/ResultExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "3b8ee2cebc0f339cef7fad5086de77eafa0a2d9d",
-            "_timestamp": "2019-05-10 22:28:59-05:00",
-            "_commit_index": 736,
-            "_changed_files_list": []
+            "_sha_id": "1ed950cd8a72d655a1a3f66b8f885808249a247f",
+            "_timestamp": "2016-03-03 12:29:14-06:00",
+            "_commit_index": 625,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices2/ModelExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "jkind/src/jkind/solvers/yices/ResultExtractorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "cc5f0ba0c0ae0cb4b5849dc9196509b418a7ce26",

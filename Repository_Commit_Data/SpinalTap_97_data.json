@@ -13,49 +13,105 @@
             "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
             "_timestamp": "2018-07-27 14:28:44-07:00",
             "_commit_index": 53,
+            "_changed_files_list": [
+                {
+                    "_file_name": "spinaltap-mysql/src/main/java/com/airbnb/spinaltap/mysql/schema/MysqlSchemaDatabase.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "eb167035ccdb53ac01f772f6222ec0a89fd057c5",
+            "_timestamp": "2018-03-27 14:14:56-07:00",
+            "_commit_index": 26,
+            "_changed_files_list": [
+                {
+                    "_file_name": "spinaltap-mysql/src/main/java/com/airbnb/spinaltap/mysql/schema/MysqlSchemaDatabase.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "03df2a0a6a01491f85a7609c50a2b8361e87ef87",
+            "_timestamp": "2018-04-08 17:03:59-07:00",
+            "_commit_index": 13,
+            "_changed_files_list": [
+                {
+                    "_file_name": "spinaltap-mysql/src/main/java/com/airbnb/spinaltap/mysql/schema/MysqlSchemaDatabase.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "8ad1120c97bc0c0dc5a0f5246be57bde5b935604",
+            "_timestamp": "2018-03-27 15:14:10-07:00",
+            "_commit_index": 6,
+            "_changed_files_list": [
+                {
+                    "_file_name": "spinaltap-mysql/src/main/java/com/airbnb/spinaltap/mysql/schema/MysqlSchemaDatabase.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "d0185a837c29aa51ad961393299b74b9d884aae6",
+            "_timestamp": "2018-03-12 12:22:58-07:00",
+            "_commit_index": 3,
+            "_changed_files_list": [
+                {
+                    "_file_name": "spinaltap-mysql/src/main/java/com/airbnb/spinaltap/mysql/schema/MysqlSchemaDatabase.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "54612abd0ffeec463620c153d077216c38e647cf",
+            "_timestamp": "2018-02-28 17:23:19-08:00",
+            "_commit_index": 1,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
-            "_timestamp": "2018-07-27 14:28:44-07:00",
-            "_commit_index": 53,
-            "_changed_files_list": []
+            "_sha_id": "591517b966f64d2a45c21c2ae6760a4dc09a6788",
+            "_timestamp": "2018-02-28 17:57:11-08:00",
+            "_commit_index": 2,
+            "_changed_files_list": [
+                {
+                    "_file_name": "spinaltap-mysql/src/main/java/com/airbnb/spinaltap/mysql/schema/MysqlSchemaDatabase.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
-            "_timestamp": "2018-07-27 14:28:44-07:00",
-            "_commit_index": 53,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
-            "_timestamp": "2018-07-27 14:28:44-07:00",
-            "_commit_index": 53,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
-            "_timestamp": "2018-07-27 14:28:44-07:00",
-            "_commit_index": 53,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
-            "_timestamp": "2018-07-27 14:28:44-07:00",
-            "_commit_index": 53,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
-            "_timestamp": "2018-07-27 14:28:44-07:00",
-            "_commit_index": 53,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6709de5bddeb28c6b823fe172311abac080074e0",
-            "_timestamp": "2018-07-27 14:28:44-07:00",
-            "_commit_index": 53,
-            "_changed_files_list": []
+            "_sha_id": "fe1d7b1628339d68a1b662e76ce220cefa944f84",
+            "_timestamp": "2018-04-04 19:35:53-07:00",
+            "_commit_index": 8,
+            "_changed_files_list": [
+                {
+                    "_file_name": "spinaltap-mysql/src/main/java/com/airbnb/spinaltap/mysql/schema/MysqlSchemaDatabase.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "9f372539652bb10a2358bf8eb6bdea1da2e42a61",

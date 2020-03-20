@@ -27,21 +27,20 @@
             "_sha_id": "fb1f556579e93c7bd23a4a9bd946533043e618fc",
             "_timestamp": "2019-03-10 22:31:35+08:00",
             "_commit_index": 6,
-            "_changed_files_list": [
-                {
-                    "_file_name": "apktool/src/main/java/com/a4455jkjh/smali/ClassMaker.java",
-                    "_is_antlr_file": false,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 0
-                }
-            ]
+            "_changed_files_list": []
         },
         {
             "_sha_id": "6b6abb2bf9c6b0feccd658053a531cb75280e8f5",
             "_timestamp": "2019-04-08 19:10:33+08:00",
             "_commit_index": 7,
             "_changed_files_list": [
+                {
+                    "_file_name": "apktool/src/main/java/com/a4455jkjh/smali/ClassMaker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 50
+                },
                 {
                     "_file_name": "apktool/src/main/java/com/a4455jkjh/apktool/lexer/JavaFormatter.java",
                     "_is_antlr_file": true,
@@ -65,13 +64,6 @@
                 },
                 {
                     "_file_name": "apktool/src/main/java/com/a4455jkjh/apktool/service/ReferenceFinder.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 50
-                },
-                {
-                    "_file_name": "apktool/src/main/java/com/a4455jkjh/smali/ClassMaker.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,

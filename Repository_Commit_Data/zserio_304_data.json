@@ -15,11 +15,25 @@
             "_commit_index": 341,
             "_changed_files_list": [
                 {
+                    "_file_name": "compiler/core/src/zserio/ast/DocCommentAstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                },
+                {
                     "_file_name": "compiler/core/src/zserio/ast/ZserioAstBuilder.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 68
+                },
+                {
+                    "_file_name": "compiler/core/src/zserio/ast/ZserioParseTreeChecker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
                 }
             ]
         },
@@ -63,7 +77,29 @@
             "_sha_id": "5b559911bec40af69745525d20f562e9276f8cd5",
             "_timestamp": "2019-05-06 14:37:36+02:00",
             "_commit_index": 338,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "compiler/core/src/zserio/ast/DocCommentAstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                },
+                {
+                    "_file_name": "compiler/core/src/zserio/ast/ZserioAstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 68
+                },
+                {
+                    "_file_name": "compiler/core/src/zserio/ast/ZserioParseTreeChecker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                }
+            ]
         },
         {
             "_sha_id": "f89401eb25a778ae5d52c5484675579e281a80b7",

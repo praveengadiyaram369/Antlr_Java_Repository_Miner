@@ -10,9 +10,15 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "d9e971484f9e01e0ca7940d7fb22e728afa6718b",
-            "_timestamp": "2015-09-13 09:54:51+02:00",
-            "_commit_index": 29,
+            "_sha_id": "f873ce6415c4e88175f1e22fa2f68c8e985cb032",
+            "_timestamp": "2015-06-23 22:25:30+02:00",
+            "_commit_index": 8,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "ca2c2548253f6f087c8e177dcc31268c1287ce07",
+            "_timestamp": "2015-09-14 09:24:29+02:00",
+            "_commit_index": 31,
             "_changed_files_list": []
         },
         {
@@ -22,27 +28,9 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "a3164c8cfd9bd88a605b28d17352b9b7eeda6be5",
-            "_timestamp": "2015-09-11 18:53:55+02:00",
-            "_commit_index": 25,
-            "_changed_files_list": []
-        },
-        {
             "_sha_id": "efda5c24620415226f650898d50ccd432a41a851",
             "_timestamp": "2015-06-16 08:14:47+02:00",
             "_commit_index": 2,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "e0bf07e828b9a4b3673a2718fff3c4dff98e9e2a",
-            "_timestamp": "2015-09-09 20:31:41+02:00",
-            "_commit_index": 23,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "3f0367eb5cc6ebdaed209ef66ae5bff2b55bf3c9",
-            "_timestamp": "2015-07-08 09:36:40+02:00",
-            "_commit_index": 10,
             "_changed_files_list": []
         },
         {
@@ -52,9 +40,21 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e6823e567443fd548ac02b06f44faaf7e37d4fcf",
-            "_timestamp": "2015-06-19 17:55:03+02:00",
-            "_commit_index": 5,
+            "_sha_id": "2bb1fc1c9a0ddd77b42d104aa4f80319a92bc79a",
+            "_timestamp": "2015-08-07 11:31:45+02:00",
+            "_commit_index": 16,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "31c08acc7ae294aae70c382693577fc7faee273f",
+            "_timestamp": "2015-09-12 17:50:23+02:00",
+            "_commit_index": 27,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "3faae32b9f7999d358c694969255c9898676b5d7",
+            "_timestamp": "2015-06-16 09:00:59+02:00",
+            "_commit_index": 4,
             "_changed_files_list": []
         },
         {

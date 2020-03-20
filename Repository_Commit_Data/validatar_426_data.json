@@ -25,37 +25,69 @@
             "_sha_id": "94a0d74423583d62e17d31af735764549da2ba15",
             "_timestamp": "2017-07-19 15:47:24-07:00",
             "_commit_index": 219,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/yahoo/validatar/assertion/AssertVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 24
+                }
+            ]
+        },
+        {
+            "_sha_id": "59e25b9d5e7e531d669a92392fe12ed8f542f8f8",
+            "_timestamp": "2016-09-27 13:53:37-07:00",
+            "_commit_index": 203,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "432a723e795d152cae630e2dd7cad4158bc0ce81",
-            "_timestamp": "2017-12-15 17:04:52-08:00",
-            "_commit_index": 235,
+            "_sha_id": "4236f78e2ced2f6e92966740aeb3407564eaef8f",
+            "_timestamp": "2017-07-19 15:12:42-07:00",
+            "_commit_index": 211,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/yahoo/validatar/assertion/AssertVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 24
+                }
+            ]
+        },
+        {
+            "_sha_id": "47ceff81bfc0554eed0c4bafe78447fececde2e4",
+            "_timestamp": "2016-10-18 10:13:20-07:00",
+            "_commit_index": 207,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "1fc2d95e7b390b07bb22850c965904e238d0997d",
-            "_timestamp": "2018-01-18 10:28:48-08:00",
-            "_commit_index": 243,
-            "_changed_files_list": []
+            "_sha_id": "81a34f242ac0a26d96ae89106dd80512a9ac36e4",
+            "_timestamp": "2017-07-19 11:55:28-07:00",
+            "_commit_index": 209,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/yahoo/validatar/assertion/AssertVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 24
+                }
+            ]
         },
         {
-            "_sha_id": "fc49386b056c88d53ec4f5b027c68caf9f6b6324",
-            "_timestamp": "2019-05-08 16:39:10-07:00",
-            "_commit_index": 247,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d07ca4fdd4baf582679a12e7ba0ccaa14f08a37d",
-            "_timestamp": "2019-05-10 17:02:53-07:00",
-            "_commit_index": 249,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "bb3a119bad5374c0dbda7fa43d892048236a1eb7",
-            "_timestamp": "2019-05-10 17:04:54-07:00",
-            "_commit_index": 250,
-            "_changed_files_list": []
+            "_sha_id": "f13a875adb419aed34d7015bc4949209ec0136f4",
+            "_timestamp": "2017-07-18 15:07:17-07:00",
+            "_commit_index": 208,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/yahoo/validatar/assertion/AssertVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 24
+                }
+            ]
         },
         {
             "_sha_id": "674c6b21bb99539a61d4b0ff9f4249ccc3919ef9",

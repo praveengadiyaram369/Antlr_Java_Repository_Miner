@@ -27,43 +27,99 @@
             "_sha_id": "fbe864198e7817f9e1e694029d8a01d76a8e0294",
             "_timestamp": "2015-07-01 22:09:47+09:00",
             "_commit_index": 55,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "octopus-core/src/main/java/kr/co/bitnine/octopus/sql/OctopusSql.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "fbe864198e7817f9e1e694029d8a01d76a8e0294",
-            "_timestamp": "2015-07-01 22:09:47+09:00",
-            "_commit_index": 55,
-            "_changed_files_list": []
+            "_sha_id": "e3ebf7b6eb0486f2adaad21495617896a50ebc60",
+            "_timestamp": "2015-08-05 19:20:53+09:00",
+            "_commit_index": 82,
+            "_changed_files_list": [
+                {
+                    "_file_name": "octopus-core/src/main/java/kr/co/bitnine/octopus/sql/OctopusSql.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "fbe864198e7817f9e1e694029d8a01d76a8e0294",
-            "_timestamp": "2015-07-01 22:09:47+09:00",
-            "_commit_index": 55,
-            "_changed_files_list": []
+            "_sha_id": "f5adba89f542ea0725c0258412c5c03c6cd78e9b",
+            "_timestamp": "2015-09-01 10:04:36+09:00",
+            "_commit_index": 96,
+            "_changed_files_list": [
+                {
+                    "_file_name": "octopus-core/src/main/java/kr/co/bitnine/octopus/sql/OctopusSql.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "fbe864198e7817f9e1e694029d8a01d76a8e0294",
-            "_timestamp": "2015-07-01 22:09:47+09:00",
-            "_commit_index": 55,
-            "_changed_files_list": []
+            "_sha_id": "7990345898490685841ec42621f38f9d24e7900f",
+            "_timestamp": "2015-09-02 19:33:50+09:00",
+            "_commit_index": 103,
+            "_changed_files_list": [
+                {
+                    "_file_name": "octopus-core/src/main/java/kr/co/bitnine/octopus/sql/OctopusSql.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 21,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "fbe864198e7817f9e1e694029d8a01d76a8e0294",
-            "_timestamp": "2015-07-01 22:09:47+09:00",
-            "_commit_index": 55,
-            "_changed_files_list": []
+            "_sha_id": "2bcaaa936b9b24ca9aa63ff2681d69b4a83e16ff",
+            "_timestamp": "2015-09-24 18:33:26+09:00",
+            "_commit_index": 165,
+            "_changed_files_list": [
+                {
+                    "_file_name": "octopus-core/src/main/java/kr/co/bitnine/octopus/sql/OctopusSql.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 43,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "fbe864198e7817f9e1e694029d8a01d76a8e0294",
-            "_timestamp": "2015-07-01 22:09:47+09:00",
-            "_commit_index": 55,
-            "_changed_files_list": []
+            "_sha_id": "a72ab4bfd31bd98b6d422f964f9e0baf85599519",
+            "_timestamp": "2015-09-01 17:44:30+09:00",
+            "_commit_index": 99,
+            "_changed_files_list": [
+                {
+                    "_file_name": "octopus-core/src/main/java/kr/co/bitnine/octopus/sql/OctopusSql.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 15,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "fbe864198e7817f9e1e694029d8a01d76a8e0294",
-            "_timestamp": "2015-07-01 22:09:47+09:00",
-            "_commit_index": 55,
-            "_changed_files_list": []
+            "_sha_id": "94a27612b3682fbc8a183bd7c01a59bb982dbb97",
+            "_timestamp": "2015-09-03 00:21:17+09:00",
+            "_commit_index": 106,
+            "_changed_files_list": [
+                {
+                    "_file_name": "octopus-core/src/main/java/kr/co/bitnine/octopus/sql/OctopusSql.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 21,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "1f3462be753440e4d1bcca57c1e5aa853625bc47",

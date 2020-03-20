@@ -19,42 +19,66 @@
             "_sha_id": "a9fe5194d951ce2aede229d820d028d8a1c89874",
             "_timestamp": "2016-10-20 16:12:13+02:00",
             "_commit_index": 399,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugin/src/main/java/org/graylog/plugins/pipelineprocessor/parser/PipelineRuleParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 45,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "944c7b93e558d6ec19e358b5830a3a441c4e6e60",
+            "_timestamp": "2016-08-16 12:35:14+02:00",
+            "_commit_index": 332,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "7bd5a2b1eb006f4a46a3c9e833eca79a6a365c90",
-            "_timestamp": "2017-02-17 14:35:56+01:00",
-            "_commit_index": 466,
+            "_sha_id": "8e582ba621ef86d6e1d765a7689f8910cde4f347",
+            "_timestamp": "2016-10-12 18:46:46+02:00",
+            "_commit_index": 365,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugin/src/main/java/org/graylog/plugins/pipelineprocessor/parser/PipelineRuleParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 45,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "83a04074c3b885a9f4329583e9526425460010d5",
+            "_timestamp": "2016-08-25 13:13:29+02:00",
+            "_commit_index": 348,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "90ebd0b46dd0840f798858420a019fe601331048",
-            "_timestamp": "2017-09-21 15:19:31+02:00",
-            "_commit_index": 499,
+            "_sha_id": "fcd9e895ff4e2ac903d770b278b04c8a47c4aeb8",
+            "_timestamp": "2016-09-13 12:21:33+02:00",
+            "_commit_index": 356,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "07be7bb7c7f6e84e0187de2ce90129490e4f8e2b",
-            "_timestamp": "2017-10-19 17:15:03+02:00",
-            "_commit_index": 516,
-            "_changed_files_list": []
+            "_sha_id": "191e3b98a5e23a308fe16d14eaf9cf7936fe6b0e",
+            "_timestamp": "2016-10-07 13:14:10+02:00",
+            "_commit_index": 360,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugin/src/main/java/org/graylog/plugins/pipelineprocessor/parser/PipelineRuleParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 45,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "5b4182a87b659f682281ad58861eccbeea05b12b",
-            "_timestamp": "2018-01-18 13:38:53+01:00",
-            "_commit_index": 524,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "7edd5f7f8f7c7ff0c246fe240397727ce5b8a6c6",
-            "_timestamp": "2018-02-15 10:49:50+01:00",
-            "_commit_index": 528,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "b55cb7e7430c15ab83028feab1f280ecce3d43f1",
-            "_timestamp": "2018-02-15 11:00:08+01:00",
-            "_commit_index": 530,
+            "_sha_id": "699c3e350ac716bac1c428cb4811e1891ec8f843",
+            "_timestamp": "2016-09-28 15:35:21+02:00",
+            "_commit_index": 358,
             "_changed_files_list": []
         },
         {

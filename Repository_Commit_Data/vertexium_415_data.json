@@ -16,45 +16,69 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0d61d31c0b27d71f988a14f1a520ae49ecc6f2c7",
-            "_timestamp": "2016-06-20 09:07:12-04:00",
-            "_commit_index": 553,
+            "_sha_id": "182242bddbc7f7a0de46e106673a555f64c08053",
+            "_timestamp": "2018-02-12 15:23:40-05:00",
+            "_commit_index": 830,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cypher/src/main/java/org/vertexium/cypher/ast/CypherCstToAstVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 89
+                }
+            ]
+        },
+        {
+            "_sha_id": "fb370350fd1cab353f007209dbf1997fb7a9617c",
+            "_timestamp": "2017-05-16 22:00:45-04:00",
+            "_commit_index": 691,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cypher/src/main/java/org/vertexium/cypher/ast/CypherCstToAstVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 89
+                }
+            ]
+        },
+        {
+            "_sha_id": "b1c35f0f4b96dd484a102966dfd9a8872346f324",
+            "_timestamp": "2016-12-22 21:28:51-05:00",
+            "_commit_index": 622,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0d61d31c0b27d71f988a14f1a520ae49ecc6f2c7",
-            "_timestamp": "2016-06-20 09:07:12-04:00",
-            "_commit_index": 553,
+            "_sha_id": "331b343309a7cf5eddad17d748bd9486aa9c0fcc",
+            "_timestamp": "2017-03-22 20:31:14-04:00",
+            "_commit_index": 656,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0d61d31c0b27d71f988a14f1a520ae49ecc6f2c7",
-            "_timestamp": "2016-06-20 09:07:12-04:00",
-            "_commit_index": 553,
+            "_sha_id": "447a7cc886b6148e4901300bd7c80720c1ae8edb",
+            "_timestamp": "2017-04-26 16:11:16-04:00",
+            "_commit_index": 673,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0d61d31c0b27d71f988a14f1a520ae49ecc6f2c7",
-            "_timestamp": "2016-06-20 09:07:12-04:00",
-            "_commit_index": 553,
-            "_changed_files_list": []
+            "_sha_id": "4ad4117bdc3a7e676aa7c29a58cc16a8ef82e295",
+            "_timestamp": "2017-05-06 08:37:06-04:00",
+            "_commit_index": 682,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cypher/src/main/java/org/vertexium/cypher/ast/CypherCstToAstVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 89
+                }
+            ]
         },
         {
-            "_sha_id": "0d61d31c0b27d71f988a14f1a520ae49ecc6f2c7",
-            "_timestamp": "2016-06-20 09:07:12-04:00",
-            "_commit_index": 553,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0d61d31c0b27d71f988a14f1a520ae49ecc6f2c7",
-            "_timestamp": "2016-06-20 09:07:12-04:00",
-            "_commit_index": 553,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0d61d31c0b27d71f988a14f1a520ae49ecc6f2c7",
-            "_timestamp": "2016-06-20 09:07:12-04:00",
-            "_commit_index": 553,
+            "_sha_id": "5f44a5df650237d4db08027b5c3b6abf1022bd7f",
+            "_timestamp": "2017-05-02 17:42:29-04:00",
+            "_commit_index": 677,
             "_changed_files_list": []
         },
         {

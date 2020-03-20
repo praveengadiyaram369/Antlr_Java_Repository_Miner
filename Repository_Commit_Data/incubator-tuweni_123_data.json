@@ -13,49 +13,497 @@
             "_sha_id": "1e7339b3fc27f4ec083fde7c3ab7d5e749721261",
             "_timestamp": "2019-06-02 06:52:21-05:00",
             "_commit_index": 124,
+            "_changed_files_list": [
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LineVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ArrayVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/InlineTableVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LocalTimeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/KeyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/QuotedStringVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ZoneOffsetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LocalDateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
+        },
+        {
+            "_sha_id": "2afa2956d3875062028104af9500e8ab4fd9c1e0",
+            "_timestamp": "2019-05-04 17:51:19-07:00",
+            "_commit_index": 62,
+            "_changed_files_list": [
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LineVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ArrayVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/InlineTableVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LocalTimeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/KeyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/QuotedStringVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ZoneOffsetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LocalDateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
+        },
+        {
+            "_sha_id": "ec647af92a1ba8537b2723e7f3d0b690eb1dc2d3",
+            "_timestamp": "2019-04-22 14:11:23-07:00",
+            "_commit_index": 31,
+            "_changed_files_list": [
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LineVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ArrayVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/InlineTableVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LocalTimeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/KeyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/QuotedStringVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ZoneOffsetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LocalDateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
+        },
+        {
+            "_sha_id": "b6df939659f3e1b976fb5711ee245195b0bf614d",
+            "_timestamp": "2019-04-06 23:29:02-07:00",
+            "_commit_index": 15,
+            "_changed_files_list": [
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LineVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ArrayVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/InlineTableVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LocalTimeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/KeyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/QuotedStringVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ZoneOffsetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LocalDateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
+        },
+        {
+            "_sha_id": "0e01b32e42912b0b03d4ac01ee752d5a2b74de82",
+            "_timestamp": "2019-04-03 00:07:43-07:00",
+            "_commit_index": 7,
+            "_changed_files_list": [
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LineVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ArrayVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/InlineTableVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LocalTimeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/KeyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/QuotedStringVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ZoneOffsetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LocalDateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
+        },
+        {
+            "_sha_id": "b8d42bdf8eb5257a7dde201ee9af1c9abe2bf1ba",
+            "_timestamp": "2019-04-02 22:53:58-07:00",
+            "_commit_index": 3,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "f0cb62cabb012493e2cf123c824c08fa91a4059b",
-            "_timestamp": "2019-09-23 17:48:34+01:00",
-            "_commit_index": 186,
-            "_changed_files_list": []
+            "_sha_id": "a609c89e64bcc76db6d45a86a009c2cd07c3c00f",
+            "_timestamp": "2019-04-02 23:27:18-07:00",
+            "_commit_index": 5,
+            "_changed_files_list": [
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LineVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ArrayVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/InlineTableVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LocalTimeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/KeyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/QuotedStringVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ZoneOffsetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LocalDateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
         },
         {
-            "_sha_id": "505e22ad8e46fdf702b261f39f1277310ea4ac8a",
-            "_timestamp": "2019-11-05 17:25:02+03:00",
-            "_commit_index": 217,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "bb786f7fc39ac435afdb564a4b13b294897cb433",
-            "_timestamp": "2019-11-21 10:32:07-08:00",
-            "_commit_index": 232,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "e1114ee773dbf032607161bd6912efff07af2ea2",
-            "_timestamp": "2019-11-30 14:34:52-08:00",
-            "_commit_index": 240,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "3c239818a42aab9f8df912912db612c3a5e6a9af",
-            "_timestamp": "2019-12-16 00:29:17-08:00",
-            "_commit_index": 244,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "528fd0bae7cce6bbd3be42f3cc3f7e0540f61d32",
-            "_timestamp": "2019-12-16 00:38:41-08:00",
-            "_commit_index": 246,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "02171132f2c134165bff4dcc96899946a97bac07",
-            "_timestamp": "2019-12-17 22:59:19-08:00",
-            "_commit_index": 247,
-            "_changed_files_list": []
+            "_sha_id": "a80c0f3bf0311c449873217939e5bfa8d06e293b",
+            "_timestamp": "2019-04-02 23:24:52-07:00",
+            "_commit_index": 4,
+            "_changed_files_list": [
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LineVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ArrayVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/InlineTableVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LocalTimeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/KeyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/QuotedStringVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/ZoneOffsetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "toml/src/main/java/org/apache/tuweni/toml/LocalDateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
         },
         {
             "_sha_id": "9c63bd53dff13a91326732c43bdd2ac8cd26e213",

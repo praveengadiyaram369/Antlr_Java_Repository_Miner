@@ -19,50 +19,95 @@
             "_sha_id": "7558615106fe32367d05d7427f16351d4c73ceca",
             "_timestamp": "2014-09-24 18:01:48+02:00",
             "_commit_index": 32,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/restlet/sqlimport/parser/AlterTableParseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/restlet/sqlimport/parser/CreateTableParseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 17,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "c4ecb89f6a3ca8cabe3203086550fc1a79188275",
+            "_timestamp": "2014-09-24 11:24:08+02:00",
+            "_commit_index": 26,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d86bf43aa756032d7fab8babfc753fc5e988b3a0",
+            "_timestamp": "2014-09-24 12:24:22+02:00",
+            "_commit_index": 29,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/restlet/sqlimport/parser/AlterTableParseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/restlet/sqlimport/parser/CreateTableParseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 17,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "a80a9a1b1d4e04dab253b5c650ffba8207e50168",
+            "_timestamp": "2014-09-24 11:28:21+02:00",
+            "_commit_index": 27,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/restlet/sqlimport/parser/CreateTableParseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 20,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "4a0e1d8e223d886f7362c3baa6e56503a4875f97",
+            "_timestamp": "2014-09-19 16:22:31+02:00",
+            "_commit_index": 9,
             "_changed_files_list": []
         },
         {
             "_sha_id": "ae696666a87dae6ddca272151bf65c81bcffa7c6",
             "_timestamp": "2014-09-25 18:11:30+02:00",
             "_commit_index": 37,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "477c1177b5f78bf7556e6c5f9c7d57c73954d8b2",
-            "_timestamp": "2014-09-26 11:20:53+02:00",
-            "_commit_index": 40,
             "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/restlet/sqlimport/parser/AlterTableParseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                },
                 {
                     "_file_name": "src/main/java/com/restlet/sqlimport/parser/CreateTableParseListener.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 6,
-                    "_exit_cnt": 18,
+                    "_exit_cnt": 17,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "fa9a5d895db5400aaaa5f21f44e170e5863219d3",
-            "_timestamp": "2014-09-25 18:40:15+02:00",
-            "_commit_index": 38,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "91cb8f05d07ddb92d3a544a21e5173793359e09e",
-            "_timestamp": "2014-09-25 18:50:02+02:00",
-            "_commit_index": 39,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4885c1a005aa348210da36e25b06f1b704f40850",
-            "_timestamp": "2014-09-23 15:04:58+02:00",
-            "_commit_index": 22,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "05e53dc6cccb7048c69ad6d82a6b24310c75c393",
-            "_timestamp": "2014-09-17 15:48:30+02:00",
-            "_commit_index": 1,
+            "_sha_id": "f0fd44fced57657fdf2e5aa107278a29d7bf3485",
+            "_timestamp": "2014-09-23 16:31:03+02:00",
+            "_commit_index": 25,
             "_changed_files_list": []
         },
         {

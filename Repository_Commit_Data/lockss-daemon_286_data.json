@@ -19,42 +19,87 @@
             "_sha_id": "eef4521ce4ff364b5cbff9102afbe7567c7ea096",
             "_timestamp": "2015-10-20 20:50:19+00:00",
             "_commit_index": 42890,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/org/lockss/tdb/TdbBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/org/lockss/tdb/TdbQueryBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "f2fbdf8c275b28ee8f4fd49bf32e7a7153375aeb",
+            "_timestamp": "2014-09-30 20:15:43+00:00",
+            "_commit_index": 35741,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/org/lockss/tdb/TdbBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/org/lockss/tdb/TdbQueryBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "96f38213ba77b9a581dfdfd74ca6fe78a403c8e1",
+            "_timestamp": "2014-04-14 17:07:39+00:00",
+            "_commit_index": 32167,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "3eb0d4d4423f5c1f8ca9557e43cb3d27e01f2fb3",
-            "_timestamp": "2017-05-30 00:51:04-07:00",
-            "_commit_index": 50038,
+            "_sha_id": "ce7399bec1e250c40f9fa4d19be5a1c764d8e5a2",
+            "_timestamp": "2014-07-03 22:36:53+00:00",
+            "_commit_index": 33954,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4d7258f5e90b3988efe828cd894716d5e5eeec15",
-            "_timestamp": "2018-09-05 14:14:03-07:00",
-            "_commit_index": 53612,
+            "_sha_id": "eb9bb4abc6a4c9005c43f6199300d356406295dd",
+            "_timestamp": "2014-08-18 21:08:31+00:00",
+            "_commit_index": 34847,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "a2965b2ac7439282f37cf0f4a265d8f5edab0df1",
-            "_timestamp": "2019-03-25 11:58:44-07:00",
-            "_commit_index": 55399,
-            "_changed_files_list": []
+            "_sha_id": "26e0ecadaacf2fa6fc1d1a5933ee51c06e1c16c7",
+            "_timestamp": "2014-09-08 22:37:46+00:00",
+            "_commit_index": 35294,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/org/lockss/tdb/TdbBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/org/lockss/tdb/TdbQueryBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "1e01e684615faf266a952ee4686cee9bd7932162",
-            "_timestamp": "2019-07-30 15:42:38-07:00",
-            "_commit_index": 56293,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c81e3321b9bb8295235869de34a4fc55f7bea990",
-            "_timestamp": "2019-10-15 15:03:21-07:00",
-            "_commit_index": 56740,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "89d87e61183add4851b2ca9c4289a7f4f614bd9e",
-            "_timestamp": "2019-11-19 09:57:37-08:00",
-            "_commit_index": 56963,
+            "_sha_id": "b88b32672fb354aebdae859d37ea534994f35be8",
+            "_timestamp": "2014-08-26 20:27:07+00:00",
+            "_commit_index": 35070,
             "_changed_files_list": []
         },
         {

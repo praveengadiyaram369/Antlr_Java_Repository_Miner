@@ -16,46 +16,78 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "71735186c2750879283304f03b0cdc50fd252121",
-            "_timestamp": "2015-10-02 14:40:49+02:00",
-            "_commit_index": 751,
+            "_sha_id": "bc51e84696704f7e296d02104283cb700463ddd1",
+            "_timestamp": "2015-12-09 13:53:12+01:00",
+            "_commit_index": 1126,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Code/src/main/java/nl/utwente/viskell/haskell/typeparser/TypeBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "cd08098af4424a49d1ec42cf6edfb58f0d8d9f9a",
+            "_timestamp": "2015-11-07 23:36:52+01:00",
+            "_commit_index": 938,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Code/src/main/java/nl/utwente/viskell/haskell/typeparser/TypeBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "d7315c61c890deaa2d02b7d20d7a615e1dd69c4c",
+            "_timestamp": "2015-10-19 15:41:24+02:00",
+            "_commit_index": 844,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Code/src/main/java/nl/utwente/viskell/haskell/typeparser/TypeBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "a498aae0f00da67f8e58653ac3f55379b94d525c",
+            "_timestamp": "2015-10-05 14:58:35+02:00",
+            "_commit_index": 797,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "71735186c2750879283304f03b0cdc50fd252121",
-            "_timestamp": "2015-10-02 14:40:49+02:00",
-            "_commit_index": 751,
+            "_sha_id": "d5ca7478559d66a55fd1fb2e55dbb8c54da9ce2b",
+            "_timestamp": "2015-10-12 20:49:10+02:00",
+            "_commit_index": 820,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "71735186c2750879283304f03b0cdc50fd252121",
-            "_timestamp": "2015-10-02 14:40:49+02:00",
-            "_commit_index": 751,
+            "_sha_id": "8fc71359720b3547f62140e69cee5346d6e65530",
+            "_timestamp": "2015-10-13 20:39:27+02:00",
+            "_commit_index": 832,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "71735186c2750879283304f03b0cdc50fd252121",
-            "_timestamp": "2015-10-02 14:40:49+02:00",
-            "_commit_index": 751,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "71735186c2750879283304f03b0cdc50fd252121",
-            "_timestamp": "2015-10-02 14:40:49+02:00",
-            "_commit_index": 751,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "71735186c2750879283304f03b0cdc50fd252121",
-            "_timestamp": "2015-10-02 14:40:49+02:00",
-            "_commit_index": 751,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "71735186c2750879283304f03b0cdc50fd252121",
-            "_timestamp": "2015-10-02 14:40:49+02:00",
-            "_commit_index": 751,
-            "_changed_files_list": []
+            "_sha_id": "83dddfa36e59f400ec0f18f154f3647ff55674aa",
+            "_timestamp": "2015-10-18 21:53:24+02:00",
+            "_commit_index": 838,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Code/src/main/java/nl/utwente/viskell/haskell/typeparser/TypeBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "0ef819e77aad76e4041214cbec5849a278a0dfe6",

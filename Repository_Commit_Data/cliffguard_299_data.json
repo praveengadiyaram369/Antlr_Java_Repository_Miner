@@ -19,31 +19,54 @@
             "_sha_id": "704f37df30bf7d3ca074a78c0a4222478f99ab2a",
             "_timestamp": "2016-04-10 22:51:07-04:00",
             "_commit_index": 31,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6a973efd8e9f226a9927718ca89f09bd6b3f3fa2",
-            "_timestamp": "2016-05-18 15:32:40-04:00",
-            "_commit_index": 36,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "3bf112e3b46f07ebe9d77d84189998d65412804c",
-            "_timestamp": "2016-06-19 19:25:01-04:00",
-            "_commit_index": 39,
             "_changed_files_list": [
                 {
-                    "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/SQLWalker.java",
+                    "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/TSQLSelectStmtListener.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 12,
-                    "_exit_cnt": 10,
+                    "_exit_cnt": 7,
                     "_visit_cnt": 0
                 },
                 {
                     "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/TSQLDDLStmtListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 5,
+                    "_enter_cnt": 4,
                     "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "fee0fe774a1cc4d1d19bc09d7eb8d3679f205147",
+            "_timestamp": "2016-03-17 23:01:42-04:00",
+            "_commit_index": 26,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/TSQLSelectStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/TSQLDDLStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "6a973efd8e9f226a9927718ca89f09bd6b3f3fa2",
+            "_timestamp": "2016-05-18 15:32:40-04:00",
+            "_commit_index": 36,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/SQLWalker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 9,
                     "_visit_cnt": 0
                 },
                 {
@@ -52,77 +75,76 @@
                     "_enter_cnt": 13,
                     "_exit_cnt": 7,
                     "_visit_cnt": 0
-                }
-            ]
-        },
-        {
-            "_sha_id": "a4ea75a9142fb2df7f7b85e37be587fd4c12be09",
-            "_timestamp": "2016-05-20 14:51:24-04:00",
-            "_commit_index": 37,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "912d8a0a448dfd598cb4d0f86aaef7a9af55d291",
-            "_timestamp": "2016-05-26 06:55:31-04:00",
-            "_commit_index": 38,
-            "_changed_files_list": [
-                {
-                    "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/SQLWalker.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 12,
-                    "_exit_cnt": 10,
-                    "_visit_cnt": 0
                 },
-                {
-                    "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/TSQLDDLStmtListener.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 5,
-                    "_exit_cnt": 2,
-                    "_visit_cnt": 0
-                }
-            ]
-        },
-        {
-            "_sha_id": "0aa85f544af7203a3ac50c7ce75f2b8c4f74dd70",
-            "_timestamp": "2016-03-16 13:06:47-04:00",
-            "_commit_index": 25,
-            "_changed_files_list": [
-                {
-                    "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/TSQLDDLStmtListener.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 1,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 0
-                },
-                {
-                    "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/TSQLSelectStmtListener.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 12,
-                    "_exit_cnt": 7,
-                    "_visit_cnt": 0
-                }
-            ]
-        },
-        {
-            "_sha_id": "f5b04c0de0500c67b8a9b55a910acff6bce9aea8",
-            "_timestamp": "2016-03-18 02:13:57-04:00",
-            "_commit_index": 28,
-            "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/TSQLDDLStmtListener.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 4,
                     "_exit_cnt": 2,
                     "_visit_cnt": 0
-                },
+                }
+            ]
+        },
+        {
+            "_sha_id": "649fb0c6e41ac0fde057f01411e45fa43ffefcc4",
+            "_timestamp": "2016-04-22 00:09:52-04:00",
+            "_commit_index": 33,
+            "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/TSQLSelectStmtListener.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 12,
                     "_exit_cnt": 7,
                     "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/TSQLDDLStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
                 }
             ]
+        },
+        {
+            "_sha_id": "615c084ba3b1995447d26fe9a96eadf25ecd9801",
+            "_timestamp": "2016-04-15 13:41:56-04:00",
+            "_commit_index": 34,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/SQLWalker.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/TSQLSelectStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 13,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/edu/umich/robustopt/staticanalysis/TSQLDDLStmtListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "28d9cee1d7e2d09418cb0062ca9cf64bc2696872",
+            "_timestamp": "2015-03-10 21:07:57-04:00",
+            "_commit_index": 4,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6658646e8a7382a25dea78d3c97658e75bc6c315",
+            "_timestamp": "2015-10-09 13:02:48-04:00",
+            "_commit_index": 17,
+            "_changed_files_list": []
         },
         {
             "_sha_id": "623db9d033a4b3ac6fe693787f5750cae1dc4be1",

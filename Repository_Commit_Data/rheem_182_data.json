@@ -51,19 +51,43 @@
             "_sha_id": "799e06785d258222161756d4913e67f2fbac2dfb",
             "_timestamp": "2016-11-28 14:27:05+01:00",
             "_commit_index": 904,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "rheem-core/src/main/java/org/qcri/rheem/core/util/mathex/ExpressionBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                }
+            ]
         },
         {
-            "_sha_id": "f2bf8a28661317c0b25328c06a938acec42aae22",
-            "_timestamp": "2016-12-27 11:54:40+03:00",
-            "_commit_index": 911,
-            "_changed_files_list": []
+            "_sha_id": "2cdf704c6a237d087421cfaa016670b3c3200a81",
+            "_timestamp": "2016-11-23 14:07:44+03:00",
+            "_commit_index": 896,
+            "_changed_files_list": [
+                {
+                    "_file_name": "rheem-core/src/main/java/org/qcri/rheem/core/util/mathex/ExpressionBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                }
+            ]
         },
         {
-            "_sha_id": "fda03dfd5f3fb969e4470c343f085091370b737c",
-            "_timestamp": "2017-01-22 05:57:48+03:00",
-            "_commit_index": 915,
-            "_changed_files_list": []
+            "_sha_id": "eaf3133516bc793c026a2181374f380f81211d88",
+            "_timestamp": "2016-11-22 11:43:57+01:00",
+            "_commit_index": 892,
+            "_changed_files_list": [
+                {
+                    "_file_name": "rheem-core/src/main/java/org/qcri/rheem/core/util/mathex/ExpressionBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                }
+            ]
         },
         {
             "_sha_id": "a6aa672f5c8b69fcb4a688c960ae689de006c505",

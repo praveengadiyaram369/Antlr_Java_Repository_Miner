@@ -37,24 +37,40 @@
             "_sha_id": "80a764a448d78c55b6bfd4d169acb8fe64cd6aae",
             "_timestamp": "2019-10-09 00:17:34+13:00",
             "_commit_index": 3741,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/io/ebeaninternal/server/grammer/EqlWhereListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 15,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "96747115165794c329fca4346ab4135e566d400c",
+            "_timestamp": "2019-08-19 21:36:19+12:00",
+            "_commit_index": 3680,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/io/ebeaninternal/server/grammer/EqlWhereListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 15,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "318f6ae3f518570ba3374de85b2e1e2a5887ad70",
+            "_timestamp": "2019-07-31 23:21:01+12:00",
+            "_commit_index": 3650,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "aa96d104911a312ad00e467fba36ff3a09937fe7",
-            "_timestamp": "2019-11-16 21:48:37+13:00",
-            "_commit_index": 3801,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "937df1395c2ffab20e3f575c09e4cc75e09cea70",
-            "_timestamp": "2019-12-04 22:55:52+13:00",
-            "_commit_index": 3831,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "91e7540a39ec3def9e914fff837dc9d2ba503416",
-            "_timestamp": "2019-12-13 13:06:13+13:00",
-            "_commit_index": 3846,
+            "_sha_id": "f5459920e97d32cc49496b9a30c637ffef161998",
+            "_timestamp": "2019-08-12 21:05:32+12:00",
+            "_commit_index": 3665,
             "_changed_files_list": []
         },
         {

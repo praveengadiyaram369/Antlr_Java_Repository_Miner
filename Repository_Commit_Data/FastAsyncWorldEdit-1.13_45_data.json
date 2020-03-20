@@ -43,19 +43,49 @@
             "_sha_id": "97a4d2e10380ce2338da73fac9e1ef4d8a1b439b",
             "_timestamp": "2019-11-23 04:45:43+00:00",
             "_commit_index": 4130,
+            "_changed_files_list": [
+                {
+                    "_file_name": "worldedit-core/src/main/java/com/sk89q/worldedit/internal/expression/ExpressionValidator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "worldedit-core/src/main/java/com/sk89q/worldedit/internal/expression/EvaluatingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 30
+                }
+            ]
+        },
+        {
+            "_sha_id": "0087a0d6ab0a2b38c062ab835f66f25bbd461846",
+            "_timestamp": "2019-11-17 22:47:56+00:00",
+            "_commit_index": 4097,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "79d9bda9129790ef7d7d2d06c0e4410c1bed259a",
-            "_timestamp": "2019-11-29 13:49:03+11:00",
-            "_commit_index": 4163,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "a137d719cb1c3665972980fd223f992dfeb3e664",
-            "_timestamp": "2019-12-11 17:47:14-05:00",
-            "_commit_index": 4179,
-            "_changed_files_list": []
+            "_sha_id": "52a502a1c6da9ac54664b0d8c4cbd7beb4eeb162",
+            "_timestamp": "2019-11-21 06:50:37+00:00",
+            "_commit_index": 4113,
+            "_changed_files_list": [
+                {
+                    "_file_name": "worldedit-core/src/main/java/com/sk89q/worldedit/internal/expression/ExpressionValidator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "worldedit-core/src/main/java/com/sk89q/worldedit/internal/expression/EvaluatingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 30
+                }
+            ]
         },
         {
             "_sha_id": "39faa740a2dc83c86897359b34482411f1a6c81f",

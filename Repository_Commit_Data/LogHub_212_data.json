@@ -13,48 +13,104 @@
             "_sha_id": "2f9e6756b168f178f4199dcb76670d063b9b5c25",
             "_timestamp": "2017-11-03 22:27:49+01:00",
             "_commit_index": 506,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/loghub/configuration/ConfigListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 20,
+                    "_exit_cnt": 22,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2f9e6756b168f178f4199dcb76670d063b9b5c25",
-            "_timestamp": "2017-11-03 22:27:49+01:00",
-            "_commit_index": 506,
-            "_changed_files_list": []
+            "_sha_id": "848d328559322f84a71d2e122d124dba3ac9db5e",
+            "_timestamp": "2016-07-31 10:55:25+02:00",
+            "_commit_index": 253,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/loghub/configuration/ConfigListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 18,
+                    "_exit_cnt": 18,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2f9e6756b168f178f4199dcb76670d063b9b5c25",
-            "_timestamp": "2017-11-03 22:27:49+01:00",
-            "_commit_index": 506,
-            "_changed_files_list": []
+            "_sha_id": "a63f5c206a85adc40a9bbe4b3de9631a78a78a0b",
+            "_timestamp": "2016-01-15 17:39:48+01:00",
+            "_commit_index": 126,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/loghub/configuration/ConfigListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 16,
+                    "_exit_cnt": 16,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2f9e6756b168f178f4199dcb76670d063b9b5c25",
-            "_timestamp": "2017-11-03 22:27:49+01:00",
-            "_commit_index": 506,
-            "_changed_files_list": []
+            "_sha_id": "d7fc526068fef0c5eaf510eedfaf875f32eb5026",
+            "_timestamp": "2016-01-05 16:10:32+01:00",
+            "_commit_index": 63,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/loghub/configuration/ConfigListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 13,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2f9e6756b168f178f4199dcb76670d063b9b5c25",
-            "_timestamp": "2017-11-03 22:27:49+01:00",
-            "_commit_index": 506,
-            "_changed_files_list": []
+            "_sha_id": "f8bb7737eb896ad8159e3b51346548ce38aaa2c7",
+            "_timestamp": "2015-12-31 13:07:02+01:00",
+            "_commit_index": 31,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/loghub/configuration/ConfigListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 13,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2f9e6756b168f178f4199dcb76670d063b9b5c25",
-            "_timestamp": "2017-11-03 22:27:49+01:00",
-            "_commit_index": 506,
-            "_changed_files_list": []
+            "_sha_id": "75e78d6dfb82f65eb938ec1b964552f1a83cddd6",
+            "_timestamp": "2014-08-18 15:14:20+02:00",
+            "_commit_index": 15,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/loghub/configuration/ConfigListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2f9e6756b168f178f4199dcb76670d063b9b5c25",
-            "_timestamp": "2017-11-03 22:27:49+01:00",
-            "_commit_index": 506,
-            "_changed_files_list": []
+            "_sha_id": "9e8b4ebf67716d09f260907a7d2fe4f184b77549",
+            "_timestamp": "2014-08-26 10:51:25+02:00",
+            "_commit_index": 23,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/loghub/configuration/ConfigListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2f9e6756b168f178f4199dcb76670d063b9b5c25",
-            "_timestamp": "2017-11-03 22:27:49+01:00",
-            "_commit_index": 506,
+            "_sha_id": "c1d8d04b53fa8b0734aeb700bab97bbf6d6d3c82",
+            "_timestamp": "2014-08-11 10:42:34+02:00",
+            "_commit_index": 7,
             "_changed_files_list": []
         },
         {

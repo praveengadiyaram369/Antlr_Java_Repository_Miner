@@ -13,56 +13,80 @@
             "_sha_id": "a49db2fdfc0b7b8f556c0dafbaff77bb91005216",
             "_timestamp": "2019-01-22 14:54:42-08:00",
             "_commit_index": 2839,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "55470db425e19aa46548a12ff06326ca3e540aec",
-            "_timestamp": "2019-05-22 13:15:57+01:00",
-            "_commit_index": 4259,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "17d977e32b0cc758e85e6144a095d10007809c94",
-            "_timestamp": "2019-08-28 14:47:08-07:00",
-            "_commit_index": 4969,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4542dc2697159b57aa3b1b341d3bd45fd90ee475",
-            "_timestamp": "2019-11-04 18:26:00-08:00",
-            "_commit_index": 5324,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "ad183ecf3f64e7edd74895488b7919b4bab7ad1a",
-            "_timestamp": "2019-11-21 10:21:58-08:00",
-            "_commit_index": 5501,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0f31f8e911a69e32b5f2efb0eefd1985ca8d777e",
-            "_timestamp": "2019-12-05 18:03:30-08:00",
-            "_commit_index": 5590,
             "_changed_files_list": [
                 {
                     "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 78
+                    "_visit_cnt": 93
                 }
             ]
         },
         {
-            "_sha_id": "10c3794760b63d8380e8f5de2e5f2adb811aa51b",
-            "_timestamp": "2019-12-02 19:19:21+02:00",
-            "_commit_index": 5545,
+            "_sha_id": "565dff73bff70773bcfdddf7dd9efc2fa04e6e65",
+            "_timestamp": "2018-07-24 16:01:46-07:00",
+            "_commit_index": 1419,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 93
+                }
+            ]
+        },
+        {
+            "_sha_id": "a25944a040d4cf5756e477fb5e2cefbd185ce290",
+            "_timestamp": "2018-01-26 11:34:17-08:00",
+            "_commit_index": 709,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 97
+                }
+            ]
+        },
+        {
+            "_sha_id": "1584815c69342c0eb87131aab31d098a27de2ca6",
+            "_timestamp": "2017-10-03 09:45:54-07:00",
+            "_commit_index": 354,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 97
+                }
+            ]
+        },
+        {
+            "_sha_id": "6bfa57d8862c735046ffdc8eb702a5be7fc5d5ae",
+            "_timestamp": "2017-08-24 08:05:55-07:00",
+            "_commit_index": 177,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "acaeb42235af5d81b5088da7d74cc7372fccc722",
-            "_timestamp": "2019-12-04 09:59:29-08:00",
-            "_commit_index": 5567,
+            "_sha_id": "0fd14cd2673c3f6a7635406be5d07265cb1a7632",
+            "_timestamp": "2017-08-25 14:41:36-07:00",
+            "_commit_index": 265,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "869f59882b545e73fb339b35a114985cd51939cb",
+            "_timestamp": "2017-09-15 09:59:57+02:00",
+            "_commit_index": 309,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "88fda384bd333e38585ca3b2d6f980a2357861b7",
+            "_timestamp": "2017-09-26 22:32:07+01:00",
+            "_commit_index": 331,
             "_changed_files_list": []
         },
         {

@@ -13,49 +13,118 @@
             "_sha_id": "c164adf886b78d1b15b34798b5cf74fc3baf7c80",
             "_timestamp": "2016-03-13 03:36:25+00:00",
             "_commit_index": 622,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/simulizer/assembler/extractor/ProgramExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/simulizer/assembler/extractor/problem/ValidityListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "bc27e6f31aff9b6426bf29ba676948123aa117c6",
+            "_timestamp": "2016-02-26 14:12:13+00:00",
+            "_commit_index": 311,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/simulizer/assembler/extractor/ProgramExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/simulizer/assembler/extractor/problem/ValidityListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "94ee66ecd19ca2b237bfbecb32f3c60a717b3b5f",
+            "_timestamp": "2016-02-16 21:52:32+00:00",
+            "_commit_index": 155,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/simulizer/assembler/extractor/ProgramExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/simulizer/assembler/extractor/problem/ValidityListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "b0eb4b5fa306b9272f221fb00533c5949bc01338",
+            "_timestamp": "2016-02-07 21:54:41+00:00",
+            "_commit_index": 77,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "c164adf886b78d1b15b34798b5cf74fc3baf7c80",
-            "_timestamp": "2016-03-13 03:36:25+00:00",
-            "_commit_index": 622,
+            "_sha_id": "033e5ac3764609c1b1c385f7b01e19823bd51120",
+            "_timestamp": "2016-02-13 11:59:24+00:00",
+            "_commit_index": 116,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/simulizer/assembler/extractor/ProgramExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "3a077b63f71bc5ed40f255bba8a0d89a7df18b24",
+            "_timestamp": "2016-02-10 16:33:27+00:00",
+            "_commit_index": 96,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "c164adf886b78d1b15b34798b5cf74fc3baf7c80",
-            "_timestamp": "2016-03-13 03:36:25+00:00",
-            "_commit_index": 622,
-            "_changed_files_list": []
+            "_sha_id": "7002ed4e3f6f9492433b82a72a4968b9a517686b",
+            "_timestamp": "2016-02-11 18:10:54+00:00",
+            "_commit_index": 106,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/simulizer/assembler/extractor/ProgramExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
-            "_sha_id": "c164adf886b78d1b15b34798b5cf74fc3baf7c80",
-            "_timestamp": "2016-03-13 03:36:25+00:00",
-            "_commit_index": 622,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c164adf886b78d1b15b34798b5cf74fc3baf7c80",
-            "_timestamp": "2016-03-13 03:36:25+00:00",
-            "_commit_index": 622,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c164adf886b78d1b15b34798b5cf74fc3baf7c80",
-            "_timestamp": "2016-03-13 03:36:25+00:00",
-            "_commit_index": 622,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c164adf886b78d1b15b34798b5cf74fc3baf7c80",
-            "_timestamp": "2016-03-13 03:36:25+00:00",
-            "_commit_index": 622,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c164adf886b78d1b15b34798b5cf74fc3baf7c80",
-            "_timestamp": "2016-03-13 03:36:25+00:00",
-            "_commit_index": 622,
-            "_changed_files_list": []
+            "_sha_id": "bbf1896f80a0a5544a9fa7a2fa1f4ed073768e60",
+            "_timestamp": "2016-02-10 18:03:24+00:00",
+            "_commit_index": 101,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/simulizer/assembler/extractor/ProgramExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
             "_sha_id": "fa9b58e658adb2fba7551b2d26690acd2da731ec",

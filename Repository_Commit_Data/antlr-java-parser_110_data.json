@@ -13,49 +13,89 @@
             "_sha_id": "2021763c2ade3658ea14af955f67955c56eeabaa",
             "_timestamp": "2013-01-26 00:59:47-06:00",
             "_commit_index": 63,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/antlrjavaparser/CompilationUnitListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "36c8b19719654d74d1b1803e8ea121125ea21255",
+            "_timestamp": "2013-01-02 12:37:20-06:00",
+            "_commit_index": 31,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/antlrjavaparser/CompilationUnitListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "002a16407d514813dc82a17dbd69f105f7b0b210",
+            "_timestamp": "2012-12-26 23:56:51-06:00",
+            "_commit_index": 15,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "2021763c2ade3658ea14af955f67955c56eeabaa",
-            "_timestamp": "2013-01-26 00:59:47-06:00",
-            "_commit_index": 63,
+            "_sha_id": "f9ce60286337e210c33e1381934a77c7d3d89d6d",
+            "_timestamp": "2012-12-28 13:28:14-06:00",
+            "_commit_index": 23,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/antlrjavaparser/CompilationUnitListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "5537635aaf10690721e4a9dc4ff2a312a2ca8e88",
+            "_timestamp": "2012-12-27 22:11:32-06:00",
+            "_commit_index": 19,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "2021763c2ade3658ea14af955f67955c56eeabaa",
-            "_timestamp": "2013-01-26 00:59:47-06:00",
-            "_commit_index": 63,
+            "_sha_id": "3f0020b360d9b55f9c9d33142a89b395ff9e0a49",
+            "_timestamp": "2012-12-28 12:08:33-06:00",
+            "_commit_index": 21,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/antlrjavaparser/CompilationUnitListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "89946514ed658d76611bc5fef7d079504025b4be",
+            "_timestamp": "2012-12-27 22:32:26-06:00",
+            "_commit_index": 20,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "2021763c2ade3658ea14af955f67955c56eeabaa",
-            "_timestamp": "2013-01-26 00:59:47-06:00",
-            "_commit_index": 63,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "2021763c2ade3658ea14af955f67955c56eeabaa",
-            "_timestamp": "2013-01-26 00:59:47-06:00",
-            "_commit_index": 63,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "2021763c2ade3658ea14af955f67955c56eeabaa",
-            "_timestamp": "2013-01-26 00:59:47-06:00",
-            "_commit_index": 63,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "2021763c2ade3658ea14af955f67955c56eeabaa",
-            "_timestamp": "2013-01-26 00:59:47-06:00",
-            "_commit_index": 63,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "2021763c2ade3658ea14af955f67955c56eeabaa",
-            "_timestamp": "2013-01-26 00:59:47-06:00",
-            "_commit_index": 63,
-            "_changed_files_list": []
+            "_sha_id": "77a11a72c83dbcad810ae48ff777930268b54edf",
+            "_timestamp": "2013-01-24 22:23:23-06:00",
+            "_commit_index": 50,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/github/antlrjavaparser/CompilationUnitListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "077160deb44d952c40c442800abd91af7e6fe006",

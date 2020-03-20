@@ -31,39 +31,55 @@
             "_sha_id": "f40a600ba056137f6b3b7cf4625d2cd099e28394",
             "_timestamp": "2018-11-27 11:28:52+01:00",
             "_commit_index": 4991,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8f048905afc8857ae45e34aa4ada4de944040bd1",
-            "_timestamp": "2019-03-27 14:49:56+01:00",
-            "_commit_index": 5157,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "06046749d89fa3e993cba1508d833c36bff1a579",
-            "_timestamp": "2019-09-09 17:03:00+02:00",
-            "_commit_index": 5240,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "dd0dbab4aa81624216cd65c6f8806b570b79530b",
-            "_timestamp": "2019-10-15 15:16:41+02:00",
-            "_commit_index": 5282,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "a1036cc9f52eded830fe75e42341c6604f191aff",
-            "_timestamp": "2019-11-27 13:26:33+01:00",
-            "_commit_index": 5303,
             "_changed_files_list": [
                 {
                     "_file_name": "frontend/src/main/java/org/abs_models/frontend/antlr/parser/CreateJastAddASTListener.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 1,
-                    "_exit_cnt": 167,
+                    "_exit_cnt": 170,
                     "_visit_cnt": 0
                 }
             ]
+        },
+        {
+            "_sha_id": "7069fd64da5909d4987d7683c46ccf2e8535fcd7",
+            "_timestamp": "2018-09-06 15:58:23+02:00",
+            "_commit_index": 4824,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5653c40f6980ffae618644e84ba65bb415cf7e52",
+            "_timestamp": "2018-10-08 14:29:33+02:00",
+            "_commit_index": 4907,
+            "_changed_files_list": [
+                {
+                    "_file_name": "frontend/src/main/java/org/abs_models/frontend/antlr/parser/CreateJastAddASTListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 170,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "dd22afc49da0e362a423b3f91d723eeef35f867d",
+            "_timestamp": "2018-09-17 12:50:39+02:00",
+            "_commit_index": 4865,
+            "_changed_files_list": [
+                {
+                    "_file_name": "frontend/src/main/java/org/abs_models/frontend/antlr/parser/CreateJastAddASTListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 170,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "f4322428e2d800e20a3e87289bdd43285ede2d17",
+            "_timestamp": "2018-09-09 09:27:59+02:00",
+            "_commit_index": 4844,
+            "_changed_files_list": []
         },
         {
             "_sha_id": "1e362bac716d72c29584ddfeadc732ba74749d0c",

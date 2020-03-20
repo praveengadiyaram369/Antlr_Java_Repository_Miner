@@ -13,49 +13,447 @@
             "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
             "_timestamp": "2012-08-08 22:31:23-05:00",
             "_commit_index": 506,
+            "_changed_files_list": [
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/syndiag/SyntaxDiagramTopComponent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/GrammarParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/ActionExpressionAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/LabelAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/TemplateParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "36d36c0d73173dd536b6738e4345680aac0c0cf6",
+            "_timestamp": "2012-12-27 01:36:36-06:00",
+            "_commit_index": 759,
+            "_changed_files_list": [
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/syndiag/SyntaxDiagramTopComponent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/LiteralLexerRuleValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/SuppressTokenTypeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/LiteralLexerRuleVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/formatting/GrammarIndentTask.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 22
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/analysis/FactorLabelForSetHintParserTask.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/analysis/ImplicitTokenDefinitionHintParserTask.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/analysis/MissingRuleDefinitionHintParserTask.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/analysis/GroupSetElementsHintParserTask.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 9,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/GrammarParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/ActionExpressionAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/LabelAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/TemplateParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "8888dcac43ccb4d9d934d6735074cc9fe05cbb1b",
+            "_timestamp": "2012-01-17 22:54:44-06:00",
+            "_commit_index": 253,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
-            "_timestamp": "2012-08-08 22:31:23-05:00",
-            "_commit_index": 506,
+            "_sha_id": "a43429302170c4916c4db5d1c7afdc5547883c83",
+            "_timestamp": "2012-02-13 12:14:27-06:00",
+            "_commit_index": 379,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
-            "_timestamp": "2012-08-08 22:31:23-05:00",
-            "_commit_index": 506,
-            "_changed_files_list": []
+            "_sha_id": "0396852adbdb0d26224283474d4e26b3406580f6",
+            "_timestamp": "2012-03-30 08:44:33-05:00",
+            "_commit_index": 442,
+            "_changed_files_list": [
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/syndiag/SyntaxDiagramTopComponent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/GrammarParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/ActionExpressionAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/LabelAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/TemplateParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
-            "_timestamp": "2012-08-08 22:31:23-05:00",
-            "_commit_index": 506,
-            "_changed_files_list": []
+            "_sha_id": "f39aa5298726be4a585cca428b9df5b638769be3",
+            "_timestamp": "2012-03-06 08:22:43-06:00",
+            "_commit_index": 410,
+            "_changed_files_list": [
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/syndiag/SyntaxDiagramTopComponent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/GrammarParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/ActionExpressionAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/LabelAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/TemplateParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
-            "_timestamp": "2012-08-08 22:31:23-05:00",
-            "_commit_index": 506,
-            "_changed_files_list": []
+            "_sha_id": "b77830826c07c1a293723fa6b4001923ed57dc50",
+            "_timestamp": "2012-02-27 11:46:29-06:00",
+            "_commit_index": 394,
+            "_changed_files_list": [
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/syndiag/SyntaxDiagramTopComponent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/GrammarParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/ActionExpressionAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/LabelAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/TemplateParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
-            "_timestamp": "2012-08-08 22:31:23-05:00",
-            "_commit_index": 506,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
-            "_timestamp": "2012-08-08 22:31:23-05:00",
-            "_commit_index": 506,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "52846c227fef19677c0c42acc9dfc0756646a0bc",
-            "_timestamp": "2012-08-08 22:31:23-05:00",
-            "_commit_index": 506,
-            "_changed_files_list": []
+            "_sha_id": "8eea533e81bb354b2c91890a7ddb2d30ffd32131",
+            "_timestamp": "2012-02-27 09:04:49-06:00",
+            "_commit_index": 386,
+            "_changed_files_list": [
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/syndiag/SyntaxDiagramTopComponent.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 12,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/semantics/MarkOccurrencesHighlighter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/GrammarParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/ActionExpressionAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/grammar/completion/LabelAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/TemplateParserAnchorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "org-antlr-works-editor/src/org/antlr/works/editor/st4/experimental/CodeModelBuilderListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "1e357ffbbac18cc0ca656e3c80e1e1e68f6e889d",

@@ -25,36 +25,68 @@
             "_sha_id": "05db19317db4f7a4ae045fb102cf81d075e740a8",
             "_timestamp": "2019-05-27 10:33:09+02:00",
             "_commit_index": 21683,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sdks/java/core/src/main/java/org/apache/beam/sdk/schemas/parser/FieldAccessDescriptorParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                }
+            ]
+        },
+        {
+            "_sha_id": "0fc7bfc60ecb2d0604e5cfe2745599ce37fb43ac",
+            "_timestamp": "2019-02-11 22:42:54+01:00",
+            "_commit_index": 20134,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sdks/java/core/src/main/java/org/apache/beam/sdk/schemas/parser/FieldAccessDescriptorParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                }
+            ]
+        },
+        {
+            "_sha_id": "cd77c1e244aeb765fb43ece5637f39f4e6049dfd",
+            "_timestamp": "2019-01-07 14:59:42+01:00",
+            "_commit_index": 19359,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "cb71f03175950afad11279ac907b240a0a022402",
-            "_timestamp": "2019-09-19 21:27:59-07:00",
-            "_commit_index": 23232,
-            "_changed_files_list": []
+            "_sha_id": "98f62f5cafb5a9c866c0e0de0e8c101818b83b8b",
+            "_timestamp": "2019-01-28 19:19:58+01:00",
+            "_commit_index": 19746,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sdks/java/core/src/main/java/org/apache/beam/sdk/schemas/parser/FieldAccessDescriptorParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                }
+            ]
         },
         {
-            "_sha_id": "55b4839064d26191f235d0e0859a20a18cf7fe1c",
-            "_timestamp": "2019-11-14 10:44:29-08:00",
-            "_commit_index": 24006,
-            "_changed_files_list": []
+            "_sha_id": "460a7ffc38bbdadd310cd6a172c3482b48b7f10b",
+            "_timestamp": "2019-01-17 13:36:28-08:00",
+            "_commit_index": 19552,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sdks/java/core/src/main/java/org/apache/beam/sdk/schemas/parser/FieldAccessDescriptorParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                }
+            ]
         },
         {
-            "_sha_id": "dac10c9b77867e1bfdd0ad672a5efed1f60760cc",
-            "_timestamp": "2019-11-21 16:02:44-08:00",
-            "_commit_index": 24393,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0878ecb9025487004d48e9ae3caaea7f4c7fc723",
-            "_timestamp": "2019-12-05 14:05:51-08:00",
-            "_commit_index": 24587,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "160beb9f02ce40c631991d3bf850036d81e0f02c",
-            "_timestamp": "2019-12-12 14:57:41-05:00",
-            "_commit_index": 24684,
+            "_sha_id": "247e93ef7fbe87dbb1cd82a0ce6b2e6aa5254f7c",
+            "_timestamp": "2019-01-11 20:20:09-08:00",
+            "_commit_index": 19455,
             "_changed_files_list": []
         },
         {

@@ -38,6 +38,13 @@
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 41
+                },
+                {
+                    "_file_name": "fhir-validation/src/test/java/com/ibm/fhir/validation/test/ConstraintGeneratorTest.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 40
                 }
             ]
         },
@@ -45,13 +52,29 @@
             "_sha_id": "2243ded145951f91ff5947cf365d46719ddda1a4",
             "_timestamp": "2019-11-19 14:11:20-05:00",
             "_commit_index": 2498,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "fhir-validation/src/test/java/com/ibm/fhir/validation/test/ConstraintGeneratorTest.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 40
+                }
+            ]
         },
         {
             "_sha_id": "d3b93b6cd97d38314223a2f206626a011423f288",
             "_timestamp": "2019-11-27 15:03:47-05:00",
             "_commit_index": 2541,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "fhir-validation/src/test/java/com/ibm/fhir/validation/test/ConstraintGeneratorTest.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 40
+                }
+            ]
         },
         {
             "_sha_id": "e1b354e7fa8bc3b3e8c2c7b117773b93494a3ea5",
@@ -64,6 +87,13 @@
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 41
+                },
+                {
+                    "_file_name": "fhir-validation/src/test/java/com/ibm/fhir/validation/test/ConstraintGeneratorTest.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 40
                 }
             ]
         },
@@ -72,6 +102,13 @@
             "_timestamp": "2019-12-02 11:30:27-05:00",
             "_commit_index": 2551,
             "_changed_files_list": [
+                {
+                    "_file_name": "fhir-path/src/main/java/com/ibm/fhir/path/evaluator/FHIRPathEvaluator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 41
+                },
                 {
                     "_file_name": "fhir-validation/src/test/java/com/ibm/fhir/validation/test/ConstraintGeneratorTest.java",
                     "_is_antlr_file": true,

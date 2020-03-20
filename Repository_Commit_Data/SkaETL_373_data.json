@@ -13,49 +13,169 @@
             "_sha_id": "77d9fe3bb304728164daefcc4d434e8abfd0398d",
             "_timestamp": "2018-06-04 18:00:05+02:00",
             "_commit_index": 236,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/metrics/RuleMetricVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                },
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/filters/RuleFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                }
+            ]
         },
         {
-            "_sha_id": "78fad859c2f61e75561e13e5a8f30c3aba89dda4",
-            "_timestamp": "2018-08-09 11:32:21+02:00",
-            "_commit_index": 354,
-            "_changed_files_list": []
+            "_sha_id": "42d24905866cbcea8233f136805060aefc268d5f",
+            "_timestamp": "2018-05-25 10:29:49+02:00",
+            "_commit_index": 118,
+            "_changed_files_list": [
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/metrics/RuleMetricVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                },
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/filters/RuleFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                }
+            ]
         },
         {
-            "_sha_id": "90696085ad8485ab7958d493de10a5d8ce8f34ec",
-            "_timestamp": "2018-08-21 12:11:37+02:00",
-            "_commit_index": 413,
-            "_changed_files_list": []
+            "_sha_id": "cf4b832a4d1dd616a1f7fe694f3c188e5aa078bc",
+            "_timestamp": "2018-05-18 16:41:10+02:00",
+            "_commit_index": 59,
+            "_changed_files_list": [
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/metrics/RuleMetricVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                },
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/filters/RuleFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                }
+            ]
         },
         {
-            "_sha_id": "ae99353db176d157459fa677b543c51967531339",
-            "_timestamp": "2018-08-28 12:13:27+02:00",
-            "_commit_index": 443,
-            "_changed_files_list": []
+            "_sha_id": "5778af7828a52a94b73fa3865290381fac6a9a70",
+            "_timestamp": "2018-05-14 12:13:37+02:00",
+            "_commit_index": 29,
+            "_changed_files_list": [
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/metrics/RuleMetricVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                },
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/filters/RuleFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                }
+            ]
         },
         {
-            "_sha_id": "ce0698e7f8f83dac60d3c0d91f5faa16f2ac41bf",
-            "_timestamp": "2018-08-30 16:36:45+02:00",
-            "_commit_index": 458,
-            "_changed_files_list": []
+            "_sha_id": "f5253c06c73d3f167e9bf8a4bfa772cf76d9cbb5",
+            "_timestamp": "2018-05-13 09:21:56+02:00",
+            "_commit_index": 14,
+            "_changed_files_list": [
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/metrics/RuleMetricVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                },
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/filters/RuleFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                }
+            ]
         },
         {
-            "_sha_id": "341768528b59af792751bf46f2ec23fd992f1578",
-            "_timestamp": "2018-08-31 17:09:04+02:00",
-            "_commit_index": 465,
-            "_changed_files_list": []
+            "_sha_id": "890e03def0eaa1295e011cb1641374055be887ed",
+            "_timestamp": "2018-05-12 19:05:29+02:00",
+            "_commit_index": 7,
+            "_changed_files_list": [
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/metrics/RuleMetricVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                },
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/filters/RuleFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                }
+            ]
         },
         {
-            "_sha_id": "c17a9e6d502ea9f53bf538e07211e3d9a175876b",
-            "_timestamp": "2018-12-19 20:45:16+03:00",
-            "_commit_index": 469,
-            "_changed_files_list": []
+            "_sha_id": "26be25a8c0c903427424a5476343e02e831dc9c7",
+            "_timestamp": "2018-05-11 15:09:10+02:00",
+            "_commit_index": 3,
+            "_changed_files_list": [
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/metrics/RuleMetricVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                },
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/filters/RuleFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                }
+            ]
         },
         {
-            "_sha_id": "9033cdddcadb34b5181979bb55c4b88b747a0ed6",
-            "_timestamp": "2018-12-20 09:48:38+03:00",
-            "_commit_index": 471,
-            "_changed_files_list": []
+            "_sha_id": "b9abc6f25410b60b1369cfe1c1d1bdd50977c75d",
+            "_timestamp": "2018-05-11 12:01:53+02:00",
+            "_commit_index": 1,
+            "_changed_files_list": [
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/metrics/RuleMetricVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 25
+                },
+                {
+                    "_file_name": "rule-executor/src/main/java/io/skalogs/skaetl/rules/codegeneration/filters/RuleFilterVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                }
+            ]
         },
         {
             "_sha_id": "38514a830a50c8597859f19b1e992c738bca2e67",

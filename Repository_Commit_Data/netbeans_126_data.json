@@ -19,42 +19,108 @@
             "_sha_id": "3a9cdc8adaa1d65154a876e6b50b26c637b2a8a3",
             "_timestamp": "2019-05-15 09:11:20+02:00",
             "_commit_index": 2553,
+            "_changed_files_list": [
+                {
+                    "_file_name": "webcommon/javascript2.editor/src/org/netbeans/modules/javascript2/editor/formatter/JsonFormatVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "webcommon/javascript2.json/src/org/netbeans/modules/javascript2/json/parser/ParseTreeToXml.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "webcommon/javascript2.model/src/org/netbeans/modules/javascript2/model/JsonModelResolver.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
+        },
+        {
+            "_sha_id": "d6a13cfea1bfbec1a47d3a542957e511222273a7",
+            "_timestamp": "2018-11-01 08:35:44+01:00",
+            "_commit_index": 2127,
+            "_changed_files_list": [
+                {
+                    "_file_name": "webcommon/javascript2.editor/src/org/netbeans/modules/javascript2/editor/formatter/JsonFormatVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "webcommon/javascript2.json/src/org/netbeans/modules/javascript2/json/parser/ParseTreeToXml.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "webcommon/javascript2.model/src/org/netbeans/modules/javascript2/model/JsonModelResolver.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
+        },
+        {
+            "_sha_id": "4f55b048b5b8673fa356a248a26512186b1b9daf",
+            "_timestamp": "2018-09-12 20:00:23+02:00",
+            "_commit_index": 1914,
+            "_changed_files_list": [
+                {
+                    "_file_name": "webcommon/javascript2.editor/src/org/netbeans/modules/javascript2/editor/formatter/JsonFormatVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "webcommon/javascript2.json/src/org/netbeans/modules/javascript2/json/parser/ParseTreeToXml.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "webcommon/javascript2.model/src/org/netbeans/modules/javascript2/model/JsonModelResolver.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
+        },
+        {
+            "_sha_id": "f59a1e6584595350cac4a43ff3e7534d5711ae38",
+            "_timestamp": "2018-08-31 18:04:07+02:00",
+            "_commit_index": 1808,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "a30e5ca82da3abcfc068958a8decb585608f7f18",
-            "_timestamp": "2019-09-20 16:16:16+01:00",
-            "_commit_index": 2979,
+            "_sha_id": "5058fc4e8b5d4e12127c0dbb4f535056187afd0c",
+            "_timestamp": "2018-04-22 16:21:11-04:00",
+            "_commit_index": 1861,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4f039d554d9ec50b4f83436fe5ef6a141f114571",
-            "_timestamp": "2019-11-26 22:44:03+01:00",
-            "_commit_index": 3192,
+            "_sha_id": "0733bfa50a2ab70c06f3c3b65067a6f0276de801",
+            "_timestamp": "2018-09-11 07:18:09+02:00",
+            "_commit_index": 1887,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "069467351006d0953de60cfdd31b22ce3daa7d65",
-            "_timestamp": "2019-12-10 12:00:42-08:00",
-            "_commit_index": 3298,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "35a8f8ae6b7913533c1f92aea57c597f1a85d8cc",
-            "_timestamp": "2019-12-15 10:31:29+01:00",
-            "_commit_index": 3351,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "e7592f01f35a363b88f12efc076b136f44a17817",
-            "_timestamp": "2019-12-27 16:58:09-08:00",
-            "_commit_index": 3378,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "38e2a66ddefbcbd25686d28566b9dd243a7ddf70",
-            "_timestamp": "2020-01-03 22:31:11+01:00",
-            "_commit_index": 3391,
+            "_sha_id": "095c2f311d8110091a75488678a56bbc1671858a",
+            "_timestamp": "2018-09-11 20:58:31+02:00",
+            "_commit_index": 1900,
             "_changed_files_list": []
         },
         {

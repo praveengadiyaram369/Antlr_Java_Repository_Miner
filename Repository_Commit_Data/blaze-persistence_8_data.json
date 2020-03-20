@@ -16,46 +16,78 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "178dd4cb504ebb3f2cbbe9c46d27a316d5d5c9ab",
-            "_timestamp": "2016-09-29 10:15:27+02:00",
-            "_commit_index": 882,
+            "_sha_id": "9678bb0c6cf6372898f63af2c1c58395f8aee319",
+            "_timestamp": "2017-04-27 16:18:42+02:00",
+            "_commit_index": 1323,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "178dd4cb504ebb3f2cbbe9c46d27a316d5d5c9ab",
-            "_timestamp": "2016-09-29 10:15:27+02:00",
-            "_commit_index": 882,
+            "_sha_id": "64c80581c3e359723686989f2bf654e335bf0e93",
+            "_timestamp": "2018-11-11 16:04:27+01:00",
+            "_commit_index": 1544,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "178dd4cb504ebb3f2cbbe9c46d27a316d5d5c9ab",
-            "_timestamp": "2016-09-29 10:15:27+02:00",
-            "_commit_index": 882,
+            "_sha_id": "ed1ed434958fa648b85edc3dd0ebf1790d50b501",
+            "_timestamp": "2019-08-21 08:50:33+02:00",
+            "_commit_index": 1654,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "178dd4cb504ebb3f2cbbe9c46d27a316d5d5c9ab",
-            "_timestamp": "2016-09-29 10:15:27+02:00",
-            "_commit_index": 882,
-            "_changed_files_list": []
+            "_sha_id": "3cfcaec2fa560c84d523a384c3105a572560c4f9",
+            "_timestamp": "2019-10-06 13:00:00+02:00",
+            "_commit_index": 1709,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/parser/src/main/java/com/blazebit/persistence/parser/expression/JPQLNextExpressionVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 69
+                }
+            ]
         },
         {
-            "_sha_id": "178dd4cb504ebb3f2cbbe9c46d27a316d5d5c9ab",
-            "_timestamp": "2016-09-29 10:15:27+02:00",
-            "_commit_index": 882,
-            "_changed_files_list": []
+            "_sha_id": "9d60d34b37ac0f3678b29c8094a04fbc45ff3c86",
+            "_timestamp": "2019-09-15 13:09:59+02:00",
+            "_commit_index": 1681,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/parser/src/main/java/com/blazebit/persistence/parser/expression/JPQLNextExpressionVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 69
+                }
+            ]
         },
         {
-            "_sha_id": "178dd4cb504ebb3f2cbbe9c46d27a316d5d5c9ab",
-            "_timestamp": "2016-09-29 10:15:27+02:00",
-            "_commit_index": 882,
-            "_changed_files_list": []
+            "_sha_id": "4b9a90792472995ba2bb8dedb373e826d36ce02a",
+            "_timestamp": "2019-09-09 00:40:09+02:00",
+            "_commit_index": 1667,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/parser/src/main/java/com/blazebit/persistence/parser/expression/JPQLNextExpressionVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 69
+                }
+            ]
         },
         {
-            "_sha_id": "178dd4cb504ebb3f2cbbe9c46d27a316d5d5c9ab",
-            "_timestamp": "2016-09-29 10:15:27+02:00",
-            "_commit_index": 882,
-            "_changed_files_list": []
+            "_sha_id": "8a07276acaa16cf71a0befa3ae38e1890ef8dc29",
+            "_timestamp": "2019-09-02 11:15:09+02:00",
+            "_commit_index": 1660,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/parser/src/main/java/com/blazebit/persistence/parser/expression/JPQLNextExpressionVisitorImpl.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 68
+                }
+            ]
         },
         {
             "_sha_id": "b956cb54669a39d8d9ff28840c3eb3c45588af9a",

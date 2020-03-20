@@ -13,12 +13,6 @@
             "_sha_id": "aca069ee84f5585a6ec78cdde00ce198f22be588",
             "_timestamp": "2015-07-07 20:00:13+02:00",
             "_commit_index": 126,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "9f7aeb7780e08e67c4165bb462aeb23b07be834e",
-            "_timestamp": "2019-04-14 22:40:35+02:00",
-            "_commit_index": 189,
             "_changed_files_list": [
                 {
                     "_file_name": "services/src/main/java/org/jd/gui/util/parser/antlr/AbstractJavaListener.java",
@@ -30,39 +24,61 @@
             ]
         },
         {
-            "_sha_id": "6759f09062fb71a163d82ac5c0eb00f9089b0058",
-            "_timestamp": "2019-03-10 08:52:24+01:00",
-            "_commit_index": 157,
+            "_sha_id": "50ac41a95d64c6222f892a7ee1109c4f94bda989",
+            "_timestamp": "2015-05-24 13:44:27+02:00",
+            "_commit_index": 63,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b1fe4439019cc3d6fe92e371eeeb81080167ec25",
-            "_timestamp": "2019-04-10 07:09:12+02:00",
-            "_commit_index": 173,
+            "_sha_id": "836d1ba18be1a47cc828fe52367592953b3a9932",
+            "_timestamp": "2015-06-22 09:16:07-05:00",
+            "_commit_index": 94,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "ee820d16cdf0ad7911d40cd274f7da948cadfce6",
-            "_timestamp": "2019-04-11 20:00:21+02:00",
-            "_commit_index": 181,
+            "_sha_id": "7e56f6d9bcaca9a7ad8203f584d93ab8d0a362c1",
+            "_timestamp": "2015-07-01 12:16:45+02:00",
+            "_commit_index": 110,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "cac01fb702320cc24903fc448047e2c2d9e8ea3f",
-            "_timestamp": "2019-04-13 11:14:41+02:00",
-            "_commit_index": 185,
+            "_sha_id": "4765dc92cfe67effb1bf8caa81b3e7c09b5fa663",
+            "_timestamp": "2015-07-06 16:45:13+02:00",
+            "_commit_index": 118,
+            "_changed_files_list": [
+                {
+                    "_file_name": "services/src/main/java/org/jd/gui/util/parser/antlr/AbstractJavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "62c3551778b9cd1c5c24efa47d457260ba236e33",
+            "_timestamp": "2015-07-02 21:02:15+02:00",
+            "_commit_index": 114,
+            "_changed_files_list": [
+                {
+                    "_file_name": "services/src/main/java/org/jd/gui/util/parser/antlr/AbstractJavaListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "20fb73a58673a119aaab8f8d09ac9ed1c9bbdf6b",
+            "_timestamp": "2015-07-01 12:26:52+02:00",
+            "_commit_index": 112,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "3218e9febc0246507356aac3b3086818970711ed",
-            "_timestamp": "2019-04-14 10:18:49+02:00",
-            "_commit_index": 187,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4f60170081b4d51159c65f38eaef2abd45127d39",
-            "_timestamp": "2019-04-14 22:34:28+02:00",
-            "_commit_index": 188,
+            "_sha_id": "71130e633fcde11b6bb8046eb82d21d686c1a865",
+            "_timestamp": "2015-07-01 12:34:07+02:00",
+            "_commit_index": 113,
             "_changed_files_list": []
         },
         {

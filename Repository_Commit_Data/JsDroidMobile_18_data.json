@@ -18,52 +18,116 @@
             ]
         },
         {
-            "_sha_id": "54930276f753779a5a9e2727f739fbeece443b9c",
-            "_timestamp": "2019-10-30 11:14:19+08:00",
-            "_commit_index": 1,
-            "_changed_files_list": []
-        },
-        {
             "_sha_id": "7f1b2d9af0c5d464e55581075cb22206f0466106",
             "_timestamp": "2019-10-30 11:47:15+08:00",
             "_commit_index": 11,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "jsdroid-editor/src/main/java/com/jsdroid/groovy/node/NodeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
-            "_sha_id": "f8d38d9f2e03bfbe2be6a5462e804a9abf0df8d6",
-            "_timestamp": "2019-10-30 11:23:06+08:00",
-            "_commit_index": 8,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "139c7a18927dcd638ccead8815f32e087cab14fe",
-            "_timestamp": "2019-11-22 11:29:03+08:00",
-            "_commit_index": 13,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "cbf33d94f042a6e509b4e8cb2c9fd452e2b69e72",
-            "_timestamp": "2019-10-30 11:46:35+08:00",
-            "_commit_index": 10,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "f0b33b8bc3d64440a8cc14e8b10b882d0d9a06dd",
-            "_timestamp": "2019-10-30 11:21:30+08:00",
-            "_commit_index": 6,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "ff14b13ef618369c05f3ca43acc186a42af39805",
-            "_timestamp": "2019-10-30 11:22:43+08:00",
-            "_commit_index": 7,
-            "_changed_files_list": []
+            "_sha_id": "712d1b18573dce9da39169fbf23242a6def66b35",
+            "_timestamp": "2019-10-30 11:14:39+08:00",
+            "_commit_index": 3,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jsdroid-editor/src/main/java/com/jsdroid/groovy/node/NodeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
             "_sha_id": "a34a1f87eb81e1d5bc4f4985045bfa548723e98f",
             "_timestamp": "2019-11-22 11:28:11+08:00",
             "_commit_index": 12,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "jsdroid-editor/src/main/java/com/jsdroid/groovy/node/NodeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "ff14b13ef618369c05f3ca43acc186a42af39805",
+            "_timestamp": "2019-10-30 11:22:43+08:00",
+            "_commit_index": 7,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jsdroid-editor/src/main/java/com/jsdroid/groovy/node/NodeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "88c25caf571fa0bf67c0c4435e391abe37eab1ee",
+            "_timestamp": "2019-10-30 11:21:10+08:00",
+            "_commit_index": 5,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jsdroid-editor/src/main/java/com/jsdroid/groovy/node/NodeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "cbf33d94f042a6e509b4e8cb2c9fd452e2b69e72",
+            "_timestamp": "2019-10-30 11:46:35+08:00",
+            "_commit_index": 10,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jsdroid-editor/src/main/java/com/jsdroid/groovy/node/NodeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "54930276f753779a5a9e2727f739fbeece443b9c",
+            "_timestamp": "2019-10-30 11:14:19+08:00",
+            "_commit_index": 1,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jsdroid-editor/src/main/java/com/jsdroid/groovy/node/NodeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "7ccbc85f7e4e964c226a5fe0021a4f203bf019a0",
+            "_timestamp": "2019-11-22 11:29:25+08:00",
+            "_commit_index": 14,
+            "_changed_files_list": [
+                {
+                    "_file_name": "jsdroid-editor/src/main/java/com/jsdroid/groovy/node/NodeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
             "_sha_id": "49ce0b3d137adc21437c72a4c77ef91097df11ad",

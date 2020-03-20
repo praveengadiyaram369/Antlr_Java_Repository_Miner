@@ -16,45 +16,61 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "3a034eb5d32af4e3e13ff6a1cf3b66d4d2e07305",
-            "_timestamp": "2019-04-10 20:59:02-07:00",
-            "_commit_index": 562,
+            "_sha_id": "13abef57d7f9942abe70bf8c42bc86c4066dde8a",
+            "_timestamp": "2019-07-09 06:53:28-07:00",
+            "_commit_index": 843,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "3a034eb5d32af4e3e13ff6a1cf3b66d4d2e07305",
-            "_timestamp": "2019-04-10 20:59:02-07:00",
-            "_commit_index": 562,
+            "_sha_id": "de8910d6f9fe4372b206ad68a0f6323a2d086971",
+            "_timestamp": "2019-09-08 20:58:42-07:00",
+            "_commit_index": 983,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "3a034eb5d32af4e3e13ff6a1cf3b66d4d2e07305",
-            "_timestamp": "2019-04-10 20:59:02-07:00",
-            "_commit_index": 562,
+            "_sha_id": "2b41107cd8577778d54d31a1f80ee1e101684b87",
+            "_timestamp": "2019-10-25 10:57:53-07:00",
+            "_commit_index": 1053,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/salesforce/dynamodbv2/mt/mappers/sharedtable/impl/AbstractConditionMapper.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "27d02c702cd2bb797ef46103c512a3a7bb9b2d27",
+            "_timestamp": "2019-10-02 23:11:45-07:00",
+            "_commit_index": 1018,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "3a034eb5d32af4e3e13ff6a1cf3b66d4d2e07305",
-            "_timestamp": "2019-04-10 20:59:02-07:00",
-            "_commit_index": 562,
+            "_sha_id": "e4ed282f2f4958064be92fa10ec556766178516d",
+            "_timestamp": "2019-10-17 07:24:40-07:00",
+            "_commit_index": 1035,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "3a034eb5d32af4e3e13ff6a1cf3b66d4d2e07305",
-            "_timestamp": "2019-04-10 20:59:02-07:00",
-            "_commit_index": 562,
-            "_changed_files_list": []
+            "_sha_id": "0474490ae8a8d2a01cc84c0c1bc73fd420e8dbe9",
+            "_timestamp": "2019-10-20 09:23:06-07:00",
+            "_commit_index": 1044,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/salesforce/dynamodbv2/mt/mappers/sharedtable/impl/AbstractConditionMapper.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
-            "_sha_id": "3a034eb5d32af4e3e13ff6a1cf3b66d4d2e07305",
-            "_timestamp": "2019-04-10 20:59:02-07:00",
-            "_commit_index": 562,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "3a034eb5d32af4e3e13ff6a1cf3b66d4d2e07305",
-            "_timestamp": "2019-04-10 20:59:02-07:00",
-            "_commit_index": 562,
+            "_sha_id": "6526e9c0b172d71d3188ca6f07774232c1438907",
+            "_timestamp": "2019-10-18 14:36:23-07:00",
+            "_commit_index": 1039,
             "_changed_files_list": []
         },
         {

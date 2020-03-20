@@ -13,49 +13,89 @@
             "_sha_id": "332a9bdf508bbe7dd1e2ffa0fd5845b116814538",
             "_timestamp": "2018-10-18 12:04:06+03:00",
             "_commit_index": 76,
+            "_changed_files_list": [
+                {
+                    "_file_name": "lab-material/antLR-material/balanced-parentheses/EvalVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
+        },
+        {
+            "_sha_id": "eb34525395708eca93b05b2a097656a50409b29e",
+            "_timestamp": "2018-10-01 14:37:12+03:00",
+            "_commit_index": 38,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "332a9bdf508bbe7dd1e2ffa0fd5845b116814538",
-            "_timestamp": "2018-10-18 12:04:06+03:00",
-            "_commit_index": 76,
+            "_sha_id": "fe251634caa156066e916915ca632a92e0234f24",
+            "_timestamp": "2018-10-01 16:52:24+03:00",
+            "_commit_index": 57,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "332a9bdf508bbe7dd1e2ffa0fd5845b116814538",
-            "_timestamp": "2018-10-18 12:04:06+03:00",
-            "_commit_index": 76,
+            "_sha_id": "045431f96ee4fb12730c65cfb807e2a218610a5b",
+            "_timestamp": "2018-10-17 11:08:32+03:00",
+            "_commit_index": 66,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "332a9bdf508bbe7dd1e2ffa0fd5845b116814538",
-            "_timestamp": "2018-10-18 12:04:06+03:00",
-            "_commit_index": 76,
-            "_changed_files_list": []
+            "_sha_id": "4dbcdf36337295d930a5d3328fb1918952a38c98",
+            "_timestamp": "2018-10-18 11:29:53+03:00",
+            "_commit_index": 71,
+            "_changed_files_list": [
+                {
+                    "_file_name": "lab-material/antLR-material/balanced-parentheses/EvalVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
         },
         {
-            "_sha_id": "332a9bdf508bbe7dd1e2ffa0fd5845b116814538",
-            "_timestamp": "2018-10-18 12:04:06+03:00",
-            "_commit_index": 76,
-            "_changed_files_list": []
+            "_sha_id": "9340022306a4bd05a7b3c3f980f4dee835c85b66",
+            "_timestamp": "2018-10-17 17:52:32+03:00",
+            "_commit_index": 68,
+            "_changed_files_list": [
+                {
+                    "_file_name": "lab-material/antLR-material/balanced-parentheses/EvalVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
         },
         {
-            "_sha_id": "332a9bdf508bbe7dd1e2ffa0fd5845b116814538",
-            "_timestamp": "2018-10-18 12:04:06+03:00",
-            "_commit_index": 76,
-            "_changed_files_list": []
+            "_sha_id": "af0a26ff6ad8a02948a5014fc49ad9afa52edf79",
+            "_timestamp": "2018-10-17 16:33:15+03:00",
+            "_commit_index": 67,
+            "_changed_files_list": [
+                {
+                    "_file_name": "lab-material/antLR-material/balanced-parentheses/EvalVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
         },
         {
-            "_sha_id": "332a9bdf508bbe7dd1e2ffa0fd5845b116814538",
-            "_timestamp": "2018-10-18 12:04:06+03:00",
-            "_commit_index": 76,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "332a9bdf508bbe7dd1e2ffa0fd5845b116814538",
-            "_timestamp": "2018-10-18 12:04:06+03:00",
-            "_commit_index": 76,
-            "_changed_files_list": []
+            "_sha_id": "7d18a5e14d14af31b9483d284338399ba2947e3a",
+            "_timestamp": "2018-11-19 17:01:27+03:00",
+            "_commit_index": 103,
+            "_changed_files_list": [
+                {
+                    "_file_name": "lab-material/antLR-material/balanced-parentheses/EvalVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                }
+            ]
         },
         {
             "_sha_id": "e33e8db9cb6834e94bd2a50f093cb0a613cd377d",

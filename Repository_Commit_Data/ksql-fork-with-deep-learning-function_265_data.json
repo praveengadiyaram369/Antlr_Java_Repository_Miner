@@ -9,18 +9,123 @@
             "_commit_index": 1,
             "_changed_files_list": [
                 {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/util/DataSourceExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
                     "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 93
-                },
+                }
+            ]
+        },
+        {
+            "_sha_id": "681f2e56dfa5acb38012721823664298ac3e264c",
+            "_timestamp": "2018-06-07 11:17:22+02:00",
+            "_commit_index": 13,
+            "_changed_files_list": [
                 {
                     "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/util/DataSourceExtractor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 93
+                }
+            ]
+        },
+        {
+            "_sha_id": "87b58ec1d944fadd6ec626bfec89f6b8b85bbbe6",
+            "_timestamp": "2018-06-04 10:44:09+01:00",
+            "_commit_index": 8,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/util/DataSourceExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 93
+                }
+            ]
+        },
+        {
+            "_sha_id": "7cdf8681038a171b61804799b00d7f2226db134b",
+            "_timestamp": "2018-05-29 17:17:49+01:00",
+            "_commit_index": 6,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/util/DataSourceExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 93
+                }
+            ]
+        },
+        {
+            "_sha_id": "8da17d4d7f34a47b154f4be3739152d9f9f3f227",
+            "_timestamp": "2018-07-27 08:25:18+02:00",
+            "_commit_index": 19,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/util/DataSourceExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 93
+                }
+            ]
+        },
+        {
+            "_sha_id": "061d3a902ea9ab3fe1b9efe5a3bdeec59b4fd452",
+            "_timestamp": "2018-06-04 11:47:39+01:00",
+            "_commit_index": 9,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/util/DataSourceExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 93
                 }
             ]
         },
@@ -28,49 +133,64 @@
             "_sha_id": "4c3bde567f289b30f819fa50e8c75b14d1984e64",
             "_timestamp": "2018-05-29 11:46:21+01:00",
             "_commit_index": 4,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "681f2e56dfa5acb38012721823664298ac3e264c",
-            "_timestamp": "2018-06-07 11:17:22+02:00",
-            "_commit_index": 13,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "9c6f88899c8cf50e97336cc81b7a99f86c59efa1",
-            "_timestamp": "2018-05-21 16:30:46+01:00",
-            "_commit_index": 3,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "3b01e1eaf260da19bdb0c7de1a484a9e0b5501af",
-            "_timestamp": "2018-05-29 17:17:06+01:00",
-            "_commit_index": 5,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8cd4935565ce8d05b20b9921804d8df117d79d36",
-            "_timestamp": "2018-06-14 12:33:26+02:00",
-            "_commit_index": 15,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/util/DataSourceExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 93
+                }
+            ]
         },
         {
             "_sha_id": "d3ca99123e16bf5b3795cdc6d8971dff1eca42ec",
             "_timestamp": "2018-04-23 09:17:05+01:00",
             "_commit_index": 1,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/util/DataSourceExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 93
+                }
+            ]
         },
         {
-            "_sha_id": "8da17d4d7f34a47b154f4be3739152d9f9f3f227",
-            "_timestamp": "2018-07-27 08:25:18+02:00",
-            "_commit_index": 19,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "aacd4f09d0b89b0e6423e8c62a32d19c879f1e3e",
-            "_timestamp": "2018-06-10 21:57:07+02:00",
-            "_commit_index": 14,
-            "_changed_files_list": []
+            "_sha_id": "c97e8595ccc3accc2be361e05da662adef0c5c71",
+            "_timestamp": "2018-06-14 12:35:35+02:00",
+            "_commit_index": 16,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/util/DataSourceExtractor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "ksql-parser/src/main/java/io/confluent/ksql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 93
+                }
+            ]
         },
         {
             "_sha_id": "a2fdf486b1956eb67ec200f8c57c0e205c9d55e9",

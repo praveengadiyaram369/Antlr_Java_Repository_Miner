@@ -13,48 +13,88 @@
             "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
             "_timestamp": "2017-08-17 17:15:33+08:00",
             "_commit_index": 673,
+            "_changed_files_list": [
+                {
+                    "_file_name": "smart-rule/src/main/java/org/smartdata/rule/parser/SmartRuleVisitTranslator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 47
+                }
+            ]
+        },
+        {
+            "_sha_id": "5a2501efc7affcda21aa0c7adc5c6eaebbd9f456",
+            "_timestamp": "2017-06-26 15:39:58+08:00",
+            "_commit_index": 336,
+            "_changed_files_list": [
+                {
+                    "_file_name": "smart-rule/src/main/java/org/smartdata/rule/parser/SmartRuleVisitTranslator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 47
+                }
+            ]
+        },
+        {
+            "_sha_id": "0f6ed53d5f4fcc5f3f997c6e2e6e7b320c57be17",
+            "_timestamp": "2017-06-08 11:21:00+08:00",
+            "_commit_index": 168,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
-            "_timestamp": "2017-08-17 17:15:33+08:00",
-            "_commit_index": 673,
+            "_sha_id": "e904d7629f0c302efe80da34b784eee39702373b",
+            "_timestamp": "2017-06-20 17:30:30+08:00",
+            "_commit_index": 252,
+            "_changed_files_list": [
+                {
+                    "_file_name": "smart-rule/src/main/java/org/smartdata/rule/parser/SmartRuleVisitTranslator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 47
+                }
+            ]
+        },
+        {
+            "_sha_id": "925715dd8f21237203a06a164a44ac0690e505c1",
+            "_timestamp": "2017-06-12 21:41:21+08:00",
+            "_commit_index": 210,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
-            "_timestamp": "2017-08-17 17:15:33+08:00",
-            "_commit_index": 673,
-            "_changed_files_list": []
+            "_sha_id": "1ba08ea5be6440538ef05a2d624b10ad4c9ef1c8",
+            "_timestamp": "2017-06-19 00:19:00+08:00",
+            "_commit_index": 231,
+            "_changed_files_list": [
+                {
+                    "_file_name": "smart-rule/src/main/java/org/smartdata/rule/parser/SmartRuleVisitTranslator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 47
+                }
+            ]
         },
         {
-            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
-            "_timestamp": "2017-08-17 17:15:33+08:00",
-            "_commit_index": 673,
-            "_changed_files_list": []
+            "_sha_id": "5e92b6cfc214ddf3b7184508eb4b43463b437416",
+            "_timestamp": "2017-06-16 16:56:53+08:00",
+            "_commit_index": 220,
+            "_changed_files_list": [
+                {
+                    "_file_name": "smart-rule/src/main/java/org/smartdata/rule/parser/SmartRuleVisitTranslator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 47
+                }
+            ]
         },
         {
-            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
-            "_timestamp": "2017-08-17 17:15:33+08:00",
-            "_commit_index": 673,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
-            "_timestamp": "2017-08-17 17:15:33+08:00",
-            "_commit_index": 673,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
-            "_timestamp": "2017-08-17 17:15:33+08:00",
-            "_commit_index": 673,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6e8c61e2697d06b49f3c9f8ec9dfadb60d4d47db",
-            "_timestamp": "2017-08-17 17:15:33+08:00",
-            "_commit_index": 673,
+            "_sha_id": "d41ace90162460a89a71086f71a52b436b5efbcb",
+            "_timestamp": "2017-06-13 17:18:46+08:00",
+            "_commit_index": 215,
             "_changed_files_list": []
         },
         {

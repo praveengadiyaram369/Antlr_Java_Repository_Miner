@@ -49,13 +49,43 @@
             "_sha_id": "c93fb82da1a36a49a64944c4df1e93c03fac40fa",
             "_timestamp": "2019-12-06 23:05:11-08:00",
             "_commit_index": 3206,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "worldedit-core/src/main/java/com/sk89q/worldedit/internal/expression/ExpressionValidator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "worldedit-core/src/main/java/com/sk89q/worldedit/internal/expression/EvaluatingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 30
+                }
+            ]
         },
         {
-            "_sha_id": "42cf205311eca1b0962d2fb860c5d96f8d97b029",
-            "_timestamp": "2019-12-11 21:13:51+10:00",
-            "_commit_index": 3219,
-            "_changed_files_list": []
+            "_sha_id": "575463a8e9d9a6b93338ed0fdf0d30272f53ee59",
+            "_timestamp": "2019-11-09 11:31:51-05:00",
+            "_commit_index": 3193,
+            "_changed_files_list": [
+                {
+                    "_file_name": "worldedit-core/src/main/java/com/sk89q/worldedit/internal/expression/ExpressionValidator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "worldedit-core/src/main/java/com/sk89q/worldedit/internal/expression/EvaluatingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 30
+                }
+            ]
         },
         {
             "_sha_id": "79c11c5ee945b220eeea9c3c4dde9980376ae06f",

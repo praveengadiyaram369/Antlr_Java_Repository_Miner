@@ -13,48 +13,99 @@
             "_sha_id": "8dd90d9aa991f69a2868e5a03b93801864cf3f4e",
             "_timestamp": "2019-08-16 18:32:22+08:00",
             "_commit_index": 79,
+            "_changed_files_list": [
+                {
+                    "_file_name": "lab/antlrtest/src/antlrtest/ASTEvaluator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                },
+                {
+                    "_file_name": "lab/report/src/main/report/FieldEvaluator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                },
+                {
+                    "_file_name": "lab/db/src/main/playdb/SQLVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "playscript-java/src/main/play/ASTEvaluator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 42
+                },
+                {
+                    "_file_name": "playscript-java/src/main/play/AsmGen.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 22
+                }
+            ]
+        },
+        {
+            "_sha_id": "d00dab9bc826a5ec6de807d4cd5bb1ecf45bd402",
+            "_timestamp": "2019-07-22 23:21:04+08:00",
+            "_commit_index": 39,
+            "_changed_files_list": [
+                {
+                    "_file_name": "lab/antlrtest/src/antlrtest/ASTEvaluator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                },
+                {
+                    "_file_name": "playscript-java/src/main/play/ASTEvaluator.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 42
+                }
+            ]
+        },
+        {
+            "_sha_id": "9a73fe6f0abd42fa7d54d83abcd440d3b5304f45",
+            "_timestamp": "2019-07-14 08:48:07+08:00",
+            "_commit_index": 19,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8dd90d9aa991f69a2868e5a03b93801864cf3f4e",
-            "_timestamp": "2019-08-16 18:32:22+08:00",
-            "_commit_index": 79,
+            "_sha_id": "6a5b2d944cb0448d4b58b7887771e40c841ebb9e",
+            "_timestamp": "2019-07-20 10:32:29+08:00",
+            "_commit_index": 29,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8dd90d9aa991f69a2868e5a03b93801864cf3f4e",
-            "_timestamp": "2019-08-16 18:32:22+08:00",
-            "_commit_index": 79,
+            "_sha_id": "3c8a238d6ded06b7bbe9f8a42cf4ee087ac424ec",
+            "_timestamp": "2019-07-20 11:16:03+08:00",
+            "_commit_index": 34,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8dd90d9aa991f69a2868e5a03b93801864cf3f4e",
-            "_timestamp": "2019-08-16 18:32:22+08:00",
-            "_commit_index": 79,
+            "_sha_id": "6e1e435fa1e32c915fd72138ec9bbcd80f224295",
+            "_timestamp": "2019-07-20 11:45:09+08:00",
+            "_commit_index": 36,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8dd90d9aa991f69a2868e5a03b93801864cf3f4e",
-            "_timestamp": "2019-08-16 18:32:22+08:00",
-            "_commit_index": 79,
+            "_sha_id": "45e9531831f40ab76ad65d1bd727d2ac81392aff",
+            "_timestamp": "2019-07-20 11:53:45+08:00",
+            "_commit_index": 37,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8dd90d9aa991f69a2868e5a03b93801864cf3f4e",
-            "_timestamp": "2019-08-16 18:32:22+08:00",
-            "_commit_index": 79,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8dd90d9aa991f69a2868e5a03b93801864cf3f4e",
-            "_timestamp": "2019-08-16 18:32:22+08:00",
-            "_commit_index": 79,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8dd90d9aa991f69a2868e5a03b93801864cf3f4e",
-            "_timestamp": "2019-08-16 18:32:22+08:00",
-            "_commit_index": 79,
+            "_sha_id": "f462936fc9b5c2f1502f9642783b2b28fe064af2",
+            "_timestamp": "2019-07-20 19:26:46+08:00",
+            "_commit_index": 38,
             "_changed_files_list": []
         },
         {

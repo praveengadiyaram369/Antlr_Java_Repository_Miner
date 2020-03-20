@@ -37,25 +37,41 @@
             "_sha_id": "cb8289f3e6ec106f9c1bf1019210fc33ebe2a989",
             "_timestamp": "2016-06-26 15:39:59+02:00",
             "_commit_index": 386,
+            "_changed_files_list": [
+                {
+                    "_file_name": "KrokiMockupTool/src/kroki/app/gui/console/KrokiMockupParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "9088c0930aebf89481ebbd436ec5e3768fc57d9b",
+            "_timestamp": "2016-04-02 00:18:14+02:00",
+            "_commit_index": 380,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "a68cae805bbe9c57f2b2829299b1e423d37d5207",
-            "_timestamp": "2016-06-30 16:00:04+02:00",
-            "_commit_index": 392,
+            "_sha_id": "150a12719fcccd47f15842abc91dc4266b4f80ee",
+            "_timestamp": "2016-06-24 13:31:09+02:00",
+            "_commit_index": 383,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6bb118b00694947efd0c80db22c4e4433f6204df",
-            "_timestamp": "2016-07-01 23:25:49+02:00",
-            "_commit_index": 395,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "525045b4aa060b85105523ae0ee59cbf2863bebd",
-            "_timestamp": "2018-04-10 13:01:50+02:00",
-            "_commit_index": 397,
-            "_changed_files_list": []
+            "_sha_id": "d71f26e2ac02e11152dba24a81674a9e015d0e2a",
+            "_timestamp": "2016-06-24 15:16:32+02:00",
+            "_commit_index": 384,
+            "_changed_files_list": [
+                {
+                    "_file_name": "KrokiMockupTool/src/kroki/app/gui/console/KrokiMockupParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "5c940f78152c674f65c01314ff6f4429ce7dcd53",

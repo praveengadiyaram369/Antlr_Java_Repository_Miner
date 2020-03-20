@@ -19,43 +19,91 @@
             "_sha_id": "0b60cba56c86668b757e2c0f86cf1dc778bb2721",
             "_timestamp": "2017-02-22 18:13:44+01:00",
             "_commit_index": 407,
+            "_changed_files_list": [
+                {
+                    "_file_name": "mdms/mdms-cli/src/main/java/de/hpi/isg/mdms/cli/parser/CommandLineFactory.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "d96425c2b51b36c7c60c5b578331713aec0fc42d",
+            "_timestamp": "2016-10-22 13:33:19+08:00",
+            "_commit_index": 339,
+            "_changed_files_list": [
+                {
+                    "_file_name": "mdms/mdms-cli/src/main/java/de/hpi/isg/mdms/cli/parser/CommandLineFactory.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "ad90d247b8557f819631bd9a3a200796cae8ea46",
+            "_timestamp": "2016-05-26 15:59:03+02:00",
+            "_commit_index": 305,
+            "_changed_files_list": [
+                {
+                    "_file_name": "mdms/mdms-cli/src/main/java/de/hpi/isg/mdms/cli/parser/CommandLineFactory.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "8d1ab32a88d7bfcc38a8dff0554857312b547214",
+            "_timestamp": "2016-03-17 16:58:36+01:00",
+            "_commit_index": 288,
+            "_changed_files_list": [
+                {
+                    "_file_name": "mdms/mdms-cli/src/main/java/de/hpi/isg/mdms/cli/parser/CommandLineFactory.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "c75c6486e96e642de804ca39687557b9081bccd3",
+            "_timestamp": "2016-01-31 20:05:28+03:00",
+            "_commit_index": 279,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "2008a5a71e30850872137695f77333972cd6d2c6",
-            "_timestamp": "2017-10-20 16:02:42+02:00",
-            "_commit_index": 475,
-            "_changed_files_list": []
+            "_sha_id": "19fe34244967549eb2f12f9834acaefb0d5c897c",
+            "_timestamp": "2016-02-23 00:18:08+03:00",
+            "_commit_index": 283,
+            "_changed_files_list": [
+                {
+                    "_file_name": "mdms/mdms-cli/src/main/java/de/hpi/isg/mdms/cli/parser/CommandLineFactory.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "9d71b68de45f0f956cec7182b9a07364e913e445",
-            "_timestamp": "2017-11-06 00:22:10+01:00",
-            "_commit_index": 509,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "55ee1bb7246146cf1782b5b74d2a09042dce3589",
-            "_timestamp": "2017-11-09 17:24:24+08:00",
-            "_commit_index": 526,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "474b4396c3600c420de355bc42d22c2fc3e2a2a5",
-            "_timestamp": "2017-11-16 17:18:31+01:00",
-            "_commit_index": 534,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "2a7262b2146601acfb2fc62787f38200bc712e81",
-            "_timestamp": "2017-12-10 17:43:06+01:00",
-            "_commit_index": 538,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4c7dfc8c5b34e431ba0fc181e390e037353877f5",
-            "_timestamp": "2017-12-13 12:53:32+01:00",
-            "_commit_index": 540,
-            "_changed_files_list": []
+            "_sha_id": "2f083918f04e73d09fcea2e4845d3ad01e407289",
+            "_timestamp": "2016-01-31 23:49:46+03:00",
+            "_commit_index": 281,
+            "_changed_files_list": [
+                {
+                    "_file_name": "mdms/mdms-cli/src/main/java/de/hpi/isg/mdms/cli/parser/CommandLineFactory.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "d994c98c611248c02ef77f0dad23c15d4940f53d",

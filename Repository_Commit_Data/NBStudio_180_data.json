@@ -34,43 +34,120 @@
             "_sha_id": "b6254d7053be94e9e92b47a0c7a484aa80e34e0b",
             "_timestamp": "2013-09-20 22:35:25+04:00",
             "_commit_index": 7,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "NBStudioCore/src/org/nbstudio/syntax/cls/clsMyParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "b6254d7053be94e9e92b47a0c7a484aa80e34e0b",
-            "_timestamp": "2013-09-20 22:35:25+04:00",
-            "_commit_index": 7,
-            "_changed_files_list": []
+            "_sha_id": "1e21a7bb81335e4b5c52d0363dd929b47f033312",
+            "_timestamp": "2013-10-02 23:23:35+04:00",
+            "_commit_index": 10,
+            "_changed_files_list": [
+                {
+                    "_file_name": "NBStudioCore/src/org/nbstudio/syntax/cls/clsMyParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "b6254d7053be94e9e92b47a0c7a484aa80e34e0b",
-            "_timestamp": "2013-09-20 22:35:25+04:00",
-            "_commit_index": 7,
-            "_changed_files_list": []
+            "_sha_id": "3238bd03919ead8fedea3bf8edbee8e2ebc53526",
+            "_timestamp": "2013-10-10 23:40:43+04:00",
+            "_commit_index": 12,
+            "_changed_files_list": [
+                {
+                    "_file_name": "NBStudioCore/src/org/nbstudio/syntax/cls/clsMyParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "b6254d7053be94e9e92b47a0c7a484aa80e34e0b",
-            "_timestamp": "2013-09-20 22:35:25+04:00",
-            "_commit_index": 7,
-            "_changed_files_list": []
+            "_sha_id": "99811eee8bbcef75d9ea56962ce856e2353a815d",
+            "_timestamp": "2013-10-10 23:52:52+04:00",
+            "_commit_index": 13,
+            "_changed_files_list": [
+                {
+                    "_file_name": "NBStudioCore/src/org/nbstudio/syntax/cls/clsMyParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "b6254d7053be94e9e92b47a0c7a484aa80e34e0b",
-            "_timestamp": "2013-09-20 22:35:25+04:00",
-            "_commit_index": 7,
-            "_changed_files_list": []
+            "_sha_id": "1a6aa91cf65b18a1a5faee38ce30c195c7f1687c",
+            "_timestamp": "2014-01-07 18:57:15+04:00",
+            "_commit_index": 15,
+            "_changed_files_list": [
+                {
+                    "_file_name": "NBStudioCore/src/org/nbstudio/core/cls/CLSParserListerer4Save.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 21,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "NBStudioCore/src/org/nbstudio/syntax/cls/clsMyParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "b6254d7053be94e9e92b47a0c7a484aa80e34e0b",
-            "_timestamp": "2013-09-20 22:35:25+04:00",
-            "_commit_index": 7,
-            "_changed_files_list": []
+            "_sha_id": "228589af7ce867785649eb10f3e7ada672e95240",
+            "_timestamp": "2014-07-26 15:47:42+04:00",
+            "_commit_index": 19,
+            "_changed_files_list": [
+                {
+                    "_file_name": "NBStudioCore/src/org/nbstudio/core/cls/CLSParserListerer4Save.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 21,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "NBStudioCore/src/org/nbstudio/syntax/cls/clsMyParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "b6254d7053be94e9e92b47a0c7a484aa80e34e0b",
-            "_timestamp": "2013-09-20 22:35:25+04:00",
-            "_commit_index": 7,
-            "_changed_files_list": []
+            "_sha_id": "d003e722886a3d98ccb3f7872039497e75127d0b",
+            "_timestamp": "2014-09-14 00:08:28+04:00",
+            "_commit_index": 24,
+            "_changed_files_list": [
+                {
+                    "_file_name": "NBStudioCore/src/org/nbstudio/core/cls/CLSParserListerer4Save.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 21,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "NBStudioCore/src/org/nbstudio/syntax/cls/clsMyParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "ccaf7474c5e338313d15dac60adafb0670a61692",

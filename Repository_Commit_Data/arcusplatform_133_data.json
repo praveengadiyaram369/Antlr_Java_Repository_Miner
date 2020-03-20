@@ -13,49 +13,169 @@
             "_sha_id": "780d01cc73041e5dc70e9866857e7d062ab029ea",
             "_timestamp": "2019-09-25 20:48:33-07:00",
             "_commit_index": 300,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "common/arcus-protoc/src/main/groovy/com/iris/protoc/ASTBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "common/arcus-model/model-query/src/main/java/com/iris/model/query/expression/ExpressionCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 25,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
-            "_sha_id": "7bffe46e6a69c5ea3523276fabb4dc96cdedf09c",
-            "_timestamp": "2019-10-30 21:12:45-07:00",
-            "_commit_index": 450,
-            "_changed_files_list": []
+            "_sha_id": "3cba0ce4234e9b42fb67a5e6697a9cfc1ae112df",
+            "_timestamp": "2019-07-31 21:25:36-07:00",
+            "_commit_index": 150,
+            "_changed_files_list": [
+                {
+                    "_file_name": "common/arcus-protoc/src/main/groovy/com/iris/protoc/ASTBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "common/arcus-model/model-query/src/main/java/com/iris/model/query/expression/ExpressionCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 25,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
-            "_sha_id": "2d4f4c94557bea206f6a46fb78e72cbeec3dcf78",
-            "_timestamp": "2019-11-13 09:07:48-08:00",
-            "_commit_index": 525,
-            "_changed_files_list": []
+            "_sha_id": "294e83eac8632c25e9df7a5ca279a7ddf6313a1f",
+            "_timestamp": "2019-04-30 22:55:36-05:00",
+            "_commit_index": 75,
+            "_changed_files_list": [
+                {
+                    "_file_name": "common/arcus-protoc/src/main/groovy/com/iris/protoc/ASTBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "common/arcus-model/model-query/src/main/java/com/iris/model/query/expression/ExpressionCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 25,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
-            "_sha_id": "0861c586d6039cb043238712ed93e3f36afba45c",
-            "_timestamp": "2019-11-23 16:17:55-08:00",
-            "_commit_index": 563,
-            "_changed_files_list": []
+            "_sha_id": "54fd8b377c97d4606deae7755d22b7fad75d6df3",
+            "_timestamp": "2019-04-23 08:08:27-05:00",
+            "_commit_index": 37,
+            "_changed_files_list": [
+                {
+                    "_file_name": "common/arcus-protoc/src/main/groovy/com/iris/protoc/ASTBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "common/arcus-model/model-query/src/main/java/com/iris/model/query/expression/ExpressionCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 25,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
-            "_sha_id": "37de455664d25fc135fe2de072573706f257cfdd",
-            "_timestamp": "2019-12-08 19:30:38-08:00",
-            "_commit_index": 582,
-            "_changed_files_list": []
+            "_sha_id": "614c57b61598c88df1bdbdb0c4170d374f392d8e",
+            "_timestamp": "2019-04-23 08:01:47-05:00",
+            "_commit_index": 18,
+            "_changed_files_list": [
+                {
+                    "_file_name": "common/arcus-protoc/src/main/groovy/com/iris/protoc/ASTBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "common/arcus-model/model-query/src/main/java/com/iris/model/query/expression/ExpressionCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 25,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
-            "_sha_id": "750201216c2ac4de33306cdb43590d8660ef07aa",
-            "_timestamp": "2019-12-09 16:45:05-08:00",
-            "_commit_index": 591,
-            "_changed_files_list": []
+            "_sha_id": "fb197d1c4b72371534ac2e5cce7148da354335ba",
+            "_timestamp": "2019-04-06 17:28:51-05:00",
+            "_commit_index": 9,
+            "_changed_files_list": [
+                {
+                    "_file_name": "common/arcus-protoc/src/main/groovy/com/iris/protoc/ASTBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "common/arcus-model/model-query/src/main/java/com/iris/model/query/expression/ExpressionCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 25,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
-            "_sha_id": "337381d17c812f7bb076503f66607d22e68e4a61",
-            "_timestamp": "2019-12-14 21:49:10-08:00",
-            "_commit_index": 596,
-            "_changed_files_list": []
+            "_sha_id": "c5b94b39ef8ad6816015047d8b989ad1b4ef48ab",
+            "_timestamp": "2019-04-06 11:15:55-07:00",
+            "_commit_index": 4,
+            "_changed_files_list": [
+                {
+                    "_file_name": "common/arcus-protoc/src/main/groovy/com/iris/protoc/ASTBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "common/arcus-model/model-query/src/main/java/com/iris/model/query/expression/ExpressionCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 25,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
-            "_sha_id": "3e48d538eea7c6572ff1a6275ec602cab78509ef",
-            "_timestamp": "2019-12-15 13:02:25-08:00",
-            "_commit_index": 598,
-            "_changed_files_list": []
+            "_sha_id": "a545ffb5f3026c048001a22d123478dfb8c18596",
+            "_timestamp": "2019-04-03 12:08:44-05:00",
+            "_commit_index": 2,
+            "_changed_files_list": [
+                {
+                    "_file_name": "common/arcus-protoc/src/main/groovy/com/iris/protoc/ASTBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "common/arcus-model/model-query/src/main/java/com/iris/model/query/expression/ExpressionCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 25,
+                    "_exit_cnt": 7,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
             "_sha_id": "92d881ef31fa4019b96f610a73540c9cf788b9de",

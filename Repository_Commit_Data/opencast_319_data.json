@@ -16,45 +16,61 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "95eaededc46a5bde95f8099ff2e2c574d52500ea",
-            "_timestamp": "2016-06-08 16:16:31+02:00",
-            "_commit_index": 6127,
+            "_sha_id": "a35973c14dd133c25a4dd6b1bd32b71edeb6b2d5",
+            "_timestamp": "2018-04-01 11:56:38+02:00",
+            "_commit_index": 9191,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "95eaededc46a5bde95f8099ff2e2c574d52500ea",
-            "_timestamp": "2016-06-08 16:16:31+02:00",
-            "_commit_index": 6127,
+            "_sha_id": "c434dbb8d731554a8ef15870ed5a51548d320671",
+            "_timestamp": "2019-01-24 22:25:50+00:00",
+            "_commit_index": 10723,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "95eaededc46a5bde95f8099ff2e2c574d52500ea",
-            "_timestamp": "2016-06-08 16:16:31+02:00",
-            "_commit_index": 6127,
+            "_sha_id": "b0662929fe2be9c3744bad06991abcd388d69d83",
+            "_timestamp": "2019-06-04 18:31:55+02:00",
+            "_commit_index": 11489,
+            "_changed_files_list": [
+                {
+                    "_file_name": "modules/workflow-condition-parser/src/main/java/org/opencastproject/workflow/conditionparser/WorkflowConditionBooleanInterpreter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                }
+            ]
+        },
+        {
+            "_sha_id": "ef99a3d5d49efaae43c96116e456ee4b2c7803c0",
+            "_timestamp": "2018-12-18 14:43:05+01:00",
+            "_commit_index": 11106,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "95eaededc46a5bde95f8099ff2e2c574d52500ea",
-            "_timestamp": "2016-06-08 16:16:31+02:00",
-            "_commit_index": 6127,
+            "_sha_id": "eb31243b39bf52d3ac7381c58c52c43bbc09d067",
+            "_timestamp": "2019-05-07 20:00:16+02:00",
+            "_commit_index": 11297,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "95eaededc46a5bde95f8099ff2e2c574d52500ea",
-            "_timestamp": "2016-06-08 16:16:31+02:00",
-            "_commit_index": 6127,
-            "_changed_files_list": []
+            "_sha_id": "aa5c0c433c9870a296943a0769d84aa0420fa538",
+            "_timestamp": "2019-05-20 12:44:19+02:00",
+            "_commit_index": 11393,
+            "_changed_files_list": [
+                {
+                    "_file_name": "modules/workflow-condition-parser/src/main/java/org/opencastproject/workflow/conditionparser/WorkflowConditionBooleanInterpreter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                }
+            ]
         },
         {
-            "_sha_id": "95eaededc46a5bde95f8099ff2e2c574d52500ea",
-            "_timestamp": "2016-06-08 16:16:31+02:00",
-            "_commit_index": 6127,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "95eaededc46a5bde95f8099ff2e2c574d52500ea",
-            "_timestamp": "2016-06-08 16:16:31+02:00",
-            "_commit_index": 6127,
+            "_sha_id": "7c6e044f72bfafe3c9e5e891090555f3af4e0de1",
+            "_timestamp": "2019-05-13 16:43:40+02:00",
+            "_commit_index": 11345,
             "_changed_files_list": []
         },
         {

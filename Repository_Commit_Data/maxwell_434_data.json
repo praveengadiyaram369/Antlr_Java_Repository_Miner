@@ -13,49 +13,89 @@
             "_sha_id": "a20ca7aa1c52830dd9d6b023404eecd686bb2515",
             "_timestamp": "2016-09-08 15:03:15-07:00",
             "_commit_index": 1482,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/zendesk/maxwell/schema/ddl/MysqlParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 23,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "b557ac2489015badb09290144bdbd3de3fd48b37",
+            "_timestamp": "2015-12-03 11:19:19-08:00",
+            "_commit_index": 741,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/zendesk/maxwell/schema/ddl/MysqlParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 22,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "7d2f3c868de416f7ef47a0e8c695f4c930d30929",
+            "_timestamp": "2015-03-27 12:53:37-07:00",
+            "_commit_index": 370,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/zendesk/maxwell/schema/ddl/MysqlParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 19,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "20f1bc478b03d6bae518faabfeca021c55e3eaff",
+            "_timestamp": "2015-02-11 10:14:43-08:00",
+            "_commit_index": 185,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/zendesk/maxwell/schema/ddl/MysqlParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 16,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "87e3100437c61c0f37e89b666453dd0ff17d0c16",
+            "_timestamp": "2014-09-09 09:37:04-07:00",
+            "_commit_index": 92,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "602f682417cea0e1758ff2e367c0396b5cfcca86",
-            "_timestamp": "2017-12-04 14:56:02+02:00",
-            "_commit_index": 2223,
+            "_sha_id": "c0552b9d388c22ab8d4806b09405b6e3fa387039",
+            "_timestamp": "2015-01-28 17:02:01-08:00",
+            "_commit_index": 138,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "55481886e1a87541aa12fe0eb10e73e6ff49a583",
-            "_timestamp": "2018-09-12 23:01:39+08:00",
-            "_commit_index": 2593,
+            "_sha_id": "436d76ac293de16fb10bc3784f2563e20f0de607",
+            "_timestamp": "2015-02-06 14:27:48-08:00",
+            "_commit_index": 161,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "f3f162c16c18aeebbc4b78ab4021e33d31db9a34",
-            "_timestamp": "2019-04-01 03:17:16-07:00",
-            "_commit_index": 2778,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "2717559f53ddeebff23b829e7eeb8d50adb06bf3",
-            "_timestamp": "2019-09-20 14:32:03-07:00",
-            "_commit_index": 2871,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0756c6b36c45b7ed5a2afc217f1e59064501a374",
-            "_timestamp": "2019-10-17 21:58:53-07:00",
-            "_commit_index": 2917,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "e80fa643a7a0f15bec63b3bd1e45931f90804613",
-            "_timestamp": "2019-11-21 10:00:18-08:00",
-            "_commit_index": 2940,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "833077f68eea65ed2165bea08e31e5c1073491f0",
-            "_timestamp": "2019-12-03 16:32:23+11:00",
-            "_commit_index": 2952,
-            "_changed_files_list": []
+            "_sha_id": "fb1192de0532946ee7288fc04f727d804bf26e89",
+            "_timestamp": "2015-02-09 11:25:48-08:00",
+            "_commit_index": 173,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/zendesk/maxwell/schema/ddl/MysqlParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 15,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
             "_sha_id": "26e1c32e4c281192a5e1c1cec71242aa1a550452",

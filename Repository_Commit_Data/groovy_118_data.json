@@ -16,45 +16,69 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "efb8d08aa565028199321231804dec5a42cf46d8",
-            "_timestamp": "2012-02-12 15:33:35+10:00",
-            "_commit_index": 8307,
+            "_sha_id": "7585f58d7eda2698974b7244dc37af47c8e86aee",
+            "_timestamp": "2015-04-03 16:34:44+02:00",
+            "_commit_index": 12460,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "efb8d08aa565028199321231804dec5a42cf46d8",
-            "_timestamp": "2012-02-12 15:33:35+10:00",
-            "_commit_index": 8307,
+            "_sha_id": "2fd9a0d538ddcd4ecd0003eb9e2935a5cad110db",
+            "_timestamp": "2017-12-31 19:46:24+08:00",
+            "_commit_index": 14537,
+            "_changed_files_list": [
+                {
+                    "_file_name": "subprojects/parser-antlr4/src/main/java/org/apache/groovy/parser/antlr4/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 187
+                }
+            ]
+        },
+        {
+            "_sha_id": "1a57775ec6bb9e9c7b52cab48d6f6c47908d5b68",
+            "_timestamp": "2016-08-31 16:38:10-07:00",
+            "_commit_index": 13498,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "efb8d08aa565028199321231804dec5a42cf46d8",
-            "_timestamp": "2012-02-12 15:33:35+10:00",
-            "_commit_index": 8307,
+            "_sha_id": "45f90c76cda3c2837a2219626a0527f8479ee65d",
+            "_timestamp": "2017-08-05 21:42:24+08:00",
+            "_commit_index": 14017,
+            "_changed_files_list": [
+                {
+                    "_file_name": "subprojects/parser-antlr4/src/main/java/org/apache/groovy/parser/antlr4/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 184
+                }
+            ]
+        },
+        {
+            "_sha_id": "cf8686a4cebad1abd911d98a0cdf75691d44a936",
+            "_timestamp": "2017-02-15 11:55:30+10:00",
+            "_commit_index": 13757,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "efb8d08aa565028199321231804dec5a42cf46d8",
-            "_timestamp": "2012-02-12 15:33:35+10:00",
-            "_commit_index": 8307,
-            "_changed_files_list": []
+            "_sha_id": "734bff6f3336d5b2607f2749d1f986434711486b",
+            "_timestamp": "2017-05-08 21:41:55+10:00",
+            "_commit_index": 13887,
+            "_changed_files_list": [
+                {
+                    "_file_name": "subprojects/parser-antlr4/src/main/java/org/apache/groovy/parser/antlr4/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 178
+                }
+            ]
         },
         {
-            "_sha_id": "efb8d08aa565028199321231804dec5a42cf46d8",
-            "_timestamp": "2012-02-12 15:33:35+10:00",
-            "_commit_index": 8307,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "efb8d08aa565028199321231804dec5a42cf46d8",
-            "_timestamp": "2012-02-12 15:33:35+10:00",
-            "_commit_index": 8307,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "efb8d08aa565028199321231804dec5a42cf46d8",
-            "_timestamp": "2012-02-12 15:33:35+10:00",
-            "_commit_index": 8307,
+            "_sha_id": "fb1f14a39d3ee4fd7dc30907096b0603ce126e21",
+            "_timestamp": "2017-04-07 11:14:01+02:00",
+            "_commit_index": 13822,
             "_changed_files_list": []
         },
         {

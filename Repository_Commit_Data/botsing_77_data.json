@@ -13,49 +13,73 @@
             "_sha_id": "22a4b2b9d615ccfc7f5c22e994b396871c1836ee",
             "_timestamp": "2019-03-08 18:09:42+01:00",
             "_commit_index": 370,
+            "_changed_files_list": [
+                {
+                    "_file_name": "botsing-parsers/src/main/java/eu/stamp/botsing/parsers/StackTracesCollectorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "f559e43d68e93d9fc44b4d9840c11730081d9b06",
+            "_timestamp": "2018-10-29 23:43:01+01:00",
+            "_commit_index": 185,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6f5016d5f12fd695063e419ddbeac296d7efb46f",
-            "_timestamp": "2019-05-27 13:27:55+02:00",
-            "_commit_index": 555,
+            "_sha_id": "1cf684261d093a2f300297ed707ea3a52d034371",
+            "_timestamp": "2019-01-09 21:24:01+01:00",
+            "_commit_index": 277,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e4c3787d47394cbefb7d4946b6912d107abdd6c0",
-            "_timestamp": "2019-07-09 15:28:05+02:00",
-            "_commit_index": 647,
+            "_sha_id": "105c1263670980590b7d3560dd4dbbe3a8300dce",
+            "_timestamp": "2019-02-01 13:10:19+01:00",
+            "_commit_index": 323,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "03d5304f236b814f8d843fa2d166df12abb6be46",
-            "_timestamp": "2019-10-23 15:06:58+02:00",
-            "_commit_index": 693,
+            "_sha_id": "2f421d4ae3adf6f59a31908e3e5a54ab05c8b529",
+            "_timestamp": "2019-02-11 14:48:32+01:00",
+            "_commit_index": 346,
+            "_changed_files_list": [
+                {
+                    "_file_name": "botsing-parsers/src/main/java/eu/stamp/botsing/parsers/StackTracesCollectorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "adf41df16075fc5ba5f397d4dfb77078268fffab",
+            "_timestamp": "2019-02-04 19:38:40+01:00",
+            "_commit_index": 334,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8b8da59488f2e0f22dabc77377a065a20d746810",
-            "_timestamp": "2019-10-25 17:19:47+02:00",
-            "_commit_index": 716,
+            "_sha_id": "48706364c4e11e9b2415194a22b60c576db72a6c",
+            "_timestamp": "2019-02-07 16:34:11+01:00",
+            "_commit_index": 340,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "48179e743947dcf3c0fd25daa5f3e4b96b4a5b8e",
-            "_timestamp": "2019-10-29 18:09:22+01:00",
-            "_commit_index": 728,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "a985b48cc625802ec29bd17216ca021eb80f336b",
-            "_timestamp": "2019-11-06 18:36:45+01:00",
-            "_commit_index": 734,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "fb4795c4234f4915e5466d7b535f5e3c3a6f7b21",
-            "_timestamp": "2019-11-15 16:38:43+01:00",
-            "_commit_index": 737,
-            "_changed_files_list": []
+            "_sha_id": "e813dec2b7cda64368ce0c926c975f5b50496fa4",
+            "_timestamp": "2019-02-07 16:35:46+01:00",
+            "_commit_index": 343,
+            "_changed_files_list": [
+                {
+                    "_file_name": "botsing-parsers/src/main/java/eu/stamp/botsing/parsers/StackTracesCollectorListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "658e3401ed5c9c15316157bdcb62e3ff5061b0c9",

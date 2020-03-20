@@ -37,25 +37,63 @@
             "_sha_id": "7881480f66062b79d89e96abdff77d7b938e8c2e",
             "_timestamp": "2019-04-30 13:59:56+02:00",
             "_commit_index": 2265,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/net/sf/latexdraw/parser/svg/SVGParserUtils.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 19,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/net/sf/latexdraw/parser/pst/PSTCtxListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 65,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "de7f3c2fa54ab6b5b4ae5f601dee42f8fb42c70d",
+            "_timestamp": "2018-11-02 19:36:45+01:00",
+            "_commit_index": 2228,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "d56eef13cf01a379e1d4672d8abfec0772bcb5a4",
-            "_timestamp": "2019-05-21 11:24:10+02:00",
-            "_commit_index": 2302,
-            "_changed_files_list": []
+            "_sha_id": "a9e6a909e32ae41e142c0a293db906db921da756",
+            "_timestamp": "2018-11-16 19:22:54+01:00",
+            "_commit_index": 2246,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/net/sf/latexdraw/parser/svg/SVGParserUtils.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 19,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/net/sf/latexdraw/parser/pst/PSTCtxListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 69,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "c9c172b6ec23cdd6df5d3283d1ce082ac2c9bf28",
-            "_timestamp": "2019-06-16 09:32:56+02:00",
-            "_commit_index": 2320,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "2c836381b58dcbd3337b94d1562c95b3ebc34768",
-            "_timestamp": "2019-10-16 13:56:43+02:00",
-            "_commit_index": 2329,
-            "_changed_files_list": []
+            "_sha_id": "04605ea7cce9283910dd38f032959e8ab41c6541",
+            "_timestamp": "2018-11-06 15:34:48+01:00",
+            "_commit_index": 2237,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/net/sf/latexdraw/parser/pst/PSTCtxListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 69,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "9458b682d77759d23c5c86fdbc19ca0e1988dbfc",

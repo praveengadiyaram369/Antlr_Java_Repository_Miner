@@ -31,30 +31,46 @@
             "_sha_id": "a5839669bf0f8f76ea78d7420fc68ae3b0da4ecf",
             "_timestamp": "2019-06-26 18:32:40-03:00",
             "_commit_index": 259,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/src/main/java/br/univali/portugol/nucleo/analise/sintatica/GeradorASA.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 60
+                }
+            ]
+        },
+        {
+            "_sha_id": "7efdd34d1d1881536bd591245d2c0f5fd8b9eb76",
+            "_timestamp": "2019-03-31 02:53:10-03:00",
+            "_commit_index": 250,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e90a5c2f001cfdb40d930e222c9c55ae57b9c3b0",
-            "_timestamp": "2019-07-18 09:12:25-03:00",
-            "_commit_index": 268,
+            "_sha_id": "14cf9d6f4ca8b03c9fd7a034351ac6b5169092aa",
+            "_timestamp": "2019-06-13 15:45:46-03:00",
+            "_commit_index": 254,
+            "_changed_files_list": [
+                {
+                    "_file_name": "core/src/main/java/br/univali/portugol/nucleo/analise/sintatica/GeradorASA.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 59
+                }
+            ]
+        },
+        {
+            "_sha_id": "b92b8dbfdcdde49b46fb9cdbff26e31e3751442f",
+            "_timestamp": "2019-04-01 16:05:02-07:00",
+            "_commit_index": 252,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "5416d3e7e153f1cca2f911c09ef86c81c29a2863",
-            "_timestamp": "2019-07-19 19:38:06-03:00",
-            "_commit_index": 272,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "1f44a413240967f17116f1f35c9b0324bc0f9c42",
-            "_timestamp": "2019-08-09 18:16:45-03:00",
-            "_commit_index": 274,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "fc097a5b8a57aae0de72d284f4c35b85585a84c4",
-            "_timestamp": "2019-08-12 15:42:19-03:00",
-            "_commit_index": 275,
+            "_sha_id": "8ba1afc7678469e70abde6db2389e21342380245",
+            "_timestamp": "2019-04-01 20:06:40-03:00",
+            "_commit_index": 253,
             "_changed_files_list": []
         },
         {

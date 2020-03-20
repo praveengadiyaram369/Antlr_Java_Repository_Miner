@@ -25,37 +25,77 @@
             "_sha_id": "33da8b5d8d0ee4f7922a572bc05d6b8b65adfe95",
             "_timestamp": "2018-06-27 15:19:02+02:00",
             "_commit_index": 5902,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ext/scimv2/logic/src/main/java/org/apache/syncope/core/logic/scim/SearchCondVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                }
+            ]
+        },
+        {
+            "_sha_id": "6ac6a83e9423bde8bdf3918d526fe75acd8b329e",
+            "_timestamp": "2017-10-26 16:01:28+02:00",
+            "_commit_index": 5480,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "5f382061c55b327e56143e3ed940d04f619fb7b1",
-            "_timestamp": "2019-02-19 08:12:06+01:00",
-            "_commit_index": 6324,
-            "_changed_files_list": []
+            "_sha_id": "66cab60cac83042ce4823488fe01b8604dfe7ef1",
+            "_timestamp": "2018-03-09 16:45:53+01:00",
+            "_commit_index": 5691,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ext/scimv2/logic/src/main/java/org/apache/syncope/core/logic/scim/SearchCondVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                }
+            ]
         },
         {
-            "_sha_id": "9feb0fa02f9a4190e4eb6d1c2887482204605949",
-            "_timestamp": "2019-09-04 16:28:58+04:18",
-            "_commit_index": 6535,
-            "_changed_files_list": []
+            "_sha_id": "53d75cd0fd1b5602cf6a298c3037560f8ece1193",
+            "_timestamp": "2017-12-22 09:45:09+01:00",
+            "_commit_index": 5585,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ext/scimv2/logic/src/main/java/org/apache/syncope/core/logic/scim/SearchCondVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                }
+            ]
         },
         {
-            "_sha_id": "263cce7fc88c8c46da7f392d2e1e66251b0c0279",
-            "_timestamp": "2019-10-31 14:14:20+01:00",
-            "_commit_index": 6640,
-            "_changed_files_list": []
+            "_sha_id": "63ea870ef87301bc75708ba2de5870e7549dfe9f",
+            "_timestamp": "2017-11-28 15:55:01+01:00",
+            "_commit_index": 5532,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ext/scimv2/logic/src/main/java/org/apache/syncope/core/logic/scim/SearchCondVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                }
+            ]
         },
         {
-            "_sha_id": "dbb71e6e5b5ca6a52f9d9c3357333345eaf06ee9",
-            "_timestamp": "2019-12-03 11:44:38+01:00",
-            "_commit_index": 6693,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "7f11c508e45c41d619941e56802a0e55e4e269a3",
-            "_timestamp": "2019-12-17 07:05:55+01:00",
-            "_commit_index": 6719,
-            "_changed_files_list": []
+            "_sha_id": "37c709727e8f4833e38580404c0145d1472b91ef",
+            "_timestamp": "2017-11-15 12:05:16+01:00",
+            "_commit_index": 5506,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ext/scimv2/logic/src/main/java/org/apache/syncope/core/logic/scim/SearchCondVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                }
+            ]
         },
         {
             "_sha_id": "e81b5b260fe16df7bd1f88b89bdaabb3d4844a7f",

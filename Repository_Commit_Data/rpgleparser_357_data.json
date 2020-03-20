@@ -13,49 +13,105 @@
             "_sha_id": "81aa058ae4f253eced806dcb8dc3a5dea9bb346e",
             "_timestamp": "2015-04-29 17:58:12-04:00",
             "_commit_index": 157,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/examples/loggingListener/LoggingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 508,
+                    "_exit_cnt": 508,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "5af6328f1cb13e8615fd2fce743766ef7cf2b919",
+            "_timestamp": "2015-04-14 13:23:43-07:00",
+            "_commit_index": 78,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/examples/loggingListener/LoggingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 356,
+                    "_exit_cnt": 356,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "0871e6d8aec9c8c13e3067a226e1e166f954c72b",
+            "_timestamp": "2015-03-26 17:06:08-04:00",
+            "_commit_index": 39,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6d20ac1c935be9adb171fd69538e9f5f54384ec1",
-            "_timestamp": "2015-08-29 18:22:20-04:00",
-            "_commit_index": 235,
-            "_changed_files_list": []
+            "_sha_id": "0d3dce81949ab24e80ca147988a5baf51df9c2d0",
+            "_timestamp": "2015-04-09 17:13:42-04:00",
+            "_commit_index": 58,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/examples/loggingListener/LoggingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 328,
+                    "_exit_cnt": 328,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
-            "_sha_id": "9d9d03a9883b6678819b8254f9c9bcc7d8f68b92",
-            "_timestamp": "2016-01-31 16:14:11-05:00",
-            "_commit_index": 274,
-            "_changed_files_list": []
+            "_sha_id": "b24b8010de262750977d30bdf32886be393e2bff",
+            "_timestamp": "2015-04-02 22:55:27-04:00",
+            "_commit_index": 48,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/examples/loggingListener/LoggingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 129,
+                    "_exit_cnt": 129,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
-            "_sha_id": "0e67aeac55d8f72567ed2c51aee55673807bcac3",
-            "_timestamp": "2016-03-22 22:11:05-04:00",
-            "_commit_index": 294,
-            "_changed_files_list": []
+            "_sha_id": "d16a0abc4c8c5ca171c4ba753059ada3207b4b57",
+            "_timestamp": "2015-04-08 21:44:29-04:00",
+            "_commit_index": 53,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/examples/loggingListener/LoggingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 328,
+                    "_exit_cnt": 328,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
-            "_sha_id": "ff2696c053128e5e0ec30268c2dd5882ce8d8038",
-            "_timestamp": "2016-05-28 23:59:07+02:00",
-            "_commit_index": 304,
-            "_changed_files_list": []
+            "_sha_id": "539e47c56549af34fa8c271c107e2c4882559ffc",
+            "_timestamp": "2015-04-06 14:50:10-07:00",
+            "_commit_index": 50,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/examples/loggingListener/LoggingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 327,
+                    "_exit_cnt": 327,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
-            "_sha_id": "48eade003e476b9664c8ace93a155ed7be77e83a",
-            "_timestamp": "2016-05-28 19:28:53-04:00",
-            "_commit_index": 309,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "22f3c9ca07b65046c08ae2e7ad80b9673dfba7ac",
-            "_timestamp": "2016-10-26 17:40:41-04:00",
-            "_commit_index": 311,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4c47d3e8172321b17060eafd57a6f30dffc27946",
-            "_timestamp": "2018-11-21 14:52:22+01:00",
-            "_commit_index": 312,
-            "_changed_files_list": []
+            "_sha_id": "1106e9fd88ed82fa88c200fb46c4ffff2ec6556a",
+            "_timestamp": "2015-04-06 10:02:41-07:00",
+            "_commit_index": 49,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/examples/loggingListener/LoggingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 176,
+                    "_exit_cnt": 176,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
             "_sha_id": "7333428d6313e9a4e4db4b68ed4fb0ed0568be63",

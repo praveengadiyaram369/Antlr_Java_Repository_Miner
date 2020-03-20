@@ -19,43 +19,243 @@
             "_sha_id": "946d11f9d221665814c4ae5c8b2e8846dc9ea94f",
             "_timestamp": "2015-12-18 10:32:22+01:00",
             "_commit_index": 358,
+            "_changed_files_list": [
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/ComparisonVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/ResultValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/AnyValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/SelectStmtVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/TableNameVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/OrderVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/GroupByVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "e705bfe453691ac5c2c55b9b3eac5cf381876da6",
+            "_timestamp": "2015-11-23 11:57:13+01:00",
+            "_commit_index": 298,
+            "_changed_files_list": [
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/ComparisonVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/ResultValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/AnyValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/SelectStmtVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/TableNameVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/OrderVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/GroupByVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "0ce607a1dc59f0d1487e6ab27924b5254d187f71",
+            "_timestamp": "2015-11-06 13:20:03+01:00",
+            "_commit_index": 268,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "dccf7ea7439246db158f6e94cd1ca74567b21647",
-            "_timestamp": "2016-02-23 21:10:42+01:00",
-            "_commit_index": 418,
+            "_sha_id": "b30db3e08d4b5d34488b7242d720ebff50372fc1",
+            "_timestamp": "2015-11-10 15:05:42+01:00",
+            "_commit_index": 283,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "86b55b48ec559294eb8129ed67f169ad4eb8e86f",
-            "_timestamp": "2016-03-04 09:43:06+01:00",
-            "_commit_index": 448,
+            "_sha_id": "4ccc9bd72a9582bcec1a69314718ea79b5bbd229",
+            "_timestamp": "2015-11-12 20:50:09+01:00",
+            "_commit_index": 290,
+            "_changed_files_list": [
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/ComparisonVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/ResultValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/AnyValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/SelectStmtVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/TableNameVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/OrderVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/GroupByVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "7a23bea1c446123bf9ff6fda716159c8af6f266f",
+            "_timestamp": "2015-11-10 17:21:18+01:00",
+            "_commit_index": 286,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "c4c4bf9533bed2c16875699caa0bce0e517f4d87",
-            "_timestamp": "2016-03-29 15:34:52+02:00",
-            "_commit_index": 463,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "21573886649f89c95aa51760ca2a9093598db506",
-            "_timestamp": "2016-05-02 07:46:54+02:00",
-            "_commit_index": 470,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6d3d77b4872bb1800247f5f35a3335937fc557b8",
-            "_timestamp": "2016-05-03 14:23:50+02:00",
-            "_commit_index": 474,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "1871c669bd0ee8adaa32c2e781ed446ba755addd",
-            "_timestamp": "2016-05-03 16:07:28+02:00",
-            "_commit_index": 476,
-            "_changed_files_list": []
+            "_sha_id": "953fd5837c86e420a453b70d8df919f010724d9a",
+            "_timestamp": "2015-11-11 16:45:38+01:00",
+            "_commit_index": 288,
+            "_changed_files_list": [
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/ComparisonVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/ResultValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/AnyValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/SelectStmtVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/TableNameVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/OrderVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "diqube-diql/src/main/java/org/diqube/diql/visitors/GroupByVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
             "_sha_id": "17f0c922ee7983d5df665647feccf2e02a9c2f3c",

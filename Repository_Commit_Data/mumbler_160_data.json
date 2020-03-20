@@ -16,45 +16,61 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e228d746e63595fb5f602bac7b3fd39e156b1f43",
-            "_timestamp": "2014-12-30 23:32:42-08:00",
-            "_commit_index": 88,
+            "_sha_id": "1a34298f1c45dec3d5295ceba08e3dc8cbcc9f4c",
+            "_timestamp": "2015-01-29 14:37:27-08:00",
+            "_commit_index": 132,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e228d746e63595fb5f602bac7b3fd39e156b1f43",
-            "_timestamp": "2014-12-30 23:32:42-08:00",
-            "_commit_index": 88,
+            "_sha_id": "5798ab1dbc7656000748de9cfa490a0c51d88534",
+            "_timestamp": "2016-05-13 18:49:56-07:00",
+            "_commit_index": 154,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e228d746e63595fb5f602bac7b3fd39e156b1f43",
-            "_timestamp": "2014-12-30 23:32:42-08:00",
-            "_commit_index": 88,
+            "_sha_id": "b11f00469b3efb1d987ed70f595450d11b0e4990",
+            "_timestamp": "2016-09-23 23:49:35-07:00",
+            "_commit_index": 165,
+            "_changed_files_list": [
+                {
+                    "_file_name": "lang/src/main/java/mumbler/truffle/parser/Reader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
+        },
+        {
+            "_sha_id": "47eaf939e191baf09fd53fe914201cae8a757f9a",
+            "_timestamp": "2016-07-27 00:41:24-07:00",
+            "_commit_index": 159,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e228d746e63595fb5f602bac7b3fd39e156b1f43",
-            "_timestamp": "2014-12-30 23:32:42-08:00",
-            "_commit_index": 88,
+            "_sha_id": "0ebacf610784961c17e5a6497431096d9e8cfa60",
+            "_timestamp": "2016-08-08 15:32:48-07:00",
+            "_commit_index": 162,
+            "_changed_files_list": [
+                {
+                    "_file_name": "lang/src/main/java/mumbler/truffle/parser/Reader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
+        },
+        {
+            "_sha_id": "62f5b748c2509f9050d6effd3750f1904e00418a",
+            "_timestamp": "2016-08-05 17:41:39-07:00",
+            "_commit_index": 160,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e228d746e63595fb5f602bac7b3fd39e156b1f43",
-            "_timestamp": "2014-12-30 23:32:42-08:00",
-            "_commit_index": 88,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "e228d746e63595fb5f602bac7b3fd39e156b1f43",
-            "_timestamp": "2014-12-30 23:32:42-08:00",
-            "_commit_index": 88,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "e228d746e63595fb5f602bac7b3fd39e156b1f43",
-            "_timestamp": "2014-12-30 23:32:42-08:00",
-            "_commit_index": 88,
+            "_sha_id": "70f5129fada756a7f90a70c605f152475ac7d1a8",
+            "_timestamp": "2016-08-06 23:12:56-07:00",
+            "_commit_index": 161,
             "_changed_files_list": []
         },
         {

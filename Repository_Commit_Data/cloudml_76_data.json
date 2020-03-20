@@ -13,49 +13,102 @@
             "_sha_id": "396d4801922bbca4eb5ccc6c67eebf6e5103dd73",
             "_timestamp": "2014-07-29 11:07:37+02:00",
             "_commit_index": 431,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ui/shell/src/main/java/org/cloudml/ui/shell/commands/CloudMLCommandBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 18
+                },
+                {
+                    "_file_name": "ui/shell/src/main/java/org/cloudml/ui/shell/commands/ShellCommandBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
+        },
+        {
+            "_sha_id": "112ce6b326a092fde10a4bd0a99643f903dad918",
+            "_timestamp": "2014-03-06 13:12:52+01:00",
+            "_commit_index": 215,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e3dbfb17ed8fb099c697aea34348e4c57020516a",
-            "_timestamp": "2015-03-04 11:08:01+01:00",
-            "_commit_index": 647,
+            "_sha_id": "831b76d7da5199c31d86eb8365bad1546b54281d",
+            "_timestamp": "2014-06-30 13:24:08+02:00",
+            "_commit_index": 323,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ui/shell/src/main/java/org/cloudml/ui/shell/commands/CloudMLCommandBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 15
+                },
+                {
+                    "_file_name": "ui/shell/src/main/java/org/cloudml/ui/shell/commands/ShellCommandBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
+        },
+        {
+            "_sha_id": "3b0346f5afdff19a665f283cfd1bf613e7d93fd2",
+            "_timestamp": "2014-05-08 16:24:39+02:00",
+            "_commit_index": 269,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9a42c2d22e04b69005ebb05168e5df123cfd3ed1",
-            "_timestamp": "2015-06-10 22:50:45+02:00",
-            "_commit_index": 755,
+            "_sha_id": "4a7e06936e42fd82ab41dc10248202921e3b1275",
+            "_timestamp": "2014-06-10 16:55:33+02:00",
+            "_commit_index": 296,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "c2ff39c10a49bab387373608a6680ab6d6175b62",
-            "_timestamp": "2015-08-07 18:19:58+02:00",
-            "_commit_index": 809,
+            "_sha_id": "484deaee64c271578514ac7d5584c48247df6dfe",
+            "_timestamp": "2014-06-23 14:21:19+02:00",
+            "_commit_index": 309,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "49fcc3063ffbb81006c9527aa9e2d4f07745559f",
-            "_timestamp": "2015-09-28 13:31:31+02:00",
-            "_commit_index": 836,
-            "_changed_files_list": []
+            "_sha_id": "cc5435ab4215f18efef5841022b767d4d12ecbbc",
+            "_timestamp": "2014-06-26 10:37:36+02:00",
+            "_commit_index": 316,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ui/shell/src/main/java/org/cloudml/ui/shell/commands/CloudMLCommandBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 15
+                },
+                {
+                    "_file_name": "ui/shell/src/main/java/org/cloudml/ui/shell/commands/ShellCommandBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 11
+                }
+            ]
         },
         {
-            "_sha_id": "38d4819894bf994bac976005568d9c76da6e8fe7",
-            "_timestamp": "2015-11-08 22:35:39+01:00",
-            "_commit_index": 849,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "7aa97da72579a498a941960b00aa7b756ad48c28",
-            "_timestamp": "2016-12-12 15:54:03+01:00",
-            "_commit_index": 856,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "cf1464d0a7b2ceaec5475ec0760ffae640d282c1",
-            "_timestamp": "2017-01-16 10:40:29+01:00",
-            "_commit_index": 859,
-            "_changed_files_list": []
+            "_sha_id": "a72c7402e151e664696dbacf795ea7b77e88e54c",
+            "_timestamp": "2014-06-25 13:23:11+02:00",
+            "_commit_index": 312,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ui/shell/src/main/java/org/cloudml/ui/shell/commands/ShellCommandBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                }
+            ]
         },
         {
             "_sha_id": "b19ea1ac9c70c02ed25e3dc54a527102cc6ad186",

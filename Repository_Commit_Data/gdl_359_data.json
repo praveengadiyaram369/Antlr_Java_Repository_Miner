@@ -13,24 +13,20 @@
             "_sha_id": "26f4ab86c3fc2696929831868767c91b33a5cd30",
             "_timestamp": "2016-10-12 08:49:36+02:00",
             "_commit_index": 38,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/s1ck/gdl/GDLLoader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "c9c2d9d011cbfb20213daa679a1d9af3fc43a2cf",
             "_timestamp": "2016-11-16 18:21:16+01:00",
             "_commit_index": 57,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "e624d39261d732688710cb782de4ca184b883e03",
-            "_timestamp": "2017-07-18 08:43:56+02:00",
-            "_commit_index": 67,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c89b0f83526661823ad3392f338dbf7dc3e3f834",
-            "_timestamp": "2017-11-10 08:59:03+01:00",
-            "_commit_index": 72,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/org/s1ck/gdl/GDLLoader.java",
@@ -42,27 +38,23 @@
             ]
         },
         {
-            "_sha_id": "b946c1137dc64879a949efdfd3c1d39f7ec0479a",
-            "_timestamp": "2017-08-08 18:04:13+02:00",
-            "_commit_index": 69,
-            "_changed_files_list": []
+            "_sha_id": "3a60ac0cadb5bd493637870050da1f441f404b34",
+            "_timestamp": "2016-10-27 18:45:23+02:00",
+            "_commit_index": 47,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/s1ck/gdl/GDLLoader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "cf301935de986b256a025886a3bf3049c58be9bc",
-            "_timestamp": "2017-10-04 09:31:31+02:00",
-            "_commit_index": 70,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "61855382236d05d5f4e2d2802751acb016e1405d",
-            "_timestamp": "2017-10-04 22:49:34+02:00",
-            "_commit_index": 71,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "044db876723f001420cd6261bd88a7ef7a47b0e9",
-            "_timestamp": "2015-11-19 10:04:52+01:00",
-            "_commit_index": 16,
+            "_sha_id": "096cda7898d72ef7d7112df55359ba9a9758894d",
+            "_timestamp": "2015-11-20 14:43:58+01:00",
+            "_commit_index": 19,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/org/s1ck/gdl/GDLLoader.java",
@@ -72,6 +64,38 @@
                     "_visit_cnt": 0
                 }
             ]
+        },
+        {
+            "_sha_id": "3a46c6173d27bf0b6f6f155ca8f24ae623853338",
+            "_timestamp": "2015-11-18 15:49:35+01:00",
+            "_commit_index": 9,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/s1ck/gdl/GDLLoader.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "1636b766fbd8930943564e4344d8186ce47d8a58",
+            "_timestamp": "2015-11-17 16:42:58+01:00",
+            "_commit_index": 4,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "4c93008cb45ccfd38c852f26e4ed93764474856b",
+            "_timestamp": "2015-11-17 20:51:41+01:00",
+            "_commit_index": 6,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a299827394ac86a451ccb32df3c0d2dff66b93ff",
+            "_timestamp": "2015-11-18 13:42:20+01:00",
+            "_commit_index": 7,
+            "_changed_files_list": []
         },
         {
             "_sha_id": "4af264f8110e1790db96f3484c48ebff6faeb8b3",

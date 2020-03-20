@@ -13,48 +13,80 @@
             "_sha_id": "aab304445145730eff6433ceccd5c823e299f48e",
             "_timestamp": "2016-09-21 14:50:43-04:00",
             "_commit_index": 398,
+            "_changed_files_list": [
+                {
+                    "_file_name": "scim-spec/scim-spec-protocol/src/main/java/edu/psu/swe/scim/spec/protocol/filter/ExpressionBuildingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 11,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "d48bd6dc2280782de7d7226fda4ea91cef192910",
+            "_timestamp": "2016-04-15 15:30:29-04:00",
+            "_commit_index": 199,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "586b56047d59cbe8a3e627b44b43b75ae54e2938",
-            "_timestamp": "2017-06-20 14:55:47-04:00",
-            "_commit_index": 597,
+            "_sha_id": "09dc027f539840496f87901c7cf05a8ec58f23c0",
+            "_timestamp": "2016-05-06 10:42:05-04:00",
+            "_commit_index": 298,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "064598d4be3e156da912b11795473ca494e6b162",
-            "_timestamp": "2018-01-02 14:29:41-05:00",
-            "_commit_index": 696,
+            "_sha_id": "a348a8a5c444c6b8b33d027f548945ac69ae77ac",
+            "_timestamp": "2016-06-15 12:22:19-04:00",
+            "_commit_index": 348,
+            "_changed_files_list": [
+                {
+                    "_file_name": "scim-spec/scim-spec-protocol/src/main/java/edu/psu/swe/scim/spec/protocol/filter/ExpressionBuildingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 11,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "b972c5147efdc26c3d9af89919fcc91724b06b4d",
+            "_timestamp": "2016-05-16 16:25:56-04:00",
+            "_commit_index": 323,
+            "_changed_files_list": [
+                {
+                    "_file_name": "scim-spec/scim-spec-protocol/src/main/java/edu/psu/swe/scim/spec/protocol/filter/ExpressionBuildingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 11,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "4bf26beb2c2db936e9aa122bcd187f8fed714214",
+            "_timestamp": "2016-05-12 12:15:39-04:00",
+            "_commit_index": 310,
+            "_changed_files_list": [
+                {
+                    "_file_name": "scim-spec/scim-spec-protocol/src/main/java/edu/psu/swe/scim/spec/protocol/filter/ExpressionBuildingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 11,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "33efbb736f38a304da1cecf0ce69f19ca89c2950",
+            "_timestamp": "2016-05-10 15:04:43-04:00",
+            "_commit_index": 304,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0bebc8fb8dcf838daeeacfd73362c6ee16711ffb",
-            "_timestamp": "2018-05-14 13:14:47-04:00",
-            "_commit_index": 746,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "f16f66ebb9d82885bb06b59951a5ccf250211dd1",
-            "_timestamp": "2018-08-16 15:00:23-04:00",
-            "_commit_index": 771,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6636a85b476069c7aae5ae8bfcc7a8c2c6315aab",
-            "_timestamp": "2018-09-25 09:41:05-04:00",
-            "_commit_index": 783,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "a82216d57f4ae4ad8bd45163237d6cb600b9fb66",
-            "_timestamp": "2018-10-12 08:30:28-04:00",
-            "_commit_index": 789,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "43c8492bf7f21bb12198b14997fd2eda47f2b122",
-            "_timestamp": "2018-10-12 09:13:06-04:00",
-            "_commit_index": 792,
+            "_sha_id": "b395a124a3e2377971014a3a326dc2f47b4fd4f1",
+            "_timestamp": "2016-05-11 11:31:47-04:00",
+            "_commit_index": 307,
             "_changed_files_list": []
         },
         {

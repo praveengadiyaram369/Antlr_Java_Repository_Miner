@@ -7,63 +7,95 @@
             "_sha_id": "c36ceaf7da56daf98362f9258fd4f4d9201b2fa6",
             "_timestamp": "2016-04-27 00:27:10+01:00",
             "_commit_index": 1,
-            "_changed_files_list": [
-                {
-                    "_file_name": "Visitor.java",
-                    "_is_antlr_file": false,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 0
-                }
-            ]
+            "_changed_files_list": []
         },
         {
             "_sha_id": "cdc910792caa76135c188d884a9cd9f15ce1ee2c",
             "_timestamp": "2016-12-18 18:15:36+00:00",
             "_commit_index": 48,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Visitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
+        },
+        {
+            "_sha_id": "9a4d68bfd665e6037ff3db4eb3956267fa54c1e9",
+            "_timestamp": "2016-05-08 22:09:53+01:00",
+            "_commit_index": 24,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9c871a9b15091c5a005a4863d70282a0363471f5",
-            "_timestamp": "2017-10-08 00:06:19+01:00",
-            "_commit_index": 72,
+            "_sha_id": "d5e173ca5f4d8680aa845c7225473de3bbb22bc9",
+            "_timestamp": "2016-05-11 23:46:24+01:00",
+            "_commit_index": 36,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Visitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
+        },
+        {
+            "_sha_id": "010345be72508b6beb826a6af800c05a02645426",
+            "_timestamp": "2016-05-10 01:28:06+01:00",
+            "_commit_index": 30,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "5b83a6e299722f52ac05bb133ef9fd6ce7f67536",
-            "_timestamp": "2017-10-23 09:26:39+01:00",
-            "_commit_index": 84,
+            "_sha_id": "efd001c23deed84f84114af7a31855ae1eca1ff8",
+            "_timestamp": "2016-05-11 01:20:14+01:00",
+            "_commit_index": 33,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "3e0a575b0ea9662f3c0ed724daf4c751ac7a848c",
-            "_timestamp": "2017-10-26 23:34:09+01:00",
-            "_commit_index": 90,
-            "_changed_files_list": []
+            "_sha_id": "f2bba60a1338be62116a7d16f3d368d7b989498f",
+            "_timestamp": "2016-05-11 02:00:52+01:00",
+            "_commit_index": 34,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Visitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
         },
         {
-            "_sha_id": "9c2f130255f36037ebd8c73eae0c90f2c3b6e903",
-            "_timestamp": "2017-10-27 23:34:58+01:00",
-            "_commit_index": 93,
-            "_changed_files_list": []
+            "_sha_id": "9c091d8c9e92da526703d43c45f8b1d8c5248d5d",
+            "_timestamp": "2016-05-11 23:21:07+01:00",
+            "_commit_index": 35,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Visitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
         },
         {
-            "_sha_id": "e6fcbc137255b2f63c91bbf29a45d787d46569ac",
-            "_timestamp": "2017-10-28 20:14:57+01:00",
-            "_commit_index": 94,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "c5d4c45b312f66e5f495424efa235182c0ea1791",
-            "_timestamp": "2017-10-28 21:15:36+01:00",
-            "_commit_index": 95,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "e0aa5abd3e8ba30492f16348dc5ca2ee4580c383",
-            "_timestamp": "2017-10-25 13:29:12+01:00",
-            "_commit_index": 87,
-            "_changed_files_list": []
+            "_sha_id": "8601cc0557dae4407c15c5953c5d151e7262954a",
+            "_timestamp": "2017-10-07 23:30:34+01:00",
+            "_commit_index": 71,
+            "_changed_files_list": [
+                {
+                    "_file_name": "Visitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
         },
         {
             "_sha_id": "57f034aec16998f6c02eb97a33cde7156ae43ac0",

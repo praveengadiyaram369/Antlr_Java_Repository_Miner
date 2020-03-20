@@ -13,49 +13,124 @@
             "_sha_id": "286d623717a4a182ef0b6986f231390b7c06e89c",
             "_timestamp": "2018-03-06 18:52:44-05:00",
             "_commit_index": 2447,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cache/src/main/java/net/runelite/cache/script/assembler/LabelVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cache/src/main/java/net/runelite/cache/script/assembler/ScriptWriter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "b6a7108ca5c45dc54995ac2c103d832964697f9f",
+            "_timestamp": "2017-08-10 17:56:03-04:00",
+            "_commit_index": 1223,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cache/src/main/java/net/runelite/cache/script/assembler/LabelVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cache/src/main/java/net/runelite/cache/script/assembler/ScriptWriter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "e951cef282a00ee9b393ebbc681765bf2da95ca8",
+            "_timestamp": "2016-04-24 21:01:41-04:00",
+            "_commit_index": 611,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "e915070b4b3e5365dd052479bfc67a35937c32e0",
-            "_timestamp": "2018-05-13 15:45:39-04:00",
-            "_commit_index": 3670,
+            "_sha_id": "fbf746a21a1c2c779cd7ce8f62fd99d35cd5d1a2",
+            "_timestamp": "2017-04-30 17:12:08-04:00",
+            "_commit_index": 917,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cache/src/main/java/net/runelite/cache/script/assembler/LabelVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cache/src/main/java/net/runelite/cache/script/assembler/ScriptWriter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "fbff8ab9e9606e1f6716a7c9834baf805d282efd",
+            "_timestamp": "2017-01-30 14:36:21-05:00",
+            "_commit_index": 764,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b7b8fc85fb2a51594e24ad6d7272faee48d05155",
-            "_timestamp": "2018-06-04 22:54:29+02:00",
-            "_commit_index": 4282,
+            "_sha_id": "5e7ab6e34cde9a36744951fd18dcee55cdf353da",
+            "_timestamp": "2017-03-26 13:04:31-04:00",
+            "_commit_index": 840,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cache/src/main/java/net/runelite/cache/script/assembler/LabelVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cache/src/main/java/net/runelite/cache/script/assembler/ScriptWriter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "6d23945efa7bdf541bcfd45a0744eb7fbf898924",
+            "_timestamp": "2017-03-05 11:07:08-05:00",
+            "_commit_index": 802,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6bf32768f19fdae990ae5edfc42b50052beec42f",
-            "_timestamp": "2018-07-16 20:51:08-04:00",
-            "_commit_index": 4588,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "fb724061005d844d3c1ef0f5a004c049560d12ca",
-            "_timestamp": "2018-07-30 08:06:30+02:00",
-            "_commit_index": 4741,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "38ab0c329e351f27a6d63971f70f662480d08740",
-            "_timestamp": "2018-08-03 15:40:01-04:00",
-            "_commit_index": 4817,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "cbff6293bad7efd63674cb4e78f34b0ca15b9b77",
-            "_timestamp": "2018-08-05 11:54:12+02:00",
-            "_commit_index": 4855,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8f517860794df30b32103004d67bfd17488c73e4",
-            "_timestamp": "2018-08-06 14:46:27-05:00",
-            "_commit_index": 4874,
-            "_changed_files_list": []
+            "_sha_id": "8de4f24c19c19980a64a3c6a53dc45b260e832f1",
+            "_timestamp": "2017-03-23 16:44:42+00:00",
+            "_commit_index": 821,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cache/src/main/java/net/runelite/cache/script/assembler/LabelVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cache/src/main/java/net/runelite/cache/script/assembler/ScriptWriter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "39030d34807cf00bc1a3b9b1fe8b579012f5fb0a",

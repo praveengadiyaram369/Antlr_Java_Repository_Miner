@@ -20,13 +20,41 @@
                     "_enter_cnt": 5,
                     "_exit_cnt": 4,
                     "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "georocket-server/src/test/java/io/georocket/query/parser/QueryParserTest.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "5c19c74fea7dac21eb8ec9a41aa96000c4bdd2a9",
-            "_timestamp": "2016-10-23 23:41:47+02:00",
-            "_commit_index": 587,
+            "_sha_id": "832d3737c28e3fe3adaaf9da49b97ba75a3008be",
+            "_timestamp": "2017-06-06 17:24:21+02:00",
+            "_commit_index": 881,
+            "_changed_files_list": [
+                {
+                    "_file_name": "georocket-common/src/main/java/io/georocket/query/DefaultQueryCompiler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "georocket-server/src/test/java/io/georocket/query/parser/QueryParserTest.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 10,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "17c55db2e7064035d71a62a42e3772a5b9fc0466",
+            "_timestamp": "2017-01-25 12:12:59+01:00",
+            "_commit_index": 734,
             "_changed_files_list": [
                 {
                     "_file_name": "georocket-common/src/main/java/io/georocket/query/DefaultQueryCompiler.java",
@@ -34,89 +62,110 @@
                     "_enter_cnt": 5,
                     "_exit_cnt": 4,
                     "_visit_cnt": 0
-                }
-            ]
-        },
-        {
-            "_sha_id": "5c19c74fea7dac21eb8ec9a41aa96000c4bdd2a9",
-            "_timestamp": "2016-10-23 23:41:47+02:00",
-            "_commit_index": 587,
-            "_changed_files_list": [
+                },
                 {
-                    "_file_name": "georocket-common/src/main/java/io/georocket/query/DefaultQueryCompiler.java",
+                    "_file_name": "georocket-server/src/test/java/io/georocket/query/parser/QueryParserTest.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 5,
-                    "_exit_cnt": 4,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "5c19c74fea7dac21eb8ec9a41aa96000c4bdd2a9",
-            "_timestamp": "2016-10-23 23:41:47+02:00",
-            "_commit_index": 587,
+            "_sha_id": "a5122dc5ebed6695a649375aff209a3f661c61e5",
+            "_timestamp": "2017-04-13 14:53:12+02:00",
+            "_commit_index": 807,
             "_changed_files_list": [
                 {
                     "_file_name": "georocket-common/src/main/java/io/georocket/query/DefaultQueryCompiler.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 5,
-                    "_exit_cnt": 4,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "georocket-server/src/test/java/io/georocket/query/parser/QueryParserTest.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 10,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "5c19c74fea7dac21eb8ec9a41aa96000c4bdd2a9",
-            "_timestamp": "2016-10-23 23:41:47+02:00",
-            "_commit_index": 587,
+            "_sha_id": "47a93d11137a25f923a8dcc00f9d02487d5f27fb",
+            "_timestamp": "2017-03-07 07:33:07+01:00",
+            "_commit_index": 770,
             "_changed_files_list": [
                 {
                     "_file_name": "georocket-common/src/main/java/io/georocket/query/DefaultQueryCompiler.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 5,
-                    "_exit_cnt": 4,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "georocket-server/src/test/java/io/georocket/query/parser/QueryParserTest.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 6,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "5c19c74fea7dac21eb8ec9a41aa96000c4bdd2a9",
-            "_timestamp": "2016-10-23 23:41:47+02:00",
-            "_commit_index": 587,
+            "_sha_id": "ef9d0a37ee8bc3aaf499719011f37f14fd8a4489",
+            "_timestamp": "2016-06-17 19:37:54+02:00",
+            "_commit_index": 293,
             "_changed_files_list": [
                 {
-                    "_file_name": "georocket-common/src/main/java/io/georocket/query/DefaultQueryCompiler.java",
+                    "_file_name": "georocket-server/src/test/java/io/georocket/query/parser/QueryParserTest.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 5,
-                    "_exit_cnt": 4,
+                    "_enter_cnt": 4,
+                    "_exit_cnt": 1,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "5c19c74fea7dac21eb8ec9a41aa96000c4bdd2a9",
-            "_timestamp": "2016-10-23 23:41:47+02:00",
-            "_commit_index": 587,
+            "_sha_id": "a2b5e10c9da78dfb77c8da3aef1cce5d6044601a",
+            "_timestamp": "2017-03-17 15:38:24+01:00",
+            "_commit_index": 788,
             "_changed_files_list": [
                 {
                     "_file_name": "georocket-common/src/main/java/io/georocket/query/DefaultQueryCompiler.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 5,
-                    "_exit_cnt": 4,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "georocket-server/src/test/java/io/georocket/query/parser/QueryParserTest.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 10,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "5c19c74fea7dac21eb8ec9a41aa96000c4bdd2a9",
-            "_timestamp": "2016-10-23 23:41:47+02:00",
-            "_commit_index": 587,
+            "_sha_id": "fd3c1c0a4c68254c17c0cd3d6bd5d7fe99e2fa9b",
+            "_timestamp": "2017-03-08 15:35:45+01:00",
+            "_commit_index": 779,
             "_changed_files_list": [
                 {
                     "_file_name": "georocket-common/src/main/java/io/georocket/query/DefaultQueryCompiler.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 5,
-                    "_exit_cnt": 4,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "georocket-server/src/test/java/io/georocket/query/parser/QueryParserTest.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 10,
+                    "_exit_cnt": 10,
                     "_visit_cnt": 0
                 }
             ]

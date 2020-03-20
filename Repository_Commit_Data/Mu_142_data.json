@@ -25,7 +25,15 @@
             "_sha_id": "f379faf466511bf0bf916de8ef1d8856b6b699db",
             "_timestamp": "2014-07-08 13:03:40+02:00",
             "_commit_index": 7,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/mu/EvalVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 26
+                }
+            ]
         },
         {
             "_sha_id": "f51b79148793d62c9501fafb93debdcc99032d76",

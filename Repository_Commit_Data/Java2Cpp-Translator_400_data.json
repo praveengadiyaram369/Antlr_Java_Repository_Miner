@@ -13,48 +13,101 @@
             "_sha_id": "5426fc363801a02d660ad8d137a1c9e1fa449fe2",
             "_timestamp": "2014-06-02 20:35:55+02:00",
             "_commit_index": 17,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/translator/parser/EchoListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 102,
+                    "_exit_cnt": 102,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/com/translator/parser/LogListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 102,
+                    "_exit_cnt": 102,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "30349f9be196be98cb836b921139481a26a133ce",
+            "_timestamp": "2014-05-24 13:54:01+02:00",
+            "_commit_index": 8,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "fce70caf1ef40d632cf6a3e9003dac13b03516df",
-            "_timestamp": "2014-06-08 20:04:13+02:00",
-            "_commit_index": 25,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "99c2eab8b721471ed8a54f82e824f7ed1cca2b19",
-            "_timestamp": "2014-06-14 16:21:26+02:00",
-            "_commit_index": 29,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "99e0f2342bfeeb64c7f1004bf2c3164970f9c63e",
-            "_timestamp": "2014-06-15 22:02:07+02:00",
-            "_commit_index": 31,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "303a8c471b4b75e2ac6d235ef9a45c7738acd0a3",
-            "_timestamp": "2014-06-15 22:24:48+02:00",
-            "_commit_index": 32,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "36940dfca5aaa23046ef6e72f74e4c6d6e6139cf",
-            "_timestamp": "2014-06-16 23:30:18+02:00",
-            "_commit_index": 33,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "9184a6668a854a76c75297b103fda3c1b485a18a",
-            "_timestamp": "2014-06-07 10:55:38+02:00",
-            "_commit_index": 18,
-            "_changed_files_list": []
+            "_sha_id": "7b79a2ae114ae24066e38c8532de39d58684f01a",
+            "_timestamp": "2014-05-25 18:12:12+02:00",
+            "_commit_index": 12,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/translator/parser/EchoListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 102,
+                    "_exit_cnt": 102,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/com/translator/parser/LogListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 102,
+                    "_exit_cnt": 102,
+                    "_visit_cnt": 2
+                }
+            ]
         },
         {
             "_sha_id": "63cf057694c6dcdf9a9a9e3df3c6fb17ce93bca7",
             "_timestamp": "2014-05-25 11:26:25+02:00",
             "_commit_index": 10,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8f980368d41e0b6c16a5595af7a629cb5f8b457f",
+            "_timestamp": "2014-05-25 17:36:27+02:00",
+            "_commit_index": 11,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/translator/parser/EchoListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 102,
+                    "_exit_cnt": 102,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "39ab4221eb90ea737e503ff64a3c76c402a645cd",
+            "_timestamp": "2014-05-12 21:58:44+02:00",
+            "_commit_index": 4,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "b20973ef2709a6ba33ecb54d9badc3de8e8f34ce",
+            "_timestamp": "2014-05-25 18:48:39+02:00",
+            "_commit_index": 14,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/translator/parser/EchoListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 102,
+                    "_exit_cnt": 102,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/com/translator/parser/LogListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 102,
+                    "_exit_cnt": 102,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "c30c9a14d7032c72fb9298dd146e0ea8857b686c",
+            "_timestamp": "2014-05-12 22:01:19+02:00",
+            "_commit_index": 5,
             "_changed_files_list": []
         },
         {

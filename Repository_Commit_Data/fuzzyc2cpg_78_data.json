@@ -13,18 +13,6 @@
             "_sha_id": "b110bd837a7d70d23f0dd018ef34e170815be1f9",
             "_timestamp": "2019-02-05 15:41:25+01:00",
             "_commit_index": 205,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "5bbd9406ee0d9fbbb47b5c3671ee1bec0709c206",
-            "_timestamp": "2019-07-16 15:37:16+02:00",
-            "_commit_index": 308,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "7d4ea0f3280a70789d4a00b85d992154f887cbca",
-            "_timestamp": "2019-09-18 09:48:11+02:00",
-            "_commit_index": 359,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/io/shiftleft/fuzzyc2cpg/parser/modules/CModuleParserTreeListener.java",
@@ -32,45 +20,116 @@
                     "_enter_cnt": 9,
                     "_exit_cnt": 3,
                     "_visit_cnt": 0
-                }
-            ]
-        },
-        {
-            "_sha_id": "38c6d46bd242b87b2f47d0c23dd7b0a9f712b695",
-            "_timestamp": "2019-10-25 13:47:21+02:00",
-            "_commit_index": 385,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "2b1ced4742dd8fbaadc71bbedf02e0e88d651b3f",
-            "_timestamp": "2019-11-07 10:01:13+13:00",
-            "_commit_index": 398,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d9d577482a8901a59cbd8f27405084d793ed2ce2",
-            "_timestamp": "2019-11-19 14:20:19+01:00",
-            "_commit_index": 404,
-            "_changed_files_list": [
+                },
                 {
-                    "_file_name": "src/main/java/io/shiftleft/fuzzyc2cpg/parser/modules/CModuleParserTreeListener.java",
+                    "_file_name": "src/main/java/io/shiftleft/fuzzyc2cpg/parser/functions/CFunctionParseTreeListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 12,
-                    "_exit_cnt": 5,
+                    "_enter_cnt": 61,
+                    "_exit_cnt": 43,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "a48d8b03e2c84b48d757363fd3d09baffff48615",
-            "_timestamp": "2019-11-29 13:08:58+01:00",
-            "_commit_index": 407,
+            "_sha_id": "49137bec9b3ff55a91871b3645074300d321b72b",
+            "_timestamp": "2018-11-02 17:46:22+01:00",
+            "_commit_index": 102,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/io/shiftleft/fuzzyc2cpg/parser/modules/CModuleParserTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/io/shiftleft/fuzzyc2cpg/parser/functions/CFunctionParseTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 61,
+                    "_exit_cnt": 43,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "41752da2d1cd89f58bcfb059b59e1780ca685ae8",
+            "_timestamp": "2018-10-09 17:52:21+02:00",
+            "_commit_index": 51,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/io/shiftleft/fuzzyc2cpg/parser/modules/CModuleParserTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/io/shiftleft/fuzzyc2cpg/parser/functions/CFunctionParseTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 60,
+                    "_exit_cnt": 42,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "e2010f11ef2d13be9d523efae6557e0314451a03",
+            "_timestamp": "2018-07-04 15:39:01+02:00",
+            "_commit_index": 25,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/io/shiftleft/fuzzyc2cpg/parser/modules/CModuleParserTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/io/shiftleft/fuzzyc2cpg/parser/functions/CFunctionParseTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 60,
+                    "_exit_cnt": 42,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "b8ff4a7a047a967e7861bbc6ed513c857fa467fd",
+            "_timestamp": "2018-07-03 23:09:43+02:00",
+            "_commit_index": 12,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "afadfebf4aed82add7670b9e2f72d94b7ddf5157",
-            "_timestamp": "2019-12-10 10:20:57+01:00",
-            "_commit_index": 409,
+            "_sha_id": "4b3af9bac3412488bcacb3ff4db61531f9620d71",
+            "_timestamp": "2018-07-04 01:58:11+02:00",
+            "_commit_index": 18,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/io/shiftleft/fuzzyc2cpg/parser/modules/CModuleParserTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/io/shiftleft/fuzzyc2cpg/parser/functions/CFunctionParseTreeListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 60,
+                    "_exit_cnt": 42,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "0a40b46a5985eb0ca93b6d11cc6d5eb3dd3ac381",
+            "_timestamp": "2018-07-04 00:44:22+02:00",
+            "_commit_index": 15,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6df0b0a137e08dd552e333b7493de51d15cb60a9",
+            "_timestamp": "2018-07-04 00:45:58+02:00",
+            "_commit_index": 16,
             "_changed_files_list": []
         },
         {

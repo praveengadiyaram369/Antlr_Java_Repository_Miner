@@ -9,6 +9,20 @@
             "_commit_index": 1,
             "_changed_files_list": [
                 {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/GetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PostVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
                     "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/DeleteVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
@@ -16,7 +30,35 @@
                     "_visit_cnt": 1
                 },
                 {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PatchVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "949154d6b0067d717707fda221917e8257ff89d7",
+            "_timestamp": "2016-12-15 14:36:29-06:00",
+            "_commit_index": 901,
+            "_changed_files_list": [
+                {
                     "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/GetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PostVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/DeleteVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
@@ -30,7 +72,56 @@
                     "_visit_cnt": 1
                 },
                 {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/PermissionToFilterExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/CanPaginateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/PermissionExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
+        },
+        {
+            "_sha_id": "f14ddbf16d28b4fee5122c7ee5c5b0d38d04dbe3",
+            "_timestamp": "2016-03-07 14:48:22-06:00",
+            "_commit_index": 450,
+            "_changed_files_list": [
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/GetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
                     "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PostVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/DeleteVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PatchVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
@@ -39,52 +130,305 @@
             ]
         },
         {
-            "_sha_id": "949154d6b0067d717707fda221917e8257ff89d7",
-            "_timestamp": "2016-12-15 14:36:29-06:00",
-            "_commit_index": 901,
-            "_changed_files_list": []
+            "_sha_id": "c5ca5507bb4c59e2e170bcc0ae67aaaecf503729",
+            "_timestamp": "2016-06-15 12:38:46-05:00",
+            "_commit_index": 675,
+            "_changed_files_list": [
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/GetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PostVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/DeleteVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PatchVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/PermissionExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
         },
         {
-            "_sha_id": "949154d6b0067d717707fda221917e8257ff89d7",
-            "_timestamp": "2016-12-15 14:36:29-06:00",
-            "_commit_index": 901,
-            "_changed_files_list": []
+            "_sha_id": "4e5066ba3e9874b4b1125916ae3a835895a18e80",
+            "_timestamp": "2016-09-02 14:55:56-05:00",
+            "_commit_index": 788,
+            "_changed_files_list": [
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/GetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PostVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/DeleteVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PatchVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/PermissionToFilterExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/CanPaginateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/PermissionExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
         },
         {
-            "_sha_id": "949154d6b0067d717707fda221917e8257ff89d7",
-            "_timestamp": "2016-12-15 14:36:29-06:00",
-            "_commit_index": 901,
-            "_changed_files_list": []
+            "_sha_id": "62164a9868c945262df4efc3d5fa78708bcf9df8",
+            "_timestamp": "2016-07-25 15:19:45-05:00",
+            "_commit_index": 731,
+            "_changed_files_list": [
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/GetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PostVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/DeleteVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PatchVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/PermissionToFilterExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/PermissionExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
         },
         {
-            "_sha_id": "949154d6b0067d717707fda221917e8257ff89d7",
-            "_timestamp": "2016-12-15 14:36:29-06:00",
-            "_commit_index": 901,
-            "_changed_files_list": []
+            "_sha_id": "623e3626ea040f34b2f5d4d818ee4a1ae80cf216",
+            "_timestamp": "2016-04-08 16:40:26-05:00",
+            "_commit_index": 562,
+            "_changed_files_list": [
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/GetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PostVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/DeleteVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PatchVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/PermissionExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
         },
         {
-            "_sha_id": "949154d6b0067d717707fda221917e8257ff89d7",
-            "_timestamp": "2016-12-15 14:36:29-06:00",
-            "_commit_index": 901,
-            "_changed_files_list": []
+            "_sha_id": "7892855e0d6df433b95d0ba25e8ca50cfc4d15dd",
+            "_timestamp": "2016-08-12 10:58:57-05:00",
+            "_commit_index": 759,
+            "_changed_files_list": [
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/GetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PostVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/DeleteVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PatchVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/PermissionToFilterExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/CanPaginateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/PermissionExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
         },
         {
-            "_sha_id": "949154d6b0067d717707fda221917e8257ff89d7",
-            "_timestamp": "2016-12-15 14:36:29-06:00",
-            "_commit_index": 901,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "949154d6b0067d717707fda221917e8257ff89d7",
-            "_timestamp": "2016-12-15 14:36:29-06:00",
-            "_commit_index": 901,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "949154d6b0067d717707fda221917e8257ff89d7",
-            "_timestamp": "2016-12-15 14:36:29-06:00",
-            "_commit_index": 901,
-            "_changed_files_list": []
+            "_sha_id": "06dfe7d016fdc1d0f5f8ca6a2dfc6f9e3793bda3",
+            "_timestamp": "2016-08-17 10:30:03-05:00",
+            "_commit_index": 745,
+            "_changed_files_list": [
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/GetVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PostVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/DeleteVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/PatchVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/PermissionToFilterExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/CanPaginateVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "elide-core/src/main/java/com/yahoo/elide/parsers/expression/PermissionExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
         },
         {
             "_sha_id": "fa5da76eeb8ded88d72f015886c9e67159620067",

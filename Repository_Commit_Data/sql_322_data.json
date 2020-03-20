@@ -16,46 +16,78 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "ccdfae71033da6f8f1a08d16afbb31513f167fbb",
-            "_timestamp": "2019-07-22 15:47:10-07:00",
-            "_commit_index": 76,
+            "_sha_id": "7fd35ea365cecf3a973e7c0e8281a1489528e507",
+            "_timestamp": "2019-10-22 14:15:53-07:00",
+            "_commit_index": 114,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/amazon/opendistroforelasticsearch/sql/antlr/visitor/AntlrSqlParseTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 31
+                }
+            ]
+        },
+        {
+            "_sha_id": "1b3eaf2bb30d201951d16712288649b95eedd194",
+            "_timestamp": "2019-09-10 16:46:31-07:00",
+            "_commit_index": 95,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "ccdfae71033da6f8f1a08d16afbb31513f167fbb",
-            "_timestamp": "2019-07-22 15:47:10-07:00",
-            "_commit_index": 76,
+            "_sha_id": "6ff810f096f9830c93a0e8422388d8ae5923a9bd",
+            "_timestamp": "2019-10-04 10:53:57-07:00",
+            "_commit_index": 104,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "ccdfae71033da6f8f1a08d16afbb31513f167fbb",
-            "_timestamp": "2019-07-22 15:47:10-07:00",
-            "_commit_index": 76,
+            "_sha_id": "d736e91521b24441221109caf9df1b29cfcb0a87",
+            "_timestamp": "2019-10-08 10:51:06-07:00",
+            "_commit_index": 109,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/amazon/opendistroforelasticsearch/sql/antlr/visitor/AntlrSqlParseTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 31
+                }
+            ]
+        },
+        {
+            "_sha_id": "473a42d4387ecbe850b8ffe02a736108ec77d7e6",
+            "_timestamp": "2019-10-07 13:39:26-07:00",
+            "_commit_index": 106,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "ccdfae71033da6f8f1a08d16afbb31513f167fbb",
-            "_timestamp": "2019-07-22 15:47:10-07:00",
-            "_commit_index": 76,
-            "_changed_files_list": []
+            "_sha_id": "503457199997a883fd0033bc1301f16fdbd81812",
+            "_timestamp": "2019-10-07 14:42:22-07:00",
+            "_commit_index": 107,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/amazon/opendistroforelasticsearch/sql/antlr/visitor/AntlrSqlParseTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 31
+                }
+            ]
         },
         {
-            "_sha_id": "ccdfae71033da6f8f1a08d16afbb31513f167fbb",
-            "_timestamp": "2019-07-22 15:47:10-07:00",
-            "_commit_index": 76,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "ccdfae71033da6f8f1a08d16afbb31513f167fbb",
-            "_timestamp": "2019-07-22 15:47:10-07:00",
-            "_commit_index": 76,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "ccdfae71033da6f8f1a08d16afbb31513f167fbb",
-            "_timestamp": "2019-07-22 15:47:10-07:00",
-            "_commit_index": 76,
-            "_changed_files_list": []
+            "_sha_id": "537f4b94740708f00cd118c08727807359ec766b",
+            "_timestamp": "2019-11-20 12:16:48-08:00",
+            "_commit_index": 141,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/amazon/opendistroforelasticsearch/sql/antlr/visitor/AntlrSqlParseTreeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 32
+                }
+            ]
         },
         {
             "_sha_id": "f67d7016128dcf50c7a4f63f8a7426784b9b02c3",

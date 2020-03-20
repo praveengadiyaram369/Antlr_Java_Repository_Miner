@@ -38,85 +38,85 @@
             ]
         },
         {
-            "_sha_id": "3f74a85c9660ae6343ba3cb9a84d7030759b5e30",
-            "_timestamp": "2015-11-05 15:42:22-08:00",
-            "_commit_index": 5,
+            "_sha_id": "61a989af49430ba7cdc7a4cac0b087f7093d5ad2",
+            "_timestamp": "2015-11-05 14:32:58-08:00",
+            "_commit_index": 2,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/io/jschneider/graphql/gremlin/GraphQLCompilerListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 4,
+                    "_enter_cnt": 3,
                     "_exit_cnt": 2,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "3f74a85c9660ae6343ba3cb9a84d7030759b5e30",
-            "_timestamp": "2015-11-05 15:42:22-08:00",
-            "_commit_index": 5,
+            "_sha_id": "bf904f0b483f2b552a32a39c4aef9cc0937fe02e",
+            "_timestamp": "2015-11-07 21:31:54-08:00",
+            "_commit_index": 7,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/io/jschneider/graphql/gremlin/GraphQLCompilerListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 4,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "32738819bf2d6e73716f27ce9acb953a427a8c74",
+            "_timestamp": "2015-11-05 14:11:15-08:00",
+            "_commit_index": 1,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/io/jschneider/graphql/gremlin/GraphQLCompilerListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
                     "_exit_cnt": 2,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "3f74a85c9660ae6343ba3cb9a84d7030759b5e30",
-            "_timestamp": "2015-11-05 15:42:22-08:00",
-            "_commit_index": 5,
+            "_sha_id": "e174d918083106618097a2acd7bb61553a642381",
+            "_timestamp": "2016-04-18 13:46:58-07:00",
+            "_commit_index": 18,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/io/jschneider/graphql/gremlin/GraphQLCompilerListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 4,
-                    "_exit_cnt": 2,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 4,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "3f74a85c9660ae6343ba3cb9a84d7030759b5e30",
-            "_timestamp": "2015-11-05 15:42:22-08:00",
-            "_commit_index": 5,
+            "_sha_id": "e0c9a16a179412a642b98f9a565dbe215bfcc642",
+            "_timestamp": "2016-04-18 11:19:53-07:00",
+            "_commit_index": 13,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/io/jschneider/graphql/gremlin/GraphQLCompilerListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 4,
-                    "_exit_cnt": 2,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 4,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "3f74a85c9660ae6343ba3cb9a84d7030759b5e30",
-            "_timestamp": "2015-11-05 15:42:22-08:00",
-            "_commit_index": 5,
+            "_sha_id": "239ede68b6c778e7df6c7dcfc1dc600be493e01c",
+            "_timestamp": "2016-04-18 13:36:32-07:00",
+            "_commit_index": 17,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/io/jschneider/graphql/gremlin/GraphQLCompilerListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 4,
-                    "_exit_cnt": 2,
-                    "_visit_cnt": 0
-                }
-            ]
-        },
-        {
-            "_sha_id": "3f74a85c9660ae6343ba3cb9a84d7030759b5e30",
-            "_timestamp": "2015-11-05 15:42:22-08:00",
-            "_commit_index": 5,
-            "_changed_files_list": [
-                {
-                    "_file_name": "src/main/java/io/jschneider/graphql/gremlin/GraphQLCompilerListener.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 4,
-                    "_exit_cnt": 2,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 4,
                     "_visit_cnt": 0
                 }
             ]

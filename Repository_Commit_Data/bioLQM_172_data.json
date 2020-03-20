@@ -13,26 +13,7 @@
             "_sha_id": "31fe4d71d83dde29ceaa7cc184094ab0c8bc084d",
             "_timestamp": "2017-03-02 14:55:12+01:00",
             "_commit_index": 208,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "3ae46956002c88657d5792b9bf8127a2915ba6df",
-            "_timestamp": "2018-02-23 11:28:14+01:00",
-            "_commit_index": 312,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8f62b33c42bc53d04e8d1a565345cb9d0de6cb05",
-            "_timestamp": "2018-08-12 12:06:03+02:00",
-            "_commit_index": 364,
             "_changed_files_list": [
-                {
-                    "_file_name": "src/main/java/org/colomoto/biolqm/io/bnet/BNetImport.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 5,
-                    "_visit_cnt": 0
-                },
                 {
                     "_file_name": "src/main/java/org/colomoto/biolqm/io/booleannet/BooleanNetImport.java",
                     "_is_antlr_file": true,
@@ -57,33 +38,67 @@
             ]
         },
         {
-            "_sha_id": "02ad9f90badebedd74e6b9ab8eff814765c3b283",
-            "_timestamp": "2018-07-13 15:03:18+02:00",
-            "_commit_index": 338,
+            "_sha_id": "3e74aecb979a6f8572f70a541798acf1eb9ca196",
+            "_timestamp": "2013-12-17 12:42:08+01:00",
+            "_commit_index": 104,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "cdc1aee50c84e2585dc0f6f2fa80764bb667d75f",
-            "_timestamp": "2018-07-25 16:01:40+02:00",
-            "_commit_index": 351,
+            "_sha_id": "194391358ac10309968f6ded6b6e2f1c67a0ba06",
+            "_timestamp": "2015-04-10 00:16:06+01:00",
+            "_commit_index": 156,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9f0be87270f1296b44a4609ff4fba0a6b4d49f1f",
-            "_timestamp": "2018-08-02 19:48:22+02:00",
-            "_commit_index": 357,
+            "_sha_id": "3b989c2a300022355cccc4d1a4de32e3e6bd070f",
+            "_timestamp": "2016-08-04 11:39:55+02:00",
+            "_commit_index": 182,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "42e70db1703483bd6086cdf339df0b1c41d82393",
-            "_timestamp": "2018-08-03 15:28:41+02:00",
-            "_commit_index": 360,
+            "_sha_id": "31b821e92a562e6856b7c7c6acc79b8f1fe3dfec",
+            "_timestamp": "2016-12-14 18:43:10+01:00",
+            "_commit_index": 195,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "6a6b468b17ad0da1b3d9cd4e7d59105971b24b41",
-            "_timestamp": "2018-08-06 15:02:46+02:00",
-            "_commit_index": 362,
+            "_sha_id": "b2c94f4e80ab62956e2b87636b89af9bdd8e0d53",
+            "_timestamp": "2017-01-16 17:29:33+01:00",
+            "_commit_index": 201,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/colomoto/biolqm/io/booleannet/BooleanNetImport.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/org/colomoto/biolqm/io/boolsim/BoolSimImport.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/org/colomoto/biolqm/io/functions/BooleanFunctionImport.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "8536bb4bdf3f7176713572a3acdecc61898ff374",
+            "_timestamp": "2017-01-10 18:41:23+01:00",
+            "_commit_index": 198,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5be8d5fcde650b6ba5e7e404dad98c4e2e311547",
+            "_timestamp": "2017-01-10 18:42:23+01:00",
+            "_commit_index": 199,
             "_changed_files_list": []
         },
         {

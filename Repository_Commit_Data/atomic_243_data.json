@@ -16,45 +16,85 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "62b0762932a6fecbae414e43147cf3fd4753bc44",
-            "_timestamp": "2016-01-06 17:45:28+01:00",
-            "_commit_index": 899,
+            "_sha_id": "10918ca00bbb7a075529116b5e502316c5c3be72",
+            "_timestamp": "2017-02-27 14:48:56+01:00",
+            "_commit_index": 1348,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "62b0762932a6fecbae414e43147cf3fd4753bc44",
-            "_timestamp": "2016-01-06 17:45:28+01:00",
-            "_commit_index": 899,
-            "_changed_files_list": []
+            "_sha_id": "f4d9823ded04f01366ac9eb13dfe0e018e799a5b",
+            "_timestamp": "2017-06-26 14:00:38+02:00",
+            "_commit_index": 1573,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugins/de.uni_jena.iaa.linktype.atomic.atomical/src/main/java/de/uni_jena/iaa/linktype/atomic/atomical/console/CommandExecutor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "62b0762932a6fecbae414e43147cf3fd4753bc44",
-            "_timestamp": "2016-01-06 17:45:28+01:00",
-            "_commit_index": 899,
-            "_changed_files_list": []
+            "_sha_id": "7e598d6c616730cfc7077329e16666c25c7fb297",
+            "_timestamp": "2017-05-15 14:41:55+02:00",
+            "_commit_index": 1460,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugins/de.uni_jena.iaa.linktype.atomic.atomical/src/main/java/de/uni_jena/iaa/linktype/atomic/atomical/console/CommandExecutor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "62b0762932a6fecbae414e43147cf3fd4753bc44",
-            "_timestamp": "2016-01-06 17:45:28+01:00",
-            "_commit_index": 899,
-            "_changed_files_list": []
+            "_sha_id": "4398c5d2c75e38e256bd2938b7f9c129d61459d9",
+            "_timestamp": "2017-03-01 14:21:47+01:00",
+            "_commit_index": 1404,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugins/de.uni_jena.iaa.linktype.atomic.atomical/src/main/java/de/uni_jena/iaa/linktype/atomic/atomical/console/CommandExecutor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "62b0762932a6fecbae414e43147cf3fd4753bc44",
-            "_timestamp": "2016-01-06 17:45:28+01:00",
-            "_commit_index": 899,
-            "_changed_files_list": []
+            "_sha_id": "29ffa6253dfcc8c19299dc9c9b8589c8c0c39fc1",
+            "_timestamp": "2017-03-06 13:25:02+01:00",
+            "_commit_index": 1376,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugins/de.uni_jena.iaa.linktype.atomic.atomical/src/main/java/de/uni_jena/iaa/linktype/atomic/atomical/console/CommandExecutor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "62b0762932a6fecbae414e43147cf3fd4753bc44",
-            "_timestamp": "2016-01-06 17:45:28+01:00",
-            "_commit_index": 899,
-            "_changed_files_list": []
+            "_sha_id": "b4545f8881616346bd6cea2ebbe572ce13ac7f21",
+            "_timestamp": "2017-03-02 18:55:57+01:00",
+            "_commit_index": 1362,
+            "_changed_files_list": [
+                {
+                    "_file_name": "plugins/de.uni_jena.iaa.linktype.atomic.atomical/src/main/java/de/uni_jena/iaa/linktype/atomic/atomical/console/CommandExecutor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "62b0762932a6fecbae414e43147cf3fd4753bc44",
-            "_timestamp": "2016-01-06 17:45:28+01:00",
-            "_commit_index": 899,
+            "_sha_id": "b367d3de87f089323e70fd0b6233c5b516008d03",
+            "_timestamp": "2017-03-02 17:21:05+01:00",
+            "_commit_index": 1355,
             "_changed_files_list": []
         },
         {

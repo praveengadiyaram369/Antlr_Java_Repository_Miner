@@ -16,45 +16,90 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "45ea4a6c962f598a334cbca8b625a7f50b2049dd",
-            "_timestamp": "2014-08-06 16:45:08-04:00",
-            "_commit_index": 638,
+            "_sha_id": "cb56f6dea461d8615dc683b85539fc1b32ca904a",
+            "_timestamp": "2016-01-12 22:03:17-05:00",
+            "_commit_index": 957,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "45ea4a6c962f598a334cbca8b625a7f50b2049dd",
-            "_timestamp": "2014-08-06 16:45:08-04:00",
-            "_commit_index": 638,
+            "_sha_id": "702f6bd654dcf93bb47fc2737b93db28d87162aa",
+            "_timestamp": "2017-02-13 20:49:13-05:00",
+            "_commit_index": 1117,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/shadow/tac/TACBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 98
+                },
+                {
+                    "_file_name": "src/main/java/shadow/parse/ShadowVisitorErrorReporter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "e65890c631a384a1f52eafe30311caf02291e0c5",
+            "_timestamp": "2016-10-23 22:37:21-04:00",
+            "_commit_index": 1037,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/shadow/tac/TACBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 94
+                },
+                {
+                    "_file_name": "src/main/java/shadow/parse/ShadowVisitorErrorReporter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "3b1c014d17bc2c0f253c31be3f8b6b0eaeae8efd",
+            "_timestamp": "2016-06-17 18:24:25-04:00",
+            "_commit_index": 997,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "45ea4a6c962f598a334cbca8b625a7f50b2049dd",
-            "_timestamp": "2014-08-06 16:45:08-04:00",
-            "_commit_index": 638,
+            "_sha_id": "85fdb34c6e93404d4f50c33e86afa711e382829a",
+            "_timestamp": "2016-07-28 11:58:54-04:00",
+            "_commit_index": 1017,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/shadow/tac/TACBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 93
+                },
+                {
+                    "_file_name": "src/main/java/shadow/parse/ShadowVisitorErrorReporter.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "78653747efd5e09bae6218bcfde4542c7a24f3e5",
+            "_timestamp": "2016-07-12 12:49:04-04:00",
+            "_commit_index": 1007,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "45ea4a6c962f598a334cbca8b625a7f50b2049dd",
-            "_timestamp": "2014-08-06 16:45:08-04:00",
-            "_commit_index": 638,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "45ea4a6c962f598a334cbca8b625a7f50b2049dd",
-            "_timestamp": "2014-08-06 16:45:08-04:00",
-            "_commit_index": 638,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "45ea4a6c962f598a334cbca8b625a7f50b2049dd",
-            "_timestamp": "2014-08-06 16:45:08-04:00",
-            "_commit_index": 638,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "45ea4a6c962f598a334cbca8b625a7f50b2049dd",
-            "_timestamp": "2014-08-06 16:45:08-04:00",
-            "_commit_index": 638,
+            "_sha_id": "34ecfef8c5d4d94529961cf3d6a615ea0dc4579d",
+            "_timestamp": "2016-07-14 22:40:56-04:00",
+            "_commit_index": 1012,
             "_changed_files_list": []
         },
         {

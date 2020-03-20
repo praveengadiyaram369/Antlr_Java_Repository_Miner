@@ -9,6 +9,13 @@
             "_commit_index": 1,
             "_changed_files_list": [
                 {
+                    "_file_name": "src/main/java/org/tomlj/LineVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
                     "_file_name": "src/main/java/org/tomlj/ArrayVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
@@ -23,6 +30,13 @@
                     "_visit_cnt": 1
                 },
                 {
+                    "_file_name": "src/main/java/org/tomlj/LocalTimeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
                     "_file_name": "src/main/java/org/tomlj/KeyVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
@@ -30,7 +44,21 @@
                     "_visit_cnt": 2
                 },
                 {
-                    "_file_name": "src/main/java/org/tomlj/LineVisitor.java",
+                    "_file_name": "src/main/java/org/tomlj/ValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 16
+                },
+                {
+                    "_file_name": "src/main/java/org/tomlj/QuotedStringVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "src/main/java/org/tomlj/ZoneOffsetVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
@@ -42,34 +70,6 @@
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 4
-                },
-                {
-                    "_file_name": "src/main/java/org/tomlj/LocalTimeVisitor.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 5
-                },
-                {
-                    "_file_name": "src/main/java/org/tomlj/QuotedStringVisitor.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 5
-                },
-                {
-                    "_file_name": "src/main/java/org/tomlj/ValueVisitor.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 16
-                },
-                {
-                    "_file_name": "src/main/java/org/tomlj/ZoneOffsetVisitor.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 3
                 }
             ]
         },

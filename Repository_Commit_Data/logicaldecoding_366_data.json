@@ -13,49 +13,97 @@
             "_sha_id": "3001ee3c259ba84f8699ef88ee142871e7ee78d0",
             "_timestamp": "2016-03-24 09:12:27+01:00",
             "_commit_index": 34,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/swm/nis/logicaldecoding/parser/ParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "0965bbf5c097e4283b102e4cc8daa971a8b595c8",
+            "_timestamp": "2016-02-29 22:14:36+01:00",
+            "_commit_index": 17,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "111c565e2c4218de41e591dc3c6419ec1f908e8d",
-            "_timestamp": "2016-07-06 15:29:02+02:00",
-            "_commit_index": 51,
+            "_sha_id": "6437023b9483e4ef31583bf689de8a50de69c6a3",
+            "_timestamp": "2016-03-23 10:47:31+01:00",
+            "_commit_index": 25,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/swm/nis/logicaldecoding/parser/ParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "304bb7d08484fc319eaef9cfd694fb3e76aa16d4",
+            "_timestamp": "2016-03-21 08:51:18+01:00",
+            "_commit_index": 21,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/swm/nis/logicaldecoding/parser/ParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "0b961451ddd4c178c0df09a0b3254eda17982c63",
+            "_timestamp": "2016-03-18 15:59:12+01:00",
+            "_commit_index": 19,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/swm/nis/logicaldecoding/parser/ParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "493a4be1838230ecdf527482f6999117aa922030",
+            "_timestamp": "2016-03-15 20:24:14+01:00",
+            "_commit_index": 18,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "8a81dcaf3166899810ee6a270c68b4bbc2266a2b",
-            "_timestamp": "2016-08-18 15:00:10+02:00",
-            "_commit_index": 60,
-            "_changed_files_list": []
+            "_sha_id": "b250430c640746fef93f2d2e6d232a181b4a0d61",
+            "_timestamp": "2016-08-12 13:52:32+02:00",
+            "_commit_index": 54,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/swm/nis/logicaldecoding/parser/ParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "2e603e3b4615b497ccd1f3a0773d7871972f63cd",
-            "_timestamp": "2016-08-22 22:14:15+02:00",
-            "_commit_index": 64,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0c0af88f6335cbe145a5fbbc5ccfbc622938d3b1",
-            "_timestamp": "2016-08-22 22:27:17+02:00",
-            "_commit_index": 66,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "46b25a06e2478749f2c30969833a80a358fe6075",
-            "_timestamp": "2016-08-22 22:35:34+02:00",
-            "_commit_index": 67,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4c832a27775c9755509a4b7c4b1f674d48c5ce76",
-            "_timestamp": "2016-08-22 22:41:37+02:00",
-            "_commit_index": 68,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8dcd2b8c0865f7ed14056f998cd251eb8f06b22c",
-            "_timestamp": "2015-11-11 12:39:44+01:00",
-            "_commit_index": 5,
-            "_changed_files_list": []
+            "_sha_id": "c174348a0d8662f15f477f4e98f50a67b64e66d5",
+            "_timestamp": "2016-03-22 09:15:33+01:00",
+            "_commit_index": 24,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/de/swm/nis/logicaldecoding/parser/ParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 2,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "6a198027ed0554ea68221036d216b7239d14199c",

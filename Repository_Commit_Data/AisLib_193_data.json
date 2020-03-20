@@ -13,42 +13,20 @@
             "_sha_id": "3edd597b916256cff3e3698d7064cd69c1a67910",
             "_timestamp": "2014-03-18 15:08:16+01:00",
             "_commit_index": 352,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketSourceFiltersParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
         },
         {
             "_sha_id": "5619c9e64ce81278ec1e872436321fbd0ffdfd95",
             "_timestamp": "2014-09-18 09:44:57+02:00",
             "_commit_index": 528,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "443a89047d3c2f90b30538fee8641bb209fc4012",
-            "_timestamp": "2015-05-13 08:24:29+02:00",
-            "_commit_index": 616,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "42010a222954234f93a39a0a301d77e2c0ed519a",
-            "_timestamp": "2017-02-22 11:41:16+01:00",
-            "_commit_index": 660,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "18c489743751115e2c878265e05ffd4cddbf8d7e",
-            "_timestamp": "2018-11-21 06:42:35-08:00",
-            "_commit_index": 682,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "24d3b5b0962b6ce5845b49ced68d6f6979934050",
-            "_timestamp": "2018-12-19 15:31:28+01:00",
-            "_commit_index": 693,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "71799ce68f794cdb5d192710138c3dbe94d72da8",
-            "_timestamp": "2019-10-24 13:16:44+02:00",
-            "_commit_index": 699,
             "_changed_files_list": [
                 {
                     "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketFiltersExpressionFilterParser.java",
@@ -67,10 +45,116 @@
             ]
         },
         {
-            "_sha_id": "23a8ada0c95e446fc7135f7e1652cac3e8813a8a",
-            "_timestamp": "2019-09-05 13:52:33+02:00",
-            "_commit_index": 696,
-            "_changed_files_list": []
+            "_sha_id": "8e03da30c1bf8399bd9a76c000fc7c6fb678850c",
+            "_timestamp": "2014-05-20 12:13:06+02:00",
+            "_commit_index": 440,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketFiltersExpressionFilterParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 70
+                },
+                {
+                    "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketSourceFiltersParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                }
+            ]
+        },
+        {
+            "_sha_id": "30412362d197180125d172dc06aeecaf714f2719",
+            "_timestamp": "2014-04-01 07:59:02+02:00",
+            "_commit_index": 396,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketFiltersExpressionFilterParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 37
+                },
+                {
+                    "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketSourceFiltersParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                }
+            ]
+        },
+        {
+            "_sha_id": "65be7c4c3b4c7efe4a68c16f7ebf284a6d53e7c1",
+            "_timestamp": "2014-03-25 14:56:50+01:00",
+            "_commit_index": 374,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketSourceFiltersParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "251267db0507d2795affd8cc67d2e50462b11522",
+            "_timestamp": "2014-03-26 16:05:40+01:00",
+            "_commit_index": 385,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketSourceFiltersParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                }
+            ]
+        },
+        {
+            "_sha_id": "23ea57ee7f94b06c722675b1a6930ce49653e40d",
+            "_timestamp": "2014-03-27 13:46:59+01:00",
+            "_commit_index": 390,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketFiltersExpressionFilterParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 37
+                },
+                {
+                    "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketSourceFiltersParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                }
+            ]
+        },
+        {
+            "_sha_id": "70478e166c34137452bfef7f89e4849758f2fd92",
+            "_timestamp": "2014-03-27 08:42:42+01:00",
+            "_commit_index": 387,
+            "_changed_files_list": [
+                {
+                    "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketFiltersExpressionFilterParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 35
+                },
+                {
+                    "_file_name": "ais-lib-communication/src/main/java/dk/dma/ais/packet/AisPacketSourceFiltersParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                }
+            ]
         },
         {
             "_sha_id": "5b57d85b8ba987d2309959ec1fd5ab7f207bd506",

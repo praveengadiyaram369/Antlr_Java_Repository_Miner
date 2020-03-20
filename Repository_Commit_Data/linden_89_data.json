@@ -18,9 +18,9 @@
             ]
         },
         {
-            "_sha_id": "d96422251694512c16964b73880b641d19290c0e",
-            "_timestamp": "2017-08-23 15:50:03+08:00",
-            "_commit_index": 33,
+            "_sha_id": "e9c8cbdd4d953e06cd667eebc45bfc48acca74fb",
+            "_timestamp": "2017-09-02 01:20:40+08:00",
+            "_commit_index": 35,
             "_changed_files_list": [
                 {
                     "_file_name": "linden-core/src/main/java/com/xiaomi/linden/bql/BQLCompilerAnalyzer.java",
@@ -32,9 +32,9 @@
             ]
         },
         {
-            "_sha_id": "6a70b54d295dd9d43025ffbec6d67cb371f88c7c",
-            "_timestamp": "2018-08-15 17:32:05+08:00",
-            "_commit_index": 68,
+            "_sha_id": "42cc9b589a0c778bc93c2e6ccd70ceb0ca059c79",
+            "_timestamp": "2017-03-15 17:11:39+08:00",
+            "_commit_index": 13,
             "_changed_files_list": [
                 {
                     "_file_name": "linden-core/src/main/java/com/xiaomi/linden/bql/BQLCompilerAnalyzer.java",
@@ -46,40 +46,88 @@
             ]
         },
         {
-            "_sha_id": "8d22aa89972315abd12b050ee808ad9ab0485737",
-            "_timestamp": "2018-04-27 15:58:27+08:00",
-            "_commit_index": 57,
-            "_changed_files_list": []
+            "_sha_id": "e156ad2cc5d3739b938498bbe1c852055be74b84",
+            "_timestamp": "2017-08-03 11:47:01+08:00",
+            "_commit_index": 28,
+            "_changed_files_list": [
+                {
+                    "_file_name": "linden-core/src/main/java/com/xiaomi/linden/bql/BQLCompilerAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 60,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "03cee91bbc122c6157e0abefef2dedd0a6bf3c0b",
-            "_timestamp": "2017-06-02 14:30:26+08:00",
-            "_commit_index": 19,
-            "_changed_files_list": []
+            "_sha_id": "5db884a6710b446921f5b6666011c3238ee78698",
+            "_timestamp": "2017-03-06 14:46:30+08:00",
+            "_commit_index": 10,
+            "_changed_files_list": [
+                {
+                    "_file_name": "linden-core/src/main/java/com/xiaomi/linden/bql/BQLCompilerAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 60,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "9c3e3eac66d56e01f387b8bd9eb055568696cd0b",
-            "_timestamp": "2017-09-29 22:28:31+08:00",
-            "_commit_index": 37,
-            "_changed_files_list": []
+            "_sha_id": "b7e4062fe5ea16720dd5508053befb39d221abcc",
+            "_timestamp": "2018-07-12 17:00:36+08:00",
+            "_commit_index": 63,
+            "_changed_files_list": [
+                {
+                    "_file_name": "linden-core/src/main/java/com/xiaomi/linden/bql/BQLCompilerAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 60,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "f282c6c527e1497129d102ca717ed6f4503bb031",
-            "_timestamp": "2017-07-24 14:46:23+08:00",
-            "_commit_index": 26,
-            "_changed_files_list": []
+            "_sha_id": "7ab281d9b5bba4553bb8285d5af489fb36e553b3",
+            "_timestamp": "2017-11-29 20:43:23+08:00",
+            "_commit_index": 43,
+            "_changed_files_list": [
+                {
+                    "_file_name": "linden-core/src/main/java/com/xiaomi/linden/bql/BQLCompilerAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 60,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "a0fe43eecc8a2bdf1be3005f2fd80f8b744f33ed",
-            "_timestamp": "2017-10-01 12:34:57+08:00",
-            "_commit_index": 39,
-            "_changed_files_list": []
+            "_sha_id": "e4134c7a4627c3f9896487046a4e44dfaf9dc922",
+            "_timestamp": "2018-01-24 16:54:31+08:00",
+            "_commit_index": 52,
+            "_changed_files_list": [
+                {
+                    "_file_name": "linden-core/src/main/java/com/xiaomi/linden/bql/BQLCompilerAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 60,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "d416d2d9dfa423cf50a2815b5fbc7ca007870e43",
-            "_timestamp": "2018-06-25 21:01:51+08:00",
-            "_commit_index": 60,
-            "_changed_files_list": []
+            "_sha_id": "8bf71730703f0a506b804ed118c2c068fafe1603",
+            "_timestamp": "2017-07-21 16:56:28+08:00",
+            "_commit_index": 25,
+            "_changed_files_list": [
+                {
+                    "_file_name": "linden-core/src/main/java/com/xiaomi/linden/bql/BQLCompilerAnalyzer.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 2,
+                    "_exit_cnt": 60,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "77fe6152c3d699ed7208b1ddb7b67e6cc454a118",

@@ -16,46 +16,592 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
-            "_timestamp": "2015-08-28 12:47:04+05:18",
-            "_commit_index": 647,
-            "_changed_files_list": []
+            "_sha_id": "243172eb4eb19a160ddbdaa8ed9c8b75b17f7f18",
+            "_timestamp": "2016-01-11 14:28:26-05:00",
+            "_commit_index": 970,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/RedundantParenthesesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 9,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/ConstantNamingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/DeclarationListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/ForceTypeCastListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 23,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/SemicolonTerminatedListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/UpperCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/BlankLineListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/LowerCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/KPrefixListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/MultipleImportListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/lengths/LengthListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 14,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/whitespace/ParenthesisWhitespaceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/whitespace/ColonWhitespaceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/whitespace/ArrowWhitespaceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/whitespace/CommaWhitespaceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 16,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/whitespace/AngleBracketWhitespaceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/whitespace/OperatorWhitespaceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
-            "_timestamp": "2015-08-28 12:47:04+05:18",
-            "_commit_index": 647,
-            "_changed_files_list": []
+            "_sha_id": "bc7533e6ae6f289a865a1104c948720bc7ce91bb",
+            "_timestamp": "2015-10-05 21:54:40+05:18",
+            "_commit_index": 808,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/RedundantParenthesesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/ConstantNamingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/DeclarationListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/ForceTypeCastListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 23,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/SemicolonTerminatedListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/UpperCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/BlankLineListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/LowerCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/KPrefixListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/MultipleImportListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
-            "_timestamp": "2015-08-28 12:47:04+05:18",
-            "_commit_index": 647,
-            "_changed_files_list": []
+            "_sha_id": "1b02264ec81f71b5c40230a035b2aefb6bbd1039",
+            "_timestamp": "2015-09-09 20:21:45-07:00",
+            "_commit_index": 727,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/RedundantParenthesesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/ConstantNamingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/DeclarationListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/ForceTypeCastListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 18,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/SemicolonTerminatedListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/UpperCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/BlankLineListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/LowerCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/KPrefixListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/MultipleImportListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
-            "_timestamp": "2015-08-28 12:47:04+05:18",
-            "_commit_index": 647,
-            "_changed_files_list": []
+            "_sha_id": "f2c56f8d227f1a759fe155a81aaf7baeaf9f10e3",
+            "_timestamp": "2015-09-05 11:34:42+05:18",
+            "_commit_index": 687,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/SemicolonTerminatedListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/UpperCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
-            "_timestamp": "2015-08-28 12:47:04+05:18",
-            "_commit_index": 647,
-            "_changed_files_list": []
+            "_sha_id": "f0dbdd8966ed4a4484f1646eb68d4b91f6c44b33",
+            "_timestamp": "2015-11-14 19:09:16-08:00",
+            "_commit_index": 889,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/RedundantParenthesesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/ConstantNamingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/DeclarationListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/ForceTypeCastListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 23,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/SemicolonTerminatedListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/UpperCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 7,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/BlankLineListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/LowerCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/KPrefixListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/MultipleImportListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/whitespace/ColonWhitespaceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/whitespace/ArrowWhitespaceListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
-            "_timestamp": "2015-08-28 12:47:04+05:18",
-            "_commit_index": 647,
-            "_changed_files_list": []
+            "_sha_id": "c10a3df01d2f10c9f27585e8f1c82bf8562521fe",
+            "_timestamp": "2015-09-08 15:32:18+05:18",
+            "_commit_index": 707,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/RedundantParenthesesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/ConstantNamingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/DeclarationListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/ForceTypeCastListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 18,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/SemicolonTerminatedListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/UpperCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/BlankLineListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/LowerCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/KPrefixListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/MultipleImportListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "7850d14139516c39a58a0d5e13aeb3519010b0fb",
-            "_timestamp": "2015-08-28 12:47:04+05:18",
-            "_commit_index": 647,
-            "_changed_files_list": []
+            "_sha_id": "8802ef384c289ec9dbe2ac70b300131014274a27",
+            "_timestamp": "2015-09-05 15:49:59-07:00",
+            "_commit_index": 697,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/RedundantParenthesesListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/ConstantNamingListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/DeclarationListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 5,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/ForceTypeCastListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/BraceStyleListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 18,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/SemicolonTerminatedListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 8,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/UpperCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 6,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/BlankLineListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/LowerCamelCaseListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 3,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/KPrefixListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/com/sleekbyte/tailor/listeners/MultipleImportListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "8d450aa364b01a32ebf4d1e8fe15406a4e7f6c27",

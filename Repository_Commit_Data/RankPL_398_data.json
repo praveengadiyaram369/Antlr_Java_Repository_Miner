@@ -13,57 +13,89 @@
             "_sha_id": "71fba6deab12404b1bd219de25bc304a1b1f7958",
             "_timestamp": "2017-07-01 22:11:13+02:00",
             "_commit_index": 264,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "ee8357a2d7fb0c8af137a0178327a94307a90509",
-            "_timestamp": "2017-09-16 15:23:49+02:00",
-            "_commit_index": 396,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "3dc8e271552dee929623173136305a927dec88d8",
-            "_timestamp": "2017-10-14 01:30:18+02:00",
-            "_commit_index": 462,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "a942861c31265350cf0b51021bbc789e1a174775",
-            "_timestamp": "2017-10-24 21:31:41+02:00",
-            "_commit_index": 495,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "665571deae2b143d61ac65890cee2c8d473444d2",
-            "_timestamp": "2017-10-29 14:54:29+01:00",
-            "_commit_index": 512,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6c055128f269ee10944c15bde85e62203ced5f7b",
-            "_timestamp": "2018-06-05 23:00:41+02:00",
-            "_commit_index": 520,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/com/tr/rp/parser/ConcreteParser.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 53
+                    "_visit_cnt": 51
                 }
             ]
         },
         {
-            "_sha_id": "7074888cb896db9e6c364461f1ee1c421c66775e",
-            "_timestamp": "2017-11-02 23:44:49+01:00",
-            "_commit_index": 516,
+            "_sha_id": "9cef8d6b9622a9b6f716d0adcdda9b124e1fc99f",
+            "_timestamp": "2017-05-15 02:40:43+02:00",
+            "_commit_index": 132,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "53bc678f112fe26c9ea2463c3d84f1c7a8b78b5d",
-            "_timestamp": "2017-12-08 13:26:36+01:00",
-            "_commit_index": 518,
+            "_sha_id": "cf485e48d933baea1241d5bcd7a27c23e8a726e6",
+            "_timestamp": "2017-06-04 21:04:00+02:00",
+            "_commit_index": 198,
             "_changed_files_list": []
+        },
+        {
+            "_sha_id": "ed8a728aecaf62e06ae0f90f542d6a334f64b355",
+            "_timestamp": "2017-06-12 02:03:31+02:00",
+            "_commit_index": 231,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/tr/rp/parser/ConcreteParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 49
+                }
+            ]
+        },
+        {
+            "_sha_id": "9ddffea5114a17284b1d1e7159e7ddf974be9ccf",
+            "_timestamp": "2017-06-07 22:57:25+02:00",
+            "_commit_index": 214,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/tr/rp/parser/ConcreteParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 48
+                }
+            ]
+        },
+        {
+            "_sha_id": "e6ad9faa30b60276dd139bbd50a99cf4290e7c7a",
+            "_timestamp": "2017-06-06 23:42:31+02:00",
+            "_commit_index": 206,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/tr/rp/parser/ConcreteParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 48
+                }
+            ]
+        },
+        {
+            "_sha_id": "73635f00cb0fb201e0ba85c62344334d63726ae6",
+            "_timestamp": "2017-06-04 21:31:44+02:00",
+            "_commit_index": 202,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f81cdb34fe839f0fefbb0a868390c3136ff7c636",
+            "_timestamp": "2017-06-05 00:53:52+02:00",
+            "_commit_index": 204,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/tr/rp/parser/ConcreteParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 47
+                }
+            ]
         },
         {
             "_sha_id": "48b4b6c09137231063c48979fb56fdfaf6099e51",

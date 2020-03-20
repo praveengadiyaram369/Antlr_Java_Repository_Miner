@@ -31,31 +31,76 @@
             "_sha_id": "75d455a4b7b555471ee1ad8c10274ae638cda65c",
             "_timestamp": "2018-03-19 09:53:20-07:00",
             "_commit_index": 403,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sql/src/main/java/edu/stanford/futuredata/macrobase/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "sql/src/main/java/edu/stanford/futuredata/macrobase/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 53
+                }
+            ]
+        },
+        {
+            "_sha_id": "a93231424a1f45edcfea9f388933ab38c123087e",
+            "_timestamp": "2018-02-09 08:34:30-08:00",
+            "_commit_index": 389,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4f410637f462654280917fefee5deb33c3fa29b5",
-            "_timestamp": "2018-11-29 06:38:27-08:00",
-            "_commit_index": 416,
+            "_sha_id": "cc88e62518f0aeec40d80df59e31a4475985f2d0",
+            "_timestamp": "2018-03-05 14:00:58-08:00",
+            "_commit_index": 396,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sql/src/main/java/edu/stanford/futuredata/macrobase/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "sql/src/main/java/edu/stanford/futuredata/macrobase/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 53
+                }
+            ]
+        },
+        {
+            "_sha_id": "ab9fc9c692609cad00f5b43e56385e5d58ad9aee",
+            "_timestamp": "2018-02-13 00:38:21-08:00",
+            "_commit_index": 392,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4322483d0748205884a1f303ca86c84c665b914d",
-            "_timestamp": "2018-04-17 15:14:42-07:00",
-            "_commit_index": 423,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "74d757d5496a066e14024197968d797bb97b5919",
-            "_timestamp": "2018-05-29 15:31:01-07:00",
-            "_commit_index": 426,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "0d89c2a9fe510d4b12ca872d5260a68929d18d86",
-            "_timestamp": "2018-05-31 03:47:35-07:00",
-            "_commit_index": 428,
-            "_changed_files_list": []
+            "_sha_id": "d5028adeffd458c1dde3009450a1707529657761",
+            "_timestamp": "2018-02-25 13:07:08-08:00",
+            "_commit_index": 394,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sql/src/main/java/edu/stanford/futuredata/macrobase/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "sql/src/main/java/edu/stanford/futuredata/macrobase/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 53
+                }
+            ]
         },
         {
             "_sha_id": "19d70ea8e0fd2dcf745412f5f7a9297b5badb7bd",

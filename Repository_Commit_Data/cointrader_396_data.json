@@ -13,56 +13,109 @@
             "_sha_id": "b39bdc672f5bf87eb648b9abfa611dd43eac8474",
             "_timestamp": "2014-08-11 13:40:20-07:00",
             "_commit_index": 245,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "7467557985e7c9c6509ac91ed0c6c3ec756a0d2e",
-            "_timestamp": "2015-02-09 19:29:05+00:00",
-            "_commit_index": 367,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "9951186fbae4cf77e49c5591859cfe680dd6010d",
-            "_timestamp": "2016-02-23 21:31:19+00:00",
-            "_commit_index": 428,
             "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/cryptocoinpartners/command/CsvArgsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
                 {
                     "_file_name": "src/main/java/org/cryptocoinpartners/command/OrderArgsListener.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
-                    "_exit_cnt": 6,
+                    "_exit_cnt": 5,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "fda3ee6a3495bc471b81f4ff47bc09052844dfca",
-            "_timestamp": "2015-05-15 14:42:53-07:00",
-            "_commit_index": 397,
+            "_sha_id": "795862c870401f32d7e164b044756ca2faf585ca",
+            "_timestamp": "2014-06-09 22:47:37-07:00",
+            "_commit_index": 122,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "462eeaa08a7c5884d839d74a91a0ec1dc6003e4f",
-            "_timestamp": "2015-07-18 21:53:48+01:00",
-            "_commit_index": 412,
+            "_sha_id": "8114a5a70919cf4b029eb14bd222d30bf826b720",
+            "_timestamp": "2014-06-24 02:03:38-07:00",
+            "_commit_index": 183,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/cryptocoinpartners/command/CsvArgsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/org/cryptocoinpartners/command/OrderArgsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 5,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "f5aad3631faf27afe3484548d2d90053425d21b8",
+            "_timestamp": "2014-06-22 12:13:13-07:00",
+            "_commit_index": 152,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/cryptocoinpartners/command/CsvArgsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/org/cryptocoinpartners/command/OrderArgsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "da5f191b3140d3cc0ca50c05c8f5d2f0b56c7891",
+            "_timestamp": "2014-06-11 18:49:01-07:00",
+            "_commit_index": 137,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "63c99e8351daf061b4a32b940930a77c483c9b04",
-            "_timestamp": "2015-08-10 22:29:07+01:00",
-            "_commit_index": 420,
-            "_changed_files_list": []
+            "_sha_id": "5a12dbf6166f50d929a3bad5e9b8293cc99131c5",
+            "_timestamp": "2014-06-17 12:15:41-07:00",
+            "_commit_index": 144,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/cryptocoinpartners/command/OrderArgsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "05b3319dd00c721902a968c1111dbd6602d611a3",
-            "_timestamp": "2015-09-01 06:59:44+01:00",
-            "_commit_index": 424,
-            "_changed_files_list": []
+            "_sha_id": "cebf17f21bfc8e6e671518297c3964bcbbe1baf9",
+            "_timestamp": "2014-06-15 22:51:35-07:00",
+            "_commit_index": 140,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/org/cryptocoinpartners/command/OrderArgsListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 4,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "ef6985e8beae186dedf255e52d5539c5cb07abd0",
-            "_timestamp": "2015-11-29 17:05:20+00:00",
-            "_commit_index": 426,
+            "_sha_id": "1aea9923fcec5bc11480cf97117390b268b72edd",
+            "_timestamp": "2014-06-12 13:30:44-07:00",
+            "_commit_index": 138,
             "_changed_files_list": []
         },
         {

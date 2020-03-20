@@ -14,20 +14,6 @@
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 1
-                },
-                {
-                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapAliasVar.java",
-                    "_is_antlr_file": false,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 0
-                },
-                {
-                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapPropertyAccess.java",
-                    "_is_antlr_file": false,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 0
                 }
             ]
         },
@@ -35,49 +21,281 @@
             "_sha_id": "4f8a1fd7322383e9dd041fe47dfbd7d09df33dca",
             "_timestamp": "2016-12-19 00:13:08+07:00",
             "_commit_index": 20,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/ComputeExports.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapPropertyAccess.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/TransformFunctions.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapAliasVar.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
         },
         {
-            "_sha_id": "11ae7ad7b169de0485b0deb115c6a33a65e01500",
-            "_timestamp": "2017-03-01 17:26:46+00:00",
-            "_commit_index": 30,
-            "_changed_files_list": []
+            "_sha_id": "44ab0dd09675f665cb454293f992c406fb65d1f9",
+            "_timestamp": "2016-12-15 14:02:08+00:00",
+            "_commit_index": 10,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/ComputeExports.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapPropertyAccess.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/TransformFunctions.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapAliasVar.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
         },
         {
-            "_sha_id": "175a30709177c078c512fb26a855c066a480bf50",
-            "_timestamp": "2017-03-09 19:12:12+00:00",
-            "_commit_index": 35,
-            "_changed_files_list": []
+            "_sha_id": "8d587ceaf88d1d8b8823c1e384b6295b16d7767e",
+            "_timestamp": "2016-12-14 10:56:40+00:00",
+            "_commit_index": 5,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/ComputeExports.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapPropertyAccess.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/TransformFunctions.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapAliasVar.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "4e5689bddd0472c9eec082faf0e4a626ddd59fbd",
-            "_timestamp": "2017-05-22 11:01:43-05:00",
-            "_commit_index": 37,
-            "_changed_files_list": []
+            "_sha_id": "af9d477d10ce2f6cfefe964f61ff3f5dd9abdd65",
+            "_timestamp": "2016-12-14 12:10:54+00:00",
+            "_commit_index": 7,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/ComputeExports.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapPropertyAccess.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/TransformFunctions.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapAliasVar.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
-            "_sha_id": "17da3576e591433af6c9c59a8d2717055e74b6a4",
-            "_timestamp": "2017-10-31 15:51:43-04:00",
-            "_commit_index": 38,
-            "_changed_files_list": []
+            "_sha_id": "5f98af09bbe15b3f7e6dcb24a4c45f4bdbe3ce20",
+            "_timestamp": "2016-12-14 16:46:12+00:00",
+            "_commit_index": 8,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/ComputeExports.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapPropertyAccess.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/TransformFunctions.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapAliasVar.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
         },
         {
-            "_sha_id": "3f111c9eff6e71c9dc2265ed547c89b5c8fac203",
-            "_timestamp": "2017-10-31 20:28:53+00:00",
-            "_commit_index": 39,
-            "_changed_files_list": []
+            "_sha_id": "a4e9cf7a03e913977bfa5989a6c3e7cbbf93dd7c",
+            "_timestamp": "2017-02-25 07:53:48+00:00",
+            "_commit_index": 25,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/ComputeExports.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapPropertyAccess.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/TransformFunctions.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapAliasVar.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
         },
         {
-            "_sha_id": "004adfa6b076466254d6f1f1cb4845e91e1c51c9",
-            "_timestamp": "2016-12-15 16:40:16+00:00",
-            "_commit_index": 11,
-            "_changed_files_list": []
+            "_sha_id": "8df17fcb899e06e4571f60fc4716e56fc767d05c",
+            "_timestamp": "2017-02-27 09:55:36+00:00",
+            "_commit_index": 27,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/ComputeExports.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapPropertyAccess.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/TransformFunctions.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapAliasVar.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
         },
         {
-            "_sha_id": "7ee8910779d74cdd3ab0ba0ca30ae7a8d5bf5a5f",
-            "_timestamp": "2016-12-16 16:24:11+00:00",
-            "_commit_index": 18,
-            "_changed_files_list": []
+            "_sha_id": "ec61aa0651c539450e95b592ead29702ad7b861f",
+            "_timestamp": "2016-12-15 22:44:06+00:00",
+            "_commit_index": 16,
+            "_changed_files_list": [
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/ComputeExports.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapPropertyAccess.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/TransformFunctions.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "cypher2sql/src/main/java/org/cytosm/cypher2sql/lowering/UnwrapAliasVar.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                }
+            ]
         },
         {
             "_sha_id": "41e786f600724358836629fc3f70787834c85270",

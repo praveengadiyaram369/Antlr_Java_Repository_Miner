@@ -13,58 +13,6 @@
             "_sha_id": "049ca7604258d59cf95ae6ba6b1e555f086fa370",
             "_timestamp": "2019-04-18 15:30:04+00:00",
             "_commit_index": 17,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "2dff791b7d75dc341efe42f439cfc69f81c697d0",
-            "_timestamp": "2019-07-18 11:43:45-04:00",
-            "_commit_index": 25,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "8ae3e6ce1028172516e2a3f261a1f7806f356775",
-            "_timestamp": "2019-08-06 17:03:11-04:00",
-            "_commit_index": 29,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6bee2a57dda3a83cc9a739bd3d51194f511305de",
-            "_timestamp": "2019-08-26 13:22:03-04:00",
-            "_commit_index": 31,
-            "_changed_files_list": [
-                {
-                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 36
-                }
-            ]
-        },
-        {
-            "_sha_id": "78b1a290b063cfde6dca2ebac9c901ef8d34767a",
-            "_timestamp": "2019-08-13 10:44:03-04:00",
-            "_commit_index": 30,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "826325c445d09482c073ffd601de9db529b897e7",
-            "_timestamp": "2019-05-07 16:35:10-04:00",
-            "_commit_index": 23,
-            "_changed_files_list": [
-                {
-                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 34
-                }
-            ]
-        },
-        {
-            "_sha_id": "e196aceb064632e3a00b5eeffc7b69c2ae6e5b5d",
-            "_timestamp": "2019-04-03 11:23:09-04:00",
-            "_commit_index": 16,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
@@ -72,14 +20,162 @@
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
                     "_visit_cnt": 33
+                },
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/path/PathExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
                 }
             ]
         },
         {
-            "_sha_id": "780a9a565bd0ee4a70552da993c78369252ba71c",
-            "_timestamp": "2019-03-08 15:31:56-05:00",
-            "_commit_index": 9,
-            "_changed_files_list": []
+            "_sha_id": "6ba56d20330024d448fa7f2d4acafab62e088834",
+            "_timestamp": "2019-03-03 17:30:43-05:00",
+            "_commit_index": 8,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 33
+                },
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/path/PathExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "847df0660e2e24afbb4c7ecbb10912dfd336fe21",
+            "_timestamp": "2019-02-28 17:23:31-05:00",
+            "_commit_index": 4,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 33
+                },
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/path/PathExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "679d70983bef82b4953370be74724816c816805d",
+            "_timestamp": "2019-02-28 17:08:26-05:00",
+            "_commit_index": 2,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 33
+                },
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/path/PathExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "3d63ddfa35c7c278f3912a801ba83d86d8e76032",
+            "_timestamp": "2019-02-28 14:06:18-05:00",
+            "_commit_index": 1,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 33
+                },
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/path/PathExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "97b98e14c74863f37d114ebd661c292ad938ebac",
+            "_timestamp": "2019-05-06 16:59:04-04:00",
+            "_commit_index": 21,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 33
+                },
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/path/PathExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "78b1a290b063cfde6dca2ebac9c901ef8d34767a",
+            "_timestamp": "2019-08-13 10:44:03-04:00",
+            "_commit_index": 30,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 34
+                },
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/path/PathExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        },
+        {
+            "_sha_id": "f6f056dd557923b0f7ef79020b175b2560e61f6d",
+            "_timestamp": "2019-04-19 11:41:57-04:00",
+            "_commit_index": 18,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 33
+                },
+                {
+                    "_file_name": "src/main/java/com/api/jsonata4java/expressions/path/PathExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
         },
         {
             "_sha_id": "97a3a2916757aa167c73b76a7f9ae6fd20dfc6d4",

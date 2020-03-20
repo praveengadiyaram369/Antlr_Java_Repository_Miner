@@ -13,19 +13,1541 @@
             "_sha_id": "2572ffd9b59d62b75afc012ab29cf9fe6aa7bf7d",
             "_timestamp": "2018-07-23 18:48:42+08:00",
             "_commit_index": 2,
-            "_changed_files_list": []
+            "_changed_files_list": [
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeTodayVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/LogicExpressionAndVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeDayVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SelectExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CastExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/AddFileStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CreateOutputStreamVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/StreamAllColumnsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/FunctionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ApplicationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SubQueryExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/InsertUserOperatorStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ColumnNameOrderVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SubmitApplicationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/GroupbyClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/IsNullLikeInExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CreateInputStreamVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/OrderbyClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/PartitionByDeterminerVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SortbyDeterminerVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ColumnNameTypeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CaseWhenElseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/StreamPropertiesVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionPreviousVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeSecondsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/DDLStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 20
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ConstantVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionExistsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/NullConditionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CaseHeadExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SourceAliasVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/TriggerbyDeterminerVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RrangeWindowVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/LogicExpressionOrVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionBetweenMaxValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/WhenExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/KeyValuePropertyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/FilterBeforeWindowVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ArithmeticPlusMinusExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SelectAliasVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeBoundVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SelectStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CombineConditionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/MultiInsertVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/FromSourceVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CreateDataSourceVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/WindowDeterminerVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/LimitClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ActiveApplicationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RebalanceApplicationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/InsertStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CaseWhenBodyThenBodyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/WindowSourceVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeMilliSecondsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CaseWhenBodyWhenBodyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CreateFunctionStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/DeactiveApplicationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RowsWindowVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ParallelClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/WhereClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RelationExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/InputSchemaVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/BitExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/GetStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SelectClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeMinutesVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/AddJarStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/StreamBodyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/DatasourceBodyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/JoinSourceVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/FieldExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ColumnNameTypeListVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ClassNameVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/MultiSelectVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CreatePipeStreamVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/EqualRelationExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionInVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/DropApplicationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/LoadStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeWindowVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/FromClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/AtomExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/StreamSourceVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/JoinTokenVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/HavingClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/UsingStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SelectItemVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExplainStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionLikeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionBetweenMinValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/DistributeClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/DropFunctionStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/MultiInsertStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/JoinRightBodyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionWithLaparenVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/BinaryExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ShowFunctionsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExecStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SetStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/OnConditionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionBetweenVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ArithmeticStarExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/OutputSchemaVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/LogicExpressionNotVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ShowApplicationsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeHourVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CaseExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CreateOperatorVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
         },
         {
-            "_sha_id": "1ae25cbdc46525adcde8a3dc6f942f94ff0891b9",
-            "_timestamp": "2018-07-23 18:49:21+08:00",
-            "_commit_index": 3,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "f7a91489f5abe32ca78d904fbd65762b2ad66676",
-            "_timestamp": "2018-07-23 18:50:00+08:00",
-            "_commit_index": 4,
-            "_changed_files_list": []
+            "_sha_id": "fe289d225126af27aee7fb6059b0c2d710257822",
+            "_timestamp": "2018-07-23 17:55:12+08:00",
+            "_commit_index": 1,
+            "_changed_files_list": [
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeTodayVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/LogicExpressionAndVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeDayVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SelectExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CastExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/AddFileStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CreateOutputStreamVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 7
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/StreamAllColumnsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/FunctionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ApplicationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SubQueryExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/InsertUserOperatorStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ColumnNameOrderVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SubmitApplicationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/GroupbyClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/IsNullLikeInExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CreateInputStreamVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/OrderbyClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/PartitionByDeterminerVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SortbyDeterminerVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ColumnNameTypeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CaseWhenElseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/StreamPropertiesVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionPreviousVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeSecondsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/DDLStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 20
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ConstantVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionExistsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/NullConditionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CaseHeadExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SourceAliasVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/TriggerbyDeterminerVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RrangeWindowVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/LogicExpressionOrVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionBetweenMaxValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/WhenExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/KeyValuePropertyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/FilterBeforeWindowVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ArithmeticPlusMinusExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SelectAliasVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeBoundVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SelectStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 8
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CombineConditionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/MultiInsertVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/FromSourceVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CreateDataSourceVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/WindowDeterminerVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/LimitClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ActiveApplicationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RebalanceApplicationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/InsertStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CaseWhenBodyThenBodyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/WindowSourceVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeMilliSecondsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CaseWhenBodyWhenBodyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CreateFunctionStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/DeactiveApplicationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RowsWindowVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ParallelClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/WhereClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RelationExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/InputSchemaVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/BitExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/GetStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SelectClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeMinutesVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/AddJarStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/StreamBodyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/DatasourceBodyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/JoinSourceVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/FieldExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ColumnNameTypeListVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ClassNameVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/MultiSelectVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CreatePipeStreamVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/EqualRelationExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionInVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/DropApplicationVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/LoadStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeWindowVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/FromClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/AtomExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 9
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/StreamSourceVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/JoinTokenVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 6
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/HavingClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/UsingStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SelectItemVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExplainStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionLikeVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionBetweenMinValueVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/DistributeClauseVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/DropFunctionStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/MultiInsertStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/JoinRightBodyVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionWithLaparenVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/BinaryExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ShowFunctionsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExecStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/SetStatementVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/OnConditionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ExpressionBetweenVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 3
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ArithmeticStarExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/OutputSchemaVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/LogicExpressionNotVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/ShowApplicationsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/RangeHourVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CaseExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "streamsuite/src/main/java/com/huawei/streaming/cql/semanticanalyzer/parser/visitor/CreateOperatorVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 5
+                }
+            ]
         },
         {
             "_sha_id": "fec90db846cf829fd1d608fe628cfa7b896b5dc4",

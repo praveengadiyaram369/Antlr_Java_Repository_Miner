@@ -16,46 +16,106 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
-            "_timestamp": "2016-01-15 11:11:53+01:00",
-            "_commit_index": 5144,
+            "_sha_id": "f5712b67141671a28006abf9882c8b1bd93bee4a",
+            "_timestamp": "2017-11-06 17:43:44+01:00",
+            "_commit_index": 7716,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sql-parser/src/main/java/io/crate/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "sql-parser/src/main/java/io/crate/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 148
+                }
+            ]
+        },
+        {
+            "_sha_id": "228f845542ef2311fe70057b460e27b4035ddee2",
+            "_timestamp": "2017-02-06 21:07:26+01:00",
+            "_commit_index": 6430,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sql-parser/src/main/java/io/crate/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "sql-parser/src/main/java/io/crate/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 128
+                }
+            ]
+        },
+        {
+            "_sha_id": "f0ce0f210d71d62f1dc8dbd82277eb3dc202144a",
+            "_timestamp": "2016-08-30 13:33:01+02:00",
+            "_commit_index": 5787,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
-            "_timestamp": "2016-01-15 11:11:53+01:00",
-            "_commit_index": 5144,
+            "_sha_id": "d8ee4b204e634f6998676ac1c7440341cd532d1e",
+            "_timestamp": "2016-11-07 14:35:42+01:00",
+            "_commit_index": 6108,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
-            "_timestamp": "2016-01-15 11:11:53+01:00",
-            "_commit_index": 5144,
+            "_sha_id": "45046c9225d047edcb951bab7b1d902f9c47b364",
+            "_timestamp": "2016-12-12 12:33:54+01:00",
+            "_commit_index": 6269,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
-            "_timestamp": "2016-01-15 11:11:53+01:00",
-            "_commit_index": 5144,
-            "_changed_files_list": []
+            "_sha_id": "8e2ffa658bfbd6195043e5a8f8f9cfc12a5c5898",
+            "_timestamp": "2017-01-17 22:31:53+01:00",
+            "_commit_index": 6349,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sql-parser/src/main/java/io/crate/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "sql-parser/src/main/java/io/crate/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 134
+                }
+            ]
         },
         {
-            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
-            "_timestamp": "2016-01-15 11:11:53+01:00",
-            "_commit_index": 5144,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
-            "_timestamp": "2016-01-15 11:11:53+01:00",
-            "_commit_index": 5144,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "214a7c6516a4af55e5f74b2b6e79961d796fe68a",
-            "_timestamp": "2016-01-15 11:11:53+01:00",
-            "_commit_index": 5144,
-            "_changed_files_list": []
+            "_sha_id": "6e19bd5470a5d717953bb96e1c4d758e57b72566",
+            "_timestamp": "2017-01-04 11:12:20+01:00",
+            "_commit_index": 6309,
+            "_changed_files_list": [
+                {
+                    "_file_name": "sql-parser/src/main/java/io/crate/sql/parser/SqlParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 6,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "sql-parser/src/main/java/io/crate/sql/parser/AstBuilder.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 134
+                }
+            ]
         },
         {
             "_sha_id": "38bf0c03083dd74bf0bad7beba4a784ff056acfe",

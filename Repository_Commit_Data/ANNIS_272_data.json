@@ -13,49 +13,81 @@
             "_sha_id": "40b24d6168e29d21c2d1922357502cab7d2abb23",
             "_timestamp": "2013-08-16 15:37:49+02:00",
             "_commit_index": 3754,
+            "_changed_files_list": [
+                {
+                    "_file_name": "annis-visualizers/src/main/java/annis/visualizers/htmlvis/VisParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "ad98fe51655bb5908628f2931278a420ea972d34",
+            "_timestamp": "2012-08-06 12:06:15+02:00",
+            "_commit_index": 1877,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0b47a346b786623d86e32ad97a37eab2a4801fc1",
-            "_timestamp": "2015-08-20 11:28:36+02:00",
-            "_commit_index": 5631,
+            "_sha_id": "f2bfbb29bdb06c27d665470e60960905bb8bdd55",
+            "_timestamp": "2013-02-19 18:15:23+01:00",
+            "_commit_index": 2815,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "fb6c002a4520bb6cc3c15ed6038bb8cb2fac8439",
-            "_timestamp": "2016-11-07 15:46:12+01:00",
-            "_commit_index": 6569,
+            "_sha_id": "26819f72943a26310060e169686e346b21701108",
+            "_timestamp": "2013-05-23 14:06:44+02:00",
+            "_commit_index": 3284,
+            "_changed_files_list": [
+                {
+                    "_file_name": "annis-visualizers/src/main/java/annis/visualizers/htmlvis/VisParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "b89d9e21800b70c62a0218be1c83a103968c9dcd",
+            "_timestamp": "2013-04-02 21:03:10+02:00",
+            "_commit_index": 3049,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4c7a28c9c016bbfef1a1d80cac037f585d2a587e",
-            "_timestamp": "2018-11-26 21:48:55+01:00",
-            "_commit_index": 7038,
+            "_sha_id": "8fe35b875ed9c682ee3e3d0fc1738f5277cd9eaf",
+            "_timestamp": "2013-05-02 16:10:44+02:00",
+            "_commit_index": 3166,
+            "_changed_files_list": [
+                {
+                    "_file_name": "annis-visualizers/src/main/java/annis/visualizers/htmlvis/VisParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "e081385c79a26d53be3636c4bb3a251b75806803",
+            "_timestamp": "2013-04-23 18:54:12+02:00",
+            "_commit_index": 3107,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9095d24948c8041c6d093b5c06d7af7342fb708a",
-            "_timestamp": "2019-05-18 14:27:44+02:00",
-            "_commit_index": 7273,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d6c2fb3ed620e218a54ea5e710fb66f83000805a",
-            "_timestamp": "2019-08-15 16:12:11+02:00",
-            "_commit_index": 7390,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "aaed9dd8483abe2369238b196546620186d51e6d",
-            "_timestamp": "2019-11-18 14:37:38+01:00",
-            "_commit_index": 7449,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "736dc6fd2a556044343a567e517d38d865c7897c",
-            "_timestamp": "2019-11-22 18:23:56+01:00",
-            "_commit_index": 7478,
-            "_changed_files_list": []
+            "_sha_id": "76dbf02aefb168d49150d065ab018ecd1d756d5b",
+            "_timestamp": "2013-04-29 11:10:55+02:00",
+            "_commit_index": 3136,
+            "_changed_files_list": [
+                {
+                    "_file_name": "annis-visualizers/src/main/java/annis/visualizers/htmlvis/VisParser.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 12,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "754411a178cc507a3194b7de063f16d169161b04",

@@ -13,73 +13,65 @@
             "_sha_id": "5490a214ccde06653766cf715af7dbed60e25dff",
             "_timestamp": "2017-09-25 17:25:44-05:00",
             "_commit_index": 246,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "571f310bf1773807276f48344c69b6e914b1decf",
-            "_timestamp": "2018-03-08 19:44:43-06:00",
-            "_commit_index": 369,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "cf82419bdec01a7cc168fcf69c452b0356fbfd20",
-            "_timestamp": "2018-12-29 16:16:54-06:00",
-            "_commit_index": 431,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/com/defano/hypertalk/HyperTalkTreeVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 459
+                    "_visit_cnt": 400
                 }
             ]
         },
         {
-            "_sha_id": "ec4eb155697b3c68cadfc8dba29721ddb5621b1c",
-            "_timestamp": "2018-04-13 20:19:49-05:00",
-            "_commit_index": 400,
+            "_sha_id": "39a18d32bf4753447ad5f5b2d19bef557540b548",
+            "_timestamp": "2017-02-19 15:15:45-06:00",
+            "_commit_index": 123,
             "_changed_files_list": [
                 {
                     "_file_name": "src/main/java/com/defano/hypertalk/HyperTalkTreeVisitor.java",
                     "_is_antlr_file": true,
                     "_enter_cnt": 0,
                     "_exit_cnt": 0,
-                    "_visit_cnt": 423
+                    "_visit_cnt": 229
                 }
             ]
         },
         {
-            "_sha_id": "5ff65e893809aafb8b30726c38847e34440d39ff",
-            "_timestamp": "2018-03-11 10:58:52-05:00",
-            "_commit_index": 384,
+            "_sha_id": "138c6e0ecde0b43bb6a294353065f4ebadc1a6ac",
+            "_timestamp": "2017-01-03 17:26:08-06:00",
+            "_commit_index": 61,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "4d84cf903e0bba5be7f20d3724e25bbf41d5859b",
-            "_timestamp": "2018-03-17 15:18:44-05:00",
-            "_commit_index": 392,
+            "_sha_id": "63d08a4e6aace5176c46be459af4815e1acd3336",
+            "_timestamp": "2017-02-02 18:49:39-06:00",
+            "_commit_index": 92,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "c2c8dbc1e1266e236cd80de47358d51b8e3db39a",
-            "_timestamp": "2018-03-18 21:01:14-05:00",
-            "_commit_index": 396,
+            "_sha_id": "9f58f0d2766d3b2ccc325d243b0c20a239dddc66",
+            "_timestamp": "2017-02-11 12:57:02-06:00",
+            "_commit_index": 107,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "eee1c851b566cc3e8e237f7b3053b56de50a4421",
-            "_timestamp": "2018-04-10 21:35:49-05:00",
-            "_commit_index": 398,
-            "_changed_files_list": [
-                {
-                    "_file_name": "src/main/java/com/defano/hypertalk/HyperTalkTreeVisitor.java",
-                    "_is_antlr_file": true,
-                    "_enter_cnt": 0,
-                    "_exit_cnt": 0,
-                    "_visit_cnt": 423
-                }
-            ]
+            "_sha_id": "61edfb0ff5b327aa04994c64b531588ed68c1159",
+            "_timestamp": "2017-02-13 21:52:00-06:00",
+            "_commit_index": 115,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "bae325a21fb7e81ebf87750f6694c79150fd7f46",
+            "_timestamp": "2017-02-18 13:10:04-06:00",
+            "_commit_index": 119,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6a5563dda6861b1f7941348c3c87662a9089336e",
+            "_timestamp": "2017-02-19 09:53:48-06:00",
+            "_commit_index": 121,
+            "_changed_files_list": []
         },
         {
             "_sha_id": "5d2e5aef7d964c300c60071dc3b47a1e47851af4",

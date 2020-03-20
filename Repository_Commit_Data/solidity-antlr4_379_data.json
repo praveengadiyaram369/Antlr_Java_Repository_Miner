@@ -10,21 +10,15 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "0b091dd5300987e9452c55d441a94c19d464e0d1",
-            "_timestamp": "2019-01-11 14:19:41-03:00",
-            "_commit_index": 70,
+            "_sha_id": "fbe865f8ba510cbdb1540fcf9517a42820a4d097",
+            "_timestamp": "2019-02-16 15:52:19-03:00",
+            "_commit_index": 72,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "edb732ce16b3b81b1cfa2c9ce8ead865a9ffca49",
-            "_timestamp": "2016-12-27 23:02:56-03:00",
-            "_commit_index": 11,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "1cf62f3c7cc1151195bd0374ae344494f0245daa",
-            "_timestamp": "2019-07-11 17:59:19-03:00",
-            "_commit_index": 78,
+            "_sha_id": "f2b06f1746438b38caf873c3601ef815eeb5a590",
+            "_timestamp": "2017-06-18 13:16:59-03:00",
+            "_commit_index": 45,
             "_changed_files_list": []
         },
         {
@@ -34,27 +28,33 @@
             "_changed_files_list": []
         },
         {
-            "_sha_id": "aa06628adbc99792afb40a6a1f9eac50d8459f74",
-            "_timestamp": "2017-02-08 12:20:05-05:00",
-            "_commit_index": 23,
+            "_sha_id": "747a32d78b6139b268da2deee3142b592471d8a3",
+            "_timestamp": "2016-12-26 22:35:49-03:00",
+            "_commit_index": 4,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "06a9d0ffb3ac66de945e4832db36cc6aa05c9b3c",
-            "_timestamp": "2018-05-21 19:37:05+02:00",
-            "_commit_index": 64,
+            "_sha_id": "abd537dcafdf3b2ffe0d03391c5f3d44741c65eb",
+            "_timestamp": "2018-06-12 03:33:40+02:00",
+            "_commit_index": 66,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "5104eaad96d1842d94281b1eaa883b781b86c202",
-            "_timestamp": "2017-06-15 13:49:42-03:00",
-            "_commit_index": 41,
+            "_sha_id": "6642e66b225e97ad9dff3711ce6e16d54d9a99ee",
+            "_timestamp": "2018-01-05 02:42:36-03:00",
+            "_commit_index": 59,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "fbe865f8ba510cbdb1540fcf9517a42820a4d097",
-            "_timestamp": "2019-02-16 15:52:19-03:00",
-            "_commit_index": 72,
+            "_sha_id": "6646bb5b907f042e1134fc7917ee831d75848701",
+            "_timestamp": "2016-12-28 03:35:23-03:00",
+            "_commit_index": 14,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "83ec66d84e6bc1257652089973ac362f7c4272c9",
+            "_timestamp": "2016-12-27 22:42:23-03:00",
+            "_commit_index": 10,
             "_changed_files_list": []
         },
         {

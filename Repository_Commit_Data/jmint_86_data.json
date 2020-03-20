@@ -19,43 +19,187 @@
             "_sha_id": "73eccdc19b60d6b37ce144c0edd131f166488a03",
             "_timestamp": "2016-07-17 19:37:12+06:00",
             "_commit_index": 41,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/GenericTypeSearchVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/PureTypeNameComposingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/BodyComposingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/CutpointAssembler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/DropletAssembler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "3cc631dca05de98a07b23c16c73234612a4ec1a6",
+            "_timestamp": "2016-07-08 23:48:43+06:00",
+            "_commit_index": 34,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/GenericTypeSearchVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/PureTypeNameComposingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/BodyComposingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/CutpointAssembler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/DropletAssembler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "d9d5eaf1ef0503deb950ccf9511215b251c2856e",
+            "_timestamp": "2016-07-08 00:43:24+06:00",
+            "_commit_index": 30,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/GenericTypeSearchVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/PureTypeNameComposingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/BodyComposingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/CutpointAssembler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/DropletAssembler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "8cc108584dc339a96ce67e915fd879280cca04d6",
+            "_timestamp": "2016-07-06 23:15:08+06:00",
+            "_commit_index": 28,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "bad9f988840d6b39be296e9488ddec1327510f0c",
-            "_timestamp": "2016-08-20 23:29:08+07:00",
-            "_commit_index": 48,
+            "_sha_id": "aae551bad880d129e14f7baf8c32f4b8bcb092f7",
+            "_timestamp": "2016-07-07 00:40:10+06:00",
+            "_commit_index": 29,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "b41806f0c56b8ff2afc9c3cbdb92c634decb252b",
-            "_timestamp": "2016-09-08 10:01:56+07:00",
-            "_commit_index": 51,
+            "_sha_id": "54801f63d3cf39951efda4c1986433cd3a3df936",
+            "_timestamp": "2016-06-02 00:59:18+06:00",
+            "_commit_index": 18,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "fc225bd494304cbb7cceb10904d2a4a331f9db53",
-            "_timestamp": "2016-09-20 23:39:16+07:00",
-            "_commit_index": 53,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "ec25834b6cddbc0cc8d34536d29d5de4c987cf77",
-            "_timestamp": "2016-09-24 23:58:56+07:00",
-            "_commit_index": 54,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "cadbf80e4d6cc8f062cfadf7daa4dde1ce1571d6",
-            "_timestamp": "2016-06-04 00:28:57+06:00",
-            "_commit_index": 22,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "5b6860a03bed9f862e159c3a27815894439b93ac",
-            "_timestamp": "2016-07-08 22:58:22+06:00",
-            "_commit_index": 33,
-            "_changed_files_list": []
+            "_sha_id": "85c249ab0b5af296e70fdeeb65dabd363b83fbab",
+            "_timestamp": "2016-07-31 00:39:16+07:00",
+            "_commit_index": 47,
+            "_changed_files_list": [
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/GenericTypeSearchVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 2
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/PureTypeNameComposingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 4
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/BodyComposingVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/CutpointAssembler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 1,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 0
+                },
+                {
+                    "_file_name": "src/main/java/tech/toparvion/jmint/lang/DropletAssembler.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 11,
+                    "_exit_cnt": 3,
+                    "_visit_cnt": 0
+                }
+            ]
         },
         {
             "_sha_id": "0f90a486ecbe9e3846b94d13a97b1f5a82586384",

@@ -19,42 +19,58 @@
             "_sha_id": "c19018bce8d43e623d9c0c12163c9e74f35a54dd",
             "_timestamp": "2018-10-04 14:26:11+03:00",
             "_commit_index": 326,
+            "_changed_files_list": [
+                {
+                    "_file_name": "istio-model/src/main/java/me/snowdrop/istio/api/cexl/parser/CEXLTypeResolver.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "e0765e7427b8d7552b1201ba988244da23787923",
+            "_timestamp": "2018-09-12 23:51:27+02:00",
+            "_commit_index": 271,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "ed09de106a0886f3da6ac00575d03c0e2c8101f4",
-            "_timestamp": "2019-04-05 22:44:03+02:00",
-            "_commit_index": 380,
+            "_sha_id": "5bf4e6521568fe742a306ab02e3071e25d6ecd87",
+            "_timestamp": "2018-09-18 21:33:57+02:00",
+            "_commit_index": 298,
+            "_changed_files_list": [
+                {
+                    "_file_name": "istio-model/src/main/java/me/snowdrop/istio/api/cexl/parser/CEXLTypeResolver.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 1,
+                    "_visit_cnt": 0
+                }
+            ]
+        },
+        {
+            "_sha_id": "ecc5bd1111aade905b44c63cfb15d44f338fb41d",
+            "_timestamp": "2018-09-13 18:22:36+02:00",
+            "_commit_index": 284,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "ccb7ca9a39a0fb3536fbc753e88ade517ee7eacf",
-            "_timestamp": "2019-05-10 19:26:57+02:00",
-            "_commit_index": 407,
+            "_sha_id": "ce2ec1b0407df1207ec6b357e1d97ffc5afd5748",
+            "_timestamp": "2018-09-14 15:56:39+02:00",
+            "_commit_index": 291,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "2f9c0435a9a67d3f058edb8c92eb02d9df8f7413",
-            "_timestamp": "2019-11-12 16:08:39+01:00",
-            "_commit_index": 421,
+            "_sha_id": "32d8f8d52c97d2d363414a2e45d02b97f6a75279",
+            "_timestamp": "2018-09-14 18:32:07+02:00",
+            "_commit_index": 294,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "52c05a622e24eaa509a732c1f1bb7c09d0bef732",
-            "_timestamp": "2019-11-14 00:05:21+01:00",
-            "_commit_index": 428,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "2ddead532ddab95a95a208718e0b9ad06ad7f69d",
-            "_timestamp": "2019-11-14 00:17:12+01:00",
-            "_commit_index": 431,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4a96abc085968bfb89c67b217524ffd88d7042c3",
-            "_timestamp": "2019-11-14 09:46:35+01:00",
-            "_commit_index": 433,
+            "_sha_id": "0385e378be4eb554445c5231ec2dabc718e674b2",
+            "_timestamp": "2018-09-14 21:29:21+02:00",
+            "_commit_index": 296,
             "_changed_files_list": []
         },
         {

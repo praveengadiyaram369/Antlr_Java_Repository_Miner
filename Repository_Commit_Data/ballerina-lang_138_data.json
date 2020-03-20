@@ -13,56 +13,64 @@
             "_sha_id": "8c7274d41579731d1bd24ff9821cd6daee5d9cf0",
             "_timestamp": "2018-04-11 23:00:59+05:18",
             "_commit_index": 38377,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d0b1db9e01383dafb98bac0eba2c749b95321d7b",
-            "_timestamp": "2018-12-20 02:42:43+05:18",
-            "_commit_index": 57566,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "65dd95a7f0faa6eb9df0a896a505136c9b47a365",
-            "_timestamp": "2019-07-08 09:53:45+05:18",
-            "_commit_index": 67160,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "60a9f388ee00b48d0728a19645a796120eb7e1e2",
-            "_timestamp": "2019-08-21 11:50:05+05:18",
-            "_commit_index": 71957,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "afc7316c1fcf482eb1381289cbab8d269693c436",
-            "_timestamp": "2019-09-20 14:47:32+05:18",
-            "_commit_index": 74356,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "4fe9263ae1b920c44ec0dcc08bf7cfe0f9c6f1ce",
-            "_timestamp": "2019-11-13 08:54:12+05:18",
-            "_commit_index": 75555,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "d895a3744672255658390006a28c7c4c02ffb95f",
-            "_timestamp": "2019-12-04 08:21:36+05:18",
-            "_commit_index": 76155,
             "_changed_files_list": [
                 {
                     "_file_name": "compiler/ballerina-lang/src/main/java/org/wso2/ballerinalang/compiler/parser/BLangParserListener.java",
                     "_is_antlr_file": true,
-                    "_enter_cnt": 66,
-                    "_exit_cnt": 210,
+                    "_enter_cnt": 64,
+                    "_exit_cnt": 171,
                     "_visit_cnt": 0
                 }
             ]
         },
         {
-            "_sha_id": "e158a90fe7d66021bbbc726f072fe8ac23502f8d",
-            "_timestamp": "2019-11-25 13:32:19+05:18",
-            "_commit_index": 75855,
+            "_sha_id": "9a679505a651db28d167529a0ca693caf6fd1b77",
+            "_timestamp": "2017-08-12 20:07:05+05:18",
+            "_commit_index": 19188,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "a4a56d6cc41ba8428d0cc8d3f77553a512b0a62f",
+            "_timestamp": "2018-02-02 14:57:05+05:18",
+            "_commit_index": 28782,
+            "_changed_files_list": [
+                {
+                    "_file_name": "compiler/ballerina-lang/src/main/java/org/wso2/ballerinalang/compiler/parser/BLangParserListener.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 86,
+                    "_exit_cnt": 141,
+                    "_visit_cnt": 2
+                }
+            ]
+        },
+        {
+            "_sha_id": "5080315d3f52724c087dd58254f8c5c8c43990e0",
+            "_timestamp": "2017-10-20 16:35:17+05:18",
+            "_commit_index": 23985,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "77d67297ce9de80ef866794b42d386e9add8ee24",
+            "_timestamp": "2017-11-24 10:44:11+05:18",
+            "_commit_index": 26383,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "9f11ed69ff74300ac618c6836fcd894280602954",
+            "_timestamp": "2017-12-22 13:14:50+05:18",
+            "_commit_index": 27582,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "f009c8fda701355412f3684c6341ce5b2e7897b9",
+            "_timestamp": "2018-01-17 15:24:44+05:18",
+            "_commit_index": 28182,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "0713defbf0048196eca8948a404ef55cdefee365",
+            "_timestamp": "2018-01-24 16:27:54+05:18",
+            "_commit_index": 28482,
             "_changed_files_list": []
         },
         {

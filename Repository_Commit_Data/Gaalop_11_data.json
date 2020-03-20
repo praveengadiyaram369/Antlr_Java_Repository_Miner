@@ -37,24 +37,54 @@
             "_sha_id": "882a6a901e040817c52a14f71204f7dc0500ee54",
             "_timestamp": "2017-06-15 11:58:49+02:00",
             "_commit_index": 790,
+            "_changed_files_list": [
+                {
+                    "_file_name": "tba/src/main/java/de/gaalop/tba/cfgImport/optimization/maxima/MaximaVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 12
+                },
+                {
+                    "_file_name": "clucalc/src/main/java/de/gaalop/clucalc/input/CluVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 24
+                }
+            ]
+        },
+        {
+            "_sha_id": "f9cc68c1e04ccdbd6b5e3ee466d714a5a24b40c5",
+            "_timestamp": "2015-12-23 20:46:50+01:00",
+            "_commit_index": 777,
             "_changed_files_list": []
         },
         {
-            "_sha_id": "9a136e8a143536afacf8ff50c23be2af08e6c20f",
-            "_timestamp": "2019-07-09 16:02:33+02:00",
-            "_commit_index": 803,
-            "_changed_files_list": []
+            "_sha_id": "feb15a7dd67a8c7dbbcd5f01bccb1948f0b9d5e7",
+            "_timestamp": "2017-04-21 00:39:18+02:00",
+            "_commit_index": 783,
+            "_changed_files_list": [
+                {
+                    "_file_name": "tba/src/main/java/de/gaalop/tba/cfgImport/optimization/maxima/MaximaVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 10
+                },
+                {
+                    "_file_name": "clucalc/src/main/java/de/gaalop/clucalc/input/CluVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 23
+                }
+            ]
         },
         {
-            "_sha_id": "95b89efc4199ce44535c2c840269aeacc966d84f",
-            "_timestamp": "2019-10-28 19:43:36+01:00",
-            "_commit_index": 809,
-            "_changed_files_list": []
-        },
-        {
-            "_sha_id": "6345699db2544e9346a7dc96cc66a47bea3875b1",
-            "_timestamp": "2019-11-19 11:00:41+01:00",
-            "_commit_index": 812,
+            "_sha_id": "5a613f2fed3a9e353b2743c3999d345c163b387f",
+            "_timestamp": "2017-03-20 19:49:21+01:00",
+            "_commit_index": 780,
             "_changed_files_list": []
         },
         {
