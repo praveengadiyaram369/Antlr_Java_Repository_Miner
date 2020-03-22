@@ -77,7 +77,7 @@ Build instructions -- Tools needed : VScode(any text editor), Jupyter Notebook m
 
     ```
     a) vim perform_commit_analysis.sh
-    b) executable_python_path GitCommitAnalyzer.py #repository_path #input_repo_data.csv #output_repo_data.csv
+    b) executable_python_path GitCommitAnalyzer.py #input_repo_data.csv #output_repo_data.csv
     ```
 
 3) Use below command to execute the python script and mine all the repositories. Logs would be automatically written into analysing_repos_pattern_evolution.log and use '&' at the end to make the script run in background.
@@ -97,9 +97,14 @@ Build instructions -- Tools needed : VScode(any text editor), Jupyter Notebook m
 
 5) Visualize the mined data and Validate the analysis by executing AnalyzingCommitHistories.ipynb on jupyter-notebook.
 
+    ```
+    open AnalyzingCommitHistories.ipynb and Run All cells.
+    ```
+
 # Research Questions:
 
 **RQ1 – How the number of visitors and listener patterns evolve in the development of a project?**
+
 **RQ2 – Do developers switch between visitor and listener patterns?**
 
 # Methodology:
@@ -118,7 +123,7 @@ To get a good understanding how the number of antlr-methods evolves and reduce t
 
 **step 5:** If we still cannot reach 10 analyzed commits, we'll pick few random commits and analyze them, until we reach 10 analyzed commits.
 
-With this methodology we are able to approximate the function of antlr-methods by time for each repository better than using commits with equidistant timestamps or commit-number. As the data is un-structured, we are not sure of how many antlr file would exist at each commit, we cannot store the processed information in Tabular format(.csv). So we have stored the Final Repository data in JSOn format (refer to  final_repo_data.json).
+With this methodology we are able to approximate the function of antlr-methods by time for each repository better than using commits with equidistant timestamps or commit-number. As the data is un-structured, we are not sure of how many antlr file would exist at each commit, we cannot store the processed information in Tabular format(.csv). So we have stored the Final Repository data in JSON format (refer to  final_repo_data.json).
 
 **Notes:** 
 At each step once the commit is analyzed, a list is maintained to keep the details of the commit objects and also only antlr files are being processed which are analyzed from the last commit/HEAD. we are parsing complete file at each processed commit and whole file complexity is saved, not just the change.
@@ -133,3 +138,12 @@ At each step once the commit is analyzed, a list is maintained to keep the detai
 **RQ2 – Do developers switch between visitor and listener patterns?**
 
 <img src="results/repo_pattern_piechart.png">
+
+
+# Testing:
+
+1) Execute Test_GitAnalyzer.py python script to run unit test cases for the repository "meridor/perspective-backend". This test module is made just to validate results of the Repository Analysis and it is capable to test only one repository at a time. if any other repository needs to tested, then it should be configured properly inside Data_Config_Info/repository_mining_data_sample.csv and also inside Test_GitAnalyzer.py.
+
+    ```
+    executable_python_path Test_GitAnalyzer.py
+    ```

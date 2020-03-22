@@ -34,6 +34,15 @@ class Repository():
     def add_to_commit_history(self, commit_data):
         self._commit_history.append(commit_data)
 
+    def get_repo_name(self):
+        return self._repo_name
+    
+    def get_total_commits(self):
+        return self._total_commits
+
+    def get_commit_history(self):
+        return self._commit_history
+
     def toJson(self):
         return json.dumps(self, default=lambda o: o.__dict__, indent=4)
 
