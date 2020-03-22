@@ -1,0 +1,82 @@
+{
+    "_repo_id": 1,
+    "_repo_name": "IBM/JSONata4Java",
+    "_total_commits": 35,
+    "_commit_history": [
+        {
+            "_sha_id": "06e76c1ef9d16ff06aaf4a0994fda290af6e8a9a",
+            "_timestamp": "2019-02-09 14:28:49-05:00",
+            "_commit_index": 1,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "049ca7604258d59cf95ae6ba6b1e555f086fa370",
+            "_timestamp": "2019-04-18 15:30:04+00:00",
+            "_commit_index": 17,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "2dff791b7d75dc341efe42f439cfc69f81c697d0",
+            "_timestamp": "2019-07-18 11:43:45-04:00",
+            "_commit_index": 25,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "8ae3e6ce1028172516e2a3f261a1f7806f356775",
+            "_timestamp": "2019-08-06 17:03:11-04:00",
+            "_commit_index": 29,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "6bee2a57dda3a83cc9a739bd3d51194f511305de",
+            "_timestamp": "2019-08-26 13:22:03-04:00",
+            "_commit_index": 31,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "5fa907d6d34f7357d1affcf69d5d8bcacb0f8c2c",
+            "_timestamp": "2019-11-06 12:32:31-05:00",
+            "_commit_index": 32,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "d14471c17a26e681e766bce28670090e714c9949",
+            "_timestamp": "2019-12-20 13:02:26-05:00",
+            "_commit_index": 33,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "35ee43695179ec38aebe59578ea96c109d61f7b2",
+            "_timestamp": "2019-05-06 10:01:47-04:00",
+            "_commit_index": 19,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "ca91008255612fb3a195d581be4a3829e32e8928",
+            "_timestamp": "2019-03-01 09:53:42-05:00",
+            "_commit_index": 5,
+            "_changed_files_list": []
+        },
+        {
+            "_sha_id": "97a3a2916757aa167c73b76a7f9ae6fd20dfc6d4",
+            "_timestamp": "2019-12-20 14:27:26-05:00",
+            "_commit_index": 35,
+            "_changed_files_list": [
+                {
+                    "_file_name": "/home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_3/finalproject/repositories/JSONata4Java/src/main/java/com/api/jsonata4java/expressions/ExpressionsVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 37
+                },
+                {
+                    "_file_name": "/home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_3/finalproject/repositories/JSONata4Java/src/main/java/com/api/jsonata4java/expressions/path/PathExpressionVisitor.java",
+                    "_is_antlr_file": true,
+                    "_enter_cnt": 0,
+                    "_exit_cnt": 0,
+                    "_visit_cnt": 1
+                }
+            ]
+        }
+    ]
+}

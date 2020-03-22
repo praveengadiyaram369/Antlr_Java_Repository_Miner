@@ -222,7 +222,7 @@ def get_complexity_project(commit_sha_id, commit_timestamp, repo_path, repo_name
                     visit_cnt = settings.visit_cnt
 
                     commit_data.add_changed_files(
-                        File(os.path.join(subdir, file).replace(repo_path + repo_name + '/', ''), is_antlr_file, enter_cnt, exit_cnt, visit_cnt))
+                        File(os.path.join(subdir, file).replace(repo_path + '/' + repo_name + '/', ''), is_antlr_file, enter_cnt, exit_cnt, visit_cnt))
 
     return commit_data
 
@@ -375,7 +375,7 @@ def walk_repositories(repositories_path, repo_name_list, repo_done_name_list, ou
         # _process the repository only if its not processed earlier
         if repo_name.split('/')[1] not in repo_done_name_list:
 
-            repo_path = repositories_path + repo_name.split('/')[1]
+            repo_path = repositories_path + '/' + repo_name.split('/')[1]
             # _initializing Git Python repository object
             repo = Repo(repo_path)
 
@@ -429,14 +429,22 @@ def walk_repositories(repositories_path, repo_name_list, repo_done_name_list, ou
                         repo_data.add_to_commit_history(commit_data)
 
                 repo_data.add_to_commit_history(project_commit_data)
-
+                
                 # _writing the Repository data object to a json file
-                with open('Repository_Commit_Data/'+repo_name + '_' + str(repo_id) + '_data.json', 'w', encoding='utf-8') as f:
+                if 'sample' not in output_repo_data:
+                    repo_json_filename = 'Repository_Commit_Data/'+repo_name + '_' + str(repo_id) + '_data.json'
+                else:
+                    repo_json_filename = 'tests/'+repo_name + '_' + str(repo_id) + '_data.json'
+
+                with open(repo_json_filename, 'w', encoding='utf-8') as f:
                     f.write(repo_data.toJson())
 
                 # _appending the repo_name to output file - which keeps the track of the processed repository names
                 with open('Data_Config_Info/' + output_repo_data, 'a') as the_file:
                     the_file.write(repo_name + '\n')
+
+                if 'sample' in output_repo_data:
+                    return repo_data.toJson()
 
             else:
                 print('Could not load repository at {} :('.format(repo_path))
@@ -454,20 +462,20 @@ def process_repositories(repositories_path, input_repo_data, output_repo_data):
     repo_name_list = get_all_repo_names(input_repo_data)
 
     # _walk through all the repositories
-    walk_repositories(repositories_path, repo_name_list,
+    repo_data = walk_repositories(repositories_path, repo_name_list,
                       repo_done_name_list, output_repo_data)
+    return repo_data
 
 
 if __name__ == "__main__":
     """[main method -- starting point of this program/project]
-        command line arguments usage: executable_python_path GitCommitAnalyzer.py #repository_path #input_repo_data.csv #output_repo_data.csv
+        command line arguments usage: executable_python_path GitCommitAnalyzer.py #input_repo_data.csv #output_repo_data.csv
 
-          #repository_path - Absolute path of the folder where all repositries cloned(using absolute path here, as data is partitioned in other disk, not reachable by relative path).
           #input_repo_data.csv - Name of the csv file which contains repository info
           #output_repo_data.csv - Name of the txt which will be updated once a repo is processed/mined.
 
-        Example;-
-        # /home/praveen/anaconda3/bin/python /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_3/finalproject/GitCommitAnalyzer.py /home/praveen/Documents/web_and_data_science/semester_1/mining_software_repositories/assignment_2/project/repositories/ repository_mining_data_sample.csv repo_names_done_sample.txt
+        Example:- 
+        # /home/praveen/anaconda3/bin/python GitCommitAnalyzer.py repository_mining_data_sample.csv repo_names_done_sample.txt
 
     """
 
@@ -476,9 +484,9 @@ if __name__ == "__main__":
     logging.info(
         f'Starting Analysing Java Repositories for evolution of antlr4 patterns...')
 
-    repo_path = sys.argv[1]
-    input_repo_data = sys.argv[2]
-    output_repo_data = sys.argv[3]
+    repo_path = os.path.abspath("repositories/")
+    input_repo_data = sys.argv[1]
+    output_repo_data = sys.argv[2]
 
     # _start porcessing the repositories
     process_repositories(
