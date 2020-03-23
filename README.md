@@ -101,6 +101,14 @@ Build instructions -- Tools needed : VScode(any text editor), Jupyter Notebook m
     open AnalyzingCommitHistories.ipynb and Run All cells.
     ```
 
+# Testing:
+
+1) Execute Test_GitAnalyzer.py python script to run unit test cases for the repository "meridor/perspective-backend". This test module is made just to validate results of the Repository Analysis and it is capable to test only one repository at a time. if any other repository needs to tested, then it should be configured properly inside Data_Config_Info/repository_mining_data_sample.csv and also inside Test_GitAnalyzer.py.
+
+    ```
+    executable_python_path Test_GitAnalyzer.py
+    ```
+
 # Research Questions:
 
 **RQ1 – How the number of visitors and listener patterns evolve in the development of a project?**
@@ -125,7 +133,7 @@ To get a good understanding how the number of antlr-methods evolves and reduce t
 
 With this methodology we are able to approximate the function of antlr-methods by time for each repository better than using commits with equidistant timestamps or commit-number. As the data is un-structured, we are not sure of how many antlr file would exist at each commit, we cannot store the processed information in Tabular format(.csv). So we have stored the Final Repository data in JSON format (refer to  final_repo_data.json).
 
-**Notes:** 
+**Note:** 
 At each step once the commit is analyzed, a list is maintained to keep the details of the commit objects and also only antlr files are being processed which are analyzed from the last commit/HEAD. we are parsing complete file at each processed commit and whole file complexity is saved, not just the change.
 
 
@@ -133,17 +141,18 @@ At each step once the commit is analyzed, a list is maintained to keep the detai
 
 **RQ1 – How the number of visitors and listener patterns evolve in the development of a project?**
 
+We plotted average complexity  vs linear commit distribution, to analyze the growth the antlr complexity during the commits. As we can see from Fig 1, there is huge increase in the complexity from commit 7 and commit 10 for both listener and visitor. As the commits are not equi-distant and also all repositories commit data is different from each other,  we tried to get all repositories on common base. we considered to analyze repository commits based on time difference. So we splitted the time difference between first and last commit to ten portions and noted the maximum complexity at one portion for each commit of a repository. As we can see from the second subplot of Fig 2, there is significant increase in addtion of new antlr methods at the last 20% of the development time and also there is a notable drop after 20% and 70% of the development time. we cannot consider the first 10% development time, as it the starting period of the project development. 
+
+<div style="text-align: center"> <H3>Fig:  1</H3> </div>
 <img src="results/avg_commit_comp_linegraph.png">
+
+<div style="text-align: center"> <H3>Fig:  2</H3> </div>
+<img src="results/antlr_method_cnts_bargraph.png">
 
 **RQ2 – Do developers switch between visitor and listener patterns?**
 
+We tried find repositories where there is an antlr pattern switch based on complexities after commit 1 and commit 10, but we didn't find any repository which has different antlr patterns at the beginning and end. Please refer to AnalyzingCommitHistories.ipynb notebook for the analysis. We have observed that the percentage of the repositories with having both listener and listener and only visitor has increased over the time. However from Fig 3,  repositories implementing only Listener pattern are the highest implemented pattern after commit 1, 5, 10.
+
+
+<div style="text-align: center"> <H3>Fig:  3</H3> </div>
 <img src="results/repo_pattern_piechart.png">
-
-
-# Testing:
-
-1) Execute Test_GitAnalyzer.py python script to run unit test cases for the repository "meridor/perspective-backend". This test module is made just to validate results of the Repository Analysis and it is capable to test only one repository at a time. if any other repository needs to tested, then it should be configured properly inside Data_Config_Info/repository_mining_data_sample.csv and also inside Test_GitAnalyzer.py.
-
-    ```
-    executable_python_path Test_GitAnalyzer.py
-    ```
