@@ -11,3 +11,8 @@ Commit_Data/*
 Data_Config_Info/*
 repositories/*
 !repositories/clone_repositories.sh
+results/*
+!results/Riverside-Software_sonar-openedge.png
+!results/avg_commit_comp_linegraph.png
+!results/antlr_method_cnts_bargraph.png
+!results/repo_pattern_piechart.png

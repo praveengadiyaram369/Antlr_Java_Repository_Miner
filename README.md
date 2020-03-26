@@ -137,6 +137,21 @@ With this methodology we are able to approximate the function of antlr-methods b
 At each step once the commit is analyzed, a list is maintained to keep the details of the commit objects and also only antlr files are being processed which are analyzed from the last commit/HEAD. we are parsing complete file at each processed commit and whole file complexity is saved, not just the change.
 
 
+# Data-Preprocessing:
+
+Total No. of repositories processed: 438
+
+**Step 1:** Filtering the repositories which has less than 10 commits. Almost 6% of the repositories are removed from the processed list, so the final No. of repositories is 411, which have more than 10 commits.
+
+**Step 2:** Filtering the repositories which has no antlr pattern usage i.e, complexity is zero. Almost 36% of the repositories are removed from the processed list, so the final No. of repositories is 264, which have antlr complexity greater than 0.
+
+Total No. of repositories used for analysis: 264
+
+
+# Sample Antlr Project Development
+
+<img src="results/Riverside-Software_sonar-openedge.png">
+
 # Findings:
 
 **RQ1 – How the number of visitors and listener patterns evolve in the development of a project?**
@@ -151,7 +166,7 @@ We plotted average complexity  vs linear commit distribution, to analyze the gro
 
 **RQ2 – Do developers switch between visitor and listener patterns?**
 
-We tried find repositories where there is an antlr pattern switch based on complexities after commit 1 and commit 10. Every repository is assigned as either Listener or Visitor based on their complexity. If the complexity of listener is higher than the visitor in a repository, then it is assigned to Listener and vice-versa. Repeat the same assignment based on the complexity after the last commit aswell and compare if there is switch in patterns(L -> V/ V -> L). From the analysis, we didn't find any repository which has different antlr patterns at the beginning and end. Please refer to AnalyzingCommitHistories.ipynb notebook for the analysis. As there are very few repositories which has antlr pattern assigned after first commit, we cannot deduce any solid understanding here. So, we tried to find the count of repositories which has no pattern assigned in the beginning, but had a Vistor/Listener pattern at the end. We found that 117 and 115 repositories have no antlr pattern in the first commit, but are using listener and vistor pattern at the end respectively.  We also observed that the percentage of the repositories with having both visitor and listener and only visitor has increased over the time. However from Fig 3,  repositories implementing only Listener pattern are the highest implemented pattern after commit 1, 5, 10.
+We tried find repositories where there is an antlr pattern switch based on complexities after commit 1 and commit 10. Every repository is assigned as either Listener or Visitor based on their complexity. If the complexity of listener is higher than the visitor in a repository, then it is assigned to Listener and vice-versa. Repeat the same assignment based on the complexity after the last commit aswell and compare if there is switch in patterns(L -> V/ V -> L). From the analysis, we didn't find any repository which has different antlr patterns at the beginning and end. Please refer to AnalyzingCommitHistories.ipynb notebook for the analysis. As there are very few repositories which has antlr pattern assigned after first commit, we cannot deduce any solid understanding here. So, we tried to find the count of repositories which has no pattern assigned in the beginning, but had a Vistor/Listener pattern at the end. We found that almost 88% of the respoitories(232) does not have no antlr pattern after the first commit, but after the last commit there are 117 repositories using listener pattern and 115 repositories using vistor pattern.  We also observed that the percentage of the repositories with having both visitor and listener and only visitor has increased over the time. However from Fig 3,  repositories implementing only Listener pattern are the highest implemented pattern after commit 1, 5, 10.
 
 
 <div style="text-align: center"> <H3>Fig:  3</H3> </div>
